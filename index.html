@@ -97,7 +97,7 @@
         elem.style.width = procent + '%';
         elem.innerHTML = processedCountries + "/" + numberOfCountries;
         if (processedCountries >= numberOfCountries) {
-            numberOfPlaces = 10;//allPlacesId.length;
+            numberOfPlaces = allPlacesId.length;
             elem.className = "progress-bar bg-success";
             getPlaces(processedPlaces);
         }
