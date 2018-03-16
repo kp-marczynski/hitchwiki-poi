@@ -196,12 +196,12 @@
 
         var filename = "world.kml";
         var pom = document.createElement('a');
-        var bb = new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'application/octet-stream'});
+        var bb = new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'application/vnd.google-earth.kml+xml'});
 
         pom.setAttribute('href', window.URL.createObjectURL(bb));
         pom.setAttribute('download', filename);
 
-        pom.dataset.downloadurl = ['application/octet-stream', pom.download, pom.href].join(':');
+        pom.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', pom.download, pom.href].join(':');
         pom.draggable = true;
         pom.classList.add('dragout');
 
