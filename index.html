@@ -9,7 +9,6 @@
     <link rel="bookmark icon" href="https://github.com/kp-marczynski/hitchwiki-poi/blob/master/favicon.png?raw=true"
           type="image/png"/>
 
-
     <title>Generate hitchwiki POI</title>
 
     <!-- Bootstrap core CSS -->
@@ -20,7 +19,6 @@
     <link href="https://getbootstrap.com/docs/4.0/examples/floating-labels/floating-labels.css" rel="stylesheet">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 </head>
 
 <body>
@@ -191,7 +189,7 @@
         for (var country in countries) {
             var countryDescriptionUrl = baseUrl + "format=json&country=" + countries[country].iso;
 
-            getJsonP(countryDescriptionUrl, httpGetCountries);//httpGetCountries(countryDescriptionUrl, countries[country].name);
+            getJsonP(countryDescriptionUrl, httpGetCountries);
         }
     }
 
@@ -201,7 +199,6 @@
 
         for (i = startIndex; i < endIndex; i++) {
             var url = baseUrl + "format=kml&place=" + allPlacesId[i];
-//            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
             httpGetJson(getProxy(url), httpGetPlaces);
         }
     }
@@ -220,13 +217,10 @@
         } else if (!isAlreadyClicked) {
             var placesUrl = "https://raw.githubusercontent.com/kp-marczynski/hitchwiki-poi/master/all_places_id.json";
             var url = "https://raw.githubusercontent.com/kp-marczynski/hitchwiki-poi/master/world.kml";
-//            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
             isAlreadyClicked = true;
 
             httpGetJson(getProxy(placesUrl), setKnownPlaces);
             httpGetJson(getProxy(url), setKnownKml);
-//            kmlTemplate = getKmlTemplate();
-//            getCountries();
         }
     }
 
