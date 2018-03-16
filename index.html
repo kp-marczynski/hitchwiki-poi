@@ -100,6 +100,7 @@
         if (processedCountries >= numberOfCountries) {
             numberOfPlaces = allPlacesId.length;
             elem.className = "progress-bar bg-success";
+            elem.style.backgroundColor = "green";
             getPlaces(processedPlaces);
         }
 
@@ -120,7 +121,8 @@
         elem.innerHTML = processedPlaces + "/" + numberOfPlaces;
         if (processedPlaces >= numberOfPlaces) {
             elem.className = "progress-bar bg-success";
-            saveToFile()
+            elem.style.backgroundColor = "green";
+            saveToFile();
         } else if (processedPlaces % indexMod === 0) {
             getPlaces(processedPlaces);
         }
