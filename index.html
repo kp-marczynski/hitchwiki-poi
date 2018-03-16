@@ -6,7 +6,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <link rel="bookmark icon" href="http://hitchwiki.org/maps/favicon.png" type="image/png"/>
+    <link rel="bookmark icon" href="https://hitchwiki.org/maps/favicon.png" type="image/png"/>
 
 
     <title>Generate hitchwiki POI<</title>
@@ -54,7 +54,7 @@
 <script>
 
     var kmlTemplate = null;
-    var baseUrl = "http://hitchwiki.org/maps/api/?who=krispy1396&";
+    var baseUrl = "https://hitchwiki.org/maps/api/?who=krispy1396&";
     var processedPlaces = 0;
     var processedCountries = 0;
     var numberOfCountries = 0;
@@ -151,7 +151,7 @@
     }
 
     function getKmlTemplate() {
-        return parseXml('<kml xmlns="http://earth.google.com/kml/2.2"><Document><Style id="placemark-blue"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style><Style id="placemark-brown"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style><Style id="placemark-green"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style><Style id="placemark-orange"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style><Style id="placemark-pink"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style><Style id="placemark-purple"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle></Style><Style id="placemark-red"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style><Style id="placemark-yellow"><IconStyle><Icon><href>http://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style><name>World</name><visibility>1</visibility></Document></kml>');
+        return parseXml('<kml xmlns="https://earth.google.com/kml/2.2"><Document><Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style><Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style><Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style><Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style><Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style><Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle></Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style><Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style><name>World</name><visibility>1</visibility></Document></kml>');
     }
 
     function addPlacemarkToTemplate(somePLace) {
@@ -178,7 +178,7 @@
         console.log("Start index: " + startIndex + ", End index: " + endIndex);
         for (i = startIndex; i < endIndex; i++) {
             var url = baseUrl + "format=kml&place=" + allPlacesId[i];
-            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
+            var proxy = "https://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
             httpGetJson(proxy, httpGetPlaces);
         }
     }
