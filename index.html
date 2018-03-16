@@ -97,8 +97,9 @@
         elem.style.width = procent + '%';
         elem.innerHTML = processedCountries + "/" + numberOfCountries;
         if (processedCountries >= numberOfCountries) {
-            numberOfPlaces = allPlacesId.length;
-            getPlaces(0);
+            numberOfPlaces = 10;//allPlacesId.length;
+            elem.className = "progress-bar bg-success";
+            getPlaces(processedPlaces);
         }
 
     }
@@ -117,6 +118,7 @@
         elem.style.width = procent + '%';
         elem.innerHTML = processedPlaces + "/" + numberOfPlaces;
         if (processedPlaces >= numberOfPlaces) {
+            elem.className = "progress-bar bg-success";
             saveToFile()
         } else if (processedPlaces % indexMod === 0) {
             getPlaces(processedPlaces);
@@ -194,12 +196,12 @@
 
         var filename = "world.kml";
         var pom = document.createElement('a');
-        var bb = new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'text/plain'});
+        var bb = new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'application/octet-stream'});
 
         pom.setAttribute('href', window.URL.createObjectURL(bb));
         pom.setAttribute('download', filename);
 
-        pom.dataset.downloadurl = ['text/plain', pom.download, pom.href].join(':');
+        pom.dataset.downloadurl = ['application/octet-stream', pom.download, pom.href].join(':');
         pom.draggable = true;
         pom.classList.add('dragout');
 
