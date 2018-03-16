@@ -54,7 +54,7 @@
 <script>
 
     var kmlTemplate = null;
-    var baseUrl = "http://hitchwiki.org/maps/api/?who=krispy1396&";
+    var baseUrl = "https://hitchwiki.org/maps/api/?who=krispy1396&";
     var processedPlaces = 0;
     var processedCountries = 0;
     var numberOfCountries = 0;
@@ -178,7 +178,7 @@
         console.log("Start index: " + startIndex + ", End index: " + endIndex);
         for (i = startIndex; i < endIndex; i++) {
             var url = baseUrl + "format=kml&place=" + allPlacesId[i];
-            var proxy = "https://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
+            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
             httpGetJson(proxy, httpGetPlaces);
         }
     }
