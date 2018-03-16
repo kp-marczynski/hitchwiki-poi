@@ -29,7 +29,7 @@
         <img class="mb-4" src="https://cdn.pixabay.com/photo/2016/01/10/22/23/location-1132648_960_720.png" alt=""
              width="72" height="72">
         <h1 class="h2 mb-3 font-weight-normal">Downloading hitchwiki maps POI points as kml file</h1>
-        <p><em>Downloading takes approximately 30 minutes, but it may take longer if you have low bandwidth</em><br>
+        <p><em>Size of the file is approximately 20Mb</em><br>
             Style of points is compatible with Maps.me&trade; app</p>
     </div>
 
@@ -125,7 +125,7 @@
     }
 
     function movePlacessProccessBar() {
-        var procent = Math.floor(processedPlaces / numberOfPlaces * 100);
+        var procent = Math.floor((processedPlaces + knownPlaces.length) / (numberOfPlaces + knownPlaces.length) * 100);
         var elem = document.getElementById("placesBar");
         elem.style.width = procent + '%';
         elem.innerHTML = (processedPlaces + knownPlaces.length) + "/" + (numberOfPlaces + knownPlaces.length);
