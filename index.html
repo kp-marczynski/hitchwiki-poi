@@ -6,7 +6,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <link rel="bookmark icon" href="https://cdn.pixabay.com/photo/2017/06/30/10/56/icon-2457938_960_720.png" type="image/png"/>
+    <link rel="bookmark icon" href="https://cdn.pixabay.com/photo/2017/06/30/10/56/icon-2457938_960_720.png"
+          type="image/png"/>
 
 
     <title>Generate hitchwiki POI</title>
@@ -25,7 +26,8 @@
 <body>
 <div class="form-signin">
     <div class="text-center mb-4">
-        <img class="mb-4" src="https://cdn.pixabay.com/photo/2016/01/10/22/23/location-1132648_960_720.png" alt="" width="72" height="72">
+        <img class="mb-4" src="https://cdn.pixabay.com/photo/2016/01/10/22/23/location-1132648_960_720.png" alt=""
+             width="72" height="72">
         <h1 class="h2 mb-3 font-weight-normal">Downloading hitchwiki maps POI points as kml file</h1>
         <p><em>Downloading takes approximately 30 minutes, but it may take longer if you have low bandwidth</em><br>
             Style of points is compatible with Maps.me&trade; app</p>
@@ -63,6 +65,7 @@
     var allPlacesId = [];
     var numberOfPlaces = 0;
     var indexMod = 1000;
+    var knownPlaces = null;
 
     function httpGetJson(url, callback) {
         var xmlHttp = new XMLHttpRequest();
@@ -90,9 +93,14 @@
 
     function httpGetCountries(data) {
         for (i = 0; i < data.length; ++i) {
-            allPlacesId.push(data[i]["id"]);
+            var id = data[i]["id"];
+            console.log("id:" + id);
+            if (knownPlaces.indexOf(id) === -1) {
+                console.log("unknown id");
+                allPlacesId.push(id);
+            }
         }
-
+        movePlacessProccessBar();
         processedCountries += 1;
         var procent = Math.floor(processedCountries / numberOfCountries * 100);
         var elem = document.getElementById("countriesBar");
@@ -102,7 +110,11 @@
             numberOfPlaces = allPlacesId.length;
             elem.className = "progress-bar bg-success";
             elem.style.backgroundColor = "green";
-            getPlaces(processedPlaces);
+            if (numberOfPlaces === 0) {
+                saveToFile();
+            } else {
+                getPlaces(processedPlaces);
+            }
         }
 
     }
@@ -112,14 +124,17 @@
         return parser.parseFromString(string, "text/xml");
     }
 
+    function movePlacessProccessBar() {
+        var procent = Math.floor(processedPlaces / numberOfPlaces * 100);
+        var elem = document.getElementById("placesBar");
+        elem.style.width = procent + '%';
+        elem.innerHTML = (processedPlaces + knownPlaces.length) + "/" + (numberOfPlaces + knownPlaces.length);
+    }
     function httpGetPlaces(data) {
         addPlacemarkToTemplate(parseXml(data));
         processedPlaces += 1;
         console.log("Downloaded " + processedPlaces + " places out of " + numberOfPlaces);
-        var procent = Math.floor(processedPlaces / numberOfPlaces * 100);
-        var elem = document.getElementById("placesBar");
-        elem.style.width = procent + '%';
-        elem.innerHTML = processedPlaces + "/" + numberOfPlaces;
+        movePlacessProccessBar();
         if (processedPlaces >= numberOfPlaces) {
             elem.className = "progress-bar bg-success";
             elem.style.backgroundColor = "green";
@@ -183,21 +198,40 @@
     function getPlaces(startIndex) {
         var endIndex = (startIndex + indexMod < numberOfPlaces) ? startIndex + indexMod : numberOfPlaces;
         console.log("Start index: " + startIndex + ", End index: " + endIndex);
+
         for (i = startIndex; i < endIndex; i++) {
             var url = baseUrl + "format=kml&place=" + allPlacesId[i];
-            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
-            httpGetJson(proxy, httpGetPlaces);
+//            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
+            httpGetJson(getProxy(url), httpGetPlaces);
         }
     }
 
+    function setKnownPlaces(data) {
+        knownPlaces = JSON.parse(data);
+        console.log(knownPlaces);
+    }
+    function setKnownKml(data) {
+        kmlTemplate = parseXml(data);
+        getCountries();
+    }
     function generatePOI() {
         if (isFileGenerated) {
             saveToFile();
         } else if (!isAlreadyClicked) {
+            var placesUrl = "https://raw.githubusercontent.com/kp-marczynski/hitchwiki-poi/master/all_places_id.json";
+            var url = "https://raw.githubusercontent.com/kp-marczynski/hitchwiki-poi/master/world.kml";
+//            var proxy = "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
             isAlreadyClicked = true;
-            kmlTemplate = getKmlTemplate();
-            getCountries();
+
+            httpGetJson(getProxy(placesUrl), setKnownPlaces);
+            httpGetJson(getProxy(url), setKnownKml);
+//            kmlTemplate = getKmlTemplate();
+//            getCountries();
         }
+    }
+
+    function getProxy(url) {
+        return "http://cors-proxy.htmldriven.com/?url=" + encodeURIComponent(url);
     }
 
     function saveToFile() {
