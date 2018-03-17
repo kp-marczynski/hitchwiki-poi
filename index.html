@@ -35,31 +35,31 @@
 
     <div class="form-label-group">
         <h2 class="h4 mb-3 font-weight-normal">Download preprocessed places</h2>
-        <p><h6><strong>(20 Mb) </strong><em id="knownPlacesUrl"></em></h6></p>
+        <h6><strong>(20 Mb) </strong><em id="knownPlacesUrl"></em></h6>
         <div class="progress">
             <div id="knownPlacesBar" class="progress-bar progress-bar-striped active" role="progressbar"
                  aria-valuenow="60"
-                 aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                 aria-valuemin="0" aria-valuemax="100" style="width:0">
             </div>
         </div>
     </div>
 
     <div class="form-label-group">
         <h2 class="h4 mb-3 font-weight-normal">Download countries progress</h2>
-        <p><h6><strong>(2 Mb) </strong><em id="countriesUrl"></em></h6></p>
+        <h6><strong>(2 Mb) </strong><em id="countriesUrl"></em></h6>
         <div class="progress">
             <div id="countriesBar" class="progress-bar progress-bar-striped active" role="progressbar"
-                 aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                 aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0">
             </div>
         </div>
     </div>
 
     <div class="form-label-group">
         <h2 class="h4 mb-3 font-weight-normal">Download new places progress</h2>
-        <p><h6><em id="placesUrl"></em></h6></p>
+        <h6><em id="placesUrl"></em></h6>
         <div class="progress">
             <div id="placesBar" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40"
-                 aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                 aria-valuemin="0" aria-valuemax="100" style="width:0">
             </div>
         </div>
     </div>
@@ -83,7 +83,7 @@
     /* Core domain functions */
     function generatePOI() {
         var progressBars = document.getElementsByClassName("progress");
-        for (i = 0; i < progressBars.length; ++i) {
+        for (var i = 0; i < progressBars.length; ++i) {
             progressBars[i].className = "progress progress-bar-info progress-bar-striped"
         }
         var elem = document.getElementById("knownPlacesBar");
@@ -138,7 +138,7 @@
         elem.style.width = percent + '%';
         elem.innerHTML = processedCountries + "/" + numberOfCountries;
         document.getElementById("countriesUrl").innerHTML = url;
-        for (i = 0; i < data.length; ++i) {
+        for (var i = 0; i < data.length; ++i) {
             var id = data[i]["id"];
             if (knownPlaces.indexOf(id) === -1) {
                 console.log("Found unknown id:" + id);
@@ -150,7 +150,7 @@
             console.log("All countries info processed");
             elem.className = "progress-bar progress-bar-success";
             numberOfPlaces = allPlacesId.length;
-            movePlacessProccessBar();
+            movePlacesProcessBar();
             if (numberOfPlaces === 0) {
                 saveToFile();
             } else {
@@ -165,7 +165,7 @@
         var endIndex = (startIndex + indexMod < numberOfPlaces) ? startIndex + indexMod : numberOfPlaces;
         console.log("Start index: " + startIndex + ", End index: " + endIndex);
 
-        for (i = startIndex; i < endIndex; i++) {
+        for (var i = startIndex; i < endIndex; i++) {
             var url = baseUrl + "format=kml&place=" + allPlacesId[i];
             document.getElementById("placesUrl").innerHTML = url;
             httpGetJson(getProxy(url), getPlacesCallback);
@@ -176,7 +176,7 @@
         addPlacemarkToTemplate(parseXml(data));
         processedPlaces += 1;
         console.log("Downloaded " + processedPlaces + " places out of " + numberOfPlaces);
-        movePlacessProccessBar();
+        movePlacesProcessBar();
         if (processedPlaces >= numberOfPlaces) {
             console.log("All unknown places processed");
             saveToFile();
@@ -239,7 +239,7 @@
         kmlTemplate.getElementsByTagName("Document")[0].appendChild(somePLace.getElementsByTagName("Placemark")[0]);
     }
 
-    function movePlacessProccessBar() {
+    function movePlacesProcessBar() {
         var percent = 0;
         if (numberOfPlaces > 0) {
             percent = Math.floor(processedPlaces / numberOfPlaces * 100);
@@ -280,7 +280,7 @@
     }
 
     function parseXml(string) {
-        parser = new DOMParser();
+        var parser = new DOMParser();
         return parser.parseFromString(string, "text/xml");
     }
 
