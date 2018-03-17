@@ -83,7 +83,7 @@
     /* Core domain functions */
     function generatePOI() {
         var progressBars = document.getElementsByClassName("progress");
-        for(i=0;i<progressBars.length;++i){
+        for (i = 0; i < progressBars.length; ++i) {
             progressBars[i].className = "progress progress-bar-info progress-bar-striped"
         }
         var elem = document.getElementById("knownPlacesBar");
@@ -141,7 +141,7 @@
         for (i = 0; i < data.length; ++i) {
             var id = data[i]["id"];
             if (knownPlaces.indexOf(id) === -1) {
-                console.log("Found unknown id:"+id);
+                console.log("Found unknown id:" + id);
                 allPlacesId.push(id);
             }
         }
@@ -241,7 +241,7 @@
 
     function movePlacessProccessBar() {
         var percent = 0;
-        if(numberOfPlaces>0){
+        if (numberOfPlaces > 0) {
             percent = Math.floor(processedPlaces / numberOfPlaces * 100);
         }
         else {
@@ -250,7 +250,7 @@
         var elem = document.getElementById("placesBar");
         elem.style.width = percent + '%';
         elem.innerHTML = processedPlaces + "/" + numberOfPlaces;
-        if(percent >= 100){
+        if (percent >= 100) {
             elem.className = "progress-bar progress-bar-success";
         }
     }
@@ -275,10 +275,10 @@
             async: true,
             crossDomain: true
         }).done(function (data) {
-            callback(data,url);
+            callback(data, url);
         });
     }
-    
+
     function parseXml(string) {
         parser = new DOMParser();
         return parser.parseFromString(string, "text/xml");
