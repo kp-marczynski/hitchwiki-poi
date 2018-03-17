@@ -126,7 +126,7 @@
         numberOfCountries = Object.keys(countries).length;
         for (var country in countries) {
             var countryDescriptionUrl = baseUrl + "format=json&country=" + countries[country].iso;
-            httpGetJsonPAndUrl(countryDescriptionUrl, getCountryCallback);
+            httpGetJsonP(countryDescriptionUrl, getCountryCallback);
         }
     }
 
@@ -275,21 +275,10 @@
             async: true,
             crossDomain: true
         }).done(function (data) {
-            callback(data);
-        });
-    }
-
-    function httpGetJsonPAndUrl(url, callback) {
-        $.ajax({
-            type: 'GET',
-            url: url,
-            dataType: 'jsonp',
-            async: true,
-            crossDomain: true
-        }).done(function (data) {
             callback(data,url);
         });
     }
+    
     function parseXml(string) {
         parser = new DOMParser();
         return parser.parseFromString(string, "text/xml");
