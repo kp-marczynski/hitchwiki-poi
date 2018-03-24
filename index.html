@@ -26,8 +26,6 @@
 <div class="form-signin">
     <div class="text-center mb-4">
         <i class="material-icons" style="font-size:72px;">place</i>
-        <!--<img class="mb-4" src="https://github.com/kp-marczynski/hitchwiki-poi/blob/master/gps_icon.png?raw=true" alt=""-->
-             <!--width="72" height="72">-->
         <h1 class="h2 mb-3 font-weight-normal">Downloading hitchwiki maps POI points as kml file</h1>
         <p><em>Size of the file is approximately 20Mb</em><br>
             Style of points is compatible with Maps.me&trade; app</p>
@@ -35,37 +33,39 @@
 
     <button class="btn btn-lg btn-danger btn-block" type="button" onclick="generatePOI()">Download</button>
 
-    <div class="form-label-group">
-        <h2 class="h4 mb-3 font-weight-normal">Download preprocessed places</h2>
-        <h6><strong>(20 Mb) </strong><em id="knownPlacesUrl"></em></h6>
-        <div class="progress">
-            <div id="knownPlacesBar" class="progress-bar progress-bar-striped active" role="progressbar"
-                 aria-valuenow="60"
-                 aria-valuemin="0" aria-valuemax="100" style="width:0">
+    <div id="progressContainer" style="display: none">
+        <div class="form-label-group">
+            <h2 class="h4 mb-3 font-weight-normal">Download preprocessed places</h2>
+            <h6><strong>(20 Mb) </strong><em id="knownPlacesUrl"></em></h6>
+            <div class="progress">
+                <div id="knownPlacesBar" class="progress-bar progress-bar-striped active" role="progressbar"
+                     aria-valuenow="60"
+                     aria-valuemin="0" aria-valuemax="100" style="width:0">
+                </div>
+            </div>
+        </div>
+
+        <div class="form-label-group">
+            <h2 class="h4 mb-3 font-weight-normal">Download countries progress</h2>
+            <h6><em id="countriesUrl"></em></h6>
+            <div class="progress">
+                <div id="countriesBar" class="progress-bar progress-bar-striped active" role="progressbar"
+                     aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0">
+                </div>
+            </div>
+        </div>
+
+        <div class="form-label-group">
+            <h2 class="h4 mb-3 font-weight-normal">Download new places progress</h2>
+            <h6><em id="placesUrl"></em></h6>
+            <div class="progress">
+                <div id="placesBar" class="progress-bar progress-bar-striped active" role="progressbar"
+                     aria-valuenow="40"
+                     aria-valuemin="0" aria-valuemax="100" style="width:0">
+                </div>
             </div>
         </div>
     </div>
-
-    <div class="form-label-group">
-        <h2 class="h4 mb-3 font-weight-normal">Download countries progress</h2>
-        <h6><em id="countriesUrl"></em></h6>
-        <div class="progress">
-            <div id="countriesBar" class="progress-bar progress-bar-striped active" role="progressbar"
-                 aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0">
-            </div>
-        </div>
-    </div>
-
-    <div class="form-label-group">
-        <h2 class="h4 mb-3 font-weight-normal">Download new places progress</h2>
-        <h6><em id="placesUrl"></em></h6>
-        <div class="progress">
-            <div id="placesBar" class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40"
-                 aria-valuemin="0" aria-valuemax="100" style="width:0">
-            </div>
-        </div>
-    </div>
-
 </div>
 <script>
 
@@ -84,6 +84,7 @@
 
     /* Core domain functions */
     function generatePOI() {
+        document.getElementById("progressContainer").style = null;
         var progressBars = document.getElementsByClassName("progress");
         for (var i = 0; i < progressBars.length; ++i) {
             progressBars[i].className = "progress progress-bar-info progress-bar-striped"
