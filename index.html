@@ -74,7 +74,7 @@
             Style of points is compatible with Maps.me&trade; app</p>
     </div>
     <button class="btn btn-lg btn-danger btn-block" type="button" onclick="generatePOI()" data-toggle="modal"
-            data-target="#downloadModal" id="downloadButton"><a id="downloadA"></a>Download
+            data-target="#downloadModal" id="downloadButton">Download
     </button>
 
     <div class="modal fade text-left" id="downloadModal" role="dialog">
@@ -89,7 +89,7 @@
                     </h4>
                 </div>
                 <div class="modal-body">
-                    <div id="progressContainer" style="display: none">
+                    <div id="progressContainer">
                         <div class="form-label-group">
                             <h2 class="h4 mb-3 font-weight-normal">Download preprocessed places</h2>
                             <h6><strong>(20 Mb) </strong><em id="knownPlacesUrl"></em></h6>
@@ -126,7 +126,9 @@
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <a id="downloadReadyButton" class="btn btn-info btn-block" style="display: none">Ready to
+                        download!</a>
+                    <button id="closeProgressModal" type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                 </div>
             </div>
 
@@ -139,8 +141,7 @@
 
     /* Global variables */
     var kmlTemplate = null;
-    var isFileGenerated = false;
-    var isAlreadyClicked = false;
+    var isPoiProccessingAlreadyStarted = false;
     var baseUrl = "https://hitchwiki.org/maps/api/?who=krispy1396&";
     var processedPlaces = 0;
     var processedCountries = 0;
@@ -152,19 +153,16 @@
 
     /* Core domain functions */
     function generatePOI() {
-        document.getElementById("progressContainer").style = null;
         var progressBars = document.getElementsByClassName("progress");
         for (var i = 0; i < progressBars.length; ++i) {
             progressBars[i].className = "progress progress-bar-info progress-bar-striped"
         }
         var elem = document.getElementById("knownPlacesBar");
         elem.style.width = '100%';
-        if (isFileGenerated) {
-            saveToFile();
-        } else if (!isAlreadyClicked) {
+        if (!isPoiProccessingAlreadyStarted) {
             var placesUrl = "https://raw.githubusercontent.com/kp-marczynski/hitchwiki-poi/master/all_places_id.json";
             var url = "https://raw.githubusercontent.com/kp-marczynski/hitchwiki-poi/master/world.kml";
-            isAlreadyClicked = true;
+            isPoiProccessingAlreadyStarted = true;
 
             document.getElementById("knownPlacesUrl").innerHTML = url;
             console.log("Started downloading known places and known kml");
@@ -257,21 +255,23 @@
     }
 
     function saveToFile() {
-        isFileGenerated = true;
         console.log("Saving to file");
 
         var filename = "world.kml";
-        var pom = document.getElementById("downloadA");
+        var downloadReadyButton = document.getElementById("downloadReadyButton");
+        downloadReadyButton.style = null;
         var bb = new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'application/vnd.google-earth.kml+xml'});
 
-        pom.setAttribute('href', window.URL.createObjectURL(bb));
-        pom.setAttribute('download', filename);
+        downloadReadyButton.setAttribute('href', window.URL.createObjectURL(bb));
+        downloadReadyButton.setAttribute('download', filename);
 
-        pom.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', pom.download, pom.href].join(':');
-        pom.draggable = true;
-        pom.classList.add('dragout');
+        downloadReadyButton.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', downloadReadyButton.download, downloadReadyButton.href].join(':');
+        downloadReadyButton.draggable = true;
+        downloadReadyButton.classList.add('dragout');
 
-        pom.click();
+        var closeProgressModal = document.getElementById("closeProgressModal");
+        closeProgressModal.style.display = "none";
+        downloadReadyButton.click();
     }
 
     /* Utils domain functions */
