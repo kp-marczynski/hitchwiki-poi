@@ -262,7 +262,6 @@
 
         var filename = "world.kml";
         var pom = document.getElementById("downloadA");
-        //var pom = document.createElement('a');
         var bb = new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'application/vnd.google-earth.kml+xml'});
 
         pom.setAttribute('href', window.URL.createObjectURL(bb));
