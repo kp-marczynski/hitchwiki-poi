@@ -220,7 +220,7 @@
         document.getElementById("countriesUrl").innerHTML = url;
         for (var i = 0; i < data.length; ++i) {
             var id = data[i]["id"];
-            if (knownPlaces.indexOf(id) === -1) {
+            if (knownPlaces == null || knownPlaces.indexOf(id) === -1) {
                 console.log("Found unknown id:" + id);
                 allPlacesId.push(id);
             }
@@ -356,6 +356,9 @@
     }
 
     function onError(){
+        var elem = document.getElementById("knownPlacesBar");
+        elem.innerHTML = "Can't download preprocessed places"
+        elem.className = "progress-bar progress-bar-danger";
         kmlTemplate = getKmlTemplate();
         knownPlaces = null;
         getCountries();
