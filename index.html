@@ -340,20 +340,26 @@
     /* Helper functions */
     function httpGetJson(url, callback) {
         var xmlHttp = new XMLHttpRequest();
+        xmlHttp.onload = function () {
+            try{
+                var resp = JSON.parse(xmlHttp.responseText);
+                callback(resp["body"]);
+            }
+            catch(err){
+                onError();
+            }
+        };
 
         xmlHttp.open("GET", url, true);
-        xmlHttp.onload = function () {
-            var resp = JSON.parse(xmlHttp.responseText);
-            callback(resp["body"]);
-        };
-        xmlHttp.onerror = function () {
-            kmlTemplate = getKmlTemplate();
-            knownPlaces = null;
-            getCountries();
-        };
+        xmlHttp.onerror = onError;
         xmlHttp.send(null);
     }
 
+    function onError(){
+        kmlTemplate = getKmlTemplate();
+        knownPlaces = null;
+        getCountries();
+    }
     function httpGetJsonP(url, callback) {
         $.ajax({
             type: 'GET',
