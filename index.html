@@ -346,6 +346,11 @@
             var resp = JSON.parse(xmlHttp.responseText);
             callback(resp["body"]);
         };
+        xmlHttp.onerror = function () {
+            kmlTemplate = getKmlTemplate();
+            knownPlaces = null;
+            getCountries();
+        };
         xmlHttp.send(null);
     }
 
