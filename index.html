@@ -357,7 +357,7 @@
 
     function onError(){
         var elem = document.getElementById("knownPlacesBar");
-        elem.innerHTML = "Can't download preprocessed places"
+        elem.innerHTML = "Error while downloading preprocessed places. All places will be downloaded directly from hitchwiki";
         elem.className = "progress-bar progress-bar-danger";
         kmlTemplate = getKmlTemplate();
         knownPlaces = null;
