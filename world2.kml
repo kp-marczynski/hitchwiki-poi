@@ -1,0 +1,8 @@
+<Placemark xmlns="http://www.opengis.net/kml/2.2" id="8802">
+    <name>a Hitchhiking spot in Djelfa Ø§Ù„Ø¬Ù„ÙØ©, Algeria</name>
+    <visibility>1</visibility>
+    <Point>
+        <coordinates>3.2362976074129,34.616349912159</coordinates>
+    </Point>
+    <styleUrl>#placemark-green</styleUrl>
+</Placemark>
