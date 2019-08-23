@@ -153,7 +153,7 @@ export class AppComponent implements OnInit {
   private downloadKmlFromAssets(country: ICountry): Promise<any> {
     return new Promise((resolve, reject) => {
       this.getKmlFromAssets(country).then(kmlString => {
-        this.saveToFile(country.name, kmlString)
+        this.saveToFile(country.name, kmlString);
         resolve();
       });
     });
