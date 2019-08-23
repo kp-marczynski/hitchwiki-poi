@@ -3,6 +3,7 @@ import {HttpClient, HttpResponse} from "@angular/common/http";
 import {Country, ICountry} from "../model/country.model";
 import {PlaceInfo, IPlaceInfo} from "../model/place-info.model";
 import {filter, map} from 'rxjs/operators';
+import {FormBuilder, Validators} from "@angular/forms";
 
 @Component({
   selector: 'app-root',
@@ -10,12 +11,14 @@ import {filter, map} from 'rxjs/operators';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'hitchwiki-poi';
-  corsUrl = '';
   countries: Country[];
   parser = new DOMParser();
 
-  constructor(protected http: HttpClient) {
+  corsForm = this.fb.group({
+    url: [''],
+  });
+
+  constructor(protected http: HttpClient, protected fb: FormBuilder) {
   }
 
   ngOnInit(): void {
@@ -24,9 +27,11 @@ export class AppComponent implements OnInit {
 
   public downloadCountryKmlFile(country: ICountry) {
     if (country.numberOfDownloadedPlaces && country.numberOfDownloadedPlaces === country.numberOfPlaces) {
-      this.saveToFile(country).then();
+      this.prepareKmlString(country).then(kmlString => {
+        this.saveToFile(country.name, kmlString);
+      });
     } else {
-      this.getPlacesInCountry(country).then();
+      this.getPlacesInCountry(country).then().catch(() => this.downloadKmlFromAssets(country));
     }
   }
 
@@ -38,11 +43,19 @@ export class AppComponent implements OnInit {
 
   private getAllCountries() {
     this.http.get(this.getUrl('countries', 'json'), {observe: 'response'}).subscribe(res => {
-      this.countries = [];
-      for (const country in res.body) {
-        this.countries.push(new Country(res.body[country].iso, res.body[country].name, parseInt(res.body[country].places)));
-      }
+      this.populateCountriesArray(res.body);
+    }, () => {
+      this.http.get('assets/countries.json').subscribe(res => {
+        this.populateCountriesArray(res);
+      })
     });
+  }
+
+  private populateCountriesArray(receivedCountries: any) {
+    this.countries = [];
+    for (const country in receivedCountries) {
+      this.countries.push(new Country(receivedCountries[country].iso, receivedCountries[country].name, parseInt(receivedCountries[country].places)));
+    }
   }
 
 
@@ -56,29 +69,37 @@ export class AppComponent implements OnInit {
           country.placesInfo = res;
           country.numberOfDownloadedPlaces = 0;
           // console.log(country);
-          for (const place of country.placesInfo) {
-            this.getPlaceKml(place, 1).then(() => {
+          for (let placeIndex = 0; placeIndex < country.placesInfo.length; ++placeIndex) {
+            this.getPlaceKml(country, placeIndex, 1).then(() => {
               country.numberOfDownloadedPlaces++;
               if (country.numberOfDownloadedPlaces === country.numberOfPlaces) {
-                this.saveToFile(country);
-                resolve();
+                this.prepareKmlString(country).then(kmlString => {
+                  this.saveToFile(country.name, kmlString);
+                  resolve();
+                });
               }
-            })
+            });
           }
-        });
+        }, () => reject());
     });
   }
 
-  private getPlaceKml(place: IPlaceInfo, tryNumber: number): Promise<any> {
-    if (tryNumber > 1) {
-      console.log(tryNumber + ': ' + place.id);
-    }
-    if (tryNumber > 10) {
-      return Promise.reject();
-    }
+  private getPlaceKml(country: ICountry, placeIndex: number, tryNumber: number): Promise<any> {
     return new Promise((resolve, reject) => {
-      this.getPlaceKmlLoop(place).then(() => resolve()).catch(() => this.getPlaceKml(place, tryNumber + 1).then(() => resolve()));
-    })
+      if (placeIndex > country.numberOfDownloadedPlaces + 100) {
+        setTimeout(() => this.getPlaceKml(country, placeIndex, tryNumber).then(() => resolve()), 100);
+      } else {
+        const place = country.placesInfo[placeIndex];
+        if (tryNumber > 1) {
+          console.log(tryNumber + ': ' + place.id);
+        }
+        if (tryNumber > 10) {
+          reject();
+        } else {
+          this.getPlaceKmlLoop(place).then(() => resolve()).catch(() => this.getPlaceKml(country, placeIndex, tryNumber + 1).then(() => resolve()));
+        }
+      }
+    });
   }
 
   private getPlaceKmlLoop(place: IPlaceInfo): Promise<any> {
@@ -99,26 +120,48 @@ export class AppComponent implements OnInit {
   }
 
   private getUrl(resourcePath: string, format: string) {
-    return this.corsUrl + 'https://hitchwiki.org/maps/api/?format=' + format + '&' + resourcePath;
+    let url = 'https://hitchwiki.org/maps/api/?format=' + format + '&' + resourcePath;
+    const corsUrl = this.corsForm.get('url').value;
+    if (corsUrl && corsUrl.trim() != '') {
+      return corsUrl + encodeURIComponent(url);
+    }
+    return url;
   }
 
   private getKmlTemplate(): Promise<string> {
     return this.http.get('assets/kmlTemplate.kml', {responseType: 'text'}).toPromise();
   }
 
-  private saveToFile(country: ICountry): Promise<any> {
+  private getKmlFromAssets(country: ICountry): Promise<string> {
+    return this.http.get('assets/kml/' + country.name + '.kml', {responseType: 'text'}).toPromise();
+  }
+
+  private saveToFile(filename: string, kmlString: string) {
+    // console.log('saving to file');
+    const kmlBlob = new Blob([kmlString], {type: 'application/vnd.google-earth.kml+xml'});
+    const a = document.createElement('a');
+    a.download = filename + '.kml';
+    a.href = window.URL.createObjectURL(kmlBlob);
+    a.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', a.download, a.href].join(':');
+    a.click();
+  }
+
+  private downloadKmlFromAssets(country: ICountry) {
+    this.getKmlFromAssets(country).then(kmlString => this.saveToFile(country.name, kmlString));
+  }
+
+  private prepareKmlString(country: ICountry): Promise<any> {
     return new Promise((resolve, reject) => {
-      // console.log('saving to file');
-      const filename = country.name + ".kml";
-      this.createKmlBlob(country).then(kmlBlob => {
-        const a = document.createElement('a');
-        a.download = filename;
-        a.href = window.URL.createObjectURL(kmlBlob);
-        a.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', a.download, a.href].join(':');
-        a.click();
-        resolve();
-      });
-    });
+        this.getKmlTemplate().then(result => {
+          let kmlTemplate = this.parseXml(result);
+          kmlTemplate.getElementsByTagName("name")[0].childNodes[0].nodeValue = country.name;
+          for (let placeInfo of country.placesInfo) {
+            kmlTemplate.getElementsByTagName("Document")[0].appendChild(placeInfo.kml);
+          }
+          resolve(new XMLSerializer().serializeToString(kmlTemplate));
+        });
+      }
+    )
   }
 
   private createKmlBlob(country: ICountry): Promise<Blob> {

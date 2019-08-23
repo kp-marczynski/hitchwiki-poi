@@ -1,0 +1,141 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Tajikistan</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="6803">
+<name>a Hitchhiking spot in Dushanbe, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Look for a transport to Zarafshon district (there is direct trolleybus from President House). Walk approximately 2 km from Zarafshon roundabout to another smaller roundabout. </p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6803">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>68.7052828073502,38.5833061317952</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6802">
+<name>a Hitchhiking spot in Dushanbe, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From President House take bus 3. Walk a bit further from the last stop.</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6802">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>68.7680947780609,38.6508087160867</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6791">
+<name>a Hitchhiking spot in Istaravshan, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is a parking for trucks. Talk with truck drivers. Direct lifts to Dushanbe, Ayni, Khujand.</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6791">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>69.0016803145409,39.8845304465891</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6777">
+<name>a Hitchhiking spot in Boshkengash, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>take bus#28 from Corvon market till last busstop. here is check point from cars entering the city and speed limit, you can h-hike right after checkpoint</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6777">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>68.7379091978073,38.4630864112417</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6778">
+<name>a Hitchhiking spot in Barnaul, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hard to get here but it's pretty good position right after the tool. Reach bus station "Rechnoy vokzal" then walk across the river till the tall.
+waiting time from minutes to hours</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 39min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6778">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>83.8304042816162,53.3152750411247</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13125">
+<name>a Hitchhiking spot in Murghab, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Follow the road towards China for about 2km from town. Walk past an empty customs terminal to the new one. There will be alot of Chinese trucks in the morning, they stay there for an indefinite time for 'processing'. Some of them will sleep in Murgab, some go to Khorog, some go all the way to Dushanbe. They all leave around a similar time.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 26 Jun 13 07:29:06 +0000">Description written 26.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13125">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.99490475654629,38.18240633377116</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13126">
+<name>a Hitchhiking spot in Dushanbe, Tajikistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>68.52948546409519,39.22559616842329</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16346">
+<name>a Hitchhiking spot in Murghab, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is police checkpoint located. Nice place to spend some time. Police guys will invite you to chat, share some food and let you sleep if you do not want to sleep outside on the wind. Then police guys will ask every passing car to drive you to Khorog. So cool.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Fri, 11 Oct 13 17:42:43 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16346">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.95196818843765,38.13176149370919</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16347">
+<name>a Hitchhiking spot in Khorog, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Taxibus 3 goes here from Botanical Garden through the town via bazaar. Nice place to h-hike few dozens kms to another village to have some fun with locals there. DON NOT REFUSE INVITATIONS! :) Drink some tea, stay at night. It's worth it!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 11 Oct 13 17:48:37 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16347">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>71.510369905201,37.51124321040358</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24629">
+<name>a Hitchhiking spot in Konibodom, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a village right after border. So just walk further any stop any local car towards Konibodom. Locals are very friendly and helpfull.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 24 Nov 15 17:25:17 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24629">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>70.45374586581956,40.359218412831645</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24636">
+<name>a Hitchhiking spot in Dushanbe, Tajikistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Last spot where you can get with public transport of Dushanbe. Either try hitching or use marshrutka to Tursunzade for 0.6 USD.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 24 Nov 15 17:56:13 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24636">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>68.7209724149936,38.58156717404484</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Document>
+</kml>

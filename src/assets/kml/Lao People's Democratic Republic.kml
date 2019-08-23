@@ -1,0 +1,100 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Lao People's Democratic Republic</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="8717">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Towards Luangprabang. Loads of cars and plenty of space to stop, but locals just don't undestand the concept. Tried for 1-2h and took a bus (2011).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 24 Sep 11 11:59:32 +0000">Description written 24.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8717">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.54584499917,18.012809437469</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7277">
+<name>a Hitchhiking spot in HÃ  ÄÃ´ng, Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>105.84940974619,20.963198142208</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8950">
+<name>a Hitchhiking spot in Houayxay, Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I had no problem hitching from here towards Luang Namtha. There is much road work going on along this route. You may well get a ride with some workers. Remember, do not sleep outside. It is illegal!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 05 Nov 11 17:59:48 +0000">Description written 5.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8950">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.41615189379,20.261001272676</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9888">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>102.512109375,18.907280774904</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13622">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>102.5478115081698,18.031735169281017</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13625">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>105.88181877135328,14.090653673469388</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13626">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>105.77480936048758,15.144241486287742</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13705">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just past town. Low traffic, but wait-time reasonable</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 02:51:01 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13705">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.45537185669365,18.911427773572292</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15819">
+<name>a Hitchhiking spot in Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>102.43322753905639,19.44986571016562</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25826">
+<name>a Hitchhiking spot in Attapeu, Lao People's Democratic Republic</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>there is no traffic towards vietnam
+I saw only one truck in 2 hours.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Fri, 20 May 16 17:59:49 +0000">Description written 20.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25826">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.95660914344403,14.835106739809186</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark></Document>
+</kml>

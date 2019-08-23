@@ -1,0 +1,121 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Algeria</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="8801">
+<name>a Hitchhiking spot in Algeria</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>3.265136718741,36.224425683008</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8802">
+<name>a Hitchhiking spot in Djelfa Ø§Ù„Ø¬Ù„ÙØ©, Algeria</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>3.2362976074129,34.616349912159</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8803">
+<name>a Hitchhiking spot in GhardaÃ¯a, Algeria</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>3.707744121544,32.459176143365</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8804">
+<name>a Hitchhiking spot in Tamanghasset, Algeria</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>5.529157161709,22.765047693351</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9303">
+<name>a Hitchhiking spot in Algeria</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>0.44439697265623,34.807130933699</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17482">
+<name>a Hitchhiking spot in Ouargla, Algeria</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>5.5145874023436185,32.602456902717144</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24815">
+<name>a Hitchhiking spot in Marsa Ben M'Hidi, Algeria</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Near the roundabout. Split between traffic from Saidia to Berkane and Oujda. We were heading towards Oujda.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 22 Dec 15 13:23:32 +0000">Description written 22.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24815">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-2.2047672271727174,35.03011529533329</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25693">
+<name>a Hitchhiking spot in Oran, Algeria</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>El Bahia, that's the best place to hitchhike from Oran to everywhere (not for Tlemcen and Ain Temouchent), you just have to stand on the side there with your sign indicating the city you want to go and you'll easily get a ride</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 06 May 16 01:25:36 +0000">Description written 6.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25693">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-0.6086704730987955,35.68270367446554</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25694">
+<name>a Hitchhiking spot in Sidi Bel Abbes, Algeria</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Probably the best place to get a ride to Oran or further, you just have to stand on the side there with your sign and you'll get easily a ride. I was with my friend and we had to wait for 1 minute, there is a lot of cars passing by this road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3min (2 experiences)<br /><span title="Fri, 06 May 16 01:28:48 +0000">Description written 6.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25694">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-0.6120285987853857,35.223176608926494</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27336">
+<name>a Hitchhiking spot in Algeria</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It easy, you just have to stand on the side. I was with two people</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 02 Sep 16 01:32:02 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27336">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-0.9044108390807337,35.6112773754665</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27342">
+<name>a Hitchhiking spot in Mostaganem, Algeria</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good spot to hitchhike. Direction Oran, many cars passing by, coming slowly and have place to stop. you just have to stand on the side there with your sign.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Sep 16 14:01:32 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27342">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>0.0743165016175593,35.91689034549248</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27348">
+<name>a Hitchhiking spot in Algeria</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>take bus #7 to get to the gas station. you can do an sign or you can ask drivers, it's good place for Oran, Sidi Bel Abbes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 03 Sep 16 17:49:48 +0000">Description written 3.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27348">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>0.06515407562244409,35.90319972182664</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

@@ -1,0 +1,57 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Guatemala</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="21332">
+<name>a Hitchhiking spot in Guatemala</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cuatro Caminos is the point for take cars to AtitlÃ¡n Lake or Hueuetenango.
+If you are in Xela, just 3 pesos is the ticket of chicken bus to &quot;Cuatro Caminos&quot;. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 20 Jan 15 20:15:01 +0000">Description written 20.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21332">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-91.44141054152246,14.908454781156768</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21333">
+<name>a Hitchhiking spot in Guatemala</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From &quot;Calzada Roosvelt&quot; or &quot;El trebol&quot; in Guatemala City, you can take chicken bus to San Lucas SacatepÃ©quez. Is the best way to go out of the city and take a ride to AtitlÃ¡n.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 20 Jan 15 20:21:00 +0000">Description written 20.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21333">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-90.66369867322236,14.608849826411854</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26361">
+<name>a Hitchhiking spot in Guatemala</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-89.85611772537682,15.804915787283099</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26362">
+<name>a Hitchhiking spot in Guatemala</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-89.71518909931783,14.993691325388847</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26363">
+<name>a Hitchhiking spot in Machaquila, Guatemala</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-89.43177616596745,16.362788575443286</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark></Document>
+</kml>

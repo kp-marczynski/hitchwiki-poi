@@ -1,0 +1,499 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Colombia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7794">
+<name>a Hitchhiking spot in Copacabana, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Peaje al norte de Medellin, para llegar hay que tomar el Metro de Medellin y bajarse en la ultima estacion llamada NIQUIA. luego tomar un bus hasta el peaje, lo hice en el 2008 con buenos resultados, no me llevaron a mi destino final que era Cartagena pero avance bastante y me dejaron en otro sitio bueno para hacer dedo.</p>
+
+<p>Toll north of Medellin, to get there take the Metro de Medellin and get off at the last station called Niquuia, then take a bus to the toll, I did it in 2008 with good results, did not reach my final destination was Cartagena but forward enough and I left another good place to hitchhike.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:71.428571428571,28.571428571429,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Fri, 20 May 11 18:30:41 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7794">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.527124163163,6.3449592466358</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7795">
+<name>a Hitchhiking spot in Santa Rosa de Osos, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Buen sitio para hacer dedo, muchos camiones y en el cruce hay tiendas de comida barata. Rumbo a Cartagena</p>
+
+<p>Good place to hitchhike, many trucks and the crossing of cheap food shops. Sailing to Cartagena</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 45min (2 experiences)<br /><span title="Fri, 20 May 11 18:35:35 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7795">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.450606104325,6.6424369496415</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7796">
+<name>a Hitchhiking spot in Yarumal, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Yarumal, pequeÃ±o pueblo en las alturas de Medellin 2300 msnm, buen sitio para descansar, muchos estacionamientos de camiones.</p>
+
+<p>Yarumal, a small village on the heights of 2300 meters Medellin, good place to rest, many truck parking.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Fri, 20 May 11 18:38:11 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7796">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.42253946919,6.968319258163</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7797">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Caucasia, hacer dedo frente a la estacion de policia, al frente hay un hotel y restaurantes.</p>
+
+<p>Caucasia, hitchhiking front the police station, in front of a hotel and restaurants</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Fri, 20 May 11 18:52:22 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7797">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.200415011908,7.9905313890222</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7798">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>EstaciÃ³n de Servicio (EDS) Plaza Bonita.</p>
+
+<p>Service Station (EDS) Plaza Bonita</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 20 May 11 18:58:28 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7798">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.526464339737,8.2964907087403</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7799">
+<name>a Hitchhiking spot in MonterÃ­a, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Salida norte a Cartagena, no tuve suerte y tomÃ© un bus a Cartagena :(</p>
+
+<p>North exit towards Cartagena, no luck and took a bus to Cartagena :(</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 20 May 11 19:01:55 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7799">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.878649112175,8.7511632659305</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7800">
+<name>a Hitchhiking spot in Clemencia, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Salida de Cartagena, muy cerca al terminal de buses, pasan muchos camiones, furgonetas y buses rumbo a Barranquilla y Santa Marta.</p>
+
+<p>Out of Cartagena, close to the bus terminal, passing many trucks, vans and buses bound for Barranquilla and Santa Marta.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (2 experiences)<br /><span title="Fri, 20 May 11 19:07:24 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7800">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.457821246634,10.403388196802</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7801">
+<name>a Hitchhiking spot in Barranquilla, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Muchos estacionamientos de camiones, carretera principal hacia Santa Marta</p>
+
+<p>Many truck parking, main road to Santa Marta</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 20 May 11 19:19:39 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7801">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.76876979732,10.950093122561</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7802">
+<name>a Hitchhiking spot in Barranquilla, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Centro comercial Exito-Panorama, al frente hay estacionamiento de camiones y un hotel muy economico, aqui tambie se puede tomar el bus hacia el peaje Ponedera al sur de Barranquilla.</p>
+
+<p>Exito-Panorama supermarket, parking is in front of trucks and a very economic hotel, here you can also take the bus to the toll south of Barranquilla Ponedera</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 20 May 11 19:36:14 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7802">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.784390982602,10.945532083615</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7803">
+<name>a Hitchhiking spot in Barranquilla, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Peaje Ponedera camino a Medellin, muy buen sitio.</p>
+
+<p>Ponedera toll road to Medellin, very good site</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 20 May 11 19:43:58 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7803">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.752708729792,10.717412267212</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7804">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Peaje Las Palmas camino a Bogota.</p>
+
+<p>Toll Las Palmas, route to Bogota</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 20 May 11 20:07:19 +0000">Description written 20.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7804">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.518401619232,6.1588572479934</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11232">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>a lot of local traffic, but after about 40min i got a ride. no probs with police/army.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 25 Aug 12 19:50:10 +0000">Description written 25.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11232">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-77.6636494187167,0.8140221223236503</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13874">
+<name>a Hitchhiking spot in Cali, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Salida al sur de Cali. En la vÃ­a pasando la Universidad Autonoma, buen punto. TambiÃ©n hay una estaciÃ³n de gasolina en la que paran muchos carros.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:75,0,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 05 May 13 06:40:52 +0000">Description written 5.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13874">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-76.52444458007747,3.358631018346204</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13875">
+<name>a Hitchhiking spot in Cali, Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-76.49329876899554,3.489546154702177</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13876">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-76.50754666328268,3.497320815815125</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13877">
+<name>a Hitchhiking spot in Cali, Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-76.55020451545593,3.454013209110839</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17221">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Setting: We were two guys going to Cartagena. One guy looked Latin like, another one obvious foreigner.</p>
+
+<p>Now: This is the place where the 2nd peaje (toll collect station) is where all the cars and trucks are passing. Don't try to walk there as it is mentioned in the description of Medellin, it would take you hours! Take a bus from the final metro stop Niquia to there and tell them to drop you off at this place. There is also a Esso gas station just after that. We found it general pretty hard to get a ride and we only found someone by talking to him while filling up. Hitchhiking in Colombia is not really fun I think. We didn't make very far and had to take a bus later. This is always a good option when you get stuck somewhere as they stop wherever you stand. So you need definitely time and patience.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Fri, 10 Jan 14 02:13:12 +0000">Description written 10.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17221">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.47301864623853,6.381948267240232</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17222">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is actually the same as the spot a few kilometres down west at the toll collect station. Someone brought us here in order to only have the vehicles passing by which are definitely going north at the Panamericana Road. It took us (two guys) almost two hours until we almost gave up before someone took us for a two hour ride. Hitchhiking here is feasable but it takes its time.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,75,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 10 Jan 14 02:19:09 +0000">Description written 10.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17222">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.39011693000607,6.419473028619927</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17223">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Setting: two guys, one Latin looking, the other one obvious foreigner</p>
+
+<p>On our way to Cartagena we had a really lucky shot here. After standing here for about an hour, seeing ourselves already stepping back to the centre of the village where buses are leaving towards north there was suddenly one of this big container trucks stopping for us. The driver assinged us to sit behind the container in the very back. One of the most amazing rides I ever had! The driver told us that in case that the police would stop us he had claimed that we would have jumped illegally on the back and he wouldn't know about us. So we feared every time when the police was standing at the verge of the road but seriously, they've seen us more than three times, a police car overtook us, military motorbikes passed by and no one was interesed in the fact that we sat there enjoying the panorama and the feeling of freedom. Thanks to the unknown driver for this great adventure!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 10 Jan 14 02:34:55 +0000">Description written 10.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17223">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.57384288311098,8.41965253624551</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17267">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-75.48898315429712,6.206202885106999</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17357">
+<name>a Hitchhiking spot in PopayÃ¡n, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A perfect place to go to Cali.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 31 Jan 14 09:40:52 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17357">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-76.55871283380867,2.492930564943983</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17358">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A big shoulder on the road, makes  this spot usefull</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 31 Jan 14 09:43:11 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17358">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-76.4772595104441,3.4933668907598467</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17359">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction to Bogota. Jus walk a bit away from crossroad. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 31 Jan 14 09:46:01 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17359">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-76.0578049358601,4.337674371901227</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17360">
+<name>a Hitchhiking spot in CalarcÃ¡, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Low speed and big shoulder.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 31 Jan 14 09:47:26 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17360">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.63299667208084,4.529477370865313</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17361">
+<name>a Hitchhiking spot in Pasto, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is a gas station before the hill, but you can tray about 1-2 km further if you like more quiet spots</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 31 Jan 14 10:00:11 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17361">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-77.28968913635607,1.2344127806923775</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17435">
+<name>a Hitchhiking spot in BogotÃ¡, Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-77.50618002662979,0.7954726496275152</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17572">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Mobil gas station</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 02 Oct 14 19:01:23 +0000">Description written 2.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17572">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.24456691741874,4.545030556741379</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18526">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From here you can ask to the police in the checkpoint for a ride, they call it &quot;una cola&quot;. I did it and told him that I didn't have money and inmediatly he asked to a van that was passing by. He said yes ans that's it. Local poeple do that. I wasn't asked for money at all.
+Another way is to take a moto-taxi to the regional bus station and from there take a bus to Maracaibo. It all cost aorund 200 bolivares instead of 500 bs, that costs the bus form the border.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 23 May 14 23:52:52 +0000">Description written 23.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18526">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.12854003906166,11.359659218967812</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18534">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a toll where is pretty easy to get a ride toward Venezuela. It took me less than one hour to get one. If you can get a ride to Riohacha, from there there are buses that charge you 2 or 3 dollars to get to Maicao.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 24 May 14 16:12:51 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18534">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.10935139655682,11.253190580304434</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18535">
+<name>a Hitchhiking spot in Cartagena, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a checkpoint, where is easy and safe to get a ride to Barranquilla, at least for me it took me less than half an hour. Cars have place to park.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 24 May 14 16:20:26 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18535">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.44781661033181,10.408010139255289</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18536">
+<name>a Hitchhiking spot in MonterÃ­a, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Road toward Cartagena.There is a toll, we waited one hour. If you are offered for a ride to Sincelejo, be carefull, we got stuck for many hours there. We ended up taking a bus to Toluviejo (2 dollars) and from there we got a ride to Cartagena.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 24 May 14 16:53:40 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18536">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.82553601264237,8.84363925908242</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18537">
+<name>a Hitchhiking spot in Turbo, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I took a bus to Necocli (2.5 dollars) and from there I got a ride to Monteria. I think I was lucky because there were very few cars passing by over there. I waited for 2 hours.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 24 May 14 16:58:23 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18537">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-76.72907567023375,8.097741415486396</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18866">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take a minibus to Los Patio. Be careful to ask for the end of the town, if not you're ready for 5km walk or to take another bus.
+It was easy because I ask a guy stopped who was going there.
+I guess asking is the best option !</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Jun 14 00:52:19 +0000">Description written 12.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18866">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.51838302612339,7.805673718496246</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20457">
+<name>a Hitchhiking spot in Soacha, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Terpel gas station</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Thu, 02 Oct 14 19:03:15 +0000">Description written 2.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20457">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.22610890864917,4.571875644648886</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20458">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Terpel gas station with rides to Manizales, MedellÃ­n.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 40min (1 experience)<br /><span title="Thu, 02 Oct 14 19:10:50 +0000">Description written 2.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20458">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.13801443576322,4.741804691960236</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21307">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Caminar desde el puente peatonal por la calle, se va encontrando agencias de buses y mas adelante un parqueadero de camiones donde con suerte se puede conseguir fÃ¡cilmente.
+Salimos directo a Tunja. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 17 Jan 15 01:13:55 +0000">Description written 17.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21307">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.95952320098867,4.942903478910063</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21454">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>heard from locals you could hitch boats from this island. stayed for a week, swimming out to boats (cargo, yachts, launches, fish, etc) and didn't get any rides. had to hitch a small launch back to the coast to get to turbo. also sketchy island - before us last 2 people there had been journalists who were murdered (i was told). creepy place, there was a lady locked in her house, and we were told not to walk around too much. stayed with one very nice family in a little hut though. but still creepyâ€¦ good experience</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 02 Feb 15 21:20:10 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21454">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-76.1820874214189,9.38756266646697</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21870">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walk a little bit away from the Tayrona park entrance and cars will go slow and could take you on your way to the Guajira ask locals where to go as there are many great places around. Hitchhiked here like 5 times never took me more than 15min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 25 Mar 15 17:42:49 +0000">Description written 25.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21870">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.91351795196518,11.281431766497617</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21954">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-76.44342041015466,3.5006084286053514</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21955">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-76.62190616781018,2.4267378849859558</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22633">
+<name>a Hitchhiking spot in Bello, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Buen lugar para esperar camiones en la ruta a Bogota, hay una estacion de servicio antes de un puente peatonal donde esperar.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 29 May 15 03:16:34 +0000">Description written 29.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22633">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.5527492631178,6.311196408021311</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23025">
+<name>a Hitchhiking spot in La Estrella, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Best location for South towards Cali, three petrol stations and room for cars to pull in. Get off the metro at La Estrella continue south and walk up the hill.</p>
+
+<p>La mejor ubicaciÃ³n para el sur hacia Cali, tres estaciones de servicio Consiga del metro en La Estrella continÃºan sur y pie de la colina .</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 04 Jul 15 18:46:25 +0000">Description written 4.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23025">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-75.63204145431477,6.147728873355429</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23533">
+<name>a Hitchhiking spot in Colombia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-77.60616874693773,0.8292085518213874</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24488">
+<name>a Hitchhiking spot in FusagasugÃ¡, Colombia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After the intersection. Cars go slowly and there is a lot of space to pull off. I stood there just thumbing and it took me less than 20 minutes to get a hitch close to IbaguÃ©. Traffic comes from BogotÃ¡, but there is also a lot of local traffic. Maybe I was just really lucky that day.</p>
+
+<p>DetrÃ¡s del crucero. Traffico desde BogotÃ¡. ConsiguÃ© un paseo hasta cerca de IbaguÃ© en menos de veinte minutos sin letrero. Sin embargo hay tambiÃ©n mucho traffico local. Tal vez sÃ³lo tuviese mucha suerte este dÃ­a.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 27 Oct 15 19:52:13 +0000">Description written 27.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24488">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-74.38204622268839,4.35087271522877</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

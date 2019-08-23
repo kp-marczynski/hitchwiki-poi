@@ -1,0 +1,158 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Andorra</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="3273">
+<name>a Hitchhiking spot in Canillo, Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Quite short waiting time. Hitched there in 2002. /sigurdas</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=3273">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.73377990722656,42.5475160408107</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11338">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>1.535573244094231,42.51268702452929</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12867">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I ended here a four-day hiking route throught the Pyrynees and I had no dificulty finding a trip to Andorra la Vella. My guess is that I was excepcionally lucky, because in summer the number of tourists decreases dramatically, but you can always find day hikers.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 15 Jan 13 16:17:59 +0000">Description written 15.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12867">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.476596832275335,42.579033929863854</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14833">
+<name>a Hitchhiking spot in Sant JuliÃ  de LÃ²ria, Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place, there is a little parking next to the road this allows the drivers stop easily</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><span title="Mon, 08 Jul 13 16:15:38 +0000">Description written 8.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14833">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.4934250116284868,42.4711356848311</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14834">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Is not the best place to do hitch but you can't walk nex to the road in the direction of France.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 08 Jul 13 16:32:13 +0000">Description written 8.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14834">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.5537908077240206,42.51508523796234</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19291">
+<name>a Hitchhiking spot in Santa Coloma, Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars are going fast but there's a really long pullout to a gas station. It's a short walk from Andorra la Vella, and basically all traffic south funnels through here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 21 Jul 14 22:00:30 +0000">Description written 21.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19291">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.5083488225934183,42.497079584294134</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20870">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>fqz</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Nov 14 20:43:38 +0000">Description written 15.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20870">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.4773478507997266,42.43923503367173</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24078">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>a bus stop where cars can stop easily :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 15 Sep 15 12:11:16 +0000">Description written 15.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24078">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.4904209375380153,42.461424725778315</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24264">
+<name>a Hitchhiking spot in Andorra la Vella, Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>this is a new spot i decided to try on my way from andorra towards la seu d'urgel and it worked out just perfectly :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 01 Oct 15 01:25:25 +0000">Description written 1.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24264">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.5194638967512764,42.50379919052422</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24265">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>mc donald's and a gas station together with a bus stop. you can either try to use a sign for la seu d'urgel or ask people. all the traffic from here goes down to spain. a great spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3min (1 experience)<br /><span title="Thu, 01 Oct 15 01:29:50 +0000">Description written 1.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24265">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.4888974428175934,42.459667569810094</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24650">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>1.730712880892106,42.54615483431423</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24651">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A perfect spot for hitchhiking with a beautiful view and a mountain hut uphill  when you decide to stay in Andorra a little longer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 25 Nov 15 21:52:52 +0000">Description written 25.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24651">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>1.687647332949023,42.558140533517765</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26097">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>1.5073242187500744,42.43975760698022</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26644">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>1.730784416198766,42.54668244319013</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26645">
+<name>a Hitchhiking spot in Andorra</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>1.6408982276917172,42.57953953561307</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

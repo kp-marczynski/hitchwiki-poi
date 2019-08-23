@@ -1,0 +1,110 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Venezuela</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7015">
+<name>a Hitchhiking spot in Caracas, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get in directoin of Maracay.
+Very close to Coche subway station.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 4h (1 experience)<br /><span title="Sat, 04 Dec 10 20:46:19 +0000">Description written 4.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7015">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-66.921181437309,10.450480278298</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7016">
+<name>a Hitchhiking spot in Maracay, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get in direction of Choroni.
+It is the end stop of buses (but I don't know which).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|3|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 04 Dec 10 21:25:05 +0000">Description written 4.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7016">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-67.565281745768,10.323152814195</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14085">
+<name>a Hitchhiking spot in Parroquia San Cristobal, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>great spot to get a ride to caracas. there's a better gas station 1km further - hitch or walk there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 16 May 13 07:18:05 +0000">Description written 16.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14085">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-64.67708623409253,10.114157063201356</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15110">
+<name>a Hitchhiking spot in Parroquia Coche, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot to leave Caracas in every direction - Maracay, Valencia, Merida... Take the metro number 3 do Mercado and walk five minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 21 Jul 13 00:34:06 +0000">Description written 21.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15110">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-66.9253871440861,10.440171908727182</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17341">
+<name>a Hitchhiking spot in Venezuela</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-61.148026943206645,4.484782564294054</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17843">
+<name>a Hitchhiking spot in Parroquia El RincÃ³n, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Ask someone for the direction of the alcabala (police control). There are 2 alcabala with a gas station (bombera) in between. Ask some help to the Guardia National. I catched a ride for Maturin in 15min thanks to the guard.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 20 Mar 14 22:22:03 +0000">Description written 20.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17843">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-63.26361393928831,10.65068659864894</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17844">
+<name>a Hitchhiking spot in Parroquia Alto de los Godos, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good gas station (Bombera) of the national company. Some truck. Asking for a ride to the next alcabala was easier to catch a ride. Got a ride to Ciudad Guyana in 2 hours (the station was closed due to a lock of oil).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 20 Mar 14 22:27:33 +0000">Description written 20.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17844">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-63.163278741460324,9.733654001722018</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17845">
+<name>a Hitchhiking spot in Parroquia Unare, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Police check-point (alcabala). Ask the guards to find a ride for you. Toward Puerto Ordaz and Ciudad Bolivar easy, I did not try to go further from there but a lot of truck crossing the Orinoco here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 20 Mar 14 22:29:59 +0000">Description written 20.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17845">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-62.9030374117921,8.24842093149019</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17861">
+<name>a Hitchhiking spot in Parroquia Unare, Venezuela</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good peage with a lot of truck early in the morning. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 21 Mar 14 18:34:46 +0000">Description written 21.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17861">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-62.823720932003965,8.249191113679146</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

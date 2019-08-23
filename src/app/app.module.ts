@@ -6,6 +6,7 @@ import { ServiceWorkerModule } from '@angular/service-worker';
 import { environment } from '../environments/environment';
 import {NgbModule} from "@ng-bootstrap/ng-bootstrap";
 import {HttpClientJsonpModule, HttpClientModule} from "@angular/common/http";
+import {FormsModule, ReactiveFormsModule} from "@angular/forms";
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import {HttpClientJsonpModule, HttpClientModule} from "@angular/common/http";
     NgbModule,
     HttpClientModule,
     HttpClientJsonpModule,
+    ReactiveFormsModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],

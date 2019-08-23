@@ -1,0 +1,318 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Luxembourg</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="946">
+<name>a Hitchhiking spot in Bettembourg, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Service area Aire de Berchm. To Metz, Nancy, Dijon, (Lyon), (Marseille), Strassbourg.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (26 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80.769230769231,19.230769230769,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|21|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 14min (18 experiences)<br /><a href="https://hitchwiki.org/maps/?place=946">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.11779689788818,49.5429499839693</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="1143">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good place when heading to the A1 (Wasserbillig, Trier)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,25,25,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1143">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.14486575126648,49.6197676107523</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3198">
+<name>a Hitchhiking spot in Strassen, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A pretty long walk out of town (~4 km, can <em>partly</em> use Bus 7) Used several times. It is possible to get a direct ride to Brussels.</p>
+
+<p>About 10km from this place there is a big petrol station, 'Aire de Capellen', you might want to get a sign to get there!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:14.285714285714,42.857142857143,42.857142857143,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 27min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=3198">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.08423709869385,49.6190238745189</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3346">
+<name>a Hitchhiking spot in Mamer, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol Station for Belgium, etc.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,20,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=3346">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.02874755859375,49.6231664103684</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3347">
+<name>a Hitchhiking spot in Ettelbruck, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station for Germany.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3347">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.08367919921875,49.7706219593139</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3348">
+<name>a Hitchhiking spot in Ettelbruck, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station for Germany.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3348">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.08367919921875,49.7706219593139</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3349">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station for Germany.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3349">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.2786865234375,49.6231664103684</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3350">
+<name>a Hitchhiking spot in Grevenmacher, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station for Germany.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,33.333333333333,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=3350">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.49154663085938,49.7265876276304</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5033">
+<name>a Hitchhiking spot in Mamer, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Big petrol station with plenty of traffic to B and NL. You get here by taking the train to Capellen (4th stop from Luxembourg station), a short walk and an easy climb over a fence.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (13 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:76.923076923077,7.6923076923077,7.6923076923077,7.6923076923077,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|1|10|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 43min (26 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5033">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>5.97155749797821,49.6366828064262</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5288">
+<name>a Hitchhiking spot in Grevenmacher, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Almost all the cars come from and will return to Germany, because they only want to get the cheap fuel and cigarettes here. 
+Rather difficult to find a car heading south (berchem, france...)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,62.5,12.5,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|5|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 32min (6 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5288">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.49139642715454,49.7286127524747</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5688">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>For those who stay at the camping Kockelschauer and want to save some change on public transport - hitching at the nearby bus stop worked perfect for me, got a lift to the city centre within literally one minute. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5688">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.11307084560394,49.5726639395752</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6253">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waited about an hour for a ride towards Trier. Not a lot of space for the cars to stop but very visible. About an hour hike from the hostel.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6253">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.21726393699646,49.6412198609158</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8891">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This was spot to get to brussels. i waited for about ten minutes to get a ride. you can get to this gas station by taking the bus. i think it was the bus number 8</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Thu, 20 Oct 11 14:43:26 +0000">Description written 20.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8891">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.0952427387202,49.616956206857</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9568">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I've waited there 3 hours to get a ride to Germany. But if you are heading to Belgium/France/Netherlands/ or Luxembourg City i's probably a nice spot. There's a lot of traffic anyway</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:37.5,37.5,25,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|3|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 29min (9 experiences)<br /><span title="Tue, 20 Mar 12 10:00:33 +0000">Description written 20.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9568">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.1199083328246,49.541303770367</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10460">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction: Towards the city Luxembourg.
+Place: Right after the exit of the roundabout.
+There are 2 Petrol station nearby, where you can also easily ask anybody.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 09 Jul 12 21:02:17 +0000">Description written 9.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10460">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.052139639854263,50.15550430483649</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11751">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Aire la Capellen, direction East and South. Great spot for catching long distance rides south (France, Spain, Italy, Switzerland, even Morocco).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:71.428571428571,14.285714285714,0,14.285714285714,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 48min (13 experiences)<br /><span title="Fri, 05 Oct 12 13:20:42 +0000">Description written 5.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11751">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>5.970090866089002,49.635164827185406</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11877">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To get into Luxembourg this ramp is probably not very good - I tried twice and waited 60-80 minutes. There is not too much space to stop. There is a much frequented pertrol station, but I guess most people are Germans coming just for this. </p>
+
+<p>Also the onramp is for two directions. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Thu, 11 Oct 12 23:07:41 +0000">Description written 11.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11877">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.363386362152302,49.48023511488135</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12181">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Bettembourg / Luxembourg / Metz.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 28 Oct 12 22:43:00 +0000">Description written 28.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12181">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.1306794667818165,49.503047092499095</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12338">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.167190313339258,49.629657784970775</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12951">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.117842736816328,49.54158290610651</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15395">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.1379542350768554,49.61311901885065</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15451">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.253417968749951,49.5822993406229</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16669">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.125025987625176,49.59871470397308</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23285">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>5.819490194320418,49.54378911925402</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23531">
+<name>a Hitchhiking spot in Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Last gas station before the highway starts. Good location to get cars towards NL / B. Waited here for 15 minutes before being taken to Cappellen gas station.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Sat, 08 Aug 15 23:41:17 +0000">Description written 8.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23531">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.088564515112941,49.61802630520987</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23979">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>For going north. Long parking space so a lot of place to stop. However mostly local traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 08 Sep 15 23:42:45 +0000">Description written 8.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23979">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.132439613342504,49.63788858509737</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23980">
+<name>a Hitchhiking spot in Erpeldange-sur-SÃ»re, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bus stop. A lot of place to stop. Bus stop is covered and almost closed so good for bad weather conditions. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 08 Sep 15 23:46:21 +0000">Description written 8.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23980">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.1149086952212945,49.85079260600903</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24317">
+<name>a Hitchhiking spot in Mondorf-les-Bains, Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.29323267936696,49.51383468639311</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25833">
+<name>a Hitchhiking spot in Luxembourg, Luxembourg</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>6.161858081817512,49.62630461204593</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27044">
+<name>a Hitchhiking spot in Parc Hosingen, Luxembourg</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Marnach. Very visible, enough place to stop. Every car going west goes through Marnach.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 16 Aug 16 14:08:46 +0000">Description written 16.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27044">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>6.121498882772138,50.05152484899674</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

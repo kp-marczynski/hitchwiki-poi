@@ -1,54 +1,60 @@
 <!--The content below is only a placeholder and can be replaced.-->
-<div style="text-align:center">
-  <h1>
-    Welcome to {{ title }}!
-  </h1>
-  <img width="300" alt="Angular Logo"
-       src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTAgMjUwIj4KICAgIDxwYXRoIGZpbGw9IiNERDAwMzEiIGQ9Ik0xMjUgMzBMMzEuOSA2My4ybDE0LjIgMTIzLjFMMTI1IDIzMGw3OC45LTQzLjcgMTQuMi0xMjMuMXoiIC8+CiAgICA8cGF0aCBmaWxsPSIjQzMwMDJGIiBkPSJNMTI1IDMwdjIyLjItLjFWMjMwbDc4LjktNDMuNyAxNC4yLTEyMy4xTDEyNSAzMHoiIC8+CiAgICA8cGF0aCAgZmlsbD0iI0ZGRkZGRiIgZD0iTTEyNSA1Mi4xTDY2LjggMTgyLjZoMjEuN2wxMS43LTI5LjJoNDkuNGwxMS43IDI5LjJIMTgzTDEyNSA1Mi4xem0xNyA4My4zaC0zNGwxNy00MC45IDE3IDQwLjl6IiAvPgogIDwvc3ZnPg==">
-</div>
-<div class="row">
-  <div class="col-md-6">
-      <a class="btn btn-info" target="_blank" rel="noopener" href="../assets/kml/world.kml" type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
+<div class="container">
+  <div style="text-align:center">
+    <h1>
+      Welcome to hitchwiki-poi generator!
+    </h1>
+    <img width="300" alt="Logo"
+         src="../assets/images/undraw_directions_x53j.png">
   </div>
-  <div class="col-md-6">
-    <button class="btn btn-info" (click)="downloadAll(0)">
-      Generate all new
-    </button>
-  </div>
-</div>
-<h2>Countries</h2>
-<table class="table table-striped">
-  <thead>
-  <tr>
-    <th scope="col">#</th>
-    <th scope="col">Country</th>
-    <th scope="col">Number of Places</th>
-    <th scope="col"></th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr *ngFor="let country of countries; index as i">
-    <th scope="row">{{ i + 1 }}</th>
-    <td>
-      <a>{{country.name}}</a>
-    </td>
-    <td>
-      {{country.numberOfPlaces}}
-    </td>
-    <td>
-      <button
-        *ngIf="!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0 || country.numberOfDownloadedPlaces == country.numberOfPlaces"
-        class="btn" [ngClass]="{'btn-primary':!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0, 'btn-success':country.numberOfDownloadedPlaces == country.numberOfPlaces}"
-        (click)="downloadCountryKmlFile(country)">Download
-      </button>
-      <ngb-progressbar *ngIf="country.placesInfo && country.numberOfDownloadedPlaces < country.numberOfPlaces"
-                       type="warning" [value]="country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces" [striped]="true"
-                       [animated]="true">
-        <i>{{country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces | number : '1.2-2'}}%</i>
-      </ngb-progressbar>
-    </td>
-  </tr>
-  </tbody>
-</table>
+  <form name="editForm" role="form" novalidate [formGroup]="corsForm">
+    <label for="corsUrl">Cors Proxy URL</label>
+    <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url">
+  </form>
+
+  <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="../assets/kml/world.kml"
+     type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
+
+  <button class="btn-block btn btn-primary" (click)="downloadAll(0)">
+    Generate all new
+  </button>
+
+  <h2>Countries</h2>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Country</th>
+      <th scope="col">Number of Places</th>
+      <th scope="col"></th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr *ngFor="let country of countries; index as i">
+      <th scope="row">{{ i + 1 }}</th>
+      <td>
+        <a>{{country.name}}</a>
+      </td>
+      <td>
+        {{country.numberOfPlaces}}
+      </td>
+      <td>
+        <button
+          *ngIf="!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0 || country.numberOfDownloadedPlaces == country.numberOfPlaces"
+          class="btn"
+          [ngClass]="{'btn-primary':!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0, 'btn-success':country.numberOfDownloadedPlaces == country.numberOfPlaces}"
+          (click)="downloadCountryKmlFile(country)">Download
+        </button>
+        <ngb-progressbar *ngIf="country.placesInfo && country.numberOfDownloadedPlaces < country.numberOfPlaces"
+                         type="warning" [value]="country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces"
+                         [striped]="true"
+                         [animated]="true">
+          <i>{{country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces | number : '1.2-2'}}%</i>
+        </ngb-progressbar>
+      </td>
+    </tr>
+    </tbody>
+  </table>
 
 
+</div>

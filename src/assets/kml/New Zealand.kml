@@ -1,0 +1,2398 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>New Zealand</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="618">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.634696960449,-43.4387110216605</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="619">
+<name>a Hitchhiking spot in Port Motueka, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>173.249936699867,-41.2806526203082</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="1263">
+<name>a Hitchhiking spot in Otaki, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>getting out of Wellington on Route SH1. take the train from Wellington station to Paraparaumu which costs about $6.50, 55 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=1263">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.016777515411,-40.9106991197104</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="1706">
+<name>a Hitchhiking spot in Auckland, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want a spot walkingdistance from city centre to go north. Took 5 minutes before a car gave me a lift, across the bridge.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=1706">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.753427505493,-36.8453407931351</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2464">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On SH 73 just west of Yaldhurst Road. Good safe area for cars to stop just before start of 100kmh.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=2464">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.534189224243,-43.5205163070838</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2469">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.533502578735,-43.5203140325239</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2466">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>50 km speed limit, plenty of space.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 23 Feb 15 03:20:51 +0000">Description written 23.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=2466">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.668085098267,-43.3164979884188</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5935">
+<name>a Hitchhiking spot in Invercargill, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Lots of tourists. Make sure you try hitchhiking out when boats arrive.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5935">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>167.926057577133,-44.6717201229552</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5933">
+<name>a Hitchhiking spot in Dunedin, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Small parkspace, slow traffic... Takes you to Queenstown.
+You will drive the highest road in NZ.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,75,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 28min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5933">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.129693508148,-44.7007060155978</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6893">
+<name>a Hitchhiking spot in Auckland, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is a motorway on ramp - best place for leaving the city canter. I've used a few times, 5-15 mins max wait time.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:62.5,25,12.5,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 41min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6893">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.763426780701,-36.8590310994155</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6895">
+<name>a Hitchhiking spot in Taupo, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is a great place for traveling south, got a ride from here to Wellington.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6895">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.079339981079,-38.6956648871612</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6896">
+<name>a Hitchhiking spot in North Shore, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I haven't used to place, but am a local and I'm sure it would work well.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6896">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.752193689346,-36.7881728926775</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6897">
+<name>a Hitchhiking spot in North Shore, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This place is good for traveling north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6897">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.725114107132,-36.7503662984276</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6898">
+<name>a Hitchhiking spot in Whakatane, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This place is great for getting to Gisborne or Napier. Choice for swimming too. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6898">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>177.04158782959,-37.9660289345764</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6899">
+<name>a Hitchhiking spot in Whakatane, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is great as long as there's some traffic. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6899">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>177.288265228271,-38.0173024698096</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6900">
+<name>a Hitchhiking spot in Gisborne, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If there's traffic this stop will work well for traveling north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6900">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>177.964653968811,-38.6489325237169</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6901">
+<name>a Hitchhiking spot in Gisborne, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is useable for getting south</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6901">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>177.964696884155,-38.6496632460926</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6902">
+<name>a Hitchhiking spot in Gisborne, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is clearly not a hitching stop - it's a wicked place to camp for free - can't see it from the road and it's an easy hitch back into Gisborne.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6902">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>178.106210231781,-38.6623320466493</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6903">
+<name>a Hitchhiking spot in Napier, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is good for traveling both north and south. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,75,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6903">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.877082586288,-39.4748589235325</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6904">
+<name>a Hitchhiking spot in Palmerston North, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great for getting to Wellington.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6904">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.422649383545,-40.2219823215083</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7146">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.50819110168,-43.512840777705</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7147">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>171.7228617597,-43.23369347863</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7148">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>171.55955278163,-42.933890313697</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7149">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>171.1095424816,-42.595072477199</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7150">
+<name>a Hitchhiking spot in Haast, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>169.04895149924,-43.88750080126</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7151">
+<name>a Hitchhiking spot in Alexandra, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>169.40744482757,-45.241278939292</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7152">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.77714156417,-42.590353189986</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7153">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.84639620084,-42.776066041202</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7154">
+<name>a Hitchhiking spot in Kaikoura, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>173.67940583137,-42.373673376044</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7454">
+<name>a Hitchhiking spot in Takaka, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>to hitch south to motueka, nelson, westcoast.
+although the speedlimit is already 100 it's maybe a better spot then in town, cause car can see you from quite far and there's a lot of place to pull over. just follow the road south from takaka and after 5 minutes walk you're there.
+happy hitching </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 18 Mar 11 08:39:51 +0000">Description written 18.3.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7454">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.81167297305,-40.865482669596</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7531">
+<name>a Hitchhiking spot in Wellington, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot to hitch north to picton, cars are still slow and heaps of space for the cars to pull over. probably not that good when a lot of people are tryin to hitch from a bit south in the city, cause they maybe get picked up first. 
+directions: just cross the bridge and you'll see the spot, it's obvious </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Fri, 01 Apr 11 06:16:16 +0000">Description written 1.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7531">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.96441955568,-41.436029220124</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8937">
+<name>a Hitchhiking spot in Palmerston North, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>175.59292674063,-40.336466697223</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8993">
+<name>a Hitchhiking spot in Auckland, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>once you get to here you should find it very to get a ride south. many people are stopping here before driving long distances.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 27 Jan 12 20:03:24 +0000">Description written 27.1.2012</span><br /><a href="https://hitchwiki.org/maps/?place=8993">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.94000196456,-37.08792048196</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8994">
+<name>a Hitchhiking spot in Taupo, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>176.08835220336,-38.705598099137</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9057">
+<name>a Hitchhiking spot in Picton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>10 min walk from ferry terminal to here. Plenty of room for car to see you and pull over. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,20,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (3 experiences)<br /><span title="Sat, 03 Dec 11 22:51:07 +0000">Description written 3.12.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9057">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.99862670896,-41.299211807322</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9058">
+<name>a Hitchhiking spot in Blenheim, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot with room for cars to pull over before speed changes out of town.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sat, 03 Dec 11 22:55:38 +0000">Description written 3.12.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9058">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.97276380564,-41.513725090021</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9075">
+<name>a Hitchhiking spot in Kaikoura, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>For going south. Easy to get a single ride all the way to Christchurch. Expect bus loads of tourists going to look at whales to pass and point at you like you are the first sighting on their whale watching tour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 04 Dec 11 22:43:21 +0000">Description written 4.12.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9075">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.67822036238,-42.409954053277</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9128">
+<name>a Hitchhiking spot in Milton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>North end of town before speed change. Got a ride within 10 mins to Dunedin.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 16 Dec 11 01:06:40 +0000">Description written 16.12.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9128">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.76178073882,-46.229026401413</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9129">
+<name>a Hitchhiking spot in Dunedin, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Top of Pine Hill before speed change to 100km. Short area for cars to pull over after coming around corner. Got picked up in a minute.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,40,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Fri, 16 Dec 11 01:13:05 +0000">Description written 16.12.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9129">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.50853723288,-45.851093259093</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9314">
+<name>a Hitchhiking spot in Woodville, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Despite being a meeting place of two highways Woodville has very little traffic. But what few cars there are will stop. Also, Woodville can be worth a short stop on its own due to the many antique/curio/secondhand stores here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 27 Jan 12 20:00:09 +0000">Description written 27.1.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9314">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.86355590818,-40.336528462508</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9753">
+<name>a Hitchhiking spot in Mount Maunganui, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>176.20489267271,-37.651839786349</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11577">
+<name>a Hitchhiking spot in Rakaia, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.03285217283758,-43.74183250879008</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12027">
+<name>a Hitchhiking spot in Orakei, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Traffic lights and plenty of traffic. Some room to stop but not perfect. A lot of traffic is going South. It may be helpful sign saying &quot;Bombay gas station&quot;</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 17 Oct 12 12:09:39 +0000">Description written 17.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12027">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.81543570521603,-36.90007497601061</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12740">
+<name>a Hitchhiking spot in Havelock, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>173.76712346077755,-41.27971100944512</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13234">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place to hitch, plenty of room for cars to stop</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 10 Mar 13 00:01:25 +0000">Description written 10.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13234">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.911136627214,-35.191350165661554</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14191">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>176.96229958535253,-37.95169736436881</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15543">
+<name>a Hitchhiking spot in Nelson, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>waited for 2hours. incredible unlucky, its a perfect spot and very much traffic</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 43min (4 experiences)<br /><span title="Mon, 01 Sep 14 23:46:13 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=15543">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.2847979068709,-41.26466226723194</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15544">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.53794753550181,-43.51342628073539</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15545">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>few traffic but awesome road. find sb on the ferry going this way!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 01 Sep 14 23:40:18 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=15545">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.0000357627639,-41.29045769918795</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17485">
+<name>a Hitchhiking spot in Wellington, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>for going north. i've used it four times and each time i got a ride within ten minutes. have a sign to say which highway you want so it's not confusing.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (4 experiences)<br /><span title="Sun, 16 Feb 14 04:52:19 +0000">Description written 16.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17485">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.7753846049204,-41.297881762260566</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17936">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Punakaiki. It's actually a little to the left. Some hostels here, but hard to hitch out of there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,0,100&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|0|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 4h (1 experience)<br /><span title="Wed, 02 Apr 14 00:22:38 +0000">Description written 2.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17936">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.368423938777,-42.0707157077556</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17971">
+<name>a Hitchhiking spot in Wellington, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>174.76171874999804,-41.27772150871855</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18383">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you bother walking about 2-3km from Wanaka, this is the best place getting south or northwest. Arrive early to avoid competing with other hitchhikers!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Sat, 10 May 14 22:19:30 +0000">Description written 10.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18383">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.17235994337108,-44.696713407228096</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18767">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take bus B to Belfast and ask for the last stop in Belfast. 
+Cars go fast here but their is hips of traffic. You could also walk back to the red light where people can have a better look at you.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 08 Jun 14 11:01:17 +0000">Description written 8.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18767">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.63706588745353,-43.43791222101971</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19865">
+<name>a Hitchhiking spot in Greymouth, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pretty bad for going south. Took us 3h to get picked up, and we were only got as far as Hokitika</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 26 Aug 14 22:44:31 +0000">Description written 26.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19865">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.19000339510376,-42.469544410565284</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19947">
+<name>a Hitchhiking spot in Waitemata, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Impossible Hitching out of Auckland? Not here, everybody turning left in the Motorwagen is going North, Tool mehr 5 minutes :) good luck</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 22:52:58 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19947">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.75418710711017,-36.85282051195079</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19948">
+<name>a Hitchhiking spot in Upper Harbour, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waited about 2 mins</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 22:56:53 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19948">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.71653157477064,-36.73555424969567</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19949">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bored of hiking down 90 miles beach? at low tide there should be enough people taking you down to Ahipara. Best part of the beach is north of the Bluff so you won't miss anything</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:00:39 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19949">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.92317712309134,-34.71264143665985</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19950">
+<name>a Hitchhiking spot in Waihi, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good one in front of Kfc towards Auckland</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:05:32 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19950">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.83948934081494,-37.39201998692764</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19951">
+<name>a Hitchhiking spot in Papakura, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>totally frusted of hitching out of Auckland? come here by train and hitch towards the coast</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:08:38 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19951">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.94799816611032,-37.06215038794064</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19952">
+<name>a Hitchhiking spot in Coromandel, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>if you want to hitch further east, come here or at the yha and dont try out of town. most people coming from south travel to Coromandel town</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:11:43 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19952">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.50093823674786,-36.76264005578198</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19953">
+<name>a Hitchhiking spot in Whitianga, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>cheap ferry and bus ticket to hot water beach available. doesnt make sense to hitch such a complicate route unless you find sb before</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:14:01 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19953">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.70854657892158,-36.83299091307246</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19954">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just wait next to the last carpark</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:14:33 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19954">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.82065218691358,-36.889722751386195</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19955">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>if you come from hot water try find sb there going your direction. cars just rush by here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:15:45 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19955">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.80051952605302,-36.877180822294584</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19956">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good for any direction</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:19:32 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19956">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.59565508368394,-37.62147165798456</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19957">
+<name>a Hitchhiking spot in Matamata, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>if you want to get to the waterfalls try hitching here. there is very few traffic on old te arahoa road !!!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:21:49 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19957">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.7822939157594,-37.813140186592896</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19958">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just wait for the first car</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:22:18 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19958">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.8582862615642,-37.73032629678148</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19959">
+<name>a Hitchhiking spot in Rotorua, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>had better luck here going south than on the highway</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:26:25 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.25404083731001,-38.144766623141244</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19960">
+<name>a Hitchhiking spot in Rotorua, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>gave up after trying to get down south for 30 mins</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 01 Sep 14 23:27:22 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19960">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.23702490330993,-38.14155388981636</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19961">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>few traffic. good anyway</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:29:47 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19961">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.89739549161732,-37.99713678594948</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19962">
+<name>a Hitchhiking spot in Opotiki, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>to the east cape</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:31:22 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19962">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>177.28659474851554,-38.005176829823576</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19963">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>leave with the ones you came. otherwise: good luck - there are days nobody is coming out here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:32:55 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19963">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>178.5453232526974,-37.69165020315341</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19964">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very few traffic. first car should take you, but that might take a while</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:35:38 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19964">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.67148387436382,-39.16745350292405</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19965">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>few traffic. cars rush by. too much rain</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:37:16 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19965">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.73518359666468,-39.22690278896878</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19966">
+<name>a Hitchhiking spot in Turangi, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>hitchhikers dream. got a lift to Wellington after 5 mins</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:38:11 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19966">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.80510878569146,-38.99640474273195</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19967">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>horrible. just trucks rushing by</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:41:49 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19967">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.4867172241726,-35.84331443476993</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19968">
+<name>a Hitchhiking spot in Nelson, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>worst hitching road ever. just people going like 5kms. indeed in the end I hitched out the other way again and travelled via Richmond</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Mon, 01 Sep 14 23:44:50 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19968">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.8215160370054,-41.265160251636516</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19969">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>nice one</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:47:28 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19969">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.16690409184076,-41.346194356968795</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19970">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>full of bees. be lucky!!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 01 Sep 14 23:49:18 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19970">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.61698687075682,-41.69406683008921</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19971">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>nobody here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 01 Sep 14 23:49:56 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19971">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.84598314761624,-41.80299216807432</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19972">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>hard to get out, many full cars with tourist. very many hitchhikers</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 01 Sep 14 23:51:42 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19972">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.3296713828871,-42.11576321601715</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19973">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>most people go to the glacier and then further down south. dont try hitching out of town. got a lift to queenstown from here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:54:21 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19973">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.00991725921546,-43.476736953473804</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19974">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>for hitching to the mt aspiring carpark. possible, but bring time !</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 01 Sep 14 23:55:23 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19974">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.1055300235518,-44.700314902246326</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19975">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>organise your lift in one of the huts. you may be able to swap cars with sb walking the other way</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:56:55 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19975">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.470318555821,-44.695647596297654</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19976">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>takes a while but people are driving far here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Sep 14 23:57:46 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19976">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.73431229589,-45.02173482117987</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19977">
+<name>a Hitchhiking spot in Te Anau, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>many tourists drive up to Milford Sound from here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 01 Sep 14 23:58:47 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19977">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>167.71799647802615,-45.41430735561996</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19978">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>few traffic but possible</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 01 Sep 14 23:59:34 +0000">Description written 1.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19978">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>167.7014204263203,-45.62591018079982</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19979">
+<name>a Hitchhiking spot in Invercargill, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>horrible city for hitching. spread out, long walking distances to find good places. take the bus</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:01:06 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19979">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.35377657409472,-46.41329852770658</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19980">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>you might be lucky and find sb here going down the tourist drive at the coast. takes time</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 02 Sep 14 00:02:34 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19980">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.37183320516587,-46.43595086759945</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19981">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>if you want to go to akaroa, take the bus to halswell and try hitching here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Tue, 02 Sep 14 00:03:49 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19981">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.56809556479618,-43.59079839072683</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19982">
+<name>a Hitchhiking spot in Le Bons Bay, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>nice road but very hard to hitch</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Tue, 02 Sep 14 00:05:04 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19982">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.01303112503757,-43.777091649532544</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19983">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good place</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 02 Sep 14 00:06:08 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19983">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.7042015790632,-43.653366667475986</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19984">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>get out of the car and hitch to lincoln if you want to get south. avoid Christchurch</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 02 Sep 14 00:07:16 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19984">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.5479789972,-43.66140820992858</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19985">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>hitched here for getting to mt arthur faster. in fact it might be faster taking the highway via rolleston</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:11:17 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19985">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.3821085691266,-43.71204671323046</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19986">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very good place for getting to mt arthur</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:12:36 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19986">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.1052964925578,-43.48803643479555</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19987">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very few traffic. you'll be better off taking the highways 73, 6 and 7. looks nice on the map but nobody driving here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:15:05 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19987">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.48407542702085,-42.57076729588557</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19988">
+<name>a Hitchhiking spot in Reefton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot for being picked up. most people go all the way to christchurch</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:15:56 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19988">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.8692299127397,-42.11972247491793</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19989">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very few traffic. better hitching via intersection sh1/sh7</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:17:41 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19989">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.1252225637312,-42.642831682972954</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19990">
+<name>a Hitchhiking spot in Blenheim, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot behind the bridge before speed limit if you want to get north</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:20:07 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19990">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.96106863019176,-41.50132759459204</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19991">
+<name>a Hitchhiking spot in Wellington, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>this is what you call low trafficked road ! good luck</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:21:11 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19991">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.14388799661904,-41.13773815570736</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19992">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>possible to get to mt fyffe carpark from here. walk there, try to hitch, dont wait!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:24:14 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19992">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.67436194411187,-42.35162011841068</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19993">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>when you came from mt fyffe and want to go down south cross the river here. not possible in spring</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Sep 14 00:25:46 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19993">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.5922863482556,-42.37120138149689</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20309">
+<name>a Hitchhiking spot in Rotorua, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>176.2484242916213,-38.176624720021486</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20577">
+<name>a Hitchhiking spot in Ngongotaha, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>176.2130915522374,-38.08934823352408</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20633">
+<name>a Hitchhiking spot in Whangarei, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent spot- have used on multiple occasions and it never takes more then 30 minutes to thumb down a ride- plenty of room for cars to pull over and little local traffic (best for heading south)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 10:58:31 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20633">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.31147778033665,-35.737002642996124</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20634">
+<name>a Hitchhiking spot in Otaki, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>small parking bay with little park , nice sheltered with plenty of traffic heading in both directions (ideal for travelling south from otaki)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:01:30 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20634">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.14414274693297,-40.77357032576273</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20635">
+<name>a Hitchhiking spot in Waikanae, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>nice open spot near shops and city center. Lots of room for drivers to pull over. 20 minute wait last time!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:03:50 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20635">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.06453478336718,-40.87964555524608</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20636">
+<name>a Hitchhiking spot in Picton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Despite the constant flow of traffic and the ideal straight open road it was difficult to find a ride! After about an hour and a half I got a ride well beyond my destination (Kaikoura) to Lyttleton!!
+I suspect the reason it took so long to get a ride may have been that the competition curekids was running saw 56 groups of hitchers make their way from Picton to Christchurch that morning!!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,0,33.333333333333,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 21 Oct 14 11:08:26 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20636">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.99810993671582,-41.29988680399048</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20637">
+<name>a Hitchhiking spot in Ashburton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pretty poor spot ! Some kind soul picked me up and brought me to the edge of town. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:20:32 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20637">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.7401834726273,-43.909263244854706</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20638">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>80km zone to 100km, nice wide road, good road as all traffic is headed south along the main drag. Despite this fact i ended up waiting an awefully long time in Ashburton, I wandered back along the road towards the town centre and had a ride within 10 minutes of reaching the 50km sign</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:25:54 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20638">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.70662367341427,-43.92744018631769</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20639">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>great spot for hitching a ride south. 5 minutes and I had a ride down to temuka..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:31:16 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20639">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.37235605715034,-44.06624221362399</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20640">
+<name>a Hitchhiking spot in Timaru, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>decent spot, slower traffic flow! Wide road, parking spaces on either side so perfect for travelling south and good for those headed north. I waited 30 mins, started strolling down road with pack and got a ride in no time!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:36:26 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20640">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.2483092546406,-44.40374826123894</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20641">
+<name>a Hitchhiking spot in Dunedin, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>great spot if you're trying to get out of town and make your way towards wanaka, queenstown or invcargal. There is a service station and an area for trucks and larger vehicles to pull over.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:48:50 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20641">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.50023043155073,-45.88636727057038</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20643">
+<name>a Hitchhiking spot in Queenstown, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>relatively good spot- you get a fair amount of traffic and the vast majority heads straight through to GY</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:54:04 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20643">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.64246809482898,-45.03926720935481</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20645">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Probably the best spot to hitch from when wanting to get ouf of town- I made the mistake of heading off on a sunday so there was very very little traffic but one of the first few drivers I came across was driving straight through to queenstown.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 11:59:57 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20645">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.38828587533354,-44.85037709874288</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20646">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>excellent spot for those of you wishing to leave Queenstown. Plenty of space for cars to  pull over, good visibility, slow flow, managed to get a ride within 20 minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 21 Oct 14 21:26:47 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20646">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.73317051832603,-45.01527678642673</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20647">
+<name>a Hitchhiking spot in Queenstown, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Fairly good place to get you out of town (direction frankton) Certainly not the best place for drivers to pull over but I managed quite alright and the driver could pull over safely </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 21 Oct 14 21:55:22 +0000">Description written 21.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20647">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.66856146756817,-45.033521968681306</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20649">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>decent spot for sussing a ride to fox glacier, most of the people at the franz josef glacier usually head straight out from here to their next destination- so it was really easy hitching back from the carpark</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:06:28 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20649">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.00978851320792,-43.47831542688299</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20650">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot to catch traffic headed north but I had a long wait here and ended up finding a ride by sparking up a conversation with someone at foursquare..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:08:14 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20650">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.02187454702465,-43.463447725885025</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20651">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>pretty poor spot to get caught out at! There was plenty of traffic but there is a big blind corner limited space for drivers to stop and they are usually pacing it here. Having said that, I was able to get a ride from here within 45 minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Wed, 22 Oct 14 09:31:12 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20651">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.2404423952155,-43.26561228478105</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20652">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great spot foe those of you wishing to head north or south, planty of slow flow traffic when I was here, wide road with plenty of space, nice locals. 20 minute wait</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:33:59 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20652">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.581533551218,-43.15150453473886</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20653">
+<name>a Hitchhiking spot in Greymouth, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent spot, lots of local traffic in the morning! Got a ride to next town no sweat- good for people headed north</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 22 Oct 14 09:38:31 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20653">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.2166162729233,-42.44526357133786</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20654">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Punakaike, right at the top on the opposite side of the road to the restaurant there is a big parking area which the busses use. Plenty of tourists passing by in either direction but had no luck with them- instead, it was an older kiwi bloke who gave me a ride after an hour or so waiting</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:42:18 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20654">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.3453944921537,-42.09217961218357</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20655">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great place to get a ride east, not particularly sheltered though! I was outta here within 30 minutes of arrival</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 22 Oct 14 09:48:45 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20655">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.59044647217448,-41.807704649106746</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20656">
+<name>a Hitchhiking spot in Blenheim, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>While this place ought to be great for hitching towards picton I had a REALLy long wait and ended up walking several kilometers down the road before finding somone will to bring me to the local store ()at spring creek. I do not recommend this spot </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:51:48 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20656">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.81826782226557,-41.48573530780121</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20657">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Really easy to make your way up to Wanganui or to get a ride up north along the no.1</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:53:49 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20657">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.42336606978353,-40.219662282473855</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20658">
+<name>a Hitchhiking spot in Wanganui, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Fairly good place to catch traffic just before it leaves town and probaly the last spot before the roads become nasty and windy. There are few places to pul over for the next 90 kms</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:55:36 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20658">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.0687994956982,-39.90204491933637</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20659">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Sweet spot for rides both north and south. Good straight road, plenty of cars pass through during the week</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 09:58:47 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20659">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.76694631576532,-38.96602807015674</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20660">
+<name>a Hitchhiking spot in Turangi, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place if you're looking for a ride north, 25 minutes before I sussed a ride to Taupo</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 22 Oct 14 09:59:50 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20660">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.81162118911638,-38.989981879340846</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20661">
+<name>a Hitchhiking spot in Taupo, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very good spot right before the roundabout- wasn't long before I got a ride heading north through to Auckland.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 22 Oct 14 10:30:36 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20661">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.07228899002217,-38.73990405993231</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20662">
+<name>a Hitchhiking spot in Upper Harbour, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>small on-ramp with little parking bay. Fairly good spot given the proximity of  the carpark. Good for heading north!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Wed, 22 Oct 14 10:33:57 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20662">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.7117438316515,-36.717812089784104</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20663">
+<name>a Hitchhiking spot in Rodney, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great spot! Really good for heading up north.. Short wait, open space, good area for cars to pull over</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 22 Oct 14 10:36:10 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20663">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.66241264345047,-36.623583009774556</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20664">
+<name>a Hitchhiking spot in Rodney, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Fairly good spot, reasonable space for pulling over- traffic stops and goes due to lights.
+Nice crowd passes through here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 10:38:11 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20664">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.6613075733397,-36.39351708258075</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20665">
+<name>a Hitchhiking spot in Rodney, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spots all along here, best place is at the top of the hill (for heading north)! 30 minutes and you should certainly have a ride</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 22 Oct 14 10:44:53 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20665">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.5221116542986,-36.289120669076986</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21242">
+<name>a Hitchhiking spot in Geraldine, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good hitching going north (on the northern side) from here as i found that the extended low speed zone with reasonable through traffic made it easy to get a ride. Took me three mins to get a car to Christchurch from here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 06 Jan 15 04:59:53 +0000">Description written 6.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21242">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.25905418394848,-44.077762278147524</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21319">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>sweet little shady tar-sealed area where you can get rides south quite easily- good visibility! was waiting for all of 15 minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 19 Jan 15 09:50:24 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21319">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.4482650756666,-35.90620157427164</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21320">
+<name>a Hitchhiking spot in Whangarei, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>seemingly open area with good visibility- enough room for cars to pull over comfortably but cars are going fairly quickly. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Mon, 19 Jan 15 09:53:18 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21320">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.43466091154923,-35.979477484566665</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21321">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>excellent spot on the on-ramp headed south- plenty of traffic passes this point, would recommend to everyone wishing to travel south outta aux- pays to have a sign </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 4min (3 experiences)<br /><span title="Mon, 19 Jan 15 09:56:00 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21321">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.8402109145952,-36.91813935040535</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21322">
+<name>a Hitchhiking spot in Ngaruawahia, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>ideal spot for people heading to hamilton, wide road with HEAPS of space for people to pull over, fair amount of traffic- there's bound to be other decent spots for getting out of town</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 19 Jan 15 09:58:09 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21322">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.15549921986658,-37.67355821987898</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21323">
+<name>a Hitchhiking spot in Ngaruawahia, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>decent spot for people heading north out of Narrows- I managed to thumb down a ride to Onehunga within 30 minutes- best time to hitch is when people are heading to work as it seems common for them to commute to Auckland</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 19 Jan 15 10:00:06 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21323">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.15582108494831,-37.65359949041175</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21326">
+<name>a Hitchhiking spot in Ngunguru, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Sweet spot for heading both north or south along the tutukaka coast- good traffic flow in summer with lots o' people pulling over to pick up groceries and chippies!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 19 Jan 15 10:57:31 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21326">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.50392627717503,-35.630629384826854</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21327">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>sweet spot when travelling south towards Ngunguru! Short wait and plenty of cars, good visibility and open bay area for cars to pull over</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 19 Jan 15 10:59:02 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21327">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.5241823196546,-35.609837522919655</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21328">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>brilliant spot for travellers wishing to head south- safe for drivers to pull over, can spot on coming cars from a distance!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 19 Jan 15 11:00:21 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21328">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.50823926927234,-35.56778377535662</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21329">
+<name>a Hitchhiking spot in Paeroa, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot with plenty of slow flowing traffic from the bridge, shady spot handy to the shops with good space to pull over- excellent for those wishing to head towards hamilton. Should be good for people heading in opposite direction but might pay to try from different spaces so that it's clear where you're hoping to go (ie. direction auckland, coromandel, waihi etc)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 19 Jan 15 18:53:15 +0000">Description written 19.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21329">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.6729938983861,-37.38399842510304</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21463">
+<name>a Hitchhiking spot in Picton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>average. waited a couple hours heading south</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 02 Feb 15 21:30:46 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21463">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.9820327758746,-41.30688671521952</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21464">
+<name>a Hitchhiking spot in Blenheim, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>pretty bad. walked all the way through blenheim till i got the the farms. waited a few hours. bring a longboard for the walk out of town...</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 02 Feb 15 21:32:21 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21464">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.9194407463089,-41.510396757369996</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21465">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>not very good. walked/ boarded for quite a whiles till i finally finally got a ride. i was so tired from walking most the day and not sleeping night before i missed several cars cause i was passed out. got a ride all the way to grey mouth though...</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 02 Feb 15 21:33:48 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21465">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.83827447889163,-41.80076276585987</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21466">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>i waited 3 or 4 hours for a ride heading south. make sure you find the best spot, if you walk to far out of town the road gets curvy and not great for stopping.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 02 Feb 15 21:35:31 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21466">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.73417282102452,-45.02672647818259</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21467">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>not the greatest spotâ€¦ took a couple hours on the far side of the bridge heading south, but the bugs can be bruuuutaaaallll</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 02 Feb 15 21:36:51 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21467">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.17904663084173,-43.39374000342119</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21468">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>its alright. not much traffic between invacargill and bluff, but you should get a ride in not too much time. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 02 Feb 15 21:37:53 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21468">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.31731462477538,-46.59417446718566</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21502">
+<name>a Hitchhiking spot in Porirua, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very few spaces along this road, but here's one. Curvy road, but speeds are slow.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Feb 15 01:04:09 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21502">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.88226795195934,-41.105884293818306</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21503">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Space to stop, and cars are slow off the Round-about</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Feb 15 01:04:42 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21503">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.91807007788674,-41.1091017002143</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21504">
+<name>a Hitchhiking spot in Porirua, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>No space, and cars are fast. Walk North past bridge and walk with thumb out and maybe you'll get lucky, cuz the next good space is quite far up the road</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Feb 15 01:05:59 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21504">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.8679664134787,-41.10544774914563</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21505">
+<name>a Hitchhiking spot in Bulls, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Slow speeds and plenty of space!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 12 Feb 15 01:06:58 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21505">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.38957023619037,-40.170277707933465</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21506">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going North, there's a drive-way for cars to stop. It's right before the speed goes up to 100, so cars begin to speed up. Otherwise, go back to the beginning of the bridge, but then you only have cars from one source. Here, you also get them from Famdon Rd and SH2</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Feb 15 01:09:10 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21506">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.91355848311525,-39.57828469233985</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21507">
+<name>a Hitchhiking spot in Hastings, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going North: speeds still slow, and lots of space and visibility. A sign may help, as many are only going short distances.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Feb 15 01:10:13 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21507">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.8642380237632,-39.63189862845975</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21508">
+<name>a Hitchhiking spot in Waipawa, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Space, slow speed, and Happy Hitching!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 12 Feb 15 01:11:33 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21508">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.59299159051932,-39.936801914730964</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21509">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you get stuck out here, no worries, tones of space and cars can see you from far</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 12 Feb 15 01:13:58 +0000">Description written 12.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21509">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.98477125169845,-37.192860326491235</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21603">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>waited here to go north until a policeman stopped and told me noone would probably stop there so he took me a bit further to a better spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 23 Feb 15 03:09:28 +0000">Description written 23.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21603">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.55819821357488,-43.47528300868364</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21604">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>(the dot on the map has to be on the other side of the road) 
+Lots of place for them to stop but it's better to wait further north after road 1 and 73 merge, for going north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 23 Feb 15 03:19:12 +0000">Description written 23.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21604">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.58482718467678,-43.46417581839698</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21736">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I wouldn't say it's the best spot (not so much room to stop), but if you're heading west (Piha in my case) I'd give it a try. It took me less than 10 minutes to get a lift.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 14 Mar 15 10:51:02 +0000">Description written 14.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21736">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.64711332320474,-36.90887493034214</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21737">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you're heading to Auckland from Piha this place is perfect: they can see you from a fair distance, there's room to stop and almost everyone goes back to Auckland from here. Less than 15 min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 14 Mar 15 10:54:23 +0000">Description written 14.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21737">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.47952890395655,-36.956986185087146</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22141">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent spot to hitch to Treble Cone in the winter and Mt Aspiring.  Showed up here on a powder day once and there were already 10+ people waiting.  But we were all in cars on the way to the mountain within 15 mins!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 19 Apr 15 05:31:26 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22141">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.12697160240134,-44.69907756897874</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22142">
+<name>a Hitchhiking spot in Wanaka, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent spot to head to start a journey to the west coast or Christchurch direction (or just Albert Town/Hawea)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 19 Apr 15 05:33:07 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22142">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.14619767661392,-44.692457672841414</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22143">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy spot to get to at least Albert Town/Hawea or beyond.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Sun, 19 Apr 15 05:35:26 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22143">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.17133533951056,-44.696225310206245</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22144">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Decent enough spot by the campground if you get a local ride just to Albert Town.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 05:36:54 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22144">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.19019663330857,-44.679688593174546</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22145">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not the easiest spot for cars to pull over but the friendly locals will still go out of their way to stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 19 Apr 15 05:38:29 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22145">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.21881043906478,-44.654203046349345</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22146">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Awkward spot but enough space for cars turning to go over crown range to stop.  Fairly easy to get a lift from here to Wanaka</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 19 Apr 15 05:41:59 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22146">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>168.85496342176344,-44.98073293451259</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22147">
+<name>a Hitchhiking spot in Cromwell, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not the best pull off, but managed a lift quickly from here a couple times.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 05:43:48 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22147">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.22294104093683,-45.04113216194788</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22148">
+<name>a Hitchhiking spot in Cromwell, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good turn off spot for cars. Nice scenery.  Go for a quick fish if you dont have luck with a life.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 05:45:05 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22148">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.22314488882404,-45.03855456914366</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22149">
+<name>a Hitchhiking spot in Cromwell, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Last leg into Wanaka from a long day from Chch perhaps.  Not too bad of a spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Sun, 19 Apr 15 05:46:14 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22149">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.19331872457553,-45.032970650053464</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22150">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars have to slow down, locals seem mixed on whether they want to pick you up.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 05:48:22 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22150">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.26921451086565,-44.74893506596224</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22151">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Only a small pullout and high speed limit, but still managed a ride fairly quick</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 05:49:35 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22151">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.40100753301743,-44.84171867022429</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22152">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice spot for people to pull over, people at the store can see you to consider you're worthiness before getting back on the road (remember to smile a lot !)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 19 Apr 15 05:51:08 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22152">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.41137158865533,-44.836819321114184</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22153">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Average spot.  Good visibility but not uch traffic.  However, got one of the more fascinating rides of my life with an Egyptian fellow who was building dairy sheds in the middle of nowhere.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sun, 19 Apr 15 05:53:57 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22153">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.9684664010615,-44.4884403466694</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22154">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Small smal town.  Waited a long time but eventually got a ride into Oamaru</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Sun, 19 Apr 15 05:55:42 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22154">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.47081196305868,-44.734229267069274</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22155">
+<name>a Hitchhiking spot in Oamaru, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Average spot, but it works!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 19 Apr 15 05:56:54 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22155">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.95363104341445,-45.1025184364658</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22156">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tried to take SH 85 back toward Wanaka.  Gave up due to puzzled looks and minimal traffic (all old pensioner looking people)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 05:59:30 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22156">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.71390593049358,-45.48143223730708</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22157">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Decent enough spot to get outta this hole of a town.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 06:00:08 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22157">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.71373426911723,-45.48590789947004</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22158">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pit stopped for the Moeraki Boulders.  Glad I did, they are pr.etty cool.  Not the best of spots because of low visibility and high speed limits, but still didn't wait terribly long</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 19 Apr 15 06:02:27 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22158">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.82349026199532,-45.35187542377078</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22159">
+<name>a Hitchhiking spot in Dunedin, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Slowish traffic and heading in the right direction.  Didn't take long to get a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 19 Apr 15 06:04:20 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22159">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.4981704949988,-45.88960182636091</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22160">
+<name>a Hitchhiking spot in Alexandra, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Small pullover a little way after the bridge. Decent enough traffic flow</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 06:06:48 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22160">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.38917362686323,-45.26027607159918</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22161">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>High speed limits, not much traffic.  But eventually someone will stop</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sun, 19 Apr 15 06:08:15 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22161">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.31219422814223,-45.47810628916664</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22162">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Found a shop with an awning at the end of the strip. Good visibility, low speed limits, and cover if it starts to rain</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 19 Apr 15 06:10:44 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22162">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.68404763934436,-45.91249550769255</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22163">
+<name>a Hitchhiking spot in Milton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Average to good.  Typical small town, low speed limits, ample room to pull over</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 06:12:26 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22163">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>169.96803992984192,-46.11250938518917</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22164">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Close to the YHA, slow speed limits, nice scenery</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 19 Apr 15 06:14:43 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22164">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.47235959765345,-44.003034226667545</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22165">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy enough to get to Mt Cook NP from here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 19 Apr 15 06:15:58 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22165">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.12385481593068,-44.18757139438799</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22166">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Fast traffic along a curve in the road.  Your best bet is cars turning from the MT Cook road heading south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sun, 19 Apr 15 06:17:14 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22166">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.12421959635427,-44.1880599130211</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22167">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not heaps of traffic, but all vacationers/travellers. Eventually you'll find some nice person to give you a lift.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 06:19:16 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22167">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.10135644671877,-43.735454113272155</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22168">
+<name>a Hitchhiking spot in Twizel, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>High speed limits pretty average.  But someone will stop.  The guy that did used to hitch and was stoked to give me a ride</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (2 experiences)<br /><span title="Sun, 19 Apr 15 06:21:56 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22168">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>170.10509008164738,-44.260681004208585</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22169">
+<name>a Hitchhiking spot in Timaru, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Decent enough for heading Wanaka/QT way.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 06:24:00 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22169">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.36759513610863,-44.06659056561344</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22170">
+<name>a Hitchhiking spot in Ashburton, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy enough just after the roundabout. Cars are going fairly slow.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 06:25:59 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22170">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.75568664069735,-43.89853232142587</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22171">
+<name>a Hitchhiking spot in Christchurch, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Can get here on the local buses to the mall and then walk a bit.  Worth it, this is a good spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (3 experiences)<br /><span title="Sun, 19 Apr 15 06:29:13 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22171">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>172.50573956961958,-43.54584797688851</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22172">
+<name>a Hitchhiking spot in Motueka, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy enough to head north from this area of town</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 06:33:47 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22172">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.01128232474537,-41.103029016769135</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22173">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Outside a prison. Not the best place to hitch! But I still managed fairly quick, just put my backpackout front, made a friendly Wellington sign and smiled!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 19 Apr 15 06:37:56 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22173">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.80874049657314,-39.07811084536729</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22174">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Worth the walk outta town for this one. Easy spot for cars to pull over.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 19 Apr 15 06:43:18 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22174">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.09861767285284,-35.29505964140497</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22175">
+<name>a Hitchhiking spot in Paihia, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bad spot because of no spot to pull over.  If you're easly enough in the morning and the parking spots are empty it can be okay though</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 06:44:49 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22175">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.09677231304596,-35.28505006765071</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22176">
+<name>a Hitchhiking spot in Paihia, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good one to get toward Kerikeri  or north</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Sun, 19 Apr 15 06:45:30 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22176">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.08123695843813,-35.280233121296746</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22177">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Average to good, outside of the shop. Awkward pullover but cars go slow.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 17min (3 experiences)<br /><span title="Sun, 19 Apr 15 06:46:51 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22177">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.96180355541853,-35.302020951056015</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22178">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Okay for heading south or west.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 06:47:41 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22178">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.96289789669828,-35.303658304193455</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22179">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not much traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 06:48:14 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22179">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.95884239666998,-35.302520040816894</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22180">
+<name>a Hitchhiking spot in Kerikeri, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good for heading south</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Sun, 19 Apr 15 06:48:51 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22180">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.93305027477882,-35.25480365542553</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22181">
+<name>a Hitchhiking spot in Kerikeri, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Slow speed limits, but sometimes parked cars block the view</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Apr 15 06:49:57 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22181">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.94669735425597,-35.230277643784994</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22182">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place, lots of characters living nearby, happy to give lifts</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Apr 15 06:51:04 +0000">Description written 19.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22182">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.15593385689394,-35.171556854633074</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22705">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Right at Greenlane Train station and the Ellerslie Sunday Car Market. Easy to stop at side street, and at a traffic light.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Fri, 05 Jun 15 02:35:33 +0000">Description written 5.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22705">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.79957813022475,-36.88754962248323</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22706">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Access to Lake Monowai and Borland Road. Little traffic even in main season, though fishing/hiking and DOC campground at Lake Monowai and Borland Lodge get some people in and out. But more importantly, SH99 sees very little traffic, be prepared for just 10 cars/hour even in main tourist season.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 05 Jun 15 02:41:42 +0000">Description written 5.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22706">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>167.6690219141838,-45.78135171152778</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22993">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.68382215499156,-43.295304521990985</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22994">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>172.7574863433624,-43.065732700689274</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22995">
+<name>a Hitchhiking spot in Te Anau, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>167.73304367063633,-45.41839109722428</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22996">
+<name>a Hitchhiking spot in Te Anau, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>167.73286664484453,-45.41826683835047</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23095">
+<name>a Hitchhiking spot in Taupo, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>2 guys headed for east coast. stood for an hour. lots of traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 12 Jul 15 00:02:59 +0000">Description written 12.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23095">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.06926345825192,-38.67282468261818</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23096">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good intersection. we headed north, got a quick ride to wairoa.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 12 Jul 15 00:08:15 +0000">Description written 12.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23096">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>176.87602901458453,-39.394297362328835</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23097">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>little maori town on SH2.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 12 Jul 15 00:12:35 +0000">Description written 12.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23097">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>177.73914241790405,-39.04213176050453</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23098">
+<name>a Hitchhiking spot in Gisborne, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>east side of town heading north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 12 Jul 15 00:16:35 +0000">Description written 12.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23098">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>178.04815435409472,-38.67729748206175</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23315">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>168.44172620772667,-45.7417825727077</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23641">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>168.95407104492017,-46.09506008850711</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24303">
+<name>a Hitchhiking spot in Warkworth, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>174.6586897373169,-36.41088272933655</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24531">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We had to wait about 5mins until a nice man took us nearly to Whitianga than.
+Many cars and plenty space to stop there ...</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 03 Nov 15 03:06:00 +0000">Description written 3.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24531">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>175.0265037417282,-37.2267508554754</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24621">
+<name>a Hitchhiking spot in Warkworth, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot. Probably the best in this direction, but very far outside.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 23 Nov 15 01:42:35 +0000">Description written 23.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24621">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.64267158508193,-36.388032842492976</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24622">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>decent space for cars to pull over and cars do not have to much speed.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 23 Nov 15 01:45:30 +0000">Description written 23.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24622">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>173.25551891327123,-35.124475844667124</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24674">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bad place to hitch hike even though it's on the highway...!
+Waited something like two or three hours to get picked up by lovely Canadian people!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Sat, 28 Nov 15 00:15:08 +0000">Description written 28.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24674">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>171.43775367735267,-41.904556511837306</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24685">
+<name>a Hitchhiking spot in New Plymouth, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>174.16000581707857,-39.031604664871416</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24686">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>175.10884396163001,-38.41459546888897</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25243">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>175.5013325214207,-36.76332766104616</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26006">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>176.25397109987279,-38.159105122010985</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26007">
+<name>a Hitchhiking spot in Manurewa, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>174.8905720710632,-36.99141295539137</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26008">
+<name>a Hitchhiking spot in Hamilton, New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>175.32333040234383,-37.80152724211019</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26009">
+<name>a Hitchhiking spot in New Zealand</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>175.84571743005748,-37.99072567772889</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26232">
+<name>a Hitchhiking spot in Wellington, New Zealand</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is the spot listed for hitch hiking out of Wellington, good spot. Tried it recently 24.06.2016 and got a lift within minutes to Taupo. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 27 Jun 16 04:47:09 +0000">Description written 27.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26232">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>174.7846194505599,-41.265771134197045</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

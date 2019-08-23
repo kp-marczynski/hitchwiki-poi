@@ -1,0 +1,90 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Botswana</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="16070">
+<name>a Hitchhiking spot in Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Big gas station (I think Shell) with a lot of traffic going north to Francistown</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 19 Sep 13 17:03:49 +0000">Description written 19.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16070">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>25.92892313003554,-24.606673719768132</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16071">
+<name>a Hitchhiking spot in Francistown, Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In this area there must be a hitch-hiking spot that is quite busy. It was fairly easy to find a lift to Maun, but drivers expect you to pay</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 19 Sep 13 17:06:55 +0000">Description written 19.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16071">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>27.494431972503126,-21.167198845639387</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16072">
+<name>a Hitchhiking spot in Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I was just standing next to the road and waiting for a lift. Took me a while since there was not much traffic coming by and i had to pay for the ride</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 19 Sep 13 17:08:15 +0000">Description written 19.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16072">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>23.45573329925381,-20.039154797404663</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16073">
+<name>a Hitchhiking spot in Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A big gas station, but a lot of people that are waiting for a ride and everybody is going to pay for that. You will find something in any direction but you will most likely have to pay</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 19 Sep 13 17:11:28 +0000">Description written 19.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16073">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>26.18124389648309,-20.210711237950974</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20320">
+<name>a Hitchhiking spot in Maun, Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Somewhere around here is the service station that everyone hitches from. The bus will also stop if you don't get a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 23 Sep 14 21:55:29 +0000">Description written 23.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20320">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>23.390284193594105,-20.02823835958487</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20321">
+<name>a Hitchhiking spot in Ghanzi, Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bus stop. People wait here for rides. Got lucky and got a direct one to Windhoek in 15 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Tue, 23 Sep 14 21:59:03 +0000">Description written 23.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20321">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.64968074663259,-21.71038878894639</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23046">
+<name>a Hitchhiking spot in Botswana</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot, lot of trucks.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 09 Jul 15 00:25:28 +0000">Description written 9.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23046">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>25.239231826445543,-17.81456248462198</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

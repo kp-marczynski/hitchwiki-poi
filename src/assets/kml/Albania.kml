@@ -1,0 +1,905 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Albania</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="3271">
+<name>a Hitchhiking spot in KamÃ«z, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitched here once in 2004, waiting time: 3 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=3271">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.7771072387695,41.3448555837363</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3272">
+<name>a Hitchhiking spot in ShkodÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitched here once in 2004, waiting time: 3 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:40,0,0,20,40&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|1|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=3272">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.5127487182617,42.0671359875001</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5146">
+<name>a Hitchhiking spot in DurrÃ«s, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Ok spot for going to Tirana or towards the north. A bit of a walk from the center though.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5146">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.4710350036621,41.3190917386129</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5787">
+<name>a Hitchhiking spot in Shkodër, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is your place when heading to Albania.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:62.5,37.5,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 14min (6 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5787">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.2695581912994,42.4228249103979</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7768">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gasstation before Kukes; no good. Local traffic and lots of traffic on the highway turning into Kukes</p>
+
+<p>Find a ride into Kukes and walk towards the road leaving town. There I had a ride to Tirana in 15 min (and lots of offers for (shared) taxis.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 19 May 11 18:59:07 +0000">Description written 19.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7768">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.46744377781,42.077597281721</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7769">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walking down this road with a 'TR' sign I had a direct ride in 15 min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 19 May 11 18:59:49 +0000">Description written 19.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7769">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.417093350173,42.082701583128</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7770">
+<name>a Hitchhiking spot in TiranÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a bus going this direction (forgot the name), then walk a bit further to a place where cars can stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (3 experiences)<br /><span title="Thu, 19 May 11 19:05:19 +0000">Description written 19.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7770">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.846297814195,41.301963151365</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9711">
+<name>a Hitchhiking spot in ShkÃ¶der, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got a ride to TiranÃ« in 10 minutes at a petrol station.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Sun, 08 Apr 12 21:43:00 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9711">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.504952073077,42.061154539083</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9712">
+<name>a Hitchhiking spot in Elbasan, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got a ride to the Macedonian border late in the night.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 08 Apr 12 21:45:04 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9712">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.071906685819,41.107691670044</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10052">
+<name>a Hitchhiking spot in Hudenisht, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Decent spot for cars going into Albania, they come out of the border crossing slowly. Ignore the obnoxious taxi drivers.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,33.333333333333,66.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (3 experiences)<br /><span title="Tue, 15 May 12 21:03:31 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10052">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.60635872277,41.08797267625</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10053">
+<name>a Hitchhiking spot in Hudenisht, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Better than waiting on the border since this is the main road an gets also the cars coming from the Albanian side of the lake.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:42.857142857143,57.142857142857,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (5 experiences)<br /><span title="Tue, 15 May 12 21:05:23 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10053">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.608860029825,41.065346689542</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10054">
+<name>a Hitchhiking spot in Bradashesh, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you have a chance, take this very scenic road over the mountains to Tirana. The spot is not great but the route is worth the trip.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 15 May 12 21:10:19 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10054">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.029169700103,41.100655767309</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10055">
+<name>a Hitchhiking spot in TiranÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>lots of outgoing traffic (and many vans). I spoke to the truck drivers in difficult English, but they got me on a truck that was passing by.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Tue, 15 May 12 21:13:57 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10055">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.782928679597,41.340699529607</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10656">
+<name>a Hitchhiking spot in GjirokastÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The last petrol station in Girokaster.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (3 experiences)<br /><span title="Mon, 16 Jul 12 23:27:34 +0000">Description written 16.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10656">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.139935016631014,40.08859501442582</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11105">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>gas station with cars heading to Greece, Gjirokaster and up the coast to Vlore</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 17 Aug 12 20:35:50 +0000">Description written 17.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11105">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.013579368591092,39.87304318789708</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11106">
+<name>a Hitchhiking spot in SarandÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>junction for cars going to either Gjirokaster or Vlore. very slow traffic</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (4 experiences)<br /><span title="Fri, 17 Aug 12 20:37:28 +0000">Description written 17.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11106">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.02709770202656,39.87515106619264</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11130">
+<name>a Hitchhiking spot in Labinot FushÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Towards Ohrid</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,37.5,12.5,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (7 experiences)<br /><span title="Sat, 18 Aug 12 23:55:32 +0000">Description written 18.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11130">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.10367767211929,41.12168200841205</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11131">
+<name>a Hitchhiking spot in Elbasan, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just before the bridge it is easy for cars going towards Tirana and the coast to stop</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Sat, 18 Aug 12 23:56:56 +0000">Description written 18.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11131">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.062500399322108,41.10551564072672</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11132">
+<name>a Hitchhiking spot in FarkÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>towards elbasan</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (3 experiences)<br /><span title="Sun, 19 Aug 12 00:02:42 +0000">Description written 19.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11132">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.85322372314411,41.28261067837612</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11433">
+<name>a Hitchhiking spot in VlorÃ«, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.49486160202791,40.44523683108636</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11969">
+<name>a Hitchhiking spot in Dropull i SipÃ«rm, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good traffic but lots of taxi driver assulting literally you when u cross the border from greece.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 40min (3 experiences)<br /><span title="Fri, 12 Oct 12 16:07:32 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11969">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.35344160156452,39.911444069775</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11970">
+<name>a Hitchhiking spot in QendÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a very good water spring where everybody stop to fill their bottle u can easily find a lift north to Tirana but hardly east to kelcyre and Permet. anyway doable.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 12 Oct 12 16:10:30 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11970">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.054064160158248,40.25921988112904</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11971">
+<name>a Hitchhiking spot in PÃ«rmet, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Low traffic but if u r lucky like hhikers always are u can do it!;) further leskovik is gonna be even harder until Erseke</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 12 Oct 12 16:11:48 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11971">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.36060846405217,40.23338344946864</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11972">
+<name>a Hitchhiking spot in QendÃ«r Bulgarec, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In spite of lots of illegal taxi asking you for money there are lots of possiblity to get pogradec and the border with macedonia</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 12 Oct 12 16:12:57 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11972">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.76624429779167,40.63331314714339</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12010">
+<name>a Hitchhiking spot in Mesopotam, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.109186172485355,39.91246841375088</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12641">
+<name>a Hitchhiking spot in Milot, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Kosovo</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 08 Mar 15 15:56:17 +0000">Description written 8.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=12641">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.775544047350756,41.70449127813724</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12642">
+<name>a Hitchhiking spot in SuÃ§, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>first car stopped. Car was full but we could enter anyway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 10 Dec 12 14:13:39 +0000">Description written 10.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12642">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.058362859292217,41.64008328912215</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12643">
+<name>a Hitchhiking spot in FushÃ«-BulqizÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place to go to Macedonia. Albanian people will take you only to the border though..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 10 Dec 12 14:17:45 +0000">Description written 10.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12643">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.478978441536213,41.58756207419202</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14690">
+<name>a Hitchhiking spot in Rrethinat, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It is not easy to hike here as the mini-bus going north is near-by, luckily we were picked up by a small trawlers going 5km further.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,25,0,25,25&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Sun, 30 Jun 13 02:04:21 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14690">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.51586866378736,42.076083948291576</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14691">
+<name>a Hitchhiking spot in Rrethinat, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>trucks going to Montenegro pass here. We were picked up by one going all the way to Holland</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 30 Jun 13 02:06:59 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14691">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.49938917160067,42.115769772870095</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14700">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>we tried hitch hiking instead of taking the ferry leaving the region. We were picked up but not going very far</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 02:48:54 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14700">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.02806329727002,42.27893241657034</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14701">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>picked up by car from Cerem, back to B-currie</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 30 Jun 13 02:50:16 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14701">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.961287021635247,42.440850246175245</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14702">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>car is really really infrequent, we waited for 1 hour for two hikes back to the highway to Tarane. We are just too lucky for the second hike to go a long way zig-zag among mountains</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sun, 30 Jun 13 02:53:27 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14702">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.215345859526064,42.27677323399267</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14775">
+<name>a Hitchhiking spot in TiranÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There're vans on the street which take you to the border with Macedonia. Can't remember the place they stop in the city, try asking people. Price is negociable (We only payed 2-3â‚¬) 
+Once you get to border it is very easy to hitch-hike to other places in Macedonia (Ohrid, Skopje..)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 15 Apr 14 15:45:35 +0000">Description written 15.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=14775">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.803841352463188,41.33343339492636</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15735">
+<name>a Hitchhiking spot in Milot, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Roundabout in construction. A lot of space to pull over.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 16min (3 experiences)<br /><span title="Sun, 18 Aug 13 13:45:58 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15735">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.672996878638955,41.66141915295513</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15736">
+<name>a Hitchhiking spot in Balldren i Ri, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Parking direction Scutari.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 4min (2 experiences)<br /><span title="Sun, 18 Aug 13 13:46:43 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15736">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.641432642950758,41.78078529380778</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15737">
+<name>a Hitchhiking spot in Rrethinat, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place towards Montenegro.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (10 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (6 experiences)<br /><span title="Sun, 18 Aug 13 13:47:28 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15737">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.485220789923023,42.04589101708807</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15797">
+<name>a Hitchhiking spot in QendÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gas station and little restaurant. You can walk here from the city center (about 45 minutes) Every traffic northbound will go past this spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 20 Aug 13 00:11:45 +0000">Description written 20.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15797">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.481042861939788,40.48768104066567</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16159">
+<name>a Hitchhiking spot in Mesopotam, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.266691386699833,39.93847039802636</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16174">
+<name>a Hitchhiking spot in LukovÃ«, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.95444202423204,39.968211806270695</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16175">
+<name>a Hitchhiking spot in HimarÃ«, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.73462963104254,40.11773190826683</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16196">
+<name>a Hitchhiking spot in Fier, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.570778846739085,40.72256349820422</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16227">
+<name>a Hitchhiking spot in Kastrat, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.439844131470792,42.28450467091454</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17951">
+<name>a Hitchhiking spot in BuÃ§imas, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Towards any city in the north, traffic is ok and much place to stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 04 Apr 14 20:47:51 +0000">Description written 4.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17951">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.649627685547056,40.90915480505362</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17952">
+<name>a Hitchhiking spot in KorÃ§Ã«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just after the roundabout, not much space to stop but still ok.
+Many car go to Pogradec so it can be a first lift if you go further north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 04 Apr 14 20:50:33 +0000">Description written 4.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17952">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.77208662033156,40.62537428219631</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18500">
+<name>a Hitchhiking spot in Pogradec, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is the spot to go to Korca. Locals asiking for payment 200 leke</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 21 May 14 21:09:25 +0000">Description written 21.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18500">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.665699481967426,40.89856451021074</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18942">
+<name>a Hitchhiking spot in Kelmend, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Incredeble bad place. Just if you have time you can go from here to beatiful villages. Here you can wait car one day. So be ready for that. This road is not so good like in the google maps</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 17 Jun 14 23:41:36 +0000">Description written 17.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18942">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.75379615038783,42.58427620274383</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19715">
+<name>a Hitchhiking spot in Maminas, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot to go to Shkoder </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (3 experiences)<br /><span title="Tue, 12 Aug 14 19:34:14 +0000">Description written 12.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19715">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.658819675445034,41.39308934520738</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19716">
+<name>a Hitchhiking spot in HimarÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>lot's of space, no problem for trucks and busses to stop</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Tue, 12 Aug 14 19:48:03 +0000">Description written 12.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19716">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.739196091890037,40.11321206160101</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20911">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Enough space to stop a cars, but not to much cars passing</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Wed, 26 Nov 14 09:02:12 +0000">Description written 26.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20911">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.776483654977334,40.602552229674096</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20912">
+<name>a Hitchhiking spot in QendÃ«r ErsekÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It will be hard to get a ride further, only few cars goes there. But that part of the road are extremely beautiful. It's worth to wait.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Wed, 26 Nov 14 09:08:49 +0000">Description written 26.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20912">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.678966381720397,40.332032548358676</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20913">
+<name>a Hitchhiking spot in QendÃ«r Leskovik, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>One car per hour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Wed, 26 Nov 14 09:11:17 +0000">Description written 26.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20913">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.600442030603393,40.15412547217927</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20914">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This direction is much more easy than oposite way.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Wed, 26 Nov 14 09:17:33 +0000">Description written 26.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20914">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.354955532722688,40.237732215427265</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21265">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Saranda and further to Greece</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><span title="Wed, 25 Mar 15 09:38:30 +0000">Description written 25.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21265">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.85007190704391,40.063674836816986</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21585">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Somewhere here is a gas station. The owner was super friendly, and basically stopped the car for us. Don't forget to look behind you when driving, the view is breathtaking.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 22 Feb 15 11:06:52 +0000">Description written 22.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21585">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.560021976605103,41.0714152818011</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21630">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can get a ride to Elbasan evry 5 or 10 min from here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 28 Feb 15 18:54:56 +0000">Description written 28.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21630">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.889698863029597,41.06716665191077</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21682">
+<name>a Hitchhiking spot in GosÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Fier, Berat, Vlora, Saranda, Gjirokastra and South Albania.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 07 Mar 15 13:02:45 +0000">Description written 7.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21682">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.633331298830342,41.073319397157015</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21683">
+<name>a Hitchhiking spot in KarbunarÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Towards Berat and Corovoda canyons. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 07 Mar 15 13:05:16 +0000">Description written 7.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21683">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.710063934327675,40.92941983740233</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21684">
+<name>a Hitchhiking spot in Berat, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toward Corovoda canyons</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Sat, 07 Mar 15 13:07:12 +0000">Description written 7.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21684">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.973167181015782,40.69845579341592</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21688">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Gramsh</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 08 Mar 15 15:58:34 +0000">Description written 8.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21688">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.99937236309053,41.020434051517434</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21953">
+<name>a Hitchhiking spot in QendÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We were two (guy, girl) to Macedonia. We waited only 5 min. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 6min (3 experiences)<br /><span title="Sun, 05 Apr 15 19:02:21 +0000">Description written 5.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21953">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.320770740509644,41.176992188275655</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22244">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We droped here and waited only 2 to 5 min. The car stoped for us and taked straight to Struga. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2min (1 experience)<br /><span title="Sat, 25 Apr 15 12:38:50 +0000">Description written 25.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22244">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.38801908493609,41.13730586420909</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22815">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.730651855468075,40.90931697096418</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22816">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.669754981994835,40.89400675578148</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22859">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>bus stop </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 20 Jun 15 08:26:19 +0000">Description written 20.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22859">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.716918945312635,40.70441231237213</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22924">
+<name>a Hitchhiking spot in QendÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>koplik, direction Montenegro </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Thu, 25 Jun 15 19:05:43 +0000">Description written 25.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22924">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.429630279542828,42.22249949262686</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23217">
+<name>a Hitchhiking spot in TiranÃ«, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.832943320272825,41.31697279257131</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23339">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Two (male, Female) hitchhiking to Tirana. 
+A truck driver took us.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 07 Aug 15 16:04:19 +0000">Description written 7.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23339">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.671268463137267,41.68728891637385</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23340">
+<name>a Hitchhiking spot in ShkÃ¶der, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchhing to Tirana! A Audi took us between Lezha and Lac. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 07 Aug 15 16:05:52 +0000">Description written 7.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23340">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.494382143024577,42.04066559909489</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23946">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.547768115998398,41.06895022982318</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23947">
+<name>a Hitchhiking spot in BÃ«rdicÃ«, Albania</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>19.50275258994083,42.03180980740186</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24020">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>got a lift to the Durres-Vlore &quot;highway&quot; from here without even asking. Just got approached by a guy asking us where we wanted to go. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Fri, 11 Sep 15 23:15:56 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24020">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.029457179631645,41.10082932389749</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24021">
+<name>a Hitchhiking spot in GosÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot to go to Durres, Shkoder or Tirana. Its currently (sept 2015) a construction site which offers lots of space for cars to pull over either before or after the gas station. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 11 Sep 15 23:19:20 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24021">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.636352626409636,41.07258320009032</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24022">
+<name>a Hitchhiking spot in GruemirÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>works for north and south. lots of space to stop, cafÃ© with Wifi. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><span title="Fri, 11 Sep 15 23:21:46 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24022">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.48172864111976,42.143671542068866</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24064">
+<name>a Hitchhiking spot in Shkoder, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station at a big junction in the direction of Tirana/Ulcinj. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 14 Sep 15 17:22:27 +0000">Description written 14.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24064">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.501457154750707,42.05706217681138</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24195">
+<name>a Hitchhiking spot in ShkÃ¶der, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot to Tirana on the petrol station. Slow traffic because of the roundabout and good place for cars to stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,40,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (4 experiences)<br /><span title="Wed, 23 Sep 15 00:04:47 +0000">Description written 23.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24195">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.490323305126168,42.043944926373776</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26126">
+<name>a Hitchhiking spot in Posta Elbasan, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get a ride for free to berat direction</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Jun 16 12:20:39 +0000">Description written 19.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26126">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.082616746424073,41.1088476591676</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26401">
+<name>a Hitchhiking spot in Vlora, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Vlore-Sarande: This was one hell of a journey hitchhiking. It's a good road to hitchhike down to Himare. But after that, the traffic dies out to eventually nothing. Had the pleasure of hitching a number of short rides to beautiful places, but eventually left me to walk almost 10 KM until almost sundown. I luckily found a ride about 15 KM's north of Sarande into the city, otherwise I would have been stranded.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sun, 10 Jul 16 15:14:38 +0000">Description written 10.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26401">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.487092971805495,40.42037605877471</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26772">
+<name>a Hitchhiking spot in QendÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>highway has a new feeder street, start of the highway, every northbound traffic is for shure here passing.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Aug 16 23:53:19 +0000">Description written 2.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26772">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.477480888365985,40.48805638898548</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26773">
+<name>a Hitchhiking spot in Fier, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice big street with parking places and nice shadow to hitchhike north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 02 Aug 16 23:58:26 +0000">Description written 2.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26773">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.57331621646856,40.734653409906414</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26782">
+<name>a Hitchhiking spot in QendÃ«r, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Roundabout direction thethi. I think I was lucky and get a local guy who took me to Boge. Not much traffic... probably few tourists.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 03 Aug 16 15:54:53 +0000">Description written 3.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26782">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.446152687073166,42.22049728549379</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26783">
+<name>a Hitchhiking spot in Shkrel, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After this place, road seems its not possible to ride by car... it was.. I was lucky and get a ride by local taxi full of drunk teen albanians who took me to theth.. anyway.. i think this taxi vans are the only possibility to reach theth... here is also a small restaurant. lunch incl coffee 3euro aprox.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Wed, 03 Aug 16 15:56:17 +0000">Description written 3.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26783">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.644292831420675,42.397050585942544</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26784">
+<name>a Hitchhiking spot in ShalÃ«, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>i think not possibl to hitchhike back. hike to valbona.. is amazing nature.. it takes around 10 hours with long breaks. from valbona much easier.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Wed, 03 Aug 16 15:57:06 +0000">Description written 3.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26784">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>19.76072216033912,42.410993760645084</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26921">
+<name>a Hitchhiking spot in Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot with shadow and a small parking lot to pull down for cars. make sure you bring water from the gasstation just before.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 09 Aug 16 14:09:08 +0000">Description written 9.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26921">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.050314903260077,39.878658563822626</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26922">
+<name>a Hitchhiking spot in Dropull i SipÃ«rm, Albania</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>this is the road to the Greek border, so it has very low traffic as only people are using it who want to enter Greece. we were very lucky because got picked up by the 10th car, but for this we waited 30min. there are no trees, and the space is in a valley, so it was very-very hot and the sun was crazy strong. have water with you, and cover yourself (or use umbrella), because the sun can harm you badly, and there is no place to hide.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 09 Aug 16 14:27:23 +0000">Description written 9.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26922">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.285877227781903,39.93075587563718</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Document>
+</kml>
