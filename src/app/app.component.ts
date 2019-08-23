@@ -145,7 +145,9 @@ export class AppComponent implements OnInit {
     a.download = filename + '.kml';
     a.href = window.URL.createObjectURL(kmlBlob);
     a.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', a.download, a.href].join(':');
+    document.body.appendChild(a);
     a.click();
+    a.remove();
   }
 
   private downloadKmlFromAssets(country: ICountry): Promise<any> {
