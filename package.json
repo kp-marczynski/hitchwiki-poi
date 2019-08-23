@@ -8,8 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build-prod": "ng build --prod --aot --base-href 'https://kp-marczynski.github.io/hitchwiki-poi/'",
-    "deploy": "ngh --base-href=/hitchwiki-poi/"
+    "deploy": "ng build --prod --aot --base-href /hitchwiki-poi/ && ngh --dir dist/hitchwiki-poi"
   },
   "private": true,
   "dependencies": {

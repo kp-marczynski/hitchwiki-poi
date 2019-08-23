@@ -37,7 +37,9 @@ export class AppComponent implements OnInit {
 
   public downloadAll(index: number) {
     if (index < this.countries.length) {
-      this.getPlacesInCountry(this.countries[index]).then(() => this.downloadAll(index + 1));
+      this.getPlacesInCountry(this.countries[index])
+        .then(() => this.downloadAll(index + 1))
+        .catch(() => this.downloadKmlFromAssets(this.countries[index]).then(() => this.downloadAll(index + 1)));
     }
   }
 
@@ -146,8 +148,13 @@ export class AppComponent implements OnInit {
     a.click();
   }
 
-  private downloadKmlFromAssets(country: ICountry) {
-    this.getKmlFromAssets(country).then(kmlString => this.saveToFile(country.name, kmlString));
+  private downloadKmlFromAssets(country: ICountry): Promise<any> {
+    return new Promise((resolve, reject) => {
+      this.getKmlFromAssets(country).then(kmlString => {
+        this.saveToFile(country.name, kmlString)
+        resolve();
+      });
+    });
   }
 
   private prepareKmlString(country: ICountry): Promise<any> {

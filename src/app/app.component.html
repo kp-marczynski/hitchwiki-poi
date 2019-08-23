@@ -5,18 +5,18 @@
       Welcome to hitchwiki-poi generator!
     </h1>
     <img width="300" alt="Logo"
-         src="../assets/images/undraw_directions_x53j.png">
+         src="assets/images/undraw_directions_x53j.png">
   </div>
   <form name="editForm" role="form" novalidate [formGroup]="corsForm">
     <label for="corsUrl">Cors Proxy URL</label>
     <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url">
   </form>
 
-  <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="../assets/kml/world.kml"
+  <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="assets/kml/world.kml"
      type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
 
   <button class="btn-block btn btn-primary" (click)="downloadAll(0)">
-    Generate all new
+    Generate kml file for every country
   </button>
 
   <h2>Countries</h2>
