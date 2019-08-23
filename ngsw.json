@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1566580997709,
+  "timestamp": 1566581283579,
   "index": "/hitchwiki-poi/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/hitchwiki-poi/favicon.ico",
         "/hitchwiki-poi/index.html",
-        "/hitchwiki-poi/main-es2015.9446c22a75fef0c78311.js",
-        "/hitchwiki-poi/main-es5.1613ad2e039dbc4729d0.js",
+        "/hitchwiki-poi/main-es2015.f558fe3a0c6a0734d029.js",
+        "/hitchwiki-poi/main-es5.8601080affeb87783dd4.js",
         "/hitchwiki-poi/polyfills-es2015.60da8dfaba73178a4fc1.js",
         "/hitchwiki-poi/polyfills-es5.9da4338e5c5eea023a22.js",
         "/hitchwiki-poi/runtime-es2015.b2aca5be9e7b8cc1a1b4.js",
@@ -354,9 +354,9 @@
     "/hitchwiki-poi/assets/kml/world.kml": "e50a91973c23a1bc223b06b9dcb2d658251c196f",
     "/hitchwiki-poi/assets/kmlTemplate.kml": "a390469602429782f27c7f8ca2c5d35c15b411a4",
     "/hitchwiki-poi/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/hitchwiki-poi/index.html": "56090b4f4a7d444dca715115731adbe25085d315",
-    "/hitchwiki-poi/main-es2015.9446c22a75fef0c78311.js": "95e095d608d8ea28131e87c8c7c628ed1b357ef6",
-    "/hitchwiki-poi/main-es5.1613ad2e039dbc4729d0.js": "2cc4670a1fc3d6d3ffa4a4edc84addb96de3dd2b",
+    "/hitchwiki-poi/index.html": "63c6b19316fc73e9cd4702439c95a2954523226f",
+    "/hitchwiki-poi/main-es2015.f558fe3a0c6a0734d029.js": "6c269280e9cc0a22146604e2d924a8a71db34414",
+    "/hitchwiki-poi/main-es5.8601080affeb87783dd4.js": "f4f9e2397428b1e3fda3118e77b3fa7bf5a715e6",
     "/hitchwiki-poi/polyfills-es2015.60da8dfaba73178a4fc1.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
     "/hitchwiki-poi/polyfills-es5.9da4338e5c5eea023a22.js": "7e1b38fcb73a9607657630e25f278302170f96dc",
     "/hitchwiki-poi/runtime-es2015.b2aca5be9e7b8cc1a1b4.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
