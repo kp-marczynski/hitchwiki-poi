@@ -1,9 +1,9 @@
 import {Component, OnInit} from '@angular/core';
 import {HttpClient, HttpResponse} from "@angular/common/http";
 import {Country, ICountry} from "../model/country.model";
-import {PlaceInfo, IPlaceInfo} from "../model/place-info.model";
+import {IPlaceInfo, PlaceInfo} from "../model/place-info.model";
 import {filter, map} from 'rxjs/operators';
-import {FormBuilder, Validators} from "@angular/forms";
+import {FormBuilder} from "@angular/forms";
 
 @Component({
   selector: 'app-root',
@@ -166,20 +166,6 @@ export class AppComponent implements OnInit {
             kmlTemplate.getElementsByTagName("Document")[0].appendChild(placeInfo.kml);
           }
           resolve(new XMLSerializer().serializeToString(kmlTemplate));
-        });
-      }
-    )
-  }
-
-  private createKmlBlob(country: ICountry): Promise<Blob> {
-    return new Promise((resolve, reject) => {
-        this.getKmlTemplate().then(result => {
-          let kmlTemplate = this.parseXml(result);
-          kmlTemplate.getElementsByTagName("name")[0].childNodes[0].nodeValue = country.name;
-          for (let placeInfo of country.placesInfo) {
-            kmlTemplate.getElementsByTagName("Document")[0].appendChild(placeInfo.kml);
-          }
-          resolve(new Blob([new XMLSerializer().serializeToString(kmlTemplate)], {type: 'application/vnd.google-earth.kml+xml'}));
         });
       }
     )
