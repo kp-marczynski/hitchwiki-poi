@@ -74,11 +74,16 @@
   <ngb-accordion #acc="ngbAccordion">
     <ngb-panel title="Advanced Options">
       <ng-template ngbPanelContent>
+        <p>To acquire the most recent version of POI points from hitchwiki you would have to enable Cross Origin Resource Sharing (CORS)</p>
+        <p>You may want to do this by using some browser extension to temporarily disable CORS</p>
+        <p>Or you may try with some <a href="https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347">CORS proxy</a>If you decide to go along with latter, provide url to proxy:</p>
         <form name="editForm" role="form" novalidate [formGroup]="corsForm">
-          <label for="corsUrl">Cors Proxy URL</label>
-          <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url">
+          <label for="corsUrl" hidden>Cors Proxy URL</label>
+          <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url" placeholder="CORS proxy url">
         </form>
-
+        <p>Note that when above url is provided then all request (well, except for downloading preprocessed files) will be handled by provided server. Unfortunately most free proxies limit number of request so you probably <strong>won't be able</strong> to download kml files for countries with lot of places</p>
+        <hr>
+        <p>There are also some <em>fancy</em> download options you might want to give a try:</p>
         <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="assets/kml/world.kml"
            type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
 
