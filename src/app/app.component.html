@@ -7,17 +7,32 @@
     <img width="300" alt="Logo"
          src="assets/images/undraw_directions_x53j.png">
   </div>
-  <form name="editForm" role="form" novalidate [formGroup]="corsForm">
-    <label for="corsUrl">Cors Proxy URL</label>
-    <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url">
-  </form>
-
-  <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="assets/kml/world.kml"
-     type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
-
-  <button class="btn-block btn btn-primary" (click)="downloadAll(0)">
-    Generate kml file for every country
-  </button>
+  <p class="text-center">
+    Have you ever found yourself on the side of a highway with no way to catch a ride?
+    <br>
+    Well, fear no more, <strong>we've got you covered!</strong>
+    <br>
+    Below you can find downloadable kml files compatible with Maps.me offline maps
+  </p>
+  <p>Bur first check out some important links:</p>
+  <ul>
+    <li>
+      <a href="https://maps.me/download">
+        Download Maps.me mobile app
+      </a>
+    </li>
+    <li>
+      <a href="https://support.maps.me/hc/en-us/articles/207895029-How-can-I-import-bookmarks-">
+        How to import kml file to Maps.me
+      </a>
+    </li>
+    <li>
+      <a href="http://hitchwiki.org/maps/">Hitchwiki maps website</a>
+      <span> - content used under license </span>
+      <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+      <span> with changed placemark styles to comply with Maps.me</span>
+    </li>
+  </ul>
 
   <h2>Countries</h2>
   <table class="table table-striped">
@@ -56,5 +71,28 @@
     </tbody>
   </table>
 
+  <ngb-accordion #acc="ngbAccordion">
+    <ngb-panel title="Advanced Options">
+      <ng-template ngbPanelContent>
+        <form name="editForm" role="form" novalidate [formGroup]="corsForm">
+          <label for="corsUrl">Cors Proxy URL</label>
+          <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url">
+        </form>
 
+        <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="assets/kml/world.kml"
+           type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
+
+        <button class="btn-block btn btn-primary" (click)="downloadAll(0)">
+          Generate kml file for every country
+        </button>
+      </ng-template>
+    </ngb-panel>
+  </ngb-accordion>
+
+  <h4>License:</h4>
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+    <img alt="Creative Commons License" style="border-width:0"
+         src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png"/></a><br/>
+  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">
+  Creative Commons Attribution-ShareAlike 3.0 Unported License</a>
 </div>
