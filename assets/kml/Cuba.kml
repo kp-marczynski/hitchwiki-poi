@@ -1,0 +1,42 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Cuba</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="21492">
+<name>a Hitchhiking spot in Cuba</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-74.70162606239155,20.529611977940117</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24868">
+<name>a Hitchhiking spot in Havana, Cuba</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is the official punto amarillo on the autopista nacional heading east, which means that you will find yourself in competition with lots of other (Cuban) hitchhikers. Cars are legally expected to stop, and you can raise your chances by waiving with 20 pesos bills (like most Cubans do). waiting time can vary between minutes and hours. to get to the punto amarillo, take the p7 from parque central, get out in san francisco de paula and either walk or take a ride along the primer anillo to the punto amarillo. when lost, ask cubans, everyone knows where the punto amarillo is.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 08 Jan 16 18:53:22 +0000">Description written 8.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24868">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-82.2676602602001,23.07104368868349</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24869">
+<name>a Hitchhiking spot in CÃ¡rdenas, Cuba</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>this crossing between the main highway and a small carretera is a punto amarillo. it's very easy to get a hitch in direction havanna, to the bahÃ­a de cochinos or in direction santa clara</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 08 Jan 16 18:55:31 +0000">Description written 8.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24869">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-81.1381874084459,22.513850732476254</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

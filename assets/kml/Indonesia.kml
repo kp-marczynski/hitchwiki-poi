@@ -1,0 +1,203 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Indonesia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="2470">
+<name>a Hitchhiking spot in Selogiri, Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Three cross in Sengon,place in Ngadiroyo,Nguntoronadi,Wonogiri</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=2470">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.974375605583,-7.87168746812344</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2472">
+<name>a Hitchhiking spot in Selogiri, Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>NGADIROYO VILLAGE</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=2472">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.96689760685,-7.86927496388863</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8128">
+<name>a Hitchhiking spot in Bandung, Indonesia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>107.60979560373,-6.9109162205615</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10923">
+<name>a Hitchhiking spot in Dumai, Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>is really easy to find a truck just go close to the bus terminal and try to avoid all the people who will want to sell you a bus ride...just walk a little bit in your direction and wait for a truck :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 04 Aug 12 13:47:59 +0000">Description written 4.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10923">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.39501953124476,1.6478350541207392</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10924">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just take the minibus outside of the city and look for a ride :) in case you don t wont to take a mini bus</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 04 Aug 12 17:24:24 +0000">Description written 4.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10924">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.40384674073805,-0.9568546467366676</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13757">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>the border is a great spot for catching lifts south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 23 Apr 13 21:00:17 +0000">Description written 23.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13757">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>119.5553092285146,-0.8663271381256019</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13758">
+<name>a Hitchhiking spot in Kota Jayapura, Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>the end of the border village is a pretty decent hitching spot. gotta love papuans!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 23 Apr 13 21:02:06 +0000">Description written 23.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13758">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>140.98960616089258,-2.610106103964854</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23590">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>this nice place for waiting some one pickup you...</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 13 Aug 15 01:49:38 +0000">Description written 13.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23590">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>116.8926086425704,-8.536095478405773</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23591">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>116.89140969515276,-8.536314309343746</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24321">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walked all the way from Kuta to here and is still far from the main road to Gilimanuk.
+Is easy to stop cars, but all of them will ask you for money  (welcome to Bali) and everyone will tell you that no one will pick you up for free - just keep smiling and continue to say &quot;gratis&quot;... I waited about 30 to 40 min for a free ride (which is a lot for a western in Indonesia)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 06 Oct 15 21:05:15 +0000">Description written 6.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24321">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>115.17959976199018,-8.619862720741756</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24322">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can easily find some trucks that will go directly to Java</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 06 Oct 15 21:06:48 +0000">Description written 6.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24322">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>114.60208797457699,-8.35224410351738</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24323">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pretty easy! A lot of trucks and cars going to Surabaya. However traffic is very slow.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 06 Oct 15 21:09:32 +0000">Description written 6.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24323">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>114.39909839632685,-8.118367756352427</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24324">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I was just walking and showing my sign and a truck, that was going north, pick me up.  May be harder to hitchhike cars because there is a lot of local traffic</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 06 Oct 15 21:15:26 +0000">Description written 6.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24324">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.3627600670134,-7.7413280731128085</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24330">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A lot of traffic, slow, not enough space to stop. In this spot all the different directions are possible.
+There is a lot of cargo ships in Semarang, so you also have a lot of trucks coming and going to Jakarta and Surabaya</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 07 Oct 15 18:15:35 +0000">Description written 7.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24330">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.45198106768099,-6.957221469152098</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24505">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Big petrol station on the road to Bandul. Has a few restaurants which makes it a perfect place for a break.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 30 Oct 15 08:35:29 +0000">Description written 30.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24505">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.31338358478557,-7.802579758570413</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25032">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>120.09375000000226,-5.200252097432398</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25863">
+<name>a Hitchhiking spot in Sanur, Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the bypass crossing of McDonald, i tried to hh to the airport. After saying no to 10 taxis and talking with a street food seller i managed to hitch a motorcycle, who went off to get a second helmet before giving me a ride. Had to wait about 30-40min.</p>
+
+<p>Worth trying, but be prepared for many to stop and block other cars. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 24 May 16 12:16:18 +0000">Description written 24.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25863">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>115.25915836552959,-8.681989111980126</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26733">
+<name>a Hitchhiking spot in Indonesia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you going to Yogyakarta, so very easy point.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 01 Aug 16 17:11:42 +0000">Description written 1.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26733">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>108.54707622529081,-7.369207102153113</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

@@ -1,0 +1,51 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Kenya</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="5814">
+<name>a Hitchhiking spot in Voi, Kenya</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>38.671875,-3.61576082414216</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12801">
+<name>a Hitchhiking spot in Nairobi, Kenya</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>36.86390304565333,-1.259651225551203</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21685">
+<name>a Hitchhiking spot in Machakos, Kenya</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Heading east of Nairobi. The highway turns from 3 or 4 lanes to 1 in Athi River.</p>
+
+<p>Take a matatu from in front of the  train station to here (#110 if I remember correctly).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 08 Mar 15 14:30:11 +0000">Description written 8.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21685">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>36.996511459350344,-1.4471817801933173</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21687">
+<name>a Hitchhiking spot in Kitale, Kenya</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's barely any traffic going through this border. If you're coming from the Ugandan side, you can probably hitch a truck from Kapchorwa. The Kenyan side was quite desolate of traffic. Be prepared to walk a while.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sun, 08 Mar 15 14:42:07 +0000">Description written 8.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21687">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.733643531797924,1.2156039133517644</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark></Document>
+</kml>

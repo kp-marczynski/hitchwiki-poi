@@ -1,0 +1,53 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Zambia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="9007">
+<name>a Hitchhiking spot in Livingstone, Zambia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good spot to catch trucks or cars headed north to the DRC or Tanzania and beyond. Please see country description for details.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 22 Nov 11 01:06:07 +0000">Description written 22.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9007">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>25.872253417969,-17.858411074089</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9008">
+<name>a Hitchhiking spot in Lusaka, Zambia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>27.761901855465,-16.135430258198</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9009">
+<name>a Hitchhiking spot in Lusaka, Zambia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Head north on the Great North Road to the copperbelt region, and DRC beyond, or head up to Lake Tanganyika, or also on to Tanzania.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 22 Nov 11 01:22:50 +0000">Description written 22.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9009">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>28.276371002193,-15.363047514785</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9010">
+<name>a Hitchhiking spot in Zambia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitch the ferry that goes north to Tanzania and Burundi and beyond, or catch a ride headed south. See the country description for more information.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 22 Nov 11 01:26:03 +0000">Description written 22.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=9010">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>31.111358642571,-8.7652018262478</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

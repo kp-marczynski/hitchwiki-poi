@@ -1,0 +1,50 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Namibia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="17334">
+<name>a Hitchhiking spot in Namibia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>East To Okongo
+From Eenhana you can pick up a ride at the hike point across from the open market, near the Regional Education. Office Eenhana to Okongo is N$50. Eenhana to Oshikunde N$25. </p>
+
+<p>South to Ondangwa: 
+This hike point is on the south end of town past the grocerery stores and the Shell station. There is a single tree in an open area. Many people will be standing around and there will be some vehicles parked on the side of the road. NOTE: This hike point travels the gravel road--though it is cheaper is is bumpier and more prone to stopping. </p>
+
+<p>West to Onuno (Transfer to Ondangwa, Oshikongo):</p>
+
+<p>This route doesn't have a designated hike point. Rather, linger around the Shell station on the north side of town. Look for a sedan--they are much more likely to take the paved route. This is a longer and more expensive ride to Ondangwa and you will switch cars at Onuno but it can ultimately be faster than stopping along the gravel. Your driver will find you a car at Onuno. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 26 Jan 14 22:16:10 +0000">Description written 26.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17334">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>16.294921875000252,-17.497281582267128</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17896">
+<name>a Hitchhiking spot in Namibia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>16.278678894042773,-26.663702563186394</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23047">
+<name>a Hitchhiking spot in Namibia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy lift to Oshakati or Ondangwa.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 09 Jul 15 00:27:41 +0000">Description written 9.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23047">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>17.261283820472563,-18.76830951521814</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

@@ -1,0 +1,57 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Turkmenistan</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="20399">
+<name>a Hitchhiking spot in Ashgabat, Turkmenistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot outside the city on the road towards the border. Bus No. 16 goes there from the big bus stand north of Tekke Basar (remember to get off the bus when the bus turns right from the main road). From here it's a five minute drive or maybe a 30 minute walk to the first border checkpoint, where you'll need to take the shuttle bus.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 28 Sep 14 18:48:49 +0000">Description written 28.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20399">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>58.376077651978854,37.850073932930826</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20594">
+<name>a Hitchhiking spot in Ashgabat, Turkmenistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After crossing the border into Iran most likely there will be no car or truck (no private cars and very few trucks are crossing this border it seems), so you best walk to the next city Bajgiran - an easy 30 minutes downhill walk - and start to hitch from there. Not much traffic though.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 19 Oct 14 10:52:01 +0000">Description written 19.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20594">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>58.40367221832064,37.62698296435746</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21079">
+<name>a Hitchhiking spot in Turkmenistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchhike a Truck back to Asgabat at morning after visit &quot;gas crater&quot;</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Dec 14 11:58:02 +0000">Description written 19.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=21079">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>58.403629302979695,40.21092117668123</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24695">
+<name>a Hitchhiking spot in Turkmenistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On the Turkmen side, there's nothing coming through the border.  A bus takes you to the next checkpoint and costs 10 menat.  Very quiet crossing.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Tue, 01 Dec 15 18:58:53 +0000">Description written 1.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24695">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>58.40586090087745,37.63118049320501</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark></Document>
+</kml>

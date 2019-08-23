@@ -1,0 +1,1248 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Morocco</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="2149">
+<name>a Hitchhiking spot in Agadir, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>there must be a petrol station next to the highway, you can walk next to these highway, and I standed next to these petrol station with a plate, to Marakesh. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 09 Sep 07 00:00:00 +0000">Description written 9.9.2007</span><br /><a href="https://hitchwiki.org/maps/?place=2149">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.54102516174316,30.3897202697722</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2150">
+<name>a Hitchhiking spot in Marrakech, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>you walk out of the city, then you find a petrol station, you can speak with the drivers their, but they want normaly money, dont pay more then 100 diram to Fes. Otherwise take a plate like me, with FES on it, I dont need more then 20 min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 12 Sep 07 00:00:00 +0000">Description written 12.9.2007</span><br /><a href="https://hitchwiki.org/maps/?place=2150">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.98927068710327,31.6448966440097</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2151">
+<name>a Hitchhiking spot in FÃ¨s, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just walk next to the street with a plage with your destination on it, there will be a lot of people who wants to pick you up!
+a little advise from me: use the plage also before on your way to this point next to the street, maybe you dont need so much time then.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,50,25,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Mon, 17 Sep 07 00:00:00 +0000">Description written 17.9.2007</span><br /><a href="https://hitchwiki.org/maps/?place=2151">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.0391948223114,34.0486325677779</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2383">
+<name>a Hitchhiking spot in Ejbei Uad el Aabd, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Emty road but first car will take you. No difficulties geting a lift to Laayoune or Dakhla. you have real possibilities to catch someone going  to Noukchott or further.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=2383">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-12.870569229126,27.9108507678536</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3080">
+<name>a Hitchhiking spot in Tetouan, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>DIRECTION CHEFCHAOUEN N 13
+Nice place, just stop hitchhike when it's a taxi... We have to keep hitchhiking free brothers !
+Sign : &quot;Chefchaouen&quot;
+Waiting : 20-35 min
+Traffic : 4 cars and 2 taxi / 1 min</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,80,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 55min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=3080">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.4127299785614,35.5648779090343</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3089">
+<name>a Hitchhiking spot in Martil, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>WELCOME TO MOROCCO !
+DIRECTION TETOUAN 
+I think that's the less bad place of the frontier. Just stop hitchhike when there is taxi 
+Sign : &quot;Tetouan / no taxi, shukran (Thanks)&quot;
+Waiting : 30-50 min
+Speed : 40-50 Km/h
+Traffic : 15 cars / min - High</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=3089">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.34507930278778,35.8657172985584</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5707">
+<name>a Hitchhiking spot in Essaouira, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a petrol station so there are many people who go to Marrakesh from here</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5707">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.75516200065613,31.49662207241</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5708">
+<name>a Hitchhiking spot in Tangier, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you don't want to pay so much money for taxi from the airport walk here and hitchike. it is a very busy road to Tangier and to the South also.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5708">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.89479267597198,35.7248795790268</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5709">
+<name>a Hitchhiking spot in Marrakech, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You have to walk so much getting out of the town then enjoy the trip to the Ocean</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5709">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.05877208709717,31.6277695093643</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5710">
+<name>a Hitchhiking spot in Guercif, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>way to Nador. i did the trip with many cars. some of them asked money</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5710">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-3.33392143249512,34.2507960665582</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6991">
+<name>a Hitchhiking spot in Casablanca, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Many locals use this spot. A lot of traffic and basically a sure thing, but it took a while for someone to pass by who picked up that foreigner. Maybe you want to check out the other highway ramps of the city.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 29 Nov 10 21:19:37 +0000">Description written 29.11.2010</span><br /><a href="https://hitchwiki.org/maps/?place=6991">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.5934346771239,33.559017717652</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7011">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>dec 2010, that a long walk from the center about 1h30 from the bus station. You can find roundabout before, but I slep in the building near by. You can find a bus to go there as well, but a bus ticket to Tetouan is 13.5 Dhs so ... worth it ?</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 03 Dec 10 12:32:02 +0000">Description written 3.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7011">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.7566664213052,35.728263661298</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7128">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>after walking by the cemetery there\'s a small centre. head for the petrol stations and after the cross you can hitch. direction is ourzazate.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Sun, 02 Jan 11 14:09:16 +0000">Description written 2.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7128">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.9704978593716,31.622558902762</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7242">
+<name>a Hitchhiking spot in Tangier, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A toll booth that takes you to the highway A4. There is not too much traffic but if you just keep walking towards the highway on-ramp someone stops for sure because there are no local \&quot;hitchhikers\&quot; and a foreigner here sticks out like a sore thumb.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 24 Jan 11 16:02:06 +0000">Description written 24.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7242">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.7069275373355,35.67876022094</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7243">
+<name>a Hitchhiking spot in Tangier, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After a big flyover bridge there is a bus stop where you can hitch to highway A4 (also local \&quot;hitchhikers\&quot; here).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 9min (3 experiences)<br /><span title="Mon, 24 Jan 11 16:05:38 +0000">Description written 24.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7243">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.7880008220355,35.750155040149</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7754">
+<name>a Hitchhiking spot in Marrakesh, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Right before the peage is a great spot for going towards Casablanca. How are you going to get there, though if you're not as lucky as me?</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 16 May 11 15:15:41 +0000">Description written 16.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7754">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.9818441479503,31.776064944777</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9245">
+<name>a Hitchhiking spot in Rabat, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.8720126151763,33.957697500269</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9565">
+<name>a Hitchhiking spot in Tangier, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's no need to take a taxi. Take the Bus nÂ°9 from the Gare Routiere. Get off the Bus before he goes to the Airport and get your thumb out on the N1</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 20 Mar 12 09:45:45 +0000">Description written 20.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9565">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.8965167999263,35.72451843528</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9566">
+<name>a Hitchhiking spot in Marrakesh, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can get here with the Bus NÂ°22. There's a big Supermarket. Get off there. After the Roundabout people pass slowly so it's easy to hitchhike. There's even a gas station.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 24min (6 experiences)<br /><span title="Tue, 20 Mar 12 09:50:46 +0000">Description written 20.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9566">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.0782256126334,31.628267720017</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9567">
+<name>a Hitchhiking spot in Fes, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take the Bus NÂ°16 to the Airport and get off here before he goes straight. Nice Spot to get to the South.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 20 Mar 12 09:54:11 +0000">Description written 20.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9567">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-4.9931058883648,33.947209669538</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9823">
+<name>a Hitchhiking spot in Tangier, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We hitched from here with a friend to join the motorway. It worked in less than 15 min for us ! you should try, and don't forget that european standard in terms of hitchhiking spots are not the same in Morrocco. You can hitch from everywhere !</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 16 Apr 12 17:39:54 +0000">Description written 16.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9823">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.8044478208846,35.769380453629</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9824">
+<name>a Hitchhiking spot in Essaouira Ø§Ù„ØµÙˆÙŠØ±Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We hitchhiked from here to join Marrakech. After only 2 minutes, two germans took us to the capital ! </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 16 Apr 12 17:42:35 +0000">Description written 16.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9824">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.7637107973096,31.505842588364</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11942">
+<name>a Hitchhiking spot in Taza  ØªØ§Ø²Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The toll is ok, no lots of traffic but nice people and even with diarrhoea i could hitch with no problem till oujda</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:47:17 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11942">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-3.9858398437499343,34.23687650588882</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11943">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very lowe traffic, ive been very lucky but almost desert, take the other motorway entrance also to go east!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:48:27 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11943">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-4.705658912658539,34.00039802594968</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11944">
+<name>a Hitchhiking spot in Oujda ÙˆØ¬Ø¯Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>ok going north till saiydia</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:49:00 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11944">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-1.9293150901791916,34.7371032097901</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11945">
+<name>a Hitchhiking spot in Saidia Ø§Ù„Ø³Ø¹ÙŠØ¯ÙŠØ©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Too close to algerian border. police investigated on me after having dropped me at the poilice station with a ridicoulous excuse taking me there 3 hrs and obliging me to take local minibus</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 12 Oct 12 09:50:19 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11945">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-2.216568946838348,35.06996453667511</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11946">
+<name>a Hitchhiking spot in Sidi Slimane Echcharaa  Ø³ÙŠØ¯ÙŠ Ø³Ù„ÙŠÙ…Ø§Ù† Ø§Ù„Ø´Ø§Ø±Ø©, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-2.3450360298157413,34.91673262777623</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11947">
+<name>a Hitchhiking spot in Selouane Ø³Ù„ÙˆØ§Ù†, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-2.926324367523243,35.0616221347593</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11948">
+<name>a Hitchhiking spot in Ait Kamra Ø£ÙŠØª Ù‚Ù…Ø±Ø©, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-3.923955917358445,35.19038633348001</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11949">
+<name>a Hitchhiking spot in Sidi Boutmim  Ø³ÙŠØ¯ÙŠ Ø¨ÙˆØªÙ…ÙŠÙ…, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-4.315687179565451,34.94417618159457</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11950">
+<name>a Hitchhiking spot in Larache Ø§Ù„Ø¹Ø±Ø§Ø¦Ø´, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>easy to get Rabat, motorway are less traffic but u will avoid annoying minibuws/taxi/illegal taxi drivers</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Fri, 12 Oct 12 09:52:48 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11950">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.141971111297504,35.148095792195846</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11951">
+<name>a Hitchhiking spot in Ouarzazate, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going east to tinghir desert and various gorges</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 12 Oct 12 09:55:52 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11951">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.8862304687497495,30.925885689837653</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11953">
+<name>a Hitchhiking spot in Tazenakht ØªØ§Ø²Ù†Ø§Ø®Øª, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>u should go to ouarzazate cause the majority of traffic go that direction (and is very low anyway..) i could do it also going south till foum zguid but its too desert and was impossible reach the real desert at muhamid, take draa valley road</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:57:25 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11953">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.209619045257471,30.563799465708158</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11954">
+<name>a Hitchhiking spot in Foum Zguid ÙÙ… Ø²ÙƒÙŠØ¯, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going to Tata u can do it, but the other direction, not either asphalt road is almost impossible, i stayed there 3 days waitng for some tourist but is everythin organized and they dont let u sleep4free/camop in the desert if u dont pay. come back till ouarzazate</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:58:47 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11954">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.871167182922225,30.083248229856785</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11955">
+<name>a Hitchhiking spot in Agdz, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.458536148070963,30.693841535946238</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11957">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>even if is very desert road, pretty easy to find a lift</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:59:45 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11957">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.446160316467083,30.704303029236872</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11959">
+<name>a Hitchhiking spot in Marrakesh, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>going south to atlas mountain, taking local bus for 6 Eurocent u can get out from the city and start to hitch calmly in the streets</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 10:02:19 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.017822265625238,31.564591431569472</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11960">
+<name>a Hitchhiking spot in Beni Mellal Ø¨Ù†ÙŠ Ù…Ù„Ø§Ù„, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.540289878845546,32.2457145994295</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11961">
+<name>a Hitchhiking spot in Azilal Ø£Ø²ÙŠÙ„Ø§Ù„, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very desert road but easily doable</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 10:03:08 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11961">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.589964389801302,31.95420624524144</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11962">
+<name>a Hitchhiking spot in Rommani Ø§Ù„Ø±Ù…Ø§Ù†ÙŠ, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>people made me take the bus for free but anyway easy to go down till oued zem and qasbah tedla, u can avoid casablanca and enjoy real countryside!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 10:04:25 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11962">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.620434284210549,33.52056129955579</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11963">
+<name>a Hitchhiking spot in MeknÃ¨s Ù…ÙƒÙ†Ø§Ø³â€Ž, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>alternative road to get fes (very close) u can visit also countryside and holy places like moulay idriss</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 10:05:23 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11963">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.558815956115829,33.91218934919509</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11964">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-5.465625286102444,34.14987279494045</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11965">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>lots of traffic and also tourists coming from the desert and going north to imperial cities like meknes and fes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 10:06:32 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11965">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-4.23028564453132,31.47655375324159</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12196">
+<name>a Hitchhiking spot in SalÃ© Ø³Ù„Ø§, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it's pretty cool spot to get hh !! lot's of cars, u can just use u'r hand and they can lift u !!! Direction To 'Tiflet' &amp; Sometimes To ''khemisset.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Fri, 02 Nov 12 22:50:11 +0000">Description written 2.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12196">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.784263610839042,34.03397726830393</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13049">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Place where the road from the airport meets the motorway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 12 Feb 13 18:37:07 +0000">Description written 12.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13049">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.620437860488517,33.39173639191836</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13388">
+<name>a Hitchhiking spot in Bab Taza Ø¨Ø§Ø¨ ØªØ§Ø²Ø©, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-5.285659790040372,35.11045258347007</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13400">
+<name>a Hitchhiking spot in Agadir, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-9.62796306610086,30.420853226936245</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13446">
+<name>a Hitchhiking spot in Fes, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>great spot. took a little while to hitch there, but there is plenty of space to stop and it is easy to get a ride to meknes, rabat, maybe even casa.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Sun, 31 Mar 13 18:49:24 +0000">Description written 31.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13446">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.019026756286456,34.016806915871015</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14305">
+<name>a Hitchhiking spot in Sidi Hmad Ou M'Barek, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tryed to get to the paradise valley..... ended up renting a car the other day.... :D  Two cars were passing by in one hour.... one of them wanted lots, lots of money, the other one had people sitting on the roof already.. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Sun, 02 Jun 13 23:56:51 +0000">Description written 2.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14305">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.766176075246888,30.81573130943721</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14306">
+<name>a Hitchhiking spot in Sidi Hmad Ou M'Barek, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Works to Essaoira, Agadir and Imsouane.... ! </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 02 Jun 13 23:57:38 +0000">Description written 2.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14306">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.76339581845504,30.84356713268421</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14307">
+<name>a Hitchhiking spot in Agadir, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got here with a cab from the city...(just ask the drivers) and hitchhiked to immsouane ! Worked quite good </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 02 Jun 13 23:59:23 +0000">Description written 2.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14307">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.65594511483497,30.45100994021182</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14308">
+<name>a Hitchhiking spot in Taouz Ø§Ù„Ø·Ø§ÙˆØ³, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There are some cars from and to merzouga that can take you ! ;) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 03 Jun 13 00:02:41 +0000">Description written 3.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14308">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-4.034204015569383,31.10592975961448</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16739">
+<name>a Hitchhiking spot in Marrakesh, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>How to get this place: take a bus number 18 from Bab Doukkala (out of medina). Bus ticket costs 3 dirham (0,3 euro). Destinatin bus stop name is Marjane. Cross the road (Route de Casablanca) and walk hundred of metres. Voila!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 11 Nov 13 16:25:55 +0000">Description written 11.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16739">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.009657621383697,31.668933588709724</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17098">
+<name>a Hitchhiking spot in Casablanca, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To get this place use the bus number 59 from the Place des Nations Unies.  Bus stop called &quot;Marjane Technopark&quot;. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (3 experiences)<br /><span title="Sun, 22 Dec 13 09:09:02 +0000">Description written 22.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=17098">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.640360355377189,33.538752496334844</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17390">
+<name>a Hitchhiking spot in Bab Taza Ø¨Ø§Ø¨ ØªØ§Ø²Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Right around here is the official end of Chefchaouen. There's room to pull over, but traffic isn't too high so they can just stop on the road. The 2nd vehicle picked me up, couple of Germans.</p>
+
+<p>You could probably hitch much earlier before this spot :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 31min (2 experiences)<br /><span title="Tue, 04 Feb 14 23:46:31 +0000">Description written 4.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17390">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.268907546997932,35.15238075832968</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17391">
+<name>a Hitchhiking spot in Bni Quolla, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's trees here if you need some shade. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Tue, 04 Feb 14 23:50:40 +0000">Description written 4.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17391">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.560141801835019,34.7966337441948</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17393">
+<name>a Hitchhiking spot in Nouaceur Ø§Ù„Ù†ÙˆØ§ØµØ±, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Peage after the airport. The '26' on the right side of the license plates are cars from Marrakech.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 05 Feb 14 23:46:04 +0000">Description written 5.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17393">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.620518207550989,33.36859940543023</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17781">
+<name>a Hitchhiking spot in Ksar Sghir Ø§Ù„Ù‚ØµØ± Ø§Ù„ØµØºÙŠØ±, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-5.578511416912329,35.83654415531031</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17795">
+<name>a Hitchhiking spot in Rabat, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.882550477981754,33.96981300272151</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21053">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-9.545436859131058,31.5351876988444</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21286">
+<name>a Hitchhiking spot in SalÃ© Ø³Ù„Ø§, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good place to hitchhike to Tanger. Got a lift after 20min. There is 2 lines but people dont drive too fast here. A friend of mine brought me there, but I think you can take a bus to the airport to get this place</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 15 Jan 15 11:17:02 +0000">Description written 15.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21286">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.7326364517215715,34.02878473688093</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21957">
+<name>a Hitchhiking spot in Rabat, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good place to hitchhike to Tanger or Fes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Mon, 06 Apr 15 20:27:33 +0000">Description written 6.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21957">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.869534492492633,33.947306307314975</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21958">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good place to hitchhike to Rabat.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><span title="Mon, 06 Apr 15 20:28:48 +0000">Description written 6.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21958">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.33248376846307,33.71550859580538</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21959">
+<name>a Hitchhiking spot in Asilah Ø£ØµÙŠÙ„Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good place to hitchhike to Tanger.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Mon, 06 Apr 15 20:30:44 +0000">Description written 6.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.025496959686056,35.4775287551637</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21960">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very bad place to hitchhike to Casablanca.
+Very little traffic, it's a rural area.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2h 30min (1 experience)<br /><span title="Mon, 06 Apr 15 20:36:55 +0000">Description written 6.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21960">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.544490814209688,31.53811256018892</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21961">
+<name>a Hitchhiking spot in Marrakesh, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-8.035050868989483,31.627298079975855</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22252">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just after the police checkpoint and roundabout in direction Fes. Not too much traffic, but with a sign took me only 15 minutes to get a direct lift.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 26 Apr 15 21:36:14 +0000">Description written 26.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22252">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.2880415916443635,35.11055790342589</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22378">
+<name>a Hitchhiking spot in Mechouar Kasbah, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I got a lift here to Asni after walking out of the old town and hitchhiking on the way at diffferent places for over 3 hours. From the old town you will pass about two roundabouts, after that there are not many more side streets, so you might as well stop there and hitchhike. There is some traffic light on the way as well after which is a better spot, as cars are not fast there. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Thu, 07 May 15 20:30:05 +0000">Description written 7.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22378">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.012007236480502,31.58358555686492</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22577">
+<name>a Hitchhiking spot in Lqliaa Ø§Ù„Ù‚Ù„ÙŠØ¹Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is lots of traffic from the highway from Marrakech here. There is some space to stop and some local hitchhikers as well behind the roundabout. Direction south you can accept a ride to the airport and get out at the next intersection few minutes away.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 24 May 15 11:52:42 +0000">Description written 24.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22577">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.482898473738178,30.353162173642996</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22581">
+<name>a Hitchhiking spot in Lqliaa Ø§Ù„Ù‚Ù„ÙŠØ¹Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>South in direction Tizniz, Laayoune. There is a fair amount of traffic and enough space to stop, but be very careful when hitchhiking here, as there is a petrol station shortly after the roundabout and cars sometimes come back to the roundabout on the wrong side of the road (that is, the side you are standing at)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 24 May 15 12:10:20 +0000">Description written 24.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22581">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.478580117224496,30.338537749536222</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22644">
+<name>a Hitchhiking spot in Sidi Ifni Ø³ÙŠØ¯ÙŠ Ø¥ÙÙ†ÙŠ, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just walk out of the town following the Guelmin signs to get here. There are some trees providing shadow or protection from rain. Not much traffic, but from Guelmin there is more.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sat, 30 May 15 19:32:01 +0000">Description written 30.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22644">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-10.16810631751882,29.38119847158454</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22645">
+<name>a Hitchhiking spot in Tan-Tan Ø·Ø§Ù†Ø·Ø§Ù†, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This spot is full of local hitchhikers, which are all willing to pay a bit for their ride. I tried for over 5 hours at all points between the police checkpoint and the small street joining later before some french picked me up. As everywhere along this road with some patience you can get very long rides to Mauritania.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5h (1 experience)<br /><span title="Sat, 30 May 15 19:35:57 +0000">Description written 30.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22645">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-11.114217996596178,28.450859927253568</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22776">
+<name>a Hitchhiking spot in Rabat, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Tanger. Everybody stops. We were two females, very fast getting a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 09 Jun 15 21:59:53 +0000">Description written 9.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22776">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.788437128067013,33.98681493708323</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22777">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gas station, not so much traffic through this road, but got a lift with some tourists and their private guide tour. Nevertheless you can meet some locals and get shown around and hosted just by chance. Wonderful Morocco :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 09 Jun 15 22:03:52 +0000">Description written 9.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22777">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.584468603134585,29.986363200553146</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22778">
+<name>a Hitchhiking spot in Ouarzazate ÙˆØ±Ø²Ø§Ø²Ø§Øª, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just at the roundabout, got picked up by some guides returning from a tour. Good amount of traffic to get to Marrakesh</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 09 Jun 15 22:05:08 +0000">Description written 9.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22778">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.933335423470012,30.925200023081068</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22797">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There are two police checkpoints next to each other here in direction north. They are quite far to walk from the center of Laayoune but it is possibile and I saw a bus running there as well (I think it was number 3 and should cost around 2 Dirham, but better ask). The police didn't let me hitchhike because they thought it isn't save, but they quickly found a truck for me that was going all the way to Guelmim.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 12 Jun 15 14:30:31 +0000">Description written 12.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22797">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-13.171842455864052,27.198142747160787</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22798">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There usually are a couple of hitchhikers at the wall next to the city, but I tried there for several hours without much success. There is not much traffic going south and most drivers don't take you if you are not willing to pay. So walking out further helped me as the driver couldn't hope for paying hitchhikers after me anymore. There is a roundabout with space to stop for cars afterwards here (but you can try hitchhiking all the way here). Be careful of a guy living in an improvised hut directly at the road who started touching me sexually but was harmless after I told him that I am not interested and walked away.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 4h (1 experience)<br /><span title="Fri, 12 Jun 15 14:37:21 +0000">Description written 12.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22798">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-13.411192059516019,27.066234409014335</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22825">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the end of the village Ouelad Jerrar, next to a round about.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 4h (1 experience)<br /><span title="Mon, 15 Jun 15 22:25:30 +0000">Description written 15.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22825">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.697357177736002,29.575048361539253</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23479">
+<name>a Hitchhiking spot in Sidi Yahya ZaerØ³ÙŠØ¯ÙŠ ÙŠØ­ÙŠÙ‰ Ø²Ø¹ÙŠØ±, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.794016967621614,33.738963094439356</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23740">
+<name>a Hitchhiking spot in Ameur, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just after the place where Road from Fes enters to highway to Tanger there is place to stop. Cars are run fast but someone will finally stop if you have big sign. For me it took 1,5 h but direct hitch to tanger med. even police saw me couple of times and do nothing. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 22 Aug 15 02:10:53 +0000">Description written 22.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23740">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.710744591312106,34.02869164823797</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24118">
+<name>a Hitchhiking spot in Sidi Slimane Ø³ÙŠØ¯ÙŠ Ø³Ù„ÙŠÙ…Ø§Ù†, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Go to the street and put out your thumb.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 16 Sep 15 21:04:54 +0000">Description written 16.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24118">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.925956726073148,34.26752470711668</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24123">
+<name>a Hitchhiking spot in Essaouira Ø§Ù„ØµÙˆÙŠØ±Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Perfect spot to go south to Agadir, just about 3 km from the medina center, many cars driving by, stand in front of a small parking lot, we (3 pax) got a free ride after 5 minutes by a nice taxi-driver who took us all the way to Tamanar. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 17 Sep 15 10:22:58 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24123">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.763173693847506,31.49633871276141</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24124">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To go south: Find a good spot at the end of the village to catch all the cars going south, all the places are good enough, but not in the center of tamanar, f.e. in front of the police station. We (3px) found a ride after 25 minutes, father and little daughter going to Agadir.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 25min (1 experience)<br /><span title="Thu, 17 Sep 15 10:27:57 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24124">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.679365390966169,31.00106738761519</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24125">
+<name>a Hitchhiking spot in Ait Meloul Ø£ÙŠØª Ù…Ù„ÙˆÙ„, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you find yourself stranded in the hell of Agadir, do one thing and only one, take bus 12 to Ait Melloul (4dh), ask to be dropped at this roundabout, perfect spot to go east, lot of traffic, and plenty of space to pull off for the cars, we (3px) got a ride after 15 minutes to Oulad Teima (from there you can eventually catch a red bus to Taroudant, which costs just 8 dh). If you don't make it out of the city, there is this bus 361 going to Oulad Dahou, out of town, stopping at this roundabout.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 17 Sep 15 10:38:04 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24125">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.483027691079178,30.354939627245873</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24126">
+<name>a Hitchhiking spot in Taroudant ØªØ§Ø±ÙˆØ¯Ø§Ù†Øª, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Any spot along this road is good to get easy rides going north-east or south. To go to Ouarzazate, you know there are two roads, this one going north and the second one turning left at the main roundabout of Machraa El, but talking with people, they told us most people take this one road going north.
+we (3px) got a ride after 20 minutes, it should be very easy, plus it's near the gare routiere (eventually you can bargain a bus ticket to Ouarzazate for about 100 dh)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Thu, 17 Sep 15 10:45:54 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24126">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.871223861409346,30.470987252865417</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24127">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Sidi Ouaaziz is not the best town to hitch rides from, we stood by the road at the end of the village, but at midday there wasn't much traffic, so I would say we (3px) were lucky to find this short ride after 30 minutes to get out of town, problem is that we got dropped in the middle of nowhere.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 17 Sep 15 10:54:26 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24127">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.339610034657872,30.7104164686721</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24128">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Dropped here by this couple of truck drivers afraid of finding police, we (3px) started walking towards Aoulouz, got picked up after 10 minutes by this old man driving a very old wreck who took us to town. From there we bargained a bus ticket to Ouarzazate for just 50 dh each (4 hours drive).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 17 Sep 15 11:00:05 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24128">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.16357933921948,30.712102179796084</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24129">
+<name>a Hitchhiking spot in Marrakech âµŽâµ•âµ•â´°â´½âµ¯âµ› Ù…Ø±Ø§ÙƒØ´, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A lot of traffic going north to El Kalaa and Beni Mellal, we found a ride after 40 minutes, the guy drove us to El Kalaa and paid for the taxi to Beni Mellal for the two of us px, very nice guy. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 40min (1 experience)<br /><span title="Thu, 17 Sep 15 11:07:36 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24129">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.986564273070759,31.64475530621387</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24130">
+<name>a Hitchhiking spot in Beni Mellal, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>perfect spot to go north, we (2px) waited just for 5 minutes to get a ride to Kasba Tadla in the early morning.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 17 Sep 15 11:12:44 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24130">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.337888175677425,32.35046668194106</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24131">
+<name>a Hitchhiking spot in Semguet, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not much traffic, but I don't see any better spot to go north-east, we waited for 40 minutes before a car stopped and took us to M'Rirt. Eventually busses going north drive by here, easy to stop them.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 40min (1 experience)<br /><span title="Thu, 17 Sep 15 11:16:48 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24131">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.265535587500407,32.5826562474368</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24132">
+<name>a Hitchhiking spot in M'rirt Ù…Ø±ÙŠØ±Øª, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Maybe waiting longer we could have got a ride, but we waited for just one hour before a girl offered to pay the taxi to Azrous for the two of us.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 17 Sep 15 11:21:50 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24132">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.56563192052798,33.17110662658046</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24133">
+<name>a Hitchhiking spot in Issaguen Ø§Ø³Ø§ÙƒÙ†, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Ketama doesn't seem to be a good place to hitch hike in and from, we tried in the morning to get a lift to Chefchaouen, there wasn't much traffic, thought it was easier and better to take a 30 dh bus to Chefchaouen.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Thu, 17 Sep 15 11:29:15 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24133">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-4.571953946780801,34.91684909436502</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24134">
+<name>a Hitchhiking spot in Chefchaouen, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It's a pretty long walk from the medina to this spot, but here you are sure any car is going out of town and north, got picked almost instantly by two nice men who took us to see Pont de Dieu.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 6min (2 experiences)<br /><span title="Thu, 17 Sep 15 11:36:16 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24134">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.276648039054441,35.17263995272946</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24135">
+<name>a Hitchhiking spot in El Oued Ø§Ù„ÙˆØ§Ø¯, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>to go to Teotuan you can go either left and right, the traffic comes from the cascades and i bet you can find a ride pretty easily, a couple gave us a ride to Oued Laou, no waiting. Once in the town-center of Oued Laou you can get a mini-bus to Tetouan for just 10 dh.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1min (1 experience)<br /><span title="Thu, 17 Sep 15 11:42:03 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24135">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.23098611278479,35.265397316289054</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24136">
+<name>a Hitchhiking spot in Tetouan, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From this spot in front of the petrol station we found a lift after 15 minutes that took us straight to Assilah. Lot of traffic and room for the cars to pull over, and a roundabout to slow them down. Cons: far from the center.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 17 Sep 15 11:47:50 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24136">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.381892556380411,35.56544105088156</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24139">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>FERRY LIFT: alright, this is the place where you wanna go if you're looking for a free lift on the ferry. Coming from Tangier, if you get dropped at the passenger terminal roundabout, don't go left, cause that's the passenger terminal and you don't need to do anything there, don't go right where you see the truck sign cause that's just a parking lot I guess, GO STRAIGHT, where it seems like you shouldn't go, but that's where you want to go, walk a couple of kms, you'll get to the place where trucks are scanned before boarding (on the right hand side). There you'll find all the trucks waiting, start asking all the drivers for a lift to Algeciras, remind them they are allowed to take one more passenger on the truck for free, the port staff is friendly, won't give you any trouble.
+It took us just 15 minutes to find a ride for me and my girlfriend, it was a three drivers turkish company, they were happy to take us with them. 
+Alright, second step, getting your passport stamped, that's the hard part, before entering the scanning area, you need to pass through this toil boot-looking gates, where you'll need to go to the customs office on the left and get your passport stamped. there may be different officers, the one that was on shift got us into tight jams, he didn't want to stamp our passports, we told him we were trying to hitch hike a ride because we didn't have any money, and that what we were doing was totally legal, he said he didn't have the permission to do it, and told us to go to the main police office at the passenger terminal (that's a long walk), if it happened to you, DEMAND him to call his chief and INSIST ON IT, otherwise you'll have to go all the way back to the terminal. After half an hour we finally got our passports stamped and green light to go.
+Third step, long wait for the truck to be scanned, and for the drivers to get all their papers, took us HOURS. Finally we could leave and go to the embarkation place, but be aware that tourists cars have the priority on boarding, so trucks will have to wait till there's room left on one of the ferries.
+At the end of the day, it took us just 15 minutes to find a ride but 7 hours before  touching spanish land (the ferry is just one hour). 
+NB: trucks pay several hundreds of euros for the ferry (12 hundred my truck), so hitchhikers being passengers usually get one free meal on board.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 17 Sep 15 12:25:18 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24139">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.5644705240246655,35.84015572164634</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24269">
+<name>a Hitchhiking spot in Agadir, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place if you want to go to Essaouria or other places alongside Atlantic coast..
+I waited only 15-30min for ride to Essaouria and there where also few local guys waiting..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 01 Oct 15 15:48:06 +0000">Description written 1.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24269">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.620357878453264,30.42712515869469</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24270">
+<name>a Hitchhiking spot in Essaouira Ø§Ù„ØµÙˆÙŠØ±Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tried to hitchhike from here to Marrakech,but was told to move away by police officers that didn't wanted me to see them taking bribe..
+Better try your luck on a gas station towards the west..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Thu, 01 Oct 15 15:54:36 +0000">Description written 1.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24270">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.751341867117995,31.497279710389233</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24403">
+<name>a Hitchhiking spot in TÃ©touan, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-5.415763854980285,35.565260635435095</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24409">
+<name>a Hitchhiking spot in Asilah Ø£ØµÙŠÙ„Ø©, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.0341739654538795,35.45291262221214</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24541">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-8.441654205322257,30.70755010513113</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24542">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-8.441654205322257,30.70755010513113</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24543">
+<name>a Hitchhiking spot in Asni, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.984348029709995,31.245854898963078</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24544">
+<name>a Hitchhiking spot in Asni, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.984348029709995,31.245854898963078</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24580">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is small lockal ''wild'' bus stop where somethimes trucks stop and little before there is small place like a store,but I personally didn't had andy luck there..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 10 Nov 15 23:48:30 +0000">Description written 10.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24580">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.6454324722289,34.028242347973055</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24581">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got a ride here to Meknes Trans Atlantic hotel after 20 min. waiting and walking and holding a sign..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 10 Nov 15 23:52:00 +0000">Description written 10.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24581">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.5181751251217195,33.835716024146635</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25063">
+<name>a Hitchhiking spot in Casablanca, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.6391158103943475,33.60390171121371</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25121">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On my way to Zagora, traffic is scarce but you might be able to get a ride pretty quick. Get lift in 20 min. to next Villiage Ouled Driss.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 05 Mar 16 14:16:38 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25121">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.708805084227553,29.82905253881313</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25122">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On my way to Zagora, traffic is scarce but you might be able to get a ride pretty quick. Get lift in 2 min. to Tagounite</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2min (1 experience)<br /><span title="Sat, 05 Mar 16 14:17:24 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25122">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.654860496520017,29.83009496312322</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25123">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is probably a spot for you to Zagora if you are to shy to ask for a ride in the nearby gas station. Low traffic and enough time for the driver to decide. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sat, 05 Mar 16 14:21:29 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25123">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.583706855773656,29.9909815755273</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25124">
+<name>a Hitchhiking spot in Fezouata ÙØ²ÙˆØ§Ø·Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Low traffic due to road end in Mhamid. After a struggling hike i got a ride directly to the desert. Dont waste your time. Better take a bus from Zagora, Morocco is cheap!!!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Sat, 05 Mar 16 14:28:35 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25124">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.637587070464661,30.242371456831734</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25125">
+<name>a Hitchhiking spot in Ternata ØªØ±Ù†Ø§ØªØ©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>With a sign Ouarzazate it took me 3h to get from Zagora. There is quite lot of local trafic. I was quite lucky, i got picked up by a cheese van. He was going to Marrakesh.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 05 Mar 16 14:31:07 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25125">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.8779988288872245,30.40969492891746</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25126">
+<name>a Hitchhiking spot in Tarmigt ØªØ±Ù…ÙŠÚ­Øª, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After a great trekking arround the nearby dam. I got directly to Zagora by a nice truck driver. No communication if you dont speak french or arabic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Sat, 05 Mar 16 14:33:21 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25126">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.874042510985835,30.8687698418251</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25127">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Right next roundabout. Hard gravel shoulder. You can choose previous exit to Agadir by national road but this one is much faster. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 05 Mar 16 14:44:08 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25127">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-8.897050380706935,30.428124863811096</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25128">
+<name>a Hitchhiking spot in Taghazout ØªØºØ§Ø²ÙˆØª, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Almost to Essaouira. Pretty hard to hitch a car here cause the road is narrow. Nice truck drivers shared food with me. But maybe this is better to get out of the busy Tagazout. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 05 Mar 16 14:46:55 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25128">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.719147443773439,30.547160025064755</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25129">
+<name>a Hitchhiking spot in Essaouira, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>As i saw the police bloc after the roundabout i decided to get a lift here. I was really lucky. Got ride to Casablanca after 5 min. Expect to wait more.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 05 Mar 16 14:49:38 +0000">Description written 5.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25129">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-9.752439022066753,31.497404575328364</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26810">
+<name>a Hitchhiking spot in Tanger Ø·Ù†Ø¬Ø©, Morocco</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can ask cars as they buy tickets to board. The ferry director actually got us on for free after we waited for a few hours.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 04 Aug 16 11:58:07 +0000">Description written 4.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26810">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-5.803744554493256,35.78920223417448</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27508">
+<name>a Hitchhiking spot in Tan-Tan Ø·Ø§Ù†Ø·Ø§Ù†, Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-11.114679336554177,28.45151080721351</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27509">
+<name>a Hitchhiking spot in Morocco</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-15.672718048095694,23.892376231927482</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark></Document>
+</kml>

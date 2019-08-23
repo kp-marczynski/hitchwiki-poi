@@ -1,0 +1,232 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Uzbekistan</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="6775">
+<name>a Hitchhiking spot in Tashkent, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it's easy to get here from metro.  lots of taxi cars passing by this place on their way to border. talk with taxi drivers and you will get taxi ride for free right till border control.
+waiting time tended to zero</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,0,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6775">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>69.2907285690308,41.3841906293679</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6776">
+<name>a Hitchhiking spot in Jomboy, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>here is roadpolice checkpoint located. ask policemans to get a ride for you (usually bus) or try your own
+p.s. you can reach this place by taxistop. uzbek taxists able to transport you for free after short explanation about your h-hiking soul. :)
+waiting time less than 30 mins</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6776">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>67.0454031229019,39.675608258883</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16348">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is police check point located. They ot a roof where you can hide from the sun. Lots of cars to Tashkent.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 11 Oct 13 17:53:55 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16348">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>69.20710337993242,40.550365723174515</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19892">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After crossing into Uzbekistan ignore the armada of taxi drivers and walk a bit further on out of their sight. There's basically no through traffic here except some few trucks coming from Tajikistan (around two trucks/hour).  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (2 experiences)<br /><span title="Fri, 29 Aug 14 18:34:38 +0000">Description written 29.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19892">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>68.09288406372117,38.499637630770415</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19995">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Police check point. Good place to catch long rides (Bukhara / Samarkand). Between Termiz and Sherabad there's quite some local traffic. However, from Sherabad onwards traffic gets thin until Gusar.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 02 Sep 14 13:02:20 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19995">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>67.00532341003313,37.6975616622298</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19996">
+<name>a Hitchhiking spot in Termez, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Simple spot by the road side at the &quot;edge&quot; of town walkable from the city center. To get further out take a mashrutka (1500 Som, from close to the bus station) to Ambop - a town roughly 10 km down the road north, walk a bit and start hitching. Sufficient local traffic to Sherabad.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 02 Sep 14 13:11:30 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19996">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>67.2491898536669,37.24144582237003</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19997">
+<name>a Hitchhiking spot in Qarshi, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot on the road side at the edge of town. Not many villages between here and Samarkand - so mostly shared taxis.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 02 Sep 14 13:23:53 +0000">Description written 2.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19997">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>65.8193149566657,38.90382107670098</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20477">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Malik Raboti caravanserai</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 04 Oct 14 11:25:16 +0000">Description written 4.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20477">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>65.14695930480855,40.121670033937065</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20478">
+<name>a Hitchhiking spot in Samarkand, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Sharisabz. Most probably you wil pay for the ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 04 Oct 14 11:27:47 +0000">Description written 4.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20478">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>67.00642752647438,39.57026365962557</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21605">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>60.89941406250144,42.08200058184742</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24628">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice option for those who want to cross spectacular Kaynar pass.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 24 Nov 15 17:19:13 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24628">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>66.28404273986654,38.63064764220501</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24630">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a few buses to Yangibozor. Bus turns left, you follow the road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 24 Nov 15 17:29:29 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24630">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>69.40114512443178,41.24000583030812</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24631">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There are many buses to Hippodrome market (Ð˜Ð¿Ð¿Ð¾Ð´Ñ€Ð¾Ð¼). Cross roundabout, then cross police checkpoint and right after it start hitching. There is a way to cheat a bit - ask police to help you.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Tue, 24 Nov 15 17:32:04 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24631">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>69.16257872581238,41.23481008949999</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24634">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can stuck here if your car from Tashkent goes to Namangan but you want to go further. There is one important detail about this place - there is a crossroad not far from there and drivers will show you their direction either to the right if he goes to Kokand or left if he goes to Fergana via circular road around Kokand. This gestures a bit misleading so it took a while to figure out this issue.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 24 Nov 15 17:47:54 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24634">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>70.8111320696104,40.78211469186913</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24635">
+<name>a Hitchhiking spot in Kokand, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is the main exit form Kokand to Khudjand in Tajikistan. Either try dozens of local cars or use bus to Besharyk and further (price from Kokand to border is 0,5 usd)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 24 Nov 15 17:51:54 +0000">Description written 24.11.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24635">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>70.9374963007196,40.518575948690696</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24696">
+<name>a Hitchhiking spot in Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just over the border on the Uzbekistan side.  Walk along this road with a sign and/or your thumb out and you'll get picked up sooner or later.  Plenty of trucks going in both directions.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 01 Dec 15 19:05:49 +0000">Description written 1.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24696">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>63.71787929534845,39.231842080995655</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24712">
+<name>a Hitchhiking spot in Bukhara, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just walking along this road and you'll get a ride without even trying.  As ever just make sure it's for free.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 06 Dec 15 16:49:17 +0000">Description written 6.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24712">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>64.41821479797332,39.78336551138334</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24713">
+<name>a Hitchhiking spot in Bukhara, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Anywhere along this road will do.  Lots of space to pull in.  Ensure the ride is for free.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 06 Dec 15 16:56:20 +0000">Description written 6.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24713">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>64.4314756393425,39.81041956331086</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24762">
+<name>a Hitchhiking spot in Samarkand, Uzbekistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walk passed the taxis and there's a decent place for drivers to pull in.  Almost everyone will want money, but stick to your guns and you'll get a free ride eventually.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 10 Dec 15 20:09:13 +0000">Description written 10.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24762">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>67.00969004631581,39.6758851955723</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24817">
+<name>a Hitchhiking spot in Tashkent, Uzbekistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>69.21520614624043,41.38500797384223</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

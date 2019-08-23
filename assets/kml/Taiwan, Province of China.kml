@@ -1,0 +1,265 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Taiwan, Province of China</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7200">
+<name>a Hitchhiking spot in Xinbei City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A hitching spot for traveling west and southwest towards most of Taiwan\'s other major cities.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,25,25,0,25&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 13 Jan 11 09:50:40 +0000">Description written 13.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7200">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.43756621654,25.069458517391</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17412">
+<name>a Hitchhiking spot in Sioulin, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>121.52849578857966,24.164869196809203</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17413">
+<name>a Hitchhiking spot in Sincheng, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>121.64179229736605,24.133228258935066</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18505">
+<name>a Hitchhiking spot in Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To 5 Highway southwards. Catch a car from here to Yilan.</p>
+
+<p>15 min from Nangang Exhibition Center MRT station.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Thu, 22 May 14 07:51:01 +0000">Description written 22.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18505">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.62042937352061,25.050111161022933</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18507">
+<name>a Hitchhiking spot in Puli Town, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Every traffic light or even 7-11 is good for stop. It's better to have a sign.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 22 May 14 08:38:31 +0000">Description written 22.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18507">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.9574213027926,23.971553535053626</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18508">
+<name>a Hitchhiking spot in Ren-ai Town, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Parking place. Perfect for both directions.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 22 May 14 08:40:36 +0000">Description written 22.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18508">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.27563053366943,24.137309861074833</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19503">
+<name>a Hitchhiking spot in Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy and most convenient place in Taipei for going south. You can stay at the side of the street, as there are some parking lanes, which are generally empty, so cars can pull over.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,33.333333333333,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|2|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 11min (4 experiences)<br /><span title="Fri, 01 Aug 14 05:15:27 +0000">Description written 1.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19503">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.51307308675085,25.08063870722816</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19504">
+<name>a Hitchhiking spot in Taitung City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>7-11 with a parking lot. Very easy going Kenting or west coast.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 01 Aug 14 05:18:55 +0000">Description written 1.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19504">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.05673009158383,22.705859581641544</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19505">
+<name>a Hitchhiking spot in Shoufong, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>121.52995222807527,23.907212187696217</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20111">
+<name>a Hitchhiking spot in Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>school front gate 30 minutes </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 09 Sep 14 18:36:11 +0000">Description written 9.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20111">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.32245928051651,22.582951385001003</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20112">
+<name>a Hitchhiking spot in Tainan City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>7-11 20 minutes 
+need a board better write in Chinese 
+most Taiwanese don't know that what's thumb means.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 09 Sep 14 18:38:50 +0000">Description written 9.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20112">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.29469305279302,23.306303564644434</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20232">
+<name>a Hitchhiking spot in Sinyi Town, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Highway 21 is excellent for hitchicking (especially if you are a foreigner) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 17 Sep 14 11:51:39 +0000">Description written 17.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20232">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.85411334038054,23.69878933917964</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20233">
+<name>a Hitchhiking spot in Sinyi Town, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Parking near Tataka center</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 17 Sep 14 11:52:30 +0000">Description written 17.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20233">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.88576340674702,23.482234945836257</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20234">
+<name>a Hitchhiking spot in Alishan, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Exit from Alishan</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Wed, 17 Sep 14 11:53:47 +0000">Description written 17.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20234">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.8011987209204,23.508535479248266</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20416">
+<name>a Hitchhiking spot in Tainan City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>there has a 7-11 nearby  spend 10 minutes </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Mon, 29 Sep 14 18:26:16 +0000">Description written 29.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20416">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.23132050037015,23.180048901890537</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20417">
+<name>a Hitchhiking spot in Tainan City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>7-11  spend 5 minutes </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 29 Sep 14 18:28:38 +0000">Description written 29.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20417">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.25126540663489,23.044076592649954</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20669">
+<name>a Hitchhiking spot in Kaohsiung City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>quite good to free way</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 22 Oct 14 19:58:17 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20669">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.33349388837733,22.62749482411064</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20670">
+<name>a Hitchhiking spot in Neipu, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>school door have a roomy space (30minutes)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 22 Oct 14 20:02:09 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20670">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.56058579683267,22.601185010873106</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20671">
+<name>a Hitchhiking spot in Chaojhou, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>nearby have a store(20minutes) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 22 Oct 14 20:07:46 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20671">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.53339892627788,22.530644171351735</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20672">
+<name>a Hitchhiking spot in Taichung City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>if you don't have choice just try it (1h30minutes)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 22 Oct 14 20:10:46 +0000">Description written 22.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20672">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.63468986751575,24.172699902257825</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21542">
+<name>a Hitchhiking spot in Taiwan, Province of China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>121.54715859892389,25.01834024575057</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24759">
+<name>a Hitchhiking spot in Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Took Yongning MRT and then walked over to this spot. I was picked up in maybe 3 minutes. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 10 Dec 15 10:27:11 +0000">Description written 10.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24759">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.43234127757523,24.965267580161303</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24760">
+<name>a Hitchhiking spot in Lugu Town, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>What goes up must come down. There are many cars always heading down the mountain so it's relatively easy to hitchhike into town or farther. Go before it gets dark otherwise there will be no more traffic heading down.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 10 Dec 15 10:43:50 +0000">Description written 10.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24760">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.79528445008246,23.675712980656385</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25332">
+<name>a Hitchhiking spot in Kaohsiung City, Taiwan, Province of China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Standing on road where is in between main road and highway interchange. It is easy to catch a ride to take you to all the way go 88 highway where most drivers go to south or Taitung.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Sun, 27 Mar 16 20:40:32 +0000">Description written 27.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25332">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.33590519428724,22.624970157061224</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

@@ -1,0 +1,70 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Faroe Islands</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4917">
+<name>a Hitchhiking spot in TÃ³rshavn, Faroe Islands</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This island is great for hitching. Not much traffic, but very friendly people. Somehow everybody will ask you if you're Russian, as apparently only Russians hitch here (?). It's not unlikely that you'll find young people who have nothing to do and will just bring you to your destination, even if they're not going there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4917">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-6.84328079223633,61.5589333362448</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7624">
+<name>a Hitchhiking spot in Faroe Islands</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I hitched most of the Faroe Islands in 2005. Contender for the easiest hitching in the world! Often the first car would pull over, often just one ride would get you there as distances are short. Almost everyone speaks English.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1min (1 experience)<br /><span title="Fri, 15 Apr 11 16:52:16 +0000">Description written 15.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7624">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-7.1784839623673,61.841927784715</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26042">
+<name>a Hitchhiking spot in Faroe Islands</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.436491012573204,62.11013911865371</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26043">
+<name>a Hitchhiking spot in Faroe Islands</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.160781383514454,62.05197732650143</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26044">
+<name>a Hitchhiking spot in Faroe Islands</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.068084239959787,62.30333148332857</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26278">
+<name>a Hitchhiking spot in Faroe Islands</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-7.162476539611752,62.04908089481347</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26279">
+<name>a Hitchhiking spot in TÃ³rshavn, Faroe Islands</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-6.794155597686772,62.00064550683309</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Document>
+</kml>

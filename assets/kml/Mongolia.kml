@@ -1,0 +1,226 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Mongolia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4774">
+<name>a Hitchhiking spot in Ulaanbaatar, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it's quite good spot close to UB but it might difficult to reach it, hh or walk towards it through the city.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4774">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.981387138367,47.9114809483377</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16486">
+<name>a Hitchhiking spot in Choir, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a petrol station where you can stand and wave. Even though the road is not that busy, still is pretty easy to catch a free ride in direction of the Chinese border.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Fri, 18 Oct 13 00:19:26 +0000">Description written 18.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16486">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>108.38223838807296,46.35278202043133</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16487">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I would not recommend to hitchhike here as there is lots of taxi drivers who are trying to make money of you. Its better to go outside of this village where you should soon enough catch a ride at least to the next city. Always say that you would like to travel for free otherwise you maybe asked to pay afterwards. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,20,0,60,20&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|3|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (2 experiences)<br /><span title="Fri, 18 Oct 13 00:23:12 +0000">Description written 18.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16487">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.49001502990566,50.32022050583853</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16488">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It's definitely a good place to catch a ride to at least next city. There is no people who are bothering you with unnecessary advices, or who simply try to make money of you. You should be prepared to wait little while as there is no much traffic here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Fri, 18 Oct 13 00:25:50 +0000">Description written 18.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16488">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.49314785003952,50.304962391572744</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16585">
+<name>a Hitchhiking spot in Sainshand, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you are going in the direction of China remember to take big supply of water as you may spend sometime waiting for the ride.  There is also no place to hide from the sun !(It gets hot and there is at least  3km to the city)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Fri, 25 Oct 13 16:36:48 +0000">Description written 25.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16585">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.13756179808631,44.936935934561845</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16586">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In order to pass the border you need to be in the car, usually is not that difficult to get one. If you experience difficulties security guys may help you to find someone who is willing to take you across the border or possibly even somewhere further away. There is not many people who can speak English so please be prepared to communicate in Russian or Mongolian.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Fri, 25 Oct 13 16:41:35 +0000">Description written 25.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16586">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>111.9156517982385,43.7108006509207</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18037">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walk past the gas stations and stay on a spot where the driver can stop. You probably will not have to wait for long. Here you can hitch a ride until Darkhan or if you are lucky, all the way to UB.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 16 Apr 14 02:43:50 +0000">Description written 16.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18037">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.20984220502937,50.22640198395087</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18038">
+<name>a Hitchhiking spot in Darkhan, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walk past the Buddha statue and go down the hill. You will soon wait for a ride. This is also the road that leads to Darkhan Bus Terminal, so make sure that you tell the driver you are not going to the bus terminal.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 16 Apr 14 02:46:10 +0000">Description written 16.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18038">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>105.94599866864783,49.470080032616394</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18039">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you get dropped off further from the center in UB, you can always try hitchhiking first. It's not like other big cities where it's impossible and you have to either walk or take a bus. People expect you to pay when you waive at cars though, so definitely explain yourself before getting in the vehicle.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Wed, 16 Apr 14 02:48:20 +0000">Description written 16.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18039">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.70199537274704,47.899718503050984</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18048">
+<name>a Hitchhiking spot in Ulaanbaatar, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If it's the high season, you can ask one of the foreign or local tourists to ride along back to UB. If not, go near the road and start hitchhiking. You probably won't wait more than 10 minutes. Explain beforehand that you are HHing and not going to pay for the ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 18 Apr 14 11:14:33 +0000">Description written 18.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18048">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>107.5285663604879,47.80475672953572</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18227">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you are trying to go to Bulgan or Erdenet, this is not a nice spot. The road is isolated. Although it's longer, going towards Ulaanbaatar and waiting on the Bayankhangai junction will be faster.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 29 Apr 14 05:27:01 +0000">Description written 29.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18227">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>104.69658279418388,47.83870087030625</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18415">
+<name>a Hitchhiking spot in Enderkhaan, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The paved road ends here, which makes it really difficult to hitch to Choibalsan. If you are hopeless, there are buses every day which arrive in Khentii and move on to Choibalsan.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 8h (1 experience)<br /><span title="Tue, 13 May 14 07:17:33 +0000">Description written 13.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18415">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.70593261717589,47.33517667189016</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18416">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It is absolutely senseless to cross this border to/from Russia. Even if it makes your way longer, you are better off crossing the border at Kyakhta/Altanbulag. There are so few foreigners crossing this border, you will be the centre of attention and interrogation by the soldiers. It is quite easy to hitch once you cross to the Russian side as many drivers ride to the nearby town of Borzya, where you can move on to Chita.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 9h (1 experience)<br /><span title="Tue, 13 May 14 07:20:51 +0000">Description written 13.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18416">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>115.73904418943837,49.88209908091703</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21134">
+<name>a Hitchhiking spot in Ulan Bator, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot for hitching out of Ulan Batar going south. There is a bus that goes all the way here. Many drivers will ask for money, but somebody will come that takes you for free.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 25 Dec 14 12:05:23 +0000">Description written 25.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=21134">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>107.07109951969308,47.88787038134922</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27337">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>on the way to Orkhon Valley, few cars. It seems that mostly local farm labours stop, perhaps better morning hours. Be prepared to be invited for drinking trip breaks on the way. 
+No shade, avoid hot hours in summer.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Fri, 02 Sep 16 04:31:59 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27337">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.75665640833364,45.86360765587578</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27338">
+<name>a Hitchhiking spot in Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>on the way to Orkhon Valley, few cars. It seems that mostly local farm labours stop, perhaps better morning hours. Be prepared to be invited for drinking trip breaks on the way. 
+No shade, avoid hot hours in summer.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 02 Sep 16 04:38:17 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27338">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.95632266998223,47.128306848588494</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27339">
+<name>a Hitchhiking spot in Kharkhorin, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>on the way to Orkhon Valley, some will stop and ask money for the lift. 
+No shade, avoid hot hours in summer.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Sep 16 04:40:08 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27339">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.84191036224517,47.19229916283185</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27340">
+<name>a Hitchhiking spot in Murun, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>there is no way to get free lift to the lake as being an improvised taxi driver is the local sport.
+Tours charge 15,000, from private you can bargain to 10,000</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Sep 16 05:11:07 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27340">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.15909441430681,49.654089221498054</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27341">
+<name>a Hitchhiking spot in Ulaanbaatar, Mongolia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>easy to get lift to UB</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Sep 16 05:12:35 +0000">Description written 2.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27341">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>107.43651219326705,47.89820098339713</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

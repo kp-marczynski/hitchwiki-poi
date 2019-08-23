@@ -1,0 +1,44 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Malawi</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4396">
+<name>a Hitchhiking spot in Mwanza, Malawi</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitching is a little different in Malawi.  You are expected to pay a little bit towards gas, but other then that, hitching is a very culturally exceptable way to get around.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=4396">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.453125,-15.4536802243458</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12837">
+<name>a Hitchhiking spot in Malawi</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.772260189058414,-9.597856291234038</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24329">
+<name>a Hitchhiking spot in Malawi</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good spot but the worst place ever to hitchhicke on the 65 cultures I went, from asia to america. Only expats (whites, Pakistani, Indians). Most Malawite will try to take advantage of your situation to make you pay (even if they are richer than you), begging is the national sport. Be aware that they can agree to take you for free but will change their mind one you will have make a couple of km with them, and they sometime become quite violent (on guy threatened me with iron rod). It's sad, but you can't really trust people there, try you will see. It's still possible, I hitchhike several hundert km (from Mzuzu Malawi to Zambia Lundazi and back,  to solve a visa issue) that was the most horrible trip I ever did, a more than a 20 years of international hitchhicke. You need to Waite for at least few hours, people making fun at you, I even got stoned and insulted while crossing small villages on foot (to get a better spot). I have been helped by few malawite (2 on 24 people, the 22 where foreigner). several hundert Malawit stopped, but ask money. 6 of them promise me a free ride but change their mind after few minutes.</p>
+
+<p>Just to say: Mozambic, some part of Tanzania, South Sudan where very easy compare to Malawi. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Wed, 07 Oct 15 11:06:09 +0000">Description written 7.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24329">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.98926162719761,-11.47093459083493</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark></Document>
+</kml>

@@ -1,0 +1,854 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Israel</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="1456">
+<name>a Hitchhiking spot in Ramat Gan, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>HaShalom junction (next to the haShalom rail station) is a good place to hitch hike if you're north-bound. At the rail station, walk east until you arrive to the Ayalon highway northbound traffic lights. The road is accessible and very wide - Favorable spots are a factory front with a lot of parking space, and a small hitch hiking station further down the lane, even though you are more likely to be seen next to the factory. Most cars either travel to the Kfar Saba-Raanana area via hwy #4, or all the way to Haifa via hwy #2. Remember that in Israel, the sign is extending the index finger and pointing towards the road (sideways, basically) instead of the traditional thumb.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=1456">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.7934436798096,32.0727564373025</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6573">
+<name>a Hitchhiking spot in Tiberias, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars go fast along this road - it looked good in theory, but it took 1 hour to get a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6573">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.5338406562805,32.8706260568276</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6572">
+<name>a Hitchhiking spot in Ramat Gan, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got a good ride nearly to Haifa, but there are maybe better spots closer to the centre.
+http://hitchwiki.org/en/Tel_Aviv</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6572">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.8112535476685,32.1189651351214</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6570">
+<name>a Hitchhiking spot in Yero?am, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You don't need to walk this far, but it helps if you get bored waiting at the roundabout for a ride north. Good chance of a ride to Tel Aviv or similar place north.
+http://hitchwiki.org/en/Mitzpe_Ramon</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,25,25,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6570">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.8040437698364,30.6224393933944</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6569">
+<name>a Hitchhiking spot in Yero?am, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very beautiful spot, and great for a ride to Eilat.
+http://hitchwiki.org/en/Mitzpe_Ramon</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6569">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.8049235343933,30.6110456692868</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6568">
+<name>a Hitchhiking spot in Yero?am, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Like many kibbutzes, there is a bus stop here where you can hitchhike. The cars slow down here, so it's easy to get a ride to Mitzpe Ramon, and further to Eilat.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6568">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.763445854187,30.9901183234041</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6571">
+<name>a Hitchhiking spot in Ofaqim, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I was going to the Negev. Looks like a good spot, but I did not get a ride after over 1 hour waiting (unusual in Israel). I started walking down the road - after 10-15 minutes walk, you are outside of town on the desert road, and anywhere there is a good spot.
+http://hitchwiki.org/en/Be'er_Sheva</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,0,25,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6571">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.7978639602661,31.2386462124102</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6565">
+<name>a Hitchhiking spot in Tirat Karmel, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot for a ride south.
+http://hitchwiki.org/en/Haifa</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,75,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6565">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.9621760845184,32.7897729188215</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6566">
+<name>a Hitchhiking spot in El Fureid?s, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In theory a good spot for Tel Aviv, but it wasn't our day. As ever, a cheap taxi will offer you a lifeline.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6566">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.9456858634949,32.5928438362379</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7012">
+<name>a Hitchhiking spot in Eilat, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>a small stopping bay, north of the roundabout</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,0,20,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (4 experiences)<br /><span title="Sat, 04 Dec 10 00:56:25 +0000">Description written 4.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7012">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.965166875771,29.570161889904</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7088">
+<name>a Hitchhiking spot in Jerusalem, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is well known hitch spot by hitchhikers and drivers, i have hitch back to tel aviv for 5 times here , the peak of hitching is 5-8 clock,you will hitch with more than 10 local folks .
+And you can get ride to tel aviv ,ashdod or even Haifa here if you are patient enough!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,40,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 50min (6 experiences)<br /><span title="Sat, 18 Dec 10 08:00:14 +0000">Description written 18.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7088">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.195442497702,31.792725402795</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7403">
+<name>a Hitchhiking spot in Tel Aviv-Yafo, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I was here but no cars stopped so I went up to the La Gardia 
+There are no place to stop and the bushes grow very big so the cars won't see you </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,25,25,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (3 experiences)<br /><span title="Sat, 27 Jun 15 21:10:44 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=7403">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.785086917891,32.046871746723</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10024">
+<name>a Hitchhiking spot in Mevaseret Zion, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.159825921055,31.807782361257</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10025">
+<name>a Hitchhiking spot in Mate Yehuda Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Getting a ride to TLV area.
+OR getting a schedueld ride with
+http://www.bgu.co.il/tremp.aspx
+you need to get someone to translate for you but they have a lot of rides offered going to Beersheba (south of the country) area.
+Good luck!
+p.s 
+this spot is better with a sign.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 12 May 12 11:18:04 +0000">Description written 12.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10025">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.145529747014,31.799336806254</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10026">
+<name>a Hitchhiking spot in Mevaseret Zion, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Jerusalem! a good spot there is a LOT of traffic so it is better to come with a sign.
+but there are also &quot;Superbus&quot; busses and &quot;Sheirut&quot; group cabs coming from telaviv that dont cost much and will get you very fast to jerusalem too :)
+good luck.
+P.S !
+make sure you get with the right kind of people - cus there are all sorts of wierdos on the highway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 12 May 12 11:22:50 +0000">Description written 12.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10026">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.145540475854,31.79872131053</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10027">
+<name>a Hitchhiking spot in Ramat Negev Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From sde boker to Beersheva or Mitzpe-Ramon a very safe location to hitchhike.
+ better at day.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 12 May 12 11:27:10 +0000">Description written 12.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10027">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.778769850741,30.850524998715</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10028">
+<name>a Hitchhiking spot in Tel Aviv-Yafo, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From &quot;Merkaz&quot; train station or its called also Masof 2000 ... Giong south. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sat, 12 May 12 11:30:09 +0000">Description written 12.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10028">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.797303915033,32.082456720484</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10029">
+<name>a Hitchhiking spot in Jerusalem, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got stuck here twice fro five hours had to catch a cab in the end ... better to get back up to Ein Karem and get a ride from there its just a 10 min walk.
+Good luck.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 12 May 12 11:42:19 +0000">Description written 12.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10029">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.154048442846,31.770454243493</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12005">
+<name>a Hitchhiking spot in Jerusalem, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>French Hill Junction. It's a good place for hitchhiking to several places. You can hitch from here to the Dead Sea, towards route 90 and then south towards Eilat or north towards Tiberias, Sea of Galilee and the Golan Heights, to Palestinian cities that are north of Jerusalem, to West Bank/Samaria settlements.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:28.571428571429,42.857142857143,0,28.571428571429,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|3|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 51min (4 experiences)<br /><span title="Sat, 07 Sep 13 18:05:02 +0000">Description written 7.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12005">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.23484945297285,31.80649415571554</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12701">
+<name>a Hitchhiking spot in Arava Tichona Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>bus stop can be used for hitchhiking in both direction, cars are fast but notice you on a long distance </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 19 Dec 12 19:29:48 +0000">Description written 19.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12701">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.07570648193407,29.98811950931289</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12931">
+<name>a Hitchhiking spot in Hadera, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>bus stop on the drive up of highway 2
+good for being dropped off and going on to Tel Aviv </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 30 Jan 13 21:13:36 +0000">Description written 30.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12931">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.89241872697631,32.446002515514415</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12947">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>watch out, no bus stop at this junction!! (Jan 2013)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,0,66.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 01 Feb 13 12:28:03 +0000">Description written 1.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12947">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.36008400375273,31.14146393106517</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13346">
+<name>a Hitchhiking spot in Galil Tachton Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Puriya junction is the best place to catch a ride from the Gaillile sea towards Haifa</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 22 Mar 13 18:47:13 +0000">Description written 22.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13346">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.49194076538131,32.78729613670275</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13347">
+<name>a Hitchhiking spot in Galil Tachton Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Golani Junction Has four &quot;Trempyadas&quot; (See an article about an official israeli hitchhiking spot) in every direction. North goes up to the &quot;high galil&quot; and the Golan hights, west goes to Haifa, south to Affula and Tel aviv and East to The gallile sea. It's a great spot to find a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Mar 13 18:52:37 +0000">Description written 22.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13347">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.411431579589305,32.77849258155808</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13348">
+<name>a Hitchhiking spot in Mevoot HaHermon Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On the side of the road there is a &quot;belly&quot; where cars can stop towards road 90 (The road from Golan hights until Eilat).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 22 Mar 13 19:01:13 +0000">Description written 22.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13348">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.48764923095762,32.91009409055548</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13349">
+<name>a Hitchhiking spot in Mevoot HaHermon Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>&quot;Trempyada&quot; (a hitchikers bus stop) on both ways going north to the &quot;high galil&quot; and &quot;the golan hights&quot; and south to The gallile sea.
+×‘×¦×•×ž×ª ×¨××© ×¤×™× ×” ×™×© ×™×•×¤×™ ×©×œ ×˜×¨×ž×¤×™××“×” ×•××¤×©×¨ ×œ×¢×¦×•×¨ ×˜×¨×ž×¤×™× ×œ×›×™×•×•×Ÿ ×“×¨×•× ×•×¦×¤×•×Ÿ.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 23 Mar 13 09:54:55 +0000">Description written 23.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13349">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.54991939544785,32.96725280048219</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13350">
+<name>a Hitchhiking spot in Hof HaCarmel Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.94801023483322,32.709278593429545</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13351">
+<name>a Hitchhiking spot in Hof HaSharon Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A big open shopping center where you can get a ride to Tel-aviv easy. Just stand on the ramp that goes south.
+×ž×¨×›×– ×©×¤×™×™× ×•×’×¢×© ×”×•× ×ž×¨×›×– ×§× ×™×•×ª ×¤×ª×•×— ×ž×¤×•×¨×¡× ×‘××–×•×¨ ×ž×™×©×•×¨ ×”×—×•×£ ×•××¤×©×¨ ×œ×ª×¤×•×¡ ×ž×ž× ×• ×˜×¨×ž×¤ ×‘×§×œ×•×ª ×œ×›×™×•×•×Ÿ ×ª×œ ××‘×™×‘ ×¢×“ × ×ª× ×™×”.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 23 Mar 13 16:44:09 +0000">Description written 23.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13351">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.8285570144655,32.219758956685496</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13946">
+<name>a Hitchhiking spot in Mizpe Ramon, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.80787181854238,30.609647093637243</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13952">
+<name>a Hitchhiking spot in Jerusalem, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it looked like a nice place but nobody stopped.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Thu, 09 May 13 13:14:56 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13952">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.226679581205154,31.790352373250204</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13955">
+<name>a Hitchhiking spot in Ramat HaSharon, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>to Haifa. there were 2 hh-ers, after them i got a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 09 May 13 13:37:55 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13955">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.86013379503951,32.12651410114283</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13956">
+<name>a Hitchhiking spot in Kiryat Shmona, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it was night but the Israelis are generous. to Kfar Sold</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 09 May 13 13:42:11 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13956">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.57385262098441,33.220712518658786</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13957">
+<name>a Hitchhiking spot in Galil Elyon Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>the whole area is great for HH. i could make 20 very good sports... i waited max 10 mins.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 09 May 13 13:43:32 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13957">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.63216838749163,33.22427826060474</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13958">
+<name>a Hitchhiking spot in Golan Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just ask a tourist to take you back to Masada</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 09 May 13 13:47:41 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13958">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.80114747765969,33.11662864412596</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13959">
+<name>a Hitchhiking spot in Golan Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>low traffic but the fifth car took me</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Thu, 09 May 13 13:52:10 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.650818003296514,33.010860969883915</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13960">
+<name>a Hitchhiking spot in Golan Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just a short ride but it was nice.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 09 May 13 13:53:21 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13960">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.634372185869495,32.903980578997896</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13961">
+<name>a Hitchhiking spot in Golan Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>i got a direct ride to Jordanian border junction.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 09 May 13 13:57:28 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13961">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.64714255505343,32.90309653400863</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13962">
+<name>a Hitchhiking spot in Emek HaMaayanot Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it is close to the border but there is no traffic. i car took me 2 km, then i took a regular bus to the border for 5 NIS. it's walking distance, depends on the weather and your condition.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 09 May 13 14:00:15 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13962">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.51954599604693,32.503436908555685</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13966">
+<name>a Hitchhiking spot in Hevel Eilot Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>from the Jordanian border to Taba</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (2 experiences)<br /><span title="Thu, 09 May 13 14:56:02 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13966">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.96790774065924,29.57955404308607</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13967">
+<name>a Hitchhiking spot in Hevel Eilot Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it was quite easy to get a ride to Mitspe Ramon</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Thu, 09 May 13 14:57:43 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13967">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.02633690407128,30.04657001326855</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15063">
+<name>a Hitchhiking spot in Pardes Hana - Karkur, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.95738887786874,32.510580876560326</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15064">
+<name>a Hitchhiking spot in Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.06425881385729,32.635801967839626</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15286">
+<name>a Hitchhiking spot in Hof HaCarmel Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.948441028596875,32.59170973636822</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17578">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bus station - Hitching spot (TrempiYada) going south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 22 Feb 14 17:46:42 +0000">Description written 22.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17578">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.395813436508945,31.457982561726425</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17579">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bus station-Hitching spot (Trempiyada) going south</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 28min (2 experiences)<br /><span title="Sat, 22 Feb 14 17:49:28 +0000">Description written 22.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17579">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.38332507133509,31.313187798661037</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17580">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is no official place to stop in this place</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sat, 22 Feb 14 18:36:09 +0000">Description written 22.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17580">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.364270658492565,31.160811921094613</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17581">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bus station-Hitching spot (Trempiyada) in front of the terrible Sea-killer plant. Going south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 22 Feb 14 18:43:16 +0000">Description written 22.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17581">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.36594435691768,31.037984346961107</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17582">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>&quot;Ha-Arava junction&quot; going south. There is a bus-hitchhiking spot (Trempiyada) and also a gas station here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Sat, 22 Feb 14 18:48:03 +0000">Description written 22.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17582">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.34204051017702,30.994667492566357</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17583">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is &quot;Ha-Arava junction&quot; going south. There is a bus-hitchhiking spot (Trempiyada) and also a gas station here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 22 Feb 14 18:52:09 +0000">Description written 22.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17583">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.308931322096406,30.987886821048683</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17986">
+<name>a Hitchhiking spot in Tamar Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Masada hostel</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 09 Apr 14 20:13:00 +0000">Description written 9.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17986">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.36474132537699,31.31265990804362</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17987">
+<name>a Hitchhiking spot in Emek HaMaayanot Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Border crossing direction Israel.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 09 Apr 14 20:14:34 +0000">Description written 9.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17987">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.571700572965455,32.4958321705677</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18694">
+<name>a Hitchhiking spot in Naaharia, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good Place to hitch east direction Mount Meiron and the villages of the Galilee. Bus station.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 04 Jun 14 21:54:43 +0000">Description written 4.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18694">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.09986782073744,33.00571723550994</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18695">
+<name>a Hitchhiking spot in Mate Asher Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place to hitch to all directions.
+Also, there is a very nice water spring a little bit south west to here, in the fields. It is called Ein Shefa. http://amudanan.co.il/#!wiki=P752140 </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 04 Jun 14 21:58:24 +0000">Description written 4.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18695">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.14313721656512,33.01644145556459</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20736">
+<name>a Hitchhiking spot in Beit Shean, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.50413036346444,32.4945471994347</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21334">
+<name>a Hitchhiking spot in Tveria, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>dir.: north. a little bit still in the town, but it wasn't too crowded in january.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 21 Jan 15 10:09:58 +0000">Description written 21.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21334">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.539603233337544,32.79472760198978</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21335">
+<name>a Hitchhiking spot in Be'er Sheva, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>dir.: south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 21 Jan 15 10:11:52 +0000">Description written 21.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21335">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.80276823043908,31.230035339002885</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21704">
+<name>a Hitchhiking spot in Emek HaYarden Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.586410164827214,32.704250662844984</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22955">
+<name>a Hitchhiking spot in Haifa, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a bus stop here excellent stop for Tel Aviv always huge traffic !!! :) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sat, 27 Jun 15 21:09:07 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22955">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.98737597465274,32.78260258881396</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22956">
+<name>a Hitchhiking spot in Tel Aviv-Yafo, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A spot for Jerusalem 
+Go down onto the highway but be careful only accept rides stright to jerusalem or at least the city before becasue on the highway THERE IS NO PLACE TO STOP !!! :D </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (4 experiences)<br /><span title="Sat, 27 Jun 15 21:12:18 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22956">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.78547000884782,32.05860500425924</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22957">
+<name>a Hitchhiking spot in Emek Lod Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I hhed here twice booth at night once at 2AM stand under the light and have a sign </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sat, 27 Jun 15 21:13:51 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22957">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.8926939964263,31.984409948087322</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22958">
+<name>a Hitchhiking spot in Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I think I was here at the exit of the airport better try here or you have to walk at least to the entrance of the highway </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Sat, 27 Jun 15 21:16:42 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22958">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.865292549130885,32.001493824215146</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22959">
+<name>a Hitchhiking spot in Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I got picked up here in the night and got taken to the entrance of the highway which was perfect !!! :D </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 27 Jun 15 21:17:39 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.876439809796835,31.99668518275629</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22960">
+<name>a Hitchhiking spot in Jerusalem, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a good place to stop somewhere here for the Dead Sea much better than the previous one that suckss ass since it's uphill 3 lanes and the cars won't always see you </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 40min (2 experiences)<br /><span title="Sat, 27 Jun 15 21:19:29 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22960">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.24109685420907,31.808058167966784</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23113">
+<name>a Hitchhiking spot in Carmiel, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.2779235839835,32.911608543896996</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23114">
+<name>a Hitchhiking spot in Emek Izrael Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.232519149779876,32.757527784264546</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23942">
+<name>a Hitchhiking spot in Hevel Modiin Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.01690498602562,31.912387114942472</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24027">
+<name>a Hitchhiking spot in Mate Yehuda Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want to go north, but your ride continues to Tel Aviv, get dropped of here! Most driver will still go to Tel Aviv, but will go directly to Haifa. Only possible in one direction.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sat, 12 Sep 15 20:58:30 +0000">Description written 12.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24027">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.02416247128948,31.815561618503626</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24028">
+<name>a Hitchhiking spot in Menashe Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Coming from the Highway 6 this is a decent spot to hitchhike directly on Route 65 eastwards, since cars a slower than usual, due to a trafficlight.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 12 Sep 15 21:05:07 +0000">Description written 12.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24028">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.04610294103234,32.485850539104796</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24284">
+<name>a Hitchhiking spot in Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent place to get in any direction since the most drivers are longrange, got a ride to Jerusalem in no time. But I suppose there are also a lot of drivers going to Tel Aviv.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 03 Oct 15 00:08:38 +0000">Description written 3.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24284">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.017427444457596,32.38063228581691</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24411">
+<name>a Hitchhiking spot in Mate Yehuda Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.01220250129683,31.77832556768924</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24412">
+<name>a Hitchhiking spot in Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.987493991853576,31.839955015344806</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25036">
+<name>a Hitchhiking spot in Nesher, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.07135372161947,32.75213828766225</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25037">
+<name>a Hitchhiking spot in Megido Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.10959129333543,32.6731100801351</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25038">
+<name>a Hitchhiking spot in Galil Tachton Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.407455968857455,32.77636666864712</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25039">
+<name>a Hitchhiking spot in Galil Elyon Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.571204829219106,33.126372009725834</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25040">
+<name>a Hitchhiking spot in Kiryat Shmona, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.57066838741738,33.21264892676927</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25043">
+<name>a Hitchhiking spot in Galil Elyon Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.64014122009353,33.22723320986177</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25044">
+<name>a Hitchhiking spot in Metula, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.576508493425386,33.27605996308565</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25410">
+<name>a Hitchhiking spot in Emek HaYarden Regional Council, Israel</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I got a ride in less than 10 minutes. Not that many cars pass through here but when they do, they tend to slow down quite a bit due to the curve. Anyone who is open to picking up hitchhikers will likely stop here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 06 Apr 16 14:40:26 +0000">Description written 6.4.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25410">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.54572224617115,32.87640790025624</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27438">
+<name>a Hitchhiking spot in Drom HaSharon Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.941069037914325,32.11837112015592</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27439">
+<name>a Hitchhiking spot in Emek HaYarden Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.585491211415864,32.70507829798818</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27440">
+<name>a Hitchhiking spot in Drom HaSharon Regional Council, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.934798033242785,32.11626750085804</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27441">
+<name>a Hitchhiking spot in Ramat HaSharon, Israel</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>34.8348857474374,32.133158694986726</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Document>
+</kml>

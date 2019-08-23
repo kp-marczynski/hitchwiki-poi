@@ -1,0 +1,1115 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Macedonia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="2711">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>hitchhike in direction bitola this is the only road you can use. but i needed 90 minutes for a lift</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,37.5,0,12.5&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|3|4|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 21min (5 experiences)<br /><a href="https://hitchwiki.org/maps/?place=2711">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.8158946037292,41.1263544693631</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="2712">
+<name>a Hitchhiking spot in Bistrica, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>almost no traffic at this border, but the police helped me with a lift to florina</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=2712">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.4167308807373,40.9172744748613</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3285">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>getting a lift on local roads was no problem in albania.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=3285">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.7206225395203,40.9030851603782</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4126">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent place to hitch to Tetovo, Ohrid etc.
+Get there by bus, can't remember the number unfortunately.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:42.857142857143,28.571428571429,14.285714285714,14.285714285714,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (5 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4126">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.3296341896057,42.007651948614</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4132">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Use this spot to hitch south along the lake. Getting out in one of the town on the way might mean you have to walk to the town's edge (never very far) to hitch on.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,20,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4132">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.8151972293854,41.1048619415499</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4133">
+<name>a Hitchhiking spot in Tetovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Enough space to pull over + people can see you coming. Traffic allright. Your place to go south along the highway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=4133">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.9612488746643,41.9977418314841</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7771">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gasstation and a wide street where people can stop. 2km out of town. Hitch directly to Skopje or if people go to Struga get out on the crossroads.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (13 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:53.846153846154,23.076923076923,15.384615384615,7.6923076923077,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|2|3|7|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 34min (8 experiences)<br /><span title="Thu, 19 May 11 19:08:13 +0000">Description written 19.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7771">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.786851956157,41.125906520128</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7772">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Wide onramp, good visibility.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Thu, 19 May 11 19:08:57 +0000">Description written 19.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7772">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.750556303768,41.163919751868</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7823">
+<name>a Hitchhiking spot in ÐÐ»Ð¶Ð¸Ñ€ÑÐºÐ° 19, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot where cars turn onto the bigger road leaving the city. </p>
+
+<p>Hitched from here to the toll-booths at the start of the highway going south (didn't use a sign to maximise changes of getting out of town quickly).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Tue, 24 May 11 15:16:08 +0000">Description written 24.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7823">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.45167064669,41.999052824997</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7824">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll booths on the road going south, possibility to switch rides.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|6|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 24 May 11 15:19:44 +0000">Description written 24.5.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7824">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.620285034202,41.941556066304</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7900">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>i was asked for money only to arrive till kyustendil and the driver got pretty nervous but anmyway pretty low traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,25,37.5,12.5,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|3|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 42min (6 experiences)<br /><span title="Fri, 12 Oct 12 09:39:45 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=7900">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.455864786633,42.220227142007</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7947">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just came from Skopje with bus to Kumanovo for 10 dinars till these paytolls and took 10mins to get a ride to Nis. Nice place for cars to stop on a side</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:62.5,25,12.5,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (6 experiences)<br /><span title="Sat, 11 Jun 11 18:22:41 +0000">Description written 11.6.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7947">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.698503912036,42.107290813068</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8088">
+<name>a Hitchhiking spot in Prilep, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>main road goes by the town. walk to this junction, 10 mins from the centre. okay for both directions.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 10min (2 experiences)<br /><span title="Mon, 04 Jul 11 21:53:45 +0000">Description written 4.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8088">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.557480334949,41.330021566102</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8752">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is enough space at the parking right after the border to stop. Cars are slowly and they still have an open window, so it's easy to talk to them. The biggest problem are the cars from greece going to the casino which is next to the border. You have to be patient.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,28.571428571429,57.142857142857,14.285714285714,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|4|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 48min (4 experiences)<br /><span title="Thu, 29 Sep 11 10:02:40 +0000">Description written 29.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8752">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.548889160138,41.134052052813</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9327">
+<name>a Hitchhiking spot in Struga, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just wait after the crossroads in any direction.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:37.5,37.5,25,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|3|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (8 experiences)<br /><span title="Mon, 30 Jan 12 09:20:09 +0000">Description written 30.1.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9327">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.675553762348,41.183963537202</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9356">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good stop on either side of the road, I use it a lot going to Kosovo. I think there is a bus that goes there but you can always just walk.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Mon, 06 Feb 12 10:59:19 +0000">Description written 6.2.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9356">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.410414209589,42.018562709382</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9363">
+<name>a Hitchhiking spot in Gostivar, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.914267301566,41.794005865969</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9713">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Proved quite easy to hitchhike to Struga very late in the night.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Sun, 08 Apr 12 21:46:42 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9713">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.616244912137,41.107044953963</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9714">
+<name>a Hitchhiking spot in Struga, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Worked north-bound. Lots of place to stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Sun, 08 Apr 12 21:47:45 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9714">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.729026436794,41.170263633201</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9716">
+<name>a Hitchhiking spot in Kichevo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We were stopped by the police on a petrol station and forced into a bus to Skopje.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 08 Apr 12 21:48:37 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9716">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.953044533716,41.520732437785</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9717">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got a ride to Kumanovo after the bridges.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 08 Apr 12 21:49:56 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9717">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.475581765168,42.003458769695</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9718">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got a ride to PreÅ¡evo in 20 minutes at a petrol station. Cars are passing both from the left and from the right side of where is possible to hitchhike, so both of us hitchhiked on each side.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 08 Apr 12 21:52:46 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9718">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.702346444121,42.135730668879</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9956">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I was hitchhiking here in the direction of Bitola, after the road makes a left turn after a bridge and a gas station. This is a bit out of town (at the sign marking the end of Resen), so most cars are going fast and are seemingly reluctant to stop. Might be a better idea to stand a bit closer to town where cars go slowly. Got a ride to Gevgelia (I was going to Thessaloniki) in a bit more than an hour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 02 May 12 19:49:40 +0000">Description written 2.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9956">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.021918296811,41.083215301157</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10049">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just behind the toll booth. Check for the license plates on the cars to see where they are probably going.
+Booth employees were very friendly.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (3 experiences)<br /><span title="Tue, 15 May 12 20:55:04 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10049">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.956758493556,41.976385661902</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10050">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Wait just behind the toll booth and check for the cars' license plates.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Tue, 15 May 12 20:57:04 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10050">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.077036048285,41.989939661569</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10051">
+<name>a Hitchhiking spot in Kichevo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Wait just after the crossroads on either direction.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 27min (3 experiences)<br /><span title="Tue, 15 May 12 20:59:50 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10051">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.952289111438,41.512646567589</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10209">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>in case that you already crossed the border and you were droped off by a car immediatley behind it, u just can go straight ahead along the street and just stop the cars by thumb. Traffic is not that heavy (I think it depends on the day time) but  the 3rd or the 4th car at latest will give you lift. I just walked 5-10 minuts, then I got a lift to the city center of Skopje.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (3 experiences)<br /><span title="Thu, 07 Jun 12 23:19:55 +0000">Description written 7.6.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10209">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.305660242213,42.139398083493</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11076">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gas station 20km from the border, there are many cars here and you can hh on the highway. Mostly MK and SRB tourists, very friendly and will stop to talk even if they don't have a place for you.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 15 Aug 12 18:58:10 +0000">Description written 15.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11076">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.416066169739747,41.36805314860799</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11077">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A small road joins the highway here. The cars on the highway drive too fast to stop, but you can easily catch a ride from someone going from Negotino. My friend and I (two guys) waited for 20-30 mins.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 15 Aug 12 19:00:51 +0000">Description written 15.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11077">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.106045722961976,41.48235215504309</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11078">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gas station and toll booth near Gradsko. We slept near the gas station, there are showers and everything. The toll booth is 1km away where you can easily catch a ride to Greece or Ohrid.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Wed, 15 Aug 12 19:06:09 +0000">Description written 15.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11078">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.9398775100708,41.5710266345246</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11133">
+<name>a Hitchhiking spot in Tetovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>towards Skopje</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 19 Aug 12 00:06:04 +0000">Description written 19.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11133">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.981003037110053,42.00577676673632</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11138">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>towards Pristina</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 19 Aug 12 18:53:53 +0000">Description written 19.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11138">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.40905761718825,42.026109009001495</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11695">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>petrol station in direction of Serbia. mostly local traffic, or buses to Skopje. buses to Belgrade didn't want to take us to the border, saying 'police problems' (maybe temporary)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,0,75,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|3|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (2 experiences)<br /><span title="Thu, 27 Sep 12 18:30:41 +0000">Description written 27.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11695">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.702974081039255,42.13328413624564</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11696">
+<name>a Hitchhiking spot in Municipality of Gazi Baba, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station, direction: east. You can either ask drivers directly or stand near the read with a sign (KU for Kumanovo for Serbia and Bulgaria and VE for Veles for Greece). You can get here by autobus from Avtokomanda (2,3 stops, read Skopje page)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (9 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:44.444444444444,22.222222222222,11.111111111111,22.222222222222,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|2|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 11min (6 experiences)<br /><span title="Thu, 27 Sep 12 18:41:49 +0000">Description written 27.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11696">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.47863441332776,42.00392306525417</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11935">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>U can also go to staro nagoritzane monastery</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:41:04 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11935">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.813920974729733,42.171725537827626</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11936">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.534850597380117,41.51759553375526</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11937">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.760671138762056,41.704739587624026</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11938">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Matka canyon, lots of tourists, also locals, easily going to skopje, theres also a local bus but useless take it. perfect to camp also</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 12 Oct 12 09:42:58 +0000">Description written 12.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11938">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.307562828061386,41.96774325813246</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12898">
+<name>a Hitchhiking spot in Bitola, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>21.289323806764987,41.04614024434044</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12915">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol Station, You have to take the bus, see it in the descrition. 
+you have to stand direct on the Highway, cause there are not so many cars going down for petrol. 
+sundays are hard ;) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (3 experiences)<br /><span title="Sat, 26 Jan 13 18:41:35 +0000">Description written 26.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12915">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.654519438740657,41.90451094469821</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12928">
+<name>a Hitchhiking spot in Negotino, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good place to get a lift down to greece, there is a petrol station near the highway, but stand direct with a sign on the highway thats better, i got a direct lift to greece border. there is enough space for trucks to stop for you on the safety line. love mazedonia. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,50,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Tue, 29 Jan 13 10:41:32 +0000">Description written 29.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12928">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.097886443134577,41.50041818878606</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14774">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>21.954543828965114,41.56131772735065</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15237">
+<name>a Hitchhiking spot in Kriva Palanka, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Last gas station for about 20+ km all the way to the border.
+good visibility but low traffic</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 27 Jul 13 21:21:01 +0000">Description written 27.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15237">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.32835469763383,42.20058844637508</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15568">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>22.48276048048198,41.24729601167312</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16552">
+<name>a Hitchhiking spot in Bitola, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>4 People got 2 rides in direction Ochid pretty easy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 22 Oct 13 23:40:52 +0000">Description written 22.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16552">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.336006313564038,41.03272623055447</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16553">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pretty easy to hike down here and back and further on</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Tue, 22 Oct 13 23:43:12 +0000">Description written 22.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16553">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.11879029870128,40.87514287014249</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17759">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This the best spot for the Skokpje direction. We were 4 friends found a car in early morning until next gas station after Stip.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Mon, 10 Mar 14 17:48:18 +0000">Description written 10.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17759">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.372935116291213,41.89966098448932</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17760">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is you can find car for both Skopje and Kumanova directions.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 10 Mar 14 18:02:14 +0000">Description written 10.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17760">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.14092135429549,41.77328324603295</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17818">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here are paytolls /peage (Macedonian: Patarina). Here is good place to hitch-hike towards south. There are many cars also going to Stip. Me and my mate were going to Bitola. We waited two hours because most cars going direct south instead of Bitola or Ohrid. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 3min (2 experiences)<br /><span title="Mon, 17 Mar 14 15:51:13 +0000">Description written 17.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17818">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.74477229776205,41.775473680281856</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17898">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is a petrol station for both ways. Workers also so nice and helpful. We two guys hitch-hiked towards Kosova. In 30 hours we found a car until border. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sun, 30 Mar 14 15:45:54 +0000">Description written 30.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17898">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.40376293659205,42.03238492204572</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17899">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is Makpetrol. Most of cars are going to Airport and also south. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (3 experiences)<br /><span title="Sun, 30 Mar 14 15:51:59 +0000">Description written 30.3.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17899">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.57040476799183,41.96915807403256</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18444">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Place to hitchhike towards the border with Bulgaria. Visibility is okay, traffic is generally slow here. Place is at the end of a town, where road starts going uphill. Waiting time can be high but most vehicles definitely go to the border and further to Kyustendil</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (2 experiences)<br /><span title="Sun, 18 May 14 03:11:37 +0000">Description written 18.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18444">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.34643065929464,42.2128374627108</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18445">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>When you get a ride to Kriva Palanka and want to go further to Bulgaria, it's maybe smarter to get into the town, as it's not too big so you can walk to the exit of it. This place is in the begining of a town (coming from Skopje). Most drivers, except transit vehicles, go into the town, so you can experience high waiting times at this place.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Sun, 18 May 14 03:15:53 +0000">Description written 18.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18445">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.309526145459763,42.19285716411021</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19243">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>All people who are crossing border has to stop for a while so it's good possibility to ask about lift. I had no problem with car to Bitola, maybe 5 minutes of waiting - there is only one main road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 17 Jul 14 12:10:38 +0000">Description written 17.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19243">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.417340278625684,40.918105768338435</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19270">
+<name>a Hitchhiking spot in Tetovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Somewhere here is the last petrol station before Tetovo. you can ask cars and staff from petrol station will help you</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 20 Jul 14 01:34:22 +0000">Description written 20.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19270">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.013099193573183,41.998112886245785</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19819">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>21.714486122134186,42.15545462236828</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19871">
+<name>a Hitchhiking spot in Gostivar, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll booths on the A2 towards skopje.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 27 Aug 14 01:06:52 +0000">Description written 27.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19871">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.917623968274892,41.819879443911056</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20169">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot directly on the road to Ohrid. Waited here for about 1 hour on a Friday August at noon, then I got a ride all the way to Skopje.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 15 Sep 14 00:03:36 +0000">Description written 15.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20169">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.805839538573885,41.00758112260995</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20170">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station on the road from Belgrade to Sofia. Cars going both directions stop there, as it's open 24/7. One of the workers found me a ride to Kratovo in the early morning. Also saw a local hitch-hiker using it.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 15 Sep 14 00:12:41 +0000">Description written 15.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20170">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.750835418700568,42.16348721992672</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20324">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>i was waiting for an hour, after that I started to walk to Serbian border for 3,5 hours and no body gave me a lift. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3h 30min (1 experience)<br /><span title="Wed, 24 Sep 14 23:34:55 +0000">Description written 24.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20324">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.702598571775717,42.13752473273609</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20345">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Helpfull boarder guards. A lot of traffic, most to Skopje or Greece.
+The boarder guard organized us a lift in a bus in the direction of Ohrid.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 26 Sep 14 02:41:16 +0000">Description written 26.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20345">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.70337104797552,42.234646443639384</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20519">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>got a lift to ohrid from here.
+you could also ask people at the petrolstation.
+sign nieeded.
+waiting time: 2h</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 08 Oct 14 14:35:04 +0000">Description written 8.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20519">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.33299016952354,42.006779289937626</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21206">
+<name>a Hitchhiking spot in Radovish, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On an average day it takes from 15 to 30 minutes to get a ride, I have used this spot countless times. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Jan 15 23:23:31 +0000">Description written 2.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21206">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.459153175355635,41.61940892452171</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21207">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To go north of Radovish, On an average day it takes from 15 to 30 minutes to get a ride, I have used this spot countless times. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Jan 15 23:35:37 +0000">Description written 2.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21207">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.441938757899973,41.62782598403729</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21208">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Stand under the tree for shade :) It usualy takes more than  half an hour to get a ride,</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 02 Jan 15 23:38:51 +0000">Description written 2.1.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21208">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.277723193172033,41.61984604517854</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21209">
+<name>a Hitchhiking spot in Strumica, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>22.64967048168555,41.438214661091855</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21210">
+<name>a Hitchhiking spot in Strumica, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>22.650464415554474,41.43880984662856</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21586">
+<name>a Hitchhiking spot in Struga, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It really makes no difference at this point of Struga which road you choose, most of traffic is Ohrid bound anyway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Sun, 22 Feb 15 11:09:18 +0000">Description written 22.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21586">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.70037660993782,41.17081086680347</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21587">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can climb down here from the bridge. Not a lot of traffic, but at this point(assuming Skopje is your direction) you just want to get to the next crossing, were there is way more cars.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 22 Feb 15 11:11:04 +0000">Description written 22.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21587">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.784994939939025,41.12889039818481</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21588">
+<name>a Hitchhiking spot in Gostivar, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Enough place to pull up, plenty of traffic to Skopje.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 22 Feb 15 11:21:34 +0000">Description written 22.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21588">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.887133459227595,41.79523857630121</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21796">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the junction from the main road at towrads Mavrovo.</p>
+
+<p>Got a ride with a bus (for free) to Mavrovo after waiting less than 5min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 18 Mar 15 13:03:26 +0000">Description written 18.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21796">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.840965747832296,41.72727568725643</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21797">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tried to get a ride to the Ski-center of mavrovo but no cars were stopping (maybe 10 passing), even if most of them had space for me.</p>
+
+<p>Had to walk to the ski-center, about 1hour if youre a good walker. A flat walk.</p>
+
+<p>In the middle of the day in february.</p>
+
+<p>It should be a good place though, just bad luck for me a guess.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 18 Mar 15 13:06:44 +0000">Description written 18.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21797">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.745500564575085,41.697305907442285</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22414">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Entrance to the high way. No police passed by me. There's a good place to stay on the junction of the road with the high way, it's a safe place with a place for a car to park.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Tue, 12 May 15 22:14:48 +0000">Description written 12.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22414">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.800155878068818,41.72644293721176</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22415">
+<name>a Hitchhiking spot in Demir Kapija, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Entrance from the city Demir to the highway. Not so much place for a car to stop, a bit dangerous.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 12 May 15 22:48:22 +0000">Description written 12.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22415">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.230248093604335,41.41680043820233</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22564">
+<name>a Hitchhiking spot in Kavadarci, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It takes from 15 to 30 minutes to get a ride</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 23 May 15 19:08:56 +0000">Description written 23.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22564">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.021373748778988,41.44351885866479</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22565">
+<name>a Hitchhiking spot in Negotino, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It takes more than 30 minutes to take a ride</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sat, 23 May 15 19:11:01 +0000">Description written 23.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22565">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.102376461029987,41.50054675459605</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22566">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can get very quickly a ride, it takes 10-15 minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 23 May 15 19:12:29 +0000">Description written 23.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22566">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.00540924072219,41.44092914539758</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22567">
+<name>a Hitchhiking spot in Kavadarci, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It takes 5-10 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 23 May 15 19:17:45 +0000">Description written 23.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22567">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.00355315208168,41.431590842896576</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22800">
+<name>a Hitchhiking spot in Bitola, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>but stop after the rondabout</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 13 Jun 15 08:30:24 +0000">Description written 13.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22800">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.31206893920953,41.033095478741636</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22801">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>at the end of Resen, direction Ohrid</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 13 Jun 15 08:31:58 +0000">Description written 13.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22801">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.011682987213472,41.09986193527154</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22814">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>not so much traffic</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Thu, 25 Jun 15 20:44:38 +0000">Description written 25.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22814">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.787128448485827,40.95781914857455</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22928">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>21.312047481537714,41.99179770709727</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22929">
+<name>a Hitchhiking spot in Tetovo, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.992317438125543,42.002625622771035</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22930">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>20.801290512084798,41.048600009632786</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22931">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>almost no traffic to albania, 2 cars in 1 hour. we walked all the way to the border and took a taxi.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 25 Jun 15 20:47:12 +0000">Description written 25.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22931">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.755574941635782,40.91458714653756</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23130">
+<name>a Hitchhiking spot in Kavadarci, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Small gas station by the road to Kavadartsi. Many cars passing by, but only a few stopping. I got a ride to Kavadartsi from a car stopping for filling gas. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 14 Jul 15 08:57:04 +0000">Description written 14.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23130">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.076906204221498,41.48307553612845</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23132">
+<name>a Hitchhiking spot in Kavadarci, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Really bad if you're going to Prilep/Bitola. I was told by locals to stand there, but people use this road to reach the local area. Use the other road to reach Prilep.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 14 Jul 15 08:59:33 +0000">Description written 14.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23132">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.059568405149516,41.452718743232325</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23298">
+<name>a Hitchhiking spot in Bitola, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I was heading to Serbia, and got a ride to Skopje after 5 minutes. Early morning on working days.</p>
+
+<p>Stand immediately after the roundabout, cars are fairly slow and the lane is quite large.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 23min (2 experiences)<br /><span title="Fri, 24 Jul 15 19:42:01 +0000">Description written 24.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23298">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.3469215631507,41.03869970379936</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23385">
+<name>a Hitchhiking spot in Kumanovo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Kriva Palanka and Bulgaria, traffic is not very high, but the spot itself is fine.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Wed, 06 Jul 16 22:52:36 +0000">Description written 6.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=23385">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.728036642071537,42.157514563902794</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23652">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>21.626080513000147,41.94010452374516</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23788">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>there is a parking place next to the gas station, if you going to Ohrid, or Albania..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Thu, 27 Aug 15 15:56:21 +0000">Description written 27.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23788">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.94501399994047,41.495098554546544</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23988">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>border of Bulgaria and Macedonia.
+100 meters after the macedonian side there is a wide area for cars to pull over. i was there on sunday and didnt got a ride. (people are suspicious because of the refugees crossing the border)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 10 Sep 15 11:59:50 +0000">Description written 10.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23988">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.87491703033492,41.986725973233405</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23989">
+<name>a Hitchhiking spot in Delchevo, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>people where very nice and offer me food, also police was nice. nobody got me out of the city though.
+behind the gas station there are toilets and nice grass area where you cant put your tent if needed.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 10 Sep 15 12:04:42 +0000">Description written 10.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23989">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.771587610244758,41.973454619594214</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24016">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Its on the highway but it works anyway. Got lifts for 3 people In both directions within 20 minutes. Bonus: bridge creates shade =)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 11 Sep 15 23:07:38 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24016">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.38209518584195,42.05292697020375</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24017">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Entrance to the National Park. There are different fees depending on how high into the mountains you want to go. We just bought the cheapest and went up all the way anyway. Hitchhiking into the NP might take a while but is totally possible. The view is fantastic. Getting back might be an issue as there is extremely little traffic in the evening (2 cars/h). That was after the end of the Macedonian school holidays. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 11 Sep 15 23:12:58 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24017">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.789605943289057,40.944040946061556</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24018">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>most cars stop here for the view. You can ask people to go in either direction. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 11 Sep 15 23:13:55 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24018">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.812544194784447,40.953991940202165</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24196">
+<name>a Hitchhiking spot in Ohrid, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Seems like a good spot to Skopje since it's petrol station after traffic lights on the main road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 23min (2 experiences)<br /><span title="Wed, 23 Sep 15 00:16:54 +0000">Description written 23.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24196">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.78934931754903,41.12457476845301</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24945">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good HHing spot if you are going to Veles and then to Greece, f.e. Thessaloniki. Good amount of cars, good visibility, lots of space for the people to stop and even a small market where drivers stop to shop for small things so you can go and talk straight to the drivers.
+Take bus 65B from the Skopje central rail station and hop out somewhere close to this part of the city, after the gas station that you'll see on the left (it's marked as a HH spot 1km before this one).
+Good luck!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 25 Jan 16 23:33:48 +0000">Description written 25.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24945">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.49312877655047,42.00137388870773</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26336">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot to get a ride at least to Struga or Ohrid, where there is more traffic. After walking across the border just walk past the row of lorries parked there and put out your thumb, no need for a sign.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,33.333333333333,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 27min (3 experiences)<br /><span title="Wed, 06 Jul 16 22:45:59 +0000">Description written 6.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26336">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>20.609807610512316,41.093167317551405</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26337">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Kosovo, either ask people at the gas station (but it's quiet, so I wouldn't advise that), or hitch directly on the road with plenty of place to stop and good visibility. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 06 Jul 16 22:50:07 +0000">Description written 6.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26337">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.376533150672962,42.058533864462326</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27027">
+<name>a Hitchhiking spot in Prilep, Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>there is no shadow, but the traffic was quite busy, so we got a ride pretty fast. there is also a gasstation nearby.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 38min (2 experiences)<br /><span title="Tue, 16 Aug 16 11:29:52 +0000">Description written 16.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27027">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>21.58222103118895,41.357278983719304</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27028">
+<name>a Hitchhiking spot in Macedonia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>we were lucky, because the first car stopped. if you go to the Bulgarian border, start hitchhiking before 7am, because the guys working there are taking the hh-ers, and their shift starts at 8am. enjoy the view! (o:</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1min (1 experience)<br /><span title="Tue, 16 Aug 16 11:36:29 +0000">Description written 16.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27028">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>22.591375350950045,41.317129925169894</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27527">
+<name>a Hitchhiking spot in Skopje, Macedonia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>21.37668871879746,42.006165425305255</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark></Document>
+</kml>

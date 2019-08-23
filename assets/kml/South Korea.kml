@@ -1,0 +1,743 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>South Korea</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4605">
+<name>a Hitchhiking spot in Gyeongju, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In South Korea usually nobody's hitch-hiking and it's not common at all! Still people can pick you up out of curiosity and also because they are really very helpful. You can try, but don't be surprised if nobody stops.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,0,75,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4605">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>129.160766601562,35.8089040440686</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16448">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.63269662856796,37.44607769184746</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16755">
+<name>a Hitchhiking spot in Yeokbukdong, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is plenty of room to hitchhike next to the tollgates (Suwon). It's quite easy to get there from Kyung Hee University campus (I walked)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:11:39 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16755">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.09864997863801,37.269686094035414</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16756">
+<name>a Hitchhiking spot in Pungsandong, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Close by there is a bus stop meaning that there is plenty of room to stop for a car. Good place for anyone who likes to go south (its not far away from highway's tollgates )</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:15:20 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16756">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.18405151367537,37.549668705497936</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16757">
+<name>a Hitchhiking spot in Yeoju-si, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It took me little while to catch a car there, but there is not many other good places there. Try to stay right on the tollgates usually its faster. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:21:25 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16757">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.64740848540254,37.25578503957798</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16758">
+<name>a Hitchhiking spot in Donghae, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>129.1107788085851,37.50058941638587</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16759">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great place! plenty of room for cars to stop. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 13 Nov 13 11:28:52 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16759">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>129.3329837322169,37.25626325113846</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16760">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a lamp so drivers can see you pretty well even during evenings. Enough room to stop even for a proper lorry. Take some food with you because there is no grocery shop on the way.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:31:55 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16760">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.88595080373553,37.280443133912414</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16761">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Its better to go somewhere further   away if you are travelling East. For Ggotij beach follow street there will be a few good places near by. There is also grocery shop and small restaurant with traditional food (very popular among lorry drivers).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:36:12 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16761">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.56653189657413,36.8117116202935</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16762">
+<name>a Hitchhiking spot in Seosan, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.43630528448926,36.77105483625677</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16763">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want to go from Ggotij beach in Eastern direction is better to travel on the road located along the shore (is not shown on this map)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:38:57 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16763">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.38231778143829,36.459229384411636</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16764">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On the way from the Taeon (when going South) there will be hospital and few hundred meters further local shop where quite a few stops stop. Its probably 2/3 km from city itself. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:42:05 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16764">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.28866577147886,36.7309955863295</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16765">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.34988451004283,36.507295194128446</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16766">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I hitchhiked when it was dark so you may have better results during the day.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:51:43 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16766">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.57145643235103,36.59978871181174</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16767">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Traffic system force drivers to slowdown. Good place when movind in Eastern direction.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:53:06 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16767">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.65464782715793,36.59462054632272</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16768">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is petrol station and grocery shop on the other side of the road. Good spot mainly because there is lots of cars passing by .</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 11:55:00 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16768">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.66896009446053,36.60466369727553</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16769">
+<name>a Hitchhiking spot in Anyeongdong, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>127.37717056274573,36.27940048739113</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16770">
+<name>a Hitchhiking spot in Wonnaedong, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>127.32014679910246,36.288291107204046</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16771">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a service area so you can either go to Busan or Gwangju. Go hitchhiking on tolgates.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 12:22:00 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16771">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.0968501567885,35.134742780627604</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16772">
+<name>a Hitchhiking spot in Jinju, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a service area so you can either go to Busan or Gwangju. Go hitchhiking on tolgates.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 13 Nov 13 12:52:22 +0000">Description written 13.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16772">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.11170959473097,35.15565743284609</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16773">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>127.09864997863801,36.11162121089985</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16790">
+<name>a Hitchhiking spot in Sochondong, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It's easy to get here by tube, later there is 2-3km of walking, but the place is perfect because everyone go east. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:39:34 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16790">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.78751373290956,35.16063966115425</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16791">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There are buses which stop near by but I walked from Muan.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:40:52 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16791">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.49567866324642,35.00786785803012</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16792">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>that's pretty bad place as the street its really wide and drivers dont have a chance to stop. Its better to go to tollgates (north) or (south)  to exress way. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:43:52 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16792">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.48086214064577,34.81541117800992</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16793">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a bus bay where drivers can easily stop. If you are tired of walking its worth to give it a go here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:44:54 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16793">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.44654059409267,34.789871878590695</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16794">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There are quite a few bus stops on the way, lots of driver travel East, later inWolpyeongrii you can change to South towards Wando (ferries to Jeju island) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:47:09 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16794">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.46933937071539,34.76409550885446</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16795">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a bus stop where people sell fruits, easy to catch a car towards Wando. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:47:55 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16795">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.690278291709,34.68955875799596</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16796">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>small chances that there is going to be anyone who will stop for you as there is big traffic and not much room for safty break.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Nov 13 05:49:00 +0000">Description written 16.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16796">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.45867490770262,34.813702344662644</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16819">
+<name>a Hitchhiking spot in Ihoildong, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.47354507446707,33.509719887895486</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16820">
+<name>a Hitchhiking spot in Dopyeongdong, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Plenty of room for cars to stop of both sides of the road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 18 Nov 13 04:32:56 +0000">Description written 18.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16820">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.45118618010267,33.46839915774186</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16821">
+<name>a Hitchhiking spot in Jeju, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.48631238936467,33.45830309507562</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16822">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Traffic lights and petrol station on the side of the road make this place perfect for hitchhiking towards Jeju city.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 18 Nov 13 13:03:51 +0000">Description written 18.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16822">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.2709846496623,33.40560190982425</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16823">
+<name>a Hitchhiking spot in Oedoidong, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a bus stop, so drivers can easily stop to pick you up. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 18 Nov 13 13:05:29 +0000">Description written 18.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16823">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.42749691009635,33.4921936447798</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16824">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.32110977172326,33.46111364196998</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16825">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.58995294569843,33.51514970860514</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16831">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Plenty of cars going both directions, bus stop is probably the best place to go hitchhiking. I waited only 2 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 19 Nov 13 01:54:01 +0000">Description written 19.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16831">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.61557340624019,33.529058155879</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16832">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.92233228684063,33.45151802363366</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16833">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.87222862245056,33.519416396153815</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16834">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Drivers often have to stop because of the traffic lights, there is a place where you can comfortably stand and hitchhike.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 19 Nov 13 06:23:11 +0000">Description written 19.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16834">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.91263341903716,33.44745388757814</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16835">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>126.85119704309604,33.52372757343605</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16842">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>not very good place mainly because of lack of space to stop</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Wed, 20 Nov 13 10:25:21 +0000">Description written 20.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16842">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.73515701294725,34.32992168477665</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16843">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a firefighters station with parking space where you can safely go hitchhiking.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 20 Nov 13 10:26:35 +0000">Description written 20.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16843">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.72947072983027,34.33479449626628</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16844">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Although there is not much traffic it is a good place :) I waited only 2 minute. (moving in direction of Boseong)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 20 Nov 13 10:30:19 +0000">Description written 20.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16844">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.76234388352,34.62924006325045</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16845">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>127.0931997299191,34.748599375773814</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16863">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol stattion close by. Easy to hitchhike, it took me 5 minutes to catch a car.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:42:23 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16863">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.55089187622715,34.96420769502637</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16864">
+<name>a Hitchhiking spot in Gwangyang, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>plenty of room for cars to stop, unfortunately I was hitchhiking during the night and not many people payed enough attentions I change the place after 15minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:44:19 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16864">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.70791912079027,34.94144982901549</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16865">
+<name>a Hitchhiking spot in Gwangyang, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Low traffic, I would suggest to go somewhere else</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:45:13 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16865">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.72995615005493,34.93173975977505</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16866">
+<name>a Hitchhiking spot in Gwangyang, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Busy road sa its quite easy to get a ride to north. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:45:56 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16866">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.75411748885739,34.93965566367436</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16867">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a shop and restaurant, lots of buses and cars passing by. Average time of waiting 5 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:47:12 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16867">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.83239507675434,34.98799644907641</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16868">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It looks like it is a terrible place to hitchhike but actually is not that bad. I waited 10 minutes and got the car going all the way north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:48:15 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16868">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.89219760894784,34.72532327030642</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16869">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Near by there is Lotte supermarket you have also quite a few other shops including one which sales lots of good sweets. It is easy to get a ride in both direction East and West.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 22 Nov 13 09:50:41 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16869">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.81175279617126,34.99659245831851</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16870">
+<name>a Hitchhiking spot in Yugokdong, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>One day I waited here 1,5h and the other 5 minutes, you never know when you will have a lucky day. Place it's good seems to be that is best to hitchhike during the day </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 22 Nov 13 09:52:40 +0000">Description written 22.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16870">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.05682086945646,35.18738760462973</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16888">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>129.2144622802787,35.19129820568779</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18530">
+<name>a Hitchhiking spot in Gyeongju, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waited for about 20 mins before I got a direct ride. Make a sign in Korean if you are directly going to Busan or Daegu.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 24 May 14 14:39:49 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18530">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>129.2027893066249,35.816652045696</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18531">
+<name>a Hitchhiking spot in Daegu, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Wait a few meters after the toll gate where the cars can stop. Many trucks going to Busan.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,75,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (3 experiences)<br /><span title="Sat, 24 May 14 14:41:50 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18531">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.6815395355149,35.868904114315036</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18532">
+<name>a Hitchhiking spot in Seoul, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get off at Yangjae Ciziten's Forest Station and walk to the intersection. You can actually get on the highway (be careful) and if you walk for about 200 meters, there is a service station. Wait at the end of the service station where cars slowly drive to the highway. I don't think you will wait more than 10 minutes. It's a good spot for heading south to Daejeon, Daegu or Busan. You can use a sign if you are willing to wait a bit longer to get a direct ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,40,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (4 experiences)<br /><span title="Sat, 24 May 14 14:49:28 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18532">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>127.04286003111304,37.45955179747573</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18533">
+<name>a Hitchhiking spot in Sokcho, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There are many people driving from Sokcho to Seoul. You just need to find a nice spot that is close to &quot;Misiryeong Tunnel&quot;. You don't even need a sign as you can reject shorter rides and wait for a direct ride to Seoul.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 24 May 14 14:53:53 +0000">Description written 24.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18533">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.56253528594962,38.2045872386887</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19333">
+<name>a Hitchhiking spot in Yangsan, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate - excellent spot for rides north towards Gyeongju (10 minutes waiting time for a direct ride). To get here take the metro (Line 2) to Namyangsan station. From here it's a 20 minutes walk to the toll gates (cross the river on the foot bridge, turn left and walk along the small creek for 500 meter until you hit Yangsan-Daero Road. After you've passed under the highway, turn right and walk another 500 meter to the toll gates. Staff and police were indifferent to me standing on the highway side of the toll gates)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 23 Jul 14 06:54:55 +0000">Description written 23.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19333">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>129.02778053283447,35.32393650798642</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19334">
+<name>a Hitchhiking spot in Daegu, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitching spot basically on the on-ramp to the highway. There's enough space for a car to pull over. Lot's of traffic. 20 minutes waiting time for a direct ride to Daejeon. Works best with a sign in Korean I guess. To get here take the metro to Yongsan station. From here it's only 300 meter to the highway. Simply walk up to the highway and hope for the best. It's Korea (hitchhiking paradise), so don't worry.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 23 Jul 14 07:06:09 +0000">Description written 23.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19334">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.52257037162138,35.84887010661578</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21122">
+<name>a Hitchhiking spot in Busan, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>128.97823476788832,35.15137668314393</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21123">
+<name>a Hitchhiking spot in Gimhae, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>128.90577220914284,35.22704604840114</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21969">
+<name>a Hitchhiking spot in Daegu, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice spot to get a ride towards Seoul or Daejeon. Wait just before ofrafter the toll gates. It took me around 15-20 minutes to get direct ride to Seoul (before the tollgates) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 07 Apr 15 07:09:09 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21969">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.5852696895596,35.91250230454084</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21970">
+<name>a Hitchhiking spot in Daegu, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot to hitch a ride towards Andong or Seoul. There is a way around to get behind the toll gates. Wait there with a sign of your destination and there are big chances that you will get a direct ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,0,0,20,20&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 07 Apr 15 07:12:07 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21970">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.52934026717816,35.88093599703793</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21971">
+<name>a Hitchhiking spot in Daegu, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Perfect spot to get a ride west, towards Gwangju, Jinju or Jeonju. Waiting time is usually quite short</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 07 Apr 15 07:14:30 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21971">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.52047824859446,35.83051854904249</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21972">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not a perfect spot - not much space to stop for a driver, but still managed to get a direct ride to Busan in around 10-15 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 07 Apr 15 07:17:17 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21972">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.6396192908085,34.77813030879854</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21973">
+<name>a Hitchhiking spot in Busan, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not much space to stop, but still managed to get a direct ride to Daegu within 5minutes. If you're luck you will get a ride fast. If you're not you will have to wait a little longer but someone will take you sonner or later. To get there take the metro line number 2 to ë™ì˜ëŒ€ (dong eui univ. exit 4)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 07 Apr 15 07:23:52 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21973">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>129.0323376059441,35.15458726653025</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21974">
+<name>a Hitchhiking spot in Busan, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars go pretty fast here, that's why this spot is not perfect, but there is quite a lot of space to stop. Traffic is ok. Managed to get the direct ride to Daegu in less then 15minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,0,33.333333333333,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 07 Apr 15 07:27:16 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21974">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.97995942825696,35.190623070509886</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21975">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bad spot if you want to get a ride to Andong or anywhere further. Everyone takes the highway to go to other cities, On highway (toll gates) it takes 10-15 minutes to get a ride, here we waited for around 45 minutes and no one stopped (except for taxis)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 07 Apr 15 07:30:48 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21975">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.55453962082595,35.95426137092878</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21976">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just before the tunnel there is some space to stop. Cars go really fast (it'a a highway) but it's easy to pass the fence - there is some kind of a gate). Had to wait for around 10 minutes to get a direct ride to Andong.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 07 Apr 15 07:33:30 +0000">Description written 7.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21976">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>128.5484939216919,35.9493586254012</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24002">
+<name>a Hitchhiking spot in South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice place to catch a ride, its after the traffic light so car are going slowly !</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 11 Sep 15 07:07:06 +0000">Description written 11.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24002">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.91209697722826,33.447212181858674</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25701">
+<name>a Hitchhiking spot in Daegu, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>128.65425610541854,35.90971294802057</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25702">
+<name>a Hitchhiking spot in Pohang, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>129.33840179446085,36.025731306792245</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25703">
+<name>a Hitchhiking spot in Busan, South Korea</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>129.03001213076277,35.164621715763886</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26311">
+<name>a Hitchhiking spot in Gwangju, South Korea</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want to go to Jangseong or Jeongeup, stay here. and I heard that some foreign hitchhiker shout Seoul.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 03 Jul 16 05:58:04 +0000">Description written 3.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26311">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>126.88021087644574,35.17842583147435</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Document>
+</kml>
