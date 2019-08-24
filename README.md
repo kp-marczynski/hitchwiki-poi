@@ -1,27 +1,26 @@
 # HitchwikiPoi
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+This app provides simple way to download *.kml file with hitchhiking POI points imported from hitchwiki. Result file is compatible with Maps.me offline maps app
 
-## Development server
+## Demo
+https://kp-marczynski.github.io/hitchwiki-poi/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## How to use
+Just choose country you want to download *kml file for and then open downloaded file with Maps.me.
 
-## Code scaffolding
+If you wish, you can install app on mobile as it utilize PWA functionality
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Important information
+* [Download Maps.me mobile app](https://maps.me/download)
+* [How to import kml file to Maps.me](https://support.maps.me/hc/en-us/articles/207895029-How-can-I-import-bookmarks-)
+* [Hitchwiki maps website](http://hitchwiki.org/maps/) - content used under license [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/) with changed placemark styles to comply with Maps.me
 
-## Build
+## Development
+### Prerequisities
+    Node.js
+    Angular CLI
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+### How to run on localhost
+    npm install && npm start
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Then the app will be available on [localhost:4200](localhost:4200)
