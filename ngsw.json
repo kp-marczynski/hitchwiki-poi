@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1566656015179,
+  "timestamp": 1566656694200,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -183,6 +183,7 @@
         "./assets/icons/icon-512x512.png",
         "./assets/icons/icon-72x72.png",
         "./assets/icons/icon-96x96.png",
+        "./assets/images/undraw_directions_x53j.png",
         "./assets/images/undraw_directions_x53j.svg",
         "./assets/kml/world.kml",
         "./assets/kmlTemplate.kml"
@@ -201,6 +202,7 @@
     "./assets/icons/icon-512x512.png": "8f3e5f92136952bec08758e4b81e674843d1df38",
     "./assets/icons/icon-72x72.png": "2795fc8dd25e34a78daa25c5264fe24672ecec78",
     "./assets/icons/icon-96x96.png": "610e483384b3cb4457563b182883639264469cbe",
+    "./assets/images/undraw_directions_x53j.png": "2632d31bd0842871d964fcbbe0af81d5d6461248",
     "./assets/images/undraw_directions_x53j.svg": "254ac4bd94c10a5bc748e30cb588ea8a1ec6ccb9",
     "./assets/kml/countries/Afghanistan.kml": "9694a140cb11f126b6f6482d8935fb80cf3a769a",
     "./assets/kml/countries/Albania.kml": "712c3aa386d3a5a2a88b4828e094a75f478ba44b",
@@ -354,7 +356,7 @@
     "./assets/kml/world.kml": "e50a91973c23a1bc223b06b9dcb2d658251c196f",
     "./assets/kmlTemplate.kml": "a390469602429782f27c7f8ca2c5d35c15b411a4",
     "./favicon.ico": "0ee3580530696f8b29be1b5cf5a7f728a01931a2",
-    "./index.html": "74332637462c36f50ce58d311e66b6bf91503148",
+    "./index.html": "120a7601f475f74bf33368d52e052e44c87f96b8",
     "./main-es2015.41f874e42d4a0fcb9dd6.js": "4d6f44564289bded1b3623b931303b0c7ee26c7f",
     "./main-es5.0bdbbdf6c19cef3b1c45.js": "58dfe40b6f79e22886bbe87a96c8997c65da58a6",
     "./polyfills-es2015.60da8dfaba73178a4fc1.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
