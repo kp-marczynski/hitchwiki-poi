@@ -44,7 +44,7 @@
 
   <hr>
   <h2>Countries</h2>
-  <label for="countrySearch"></label>
+  <label for="countrySearch" hidden>Search country</label>
   <input id="countrySearch" name="countrySearch" class="form-control" placeholder="Search country..." [(ngModel)]="searchCountry"
          (keydown)="searchMatchingCountries()" (keyup)="searchMatchingCountries()">
   <table class="table table-striped">
