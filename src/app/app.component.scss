@@ -2,3 +2,35 @@
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
+
+.rating-0, .rating-very-good, .rating-good, .rating-average, .rating-bad, .rating-senseless, .rating-na {
+  font-size: 2rem;
+}
+
+.rating-0 {
+  color: purple;
+}
+
+.rating-very-good {
+  color: green;
+}
+
+.rating-good {
+  color: blue;
+}
+
+.rating-average {
+  color: yellow;
+}
+
+.rating-bad {
+  color: orange;
+}
+
+.rating-senseless {
+  color: red;
+}
+
+.rating-na {
+  color: purple;
+}

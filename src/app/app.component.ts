@@ -4,6 +4,7 @@ import {Country, ICountry} from "../model/country.model";
 import {IPlaceInfo, PlaceInfo} from "../model/place-info.model";
 import {filter, map} from 'rxjs/operators';
 import {FormBuilder} from "@angular/forms";
+import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -11,6 +12,7 @@ import {FormBuilder} from "@angular/forms";
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
+  faMapMarkerAlt = faMapMarkerAlt;
   countries: ICountry[];
   parser = new DOMParser();
   searchCountry = '';

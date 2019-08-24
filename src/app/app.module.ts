@@ -7,6 +7,7 @@ import { environment } from '../environments/environment';
 import {NgbModule} from "@ng-bootstrap/ng-bootstrap";
 import {HttpClientJsonpModule, HttpClientModule} from "@angular/common/http";
 import {FormsModule, ReactiveFormsModule} from "@angular/forms";
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import {FormsModule, ReactiveFormsModule} from "@angular/forms";
     HttpClientJsonpModule,
     FormsModule,
     ReactiveFormsModule,
+    FontAwesomeModule,
     ServiceWorkerModule.register('ngsw-worker.js', { enabled: environment.production })
   ],
   providers: [],

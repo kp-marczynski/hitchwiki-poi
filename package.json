@@ -1,6 +1,6 @@
 {
   "name": "hitchwiki-poi",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -22,6 +22,9 @@
     "@angular/pwa": "^0.803.0",
     "@angular/router": "~8.1.2",
     "@angular/service-worker": "~8.1.2",
+    "@fortawesome/angular-fontawesome": "^0.5.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.22",
+    "@fortawesome/free-solid-svg-icons": "^5.10.2",
     "@ng-bootstrap/ng-bootstrap": "^5.1.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",

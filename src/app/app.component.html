@@ -11,6 +11,12 @@
     Have you ever found yourself on the side of a highway with <strong>no way</strong> to catch a ride?
     <br>
     Well, fear no more, <strong>we've got you covered!</strong>
+  </p>
+  <hr>
+  <p class="text-center">
+    We have gathered all places defined by <strong>Hitchwiki community</strong>
+    <br>
+    and provided you with coordinates, comments and ease of hitchhiking rating in form of <a href="https://en.wikipedia.org/wiki/Point_of_interest">POI</a> points.
     <br>
     Below you can find ready to download <strong>kml files</strong> compatible with Maps.me offline maps
   </p>
@@ -43,7 +49,7 @@
   </ul>
 
   <hr>
-  <h2>Countries</h2>
+  <h3>Countries</h3>
   <label for="countrySearch" hidden>Search country</label>
   <input id="countrySearch" name="countrySearch" class="form-control" placeholder="Search country..." [(ngModel)]="searchCountry"
          (keydown)="searchMatchingCountries()" (keyup)="searchMatchingCountries()">
@@ -82,7 +88,54 @@
     </tr>
     </tbody>
   </table>
-
+  <h3>Legend</h3>
+  <table class="table table-striped">
+    <thead>
+    <tr>
+      <th scope="col">Rating</th>
+      <th scope="col">Icon</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td>Very good</td>
+      <td>
+        <fa-icon class="rating-very-good" [icon]="faMapMarkerAlt"></fa-icon>
+      </td>
+    </tr>
+    <tr>
+      <td>Good</td>
+      <td>
+        <fa-icon class="rating-good" [icon]="faMapMarkerAlt"></fa-icon>
+      </td>
+    </tr>
+    <tr>
+      <td>Average</td>
+      <td>
+        <fa-icon class="rating-average" [icon]="faMapMarkerAlt"></fa-icon>
+      </td>
+    </tr>
+    <tr>
+      <td>Bad</td>
+      <td>
+        <fa-icon class="rating-bad" [icon]="faMapMarkerAlt"></fa-icon>
+      </td>
+    </tr>
+    <tr>
+      <td>Senseless</td>
+      <td>
+        <fa-icon class="rating-senseless" [icon]="faMapMarkerAlt"></fa-icon>
+      </td>
+    </tr>
+    <tr>
+      <td>Unknown</td>
+      <td>
+        <fa-icon class="rating-na" [icon]="faMapMarkerAlt"></fa-icon>
+      </td>
+    </tr>
+    </tbody>
+  </table>
+  <hr>
   <ngb-accordion #acc="ngbAccordion">
     <ngb-panel title="Advanced Options">
       <ng-template ngbPanelContent>
