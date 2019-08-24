@@ -11,9 +11,10 @@ import {FormBuilder} from "@angular/forms";
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  countries: Country[];
+  countries: ICountry[];
   parser = new DOMParser();
-
+  searchCountry = '';
+  searchCountries: ICountry[];
   corsForm = this.fb.group({
     url: [''],
   });
@@ -58,6 +59,7 @@ export class AppComponent implements OnInit {
     for (const country in receivedCountries) {
       this.countries.push(new Country(receivedCountries[country].iso, receivedCountries[country].name, parseInt(receivedCountries[country].places)));
     }
+    this.searchCountries = this.countries;
   }
 
 
@@ -135,7 +137,7 @@ export class AppComponent implements OnInit {
   }
 
   private getKmlFromAssets(country: ICountry): Promise<string> {
-    return this.http.get('assets/kml/' + country.name + '.kml', {responseType: 'text'}).toPromise();
+    return this.http.get('assets/kml/countries/' + country.name + '.kml', {responseType: 'text'}).toPromise();
   }
 
   private saveToFile(filename: string, kmlString: string) {
@@ -201,5 +203,10 @@ export class AppComponent implements OnInit {
 
   private parseXml(xmlString: string) {
     return this.parser.parseFromString(xmlString, "text/xml");
+  }
+
+  searchMatchingCountries() {
+    const searchTemp = this.searchCountry.trim().toLocaleLowerCase();
+    this.searchCountries = searchTemp == '' ? this.countries : this.countries.filter(country => country.name.toLocaleLowerCase().includes(searchTemp));
   }
 }
