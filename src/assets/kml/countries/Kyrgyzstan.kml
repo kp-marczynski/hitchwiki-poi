@@ -1,0 +1,271 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Kyrgyzstan</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="6769">
+<name>a Hitchhiking spot in Kara-Balta, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>here is ecological checkpoint and also 10 km/h speed limit and finally stopline! :) direct lifts to Osh or Djalalabad, also try to ask policemans to get a lift to you, lol</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6769">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.9048254489899,42.6534557179381</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6768">
+<name>a Hitchhiking spot in Kara-Balta, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>nice spot to start your way to the south of Kyrgyzstan.
+waiting time less than 1 hour
+p.s. never refuse to h-hike to ecological checkpoint after Sosnovka</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6768">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.8808250427246,42.827103572519</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6818">
+<name>a Hitchhiking spot in Kant, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>from the Alamedin Bazaar take bus to Kant then walk outside of town and start hitching.</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,20,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6818">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>74.8701953887939,42.8925515274852</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6819">
+<name>a Hitchhiking spot in Kemin, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is a border controls to Issyk-kul region. Direct lifts to Bishkek.</p>
+
+<p>siberian_explorer</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6819">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>76.1309409141541,42.4567069121669</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8660">
+<name>a Hitchhiking spot in Tokmok, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>take bus 355 to Tokmok from Old bus station near Alamedin market, look for the roundabout and hitch right after it</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Wed, 14 Sep 11 16:30:28 +0000">Description written 14.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8660">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>75.292145155609,42.828265417092</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8661">
+<name>a Hitchhiking spot in Balykchy, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>you can walk for a couple hours through the town or pay ~20 soms (2011) to taxist and ask for &quot;Zheleznodorozhny most&quot; (railroad bridge over the road)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Wed, 14 Sep 11 16:34:42 +0000">Description written 14.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8661">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>76.233026527066,42.469525170129</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14631">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Murgab: From Sary Tash town, walk down the towards Tajikistan, the road splits at a police stop. Wait there for cars going left towards the snowy mountains. Alot of trucks from China to Tajikistan no longer go through here and hitchhiking (for free) is incredibly difficult. Even for paid transport to Murgab, waiting times are long. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 32min (3 experiences)<br /><span title="Wed, 26 Jun 13 07:37:00 +0000">Description written 26.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14631">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.22885513305823,39.70619618147489</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15963">
+<name>a Hitchhiking spot in Naryn, Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>75.73767328262481,41.93342442895825</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16343">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Weird place to h-hike to Talas. Altitude is around 3000 meters. It's very cold and windy after sunset. Do not freeze waiting for the lift.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 32min (2 experiences)<br /><span title="Fri, 11 Oct 13 17:26:06 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16343">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.25106456279713,42.20830088282162</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16344">
+<name>a Hitchhiking spot in Osh, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice start point to SaryTash. Lots of taxis.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Fri, 11 Oct 13 17:29:57 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16344">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>72.84577205181031,40.53744630260899</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19336">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>All traffic going to Kochkor passes through here (just stand on the roadside). Note: not much traffic to Kochkor, and the cars that go will more than likely ask for money (FYI: 100 Som is the price for a shared taxi). </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Wed, 23 Jul 14 07:25:45 +0000">Description written 23.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19336">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>76.13914632795446,42.43465837213653</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19337">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitching west towards Chaek and on to Kyzyl-Oi and Suusamyr is slow on a bad road with many short rides, but possible. This is a less touristed area, so people are less likely to ask for money (personal experience July 2014: from Kyzart to Kyzyl-Oi with five different rides in four hours).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 23 Jul 14 07:31:18 +0000">Description written 23.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19337">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>74.93888998029813,41.99438126521358</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20423">
+<name>a Hitchhiking spot in Bishkek, Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Exellent and cheap way to escape Bishkek. Lots of buses from Alamedin market for 15 soms. Traffic light makes cars slow and more friendly.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 30 Sep 14 07:23:50 +0000">Description written 30.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20423">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>74.64664707250363,42.941651019911944</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20424">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is another option to go to Naryn. Road is new and more preferrable by most friendly cars from Bishkek.
+There is some difficulties to stop due to concrete walls on the side of the road but cars will stop after some time anyway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 30 Sep 14 07:27:33 +0000">Description written 30.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20424">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>75.88053832120956,42.470648845141234</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20425">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It seems like due to collective agreeement of drivers it is impossible to hitchhike to Kazarman from here in adecuate waiting time. Just pay few hundred soms (200-300 per capita is ok) to taxist.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 8h (1 experience)<br /><span title="Tue, 30 Sep 14 07:36:27 +0000">Description written 30.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20425">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>75.03162294784921,41.43159489922045</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20426">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Its almost senceless to hitchhike here. Be ready to wait for days or walk to the pass 50 km or use taxi (300 soms per capita to road to Talas). Road is amazing and so so bad so you won't regret for money you paid. There is a big mine on the top so it is possible to h-hike right from pass.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 6h (1 experience)<br /><span title="Tue, 30 Sep 14 07:42:54 +0000">Description written 30.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20426">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>71.59475833336272,42.06586195708508</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20427">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice place with busstop to hide from rain. Locals are friendly and hithicng to kazakh border is easy.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 30 Sep 14 07:49:01 +0000">Description written 30.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20427">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>71.55729323784387,42.60266269932091</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20433">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is a nice place to start your way to Sary-Chelek or Chatkal Valley.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 30 Sep 14 10:33:22 +0000">Description written 30.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20433">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>72.23327428261452,41.369772213949766</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20995">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Many-many taxis, but soon or later the car with a good driver will certainly come.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Dec 14 23:43:28 +0000">Description written 2.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20995">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>77.71323823928829,42.227036004822715</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21771">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>73.8983001708977,39.67666140987689</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22519">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>77.60571384429987,42.7278679508067</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25333">
+<name>a Hitchhiking spot in Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>75.86450958251669,41.203670400772985</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25334">
+<name>a Hitchhiking spot in Naryn, Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>75.75870180129613,41.96584467542533</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25335">
+<name>a Hitchhiking spot in Kochkor, Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>75.72145128249453,42.206448269241605</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26248">
+<name>a Hitchhiking spot in Kant, Kyrgyzstan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>74.87143778801052,42.89283085720261</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

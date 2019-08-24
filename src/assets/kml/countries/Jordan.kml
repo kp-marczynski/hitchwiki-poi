@@ -1,0 +1,117 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Jordan</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7431">
+<name>a Hitchhiking spot in Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Make sure your car is not a taxi before climbing. The word for &quot;free ride&quot; is &quot;balash&quot;.
+I wanted a Turkish truck taking me straight to the border because I had a transit but had to wait about 30 hours because they all leave at 7pm, not one after the other.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 15 Mar 11 12:37:10 +0000">Description written 15.3.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7431">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>36.200852393968,32.528470280219</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7432">
+<name>a Hitchhiking spot in Jerash, Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To the border or to Irbid.
+Most cars will stop for money so aim wealthy looking ones. &quot;Ana balash&quot; means &quot;I'm hitchhiking&quot;.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 15 Mar 11 12:39:55 +0000">Description written 15.3.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7432">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.913684368014,32.282216579826</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8087">
+<name>a Hitchhiking spot in Jordan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>35.283470915879,29.723501579406</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13963">
+<name>a Hitchhiking spot in Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>it depends on the time you can hittchike to Amman or Irbid. or just take a regular bus. walk away from the taxi drivers at the border.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 09 May 13 14:16:03 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13963">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.59595586679976,32.49201991777611</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13964">
+<name>a Hitchhiking spot in Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>somewhere around here there is a nice view to the Wadi. Tourists stop here and ask him to join.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 09 May 13 14:46:05 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13964">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.79970547084868,31.59055245529405</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13965">
+<name>a Hitchhiking spot in Karak, Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>the locals tried to charge me but luckily a rented car by spanish came and took me to Petra</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 09 May 13 14:51:55 +0000">Description written 9.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13965">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.70382938201167,31.18023074442097</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17564">
+<name>a Hitchhiking spot in Jordan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>36.82493591308569,31.886545245058663</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20902">
+<name>a Hitchhiking spot in Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just show the sing to hitch and almost 60% of people will stop for you &quot;and you have paper saying where you going ..for sure one will stop for you and he/she going to that place &quot; </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 23 Nov 14 03:26:08 +0000">Description written 23.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20902">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.918397545814024,31.998928033677753</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22590">
+<name>a Hitchhiking spot in Aqaba, Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Around here is a spot to pull over, just after a speed bump. 3rd car took me after maybe a minute.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3min (2 experiences)<br /><span title="Sun, 24 May 15 18:33:45 +0000">Description written 24.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22590">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.06912500511827,29.572120986262505</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22591">
+<name>a Hitchhiking spot in Wadi Musa, Jordan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It's kind of weird intersection, but here's for going north from Wadi Musa/Petra along the King's Highway. Quite a steep uphill to get here, hope you're in shape ;)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 24 May 15 18:38:34 +0000">Description written 24.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22591">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>35.499700018275526,30.322927416278418</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

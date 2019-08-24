@@ -1,0 +1,1239 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Iceland</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="3662">
+<name>a Hitchhiking spot in KÃ³pavogur, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.8875336647034,64.1501167295168</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3663">
+<name>a Hitchhiking spot in KÃ³pavogur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Large road with a large bus stop (it's covered, so you can use it as a shelter when it's raining). Lots of people driving downtown, useful for outbound hitches as well.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3663">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.8881988525391,64.150186898394</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4868">
+<name>a Hitchhiking spot in KÃ³pavogur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is the best place for hitchhiking if you're leaving the ReykjavÃ­k area to the north. Cars are slowed down here right after the roundabout and they have space to stop on the shoulder to pick you up.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (8 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:87.5,12.5,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|7|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4868">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.692054271698,64.1657833757859</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4918">
+<name>a Hitchhiking spot in Akureyri, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Sometimes very little traffic, like a bit everywhere in this part of the island. If you're going to EgilstaÃ°ir, remember that you can't take the shorter mountain road (not on this map) unless you hitch a 4x4. In the summer, many drivers with rental cars don't know that. Knowing it will save you lots of time. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,20,80,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|4|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 12min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4918">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-15.1810455322266,64.2899840208015</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5950">
+<name>a Hitchhiking spot in Selfoss, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A lot of flies next to the lake. Hiking is great on the ring road (the 1), but otherwise it's much harder on the more desolate places to find a good ride. Stay on the ring road, or be prepared for some walking :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,0,66.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5950">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.0249137878418,64.2443709909051</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5849">
+<name>a Hitchhiking spot in Hafnarfjörður, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There aren't really any good spots here, but Bus number 1 from Reykjavik stops very near by (When you reach HafnarfjÃ¶rÃ°ur, just ask the driver to let you know when you're close to Reykjanesbraut) and you'll kind of have to walk along the road with your finger out. The road shoulder is not bad though, so cars can stop if they see you in time. Not good, but it works.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,25,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5849">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.9721412658691,64.055025017672</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5848">
+<name>a Hitchhiking spot in Kópavogur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Most people who drive past you here are going at least to Borgarnes, and this is a nice place for them to stop and pick you up. Bus 15 stops in MosfellsbÃ¦r, from there you'll need to walk a little bit to get to this point.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (11 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|11|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (5 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5848">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.6763687133789,64.1760717823694</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7060">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchiked here at night, after 3 p.m. ( getting dark early in the winter), 3-4 hours until someone stopped.Not many cars, maybe 3-4 cars per hour</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,66.666666666667,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 12h (1 experience)<br /><span title="Tue, 14 Dec 10 23:13:22 +0000">Description written 14.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7060">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.585693358113,65.931960508393</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8462">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>EsjuskÃ¡li is a parking lot where most people park their cars while climbing mount Esja. Bus 57 from MosfellsbÃ¦r also stops here (www.bus.is). You can either ask at the parking lot in case you need a ride to ReykjavÃ­k, or stay by the road if you are going north. This is  a nice place out of town for people going north. Although you can continue even further on bus 57 (costs more money though).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 22 Aug 11 01:28:41 +0000">Description written 22.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8462">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.734252928465,64.208219056682</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8463">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you ask the driver of bus 57 (www.bus.is) to let you off after the tunnel (there is no stop there officially) you can stand on road nr 1 and avoid traffic going to Akranes, if you are going north. From here on most people will be going at least to Borgarnes. When you exit the tunnel, there are toll booths where most people stop to pay the tunnel fee, so that is also a good place for asking for rides. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Mon, 22 Aug 11 01:33:30 +0000">Description written 22.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8463">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.910291670536,64.310058065511</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8464">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just out of town, opposite the food shop, there is a good place for the cars to stop. Everyone will be going at least to EgilsstaÃ°ir. I hitchhiked here just after the arrival of the weekly boat from Denmark/Faroe Islands so there was lots of traffic. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,40,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 22 Aug 11 01:43:34 +0000">Description written 22.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8464">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.010606764822,65.259843150487</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8465">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Although this map says this road is nr 848, some other maps claim it to be road nr 1 (the main road if you are going to Akureyri). There are many points of interest and small settlements around lake MÃ½vatn so many people might be driving short distances here. However it is not difficult to get a ride at least to Akureyri.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,33.333333333333,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 22 Aug 11 01:47:53 +0000">Description written 22.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8465">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.928421019456,65.602364431288</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8466">
+<name>a Hitchhiking spot in Akureyri, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place to stand. The road is a bit wider after the junction so cars can stop. Also gas station is nearby in case you need to buy something or get shelter. I stood there with a sign saying ReykjavÃ­k for two hours between 17.30 and 19.30 in summer. Noone stopped. Stood there without a sign the next morning. Got a ride to Rvk within 30 minutes. HI Hostel is 10 minutes down the road past the BÃ³nus store in case you need to crash somewhere. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,75,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (4 experiences)<br /><span title="Mon, 22 Aug 11 01:52:09 +0000">Description written 22.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8466">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-18.124042008243,65.695883863943</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10855">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>One car every 10 minutes on the route 68 in either direction, but one car every 5 minutes that takes the route 59. We were 3 people hitching north, and it took about 90 minutes to get a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 01 Aug 12 11:46:45 +0000">Description written 1.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10855">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.11764526367004,65.22339466881249</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10856">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot for long rides in any direction, but one car every 5 minutes in summer daytime.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 01 Aug 12 11:49:01 +0000">Description written 1.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10856">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.794720649717767,65.76800607399609</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10857">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Rides available to the various small villages on the west coast, as far as Ãžingeyri.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Wed, 01 Aug 12 11:51:50 +0000">Description written 1.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10857">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.17204570770041,66.05924832464689</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10858">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Trying for a ride to the ring road, we found it surprisingly hard to do.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (3 experiences)<br /><span title="Wed, 01 Aug 12 11:52:28 +0000">Description written 1.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10858">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.171037197110607,66.05905676230758</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10872">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.9005186883758,64.1304309646617</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10993">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you are heading south using the road no. 1 towards Selfoss then this is the place where to wait in Reykjavik.</p>
+
+<p>There is a big OlÃ­s gas station nearby (before the roundabout) but I prefer to wait after the roundabout - cars are passing by slowly and it's not so busy place. But it depends on your preferences - both possibilities are great.</p>
+
+<p>You can walk there or get there by bus no. 19 or 5 (station HelluvaÃ°).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (15 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|15|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 9min (15 experiences)<br /><span title="Sat, 11 Aug 12 23:07:50 +0000">Description written 11.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10993">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.75818173820568,64.10127106268041</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10994">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitch-hiking from Landmannalaugar is actually really possible! There are quite many cars, usually 4WD and SUVs leaving that place. But even smaller cars can get there and you can see them on the road (although it's officially prohibited).</p>
+
+<p>You still need to wait some time - there's approximately about 1 car in 15 minutes but finally someone will always pick you up.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 38min (2 experiences)<br /><span title="Sat, 11 Aug 12 23:56:26 +0000">Description written 11.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10994">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.05093655131554,63.99858450931124</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10995">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want to do some hiking around Ãžingvellir then this is one of the places where you can re-appear back on the road and try to hitch-hike after the trek. </p>
+
+<p>There's a small place where cars can stop safely. But it's in the middle of nowhere in a forest - so be prepared and have some water with you. </p>
+
+<p>The amount of traffic is quite good at this road - many tourists passing by.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sun, 12 Aug 12 00:05:14 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10995">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.06655389677497,64.27095168239362</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10996">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place at the end of the town to hitch-hike towards Hella and VÃ­k. </p>
+
+<p>It's not the &quot;top 10&quot; place because there's not a lot of space to stop safely and a lot of cars are turning right to the supermarket just in front of you but if somebody wants to take you he will definitely stop here. Cars go still quite slowly.</p>
+
+<p>Btw. There's a cheap supermarket &quot;BÃ³nus&quot; just next to this hitch-hiking spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:40,60,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (4 experiences)<br /><span title="Sun, 12 Aug 12 11:38:19 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10996">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-20.971529695208005,63.93895357004848</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10997">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not many cars are using this road along the coast. Usually just some locals going only few kilometres and turning on the next crossroad. </p>
+
+<p>If you don't have really plenty of time, use the other bigger road to get to KeflavÃ­k. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 4h (1 experience)<br /><span title="Sun, 12 Aug 12 11:46:25 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10997">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.472047946888196,63.83511380771108</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10998">
+<name>a Hitchhiking spot in ReykjanesbÃ¦r, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Officially marked hitch-hiking spot towards the KeflavÃ­k airport but at a really senseless place. 
+It's better to walk there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Sun, 12 Aug 12 11:50:32 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10998">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.56831579377848,64.01003038001637</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10999">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice place for HH towards Keflavik or Reykjavik. The amount of traffic is quite good.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Sun, 12 Aug 12 11:58:22 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10999">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.432020070034216,63.85141636636901</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11001">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a nice HH spot towards VÃ­k just before the bridge. Cars can stop there safely.
+It's very common to hitch-hike there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 12 Aug 12 14:02:46 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11001">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.17887048655841,64.04584660287992</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11002">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want to leave JÃ¶kulsÃ¡rlÃ³n and go to HÃ¶fn, be prepered for a little bit longer waiting period.
+Many tourists are not going further east than to JÃ¶kulsÃ¡rlÃ³n and there are not many locals passing by because there not many towns around this part of the road. </p>
+
+<p>But this is the spot where you can try to hitch-hike.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,50,25,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (4 experiences)<br /><span title="Sun, 12 Aug 12 14:08:15 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11002">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.17710022860966,64.04608137662092</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11003">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>One of the few gas stations in this area. People usually stop here to get a fuel before they continue. 
+The amount of traffic towards east is starting being very low but it's still OK and even if you wait longer you can always use the facilities at the gas station. So it's quite luxurious spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,40,60,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 42min (3 experiences)<br /><span title="Sun, 12 Aug 12 14:14:29 +0000">Description written 12.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11003">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.00042070960705,63.417817659855096</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11070">
+<name>a Hitchhiking spot in Borgarnes, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Your way from Borgarnes to SnÃ¦fellsnes peninsula.</p>
+
+<p>The traffic is lower but we didn't wait for a long time.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (10 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,30,0,20,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|3|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (6 experiences)<br /><span title="Wed, 15 Aug 12 11:28:54 +0000">Description written 15.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11070">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.89971303939849,64.56020196379217</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11139">
+<name>a Hitchhiking spot in HveragerÃ°i, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This roundabout is the obvious spot when going on Road #1 from HveragerÃ°i to ReykjavÃ­k and there's lots of space for cars to stop. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (7 experiences)<br /><span title="Sun, 19 Aug 12 19:06:49 +0000">Description written 19.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11139">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.19407454166669,63.995595342406304</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11184">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good place for going around HvalfjÃ¶rÃ°ur (or to the tip of it for a hike to Glymur). There is not so much traffic but we didn't have to wait long.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 21 Aug 12 23:11:19 +0000">Description written 21.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11184">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.835361480714127,64.2747253518008</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11185">
+<name>a Hitchhiking spot in ReykjavÃ­k, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>direction Reykjavik, after a hike to Glymur. late Saturday evening. Not so much traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 20min (1 experience)<br /><span title="Tue, 21 Aug 12 23:13:21 +0000">Description written 21.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11185">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.35540597442676,64.3847034551866</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11681">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-23.23937988155108,65.62773696578596</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12332">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The spot to go south (to Flokkalundur, the ferry etc.) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 08 Nov 12 18:58:41 +0000">Description written 8.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12332">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.48073828779761,65.87145209547218</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12333">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A bit far out of town, but if someone can bring you there, it is the perfect spot to get out of NeskjaupstaÃ°ur.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (2 experiences)<br /><span title="Thu, 08 Nov 12 19:03:53 +0000">Description written 8.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12333">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-13.820410934754475,65.11994361277745</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12334">
+<name>a Hitchhiking spot in EskifjÃ¶rÃ°ur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The road to NeskaupstaÃ°ur. Usually there's not much traffic, but it works.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 08 Nov 12 19:11:01 +0000">Description written 8.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12334">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.014159342293054,65.07133746759531</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12335">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The spot to go south to ReÃ°arfjÃ¶rÃ°ur.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Thu, 08 Nov 12 19:13:34 +0000">Description written 8.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12335">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.036493724697507,65.07677634499672</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12760">
+<name>a Hitchhiking spot in DalvÃ­k, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-18.530021164736397,65.97871894618714</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12761">
+<name>a Hitchhiking spot in SiglufjÃ¶rÃ°ur, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-18.90209719928261,66.16227479870722</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12762">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-19.39158961566346,65.89063314338101</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12763">
+<name>a Hitchhiking spot in SauÃ°Ã¡rkrÃ³kur, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-19.62809607775964,65.7346958585714</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12764">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-19.45368811877645,65.54618186387518</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12765">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.07640311511616,65.14868897231167</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12766">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.47575185092329,65.44710390970187</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12767">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>for going south. A lot of local traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Wed, 12 Aug 15 00:22:15 +0000">Description written 12.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=12767">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.694920513948396,65.70183564071306</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12768">
+<name>a Hitchhiking spot in StykkishÃ³lmur, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-22.75578782351908,65.03764532790534</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12769">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-15.051281903110116,64.28314530541181</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12770">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.267390225253829,65.03023679825897</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12771">
+<name>a Hitchhiking spot in EgilsstaÃ°ir, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.410641644321432,65.26034750214947</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12772">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.373476956210714,65.27103147306144</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12773">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.73327920230485,65.10057998364182</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12774">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.447205517613174,65.29900476875768</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12775">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-15.50223634036686,65.459913603763</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12776">
+<name>a Hitchhiking spot in VopnafjÃ¶rÃ°ur, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.839451763951704,65.7578599460758</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12777">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-15.32782838138367,66.19127491263697</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12778">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-16.412041638218778,66.27339682137342</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13637">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great spot to hitch hike out of the cliff. Cars drive slowly, drivers can see you from distance and there is a FREE camping spot with water and toilet. So if you get stuck there, you can spend a night there without any problem.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 14 Apr 13 22:49:47 +0000">Description written 14.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13637">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-24.489522341644697,65.5148808964223</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13750">
+<name>a Hitchhiking spot in ReykjanesbÃ¦r, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-22.5886520041652,63.99708472964325</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14313">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Asking people on the airport works great. I went out to the parking lot and got a ride within 5 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (5 experiences)<br /><span title="Sun, 19 Oct 14 20:47:00 +0000">Description written 19.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=14313">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.62457466125481,63.99805057735674</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17038">
+<name>a Hitchhiking spot in Reykjavik, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Left after waiting for an hour, for a place 3km east on another entrance to the highway, caught a ride in minutes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,0,40,40,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|2|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 15 Apr 16 01:07:58 +0000">Description written 15.4.2016</span><br /><a href="https://hitchwiki.org/maps/?place=17038">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.924432277678992,64.1350662587173</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17442">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.698890686048642,65.05068075883754</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17443">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.550006628049445,64.76583655369393</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17444">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It is a great spot towards to the westfjords.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (3 experiences)<br /><span title="Fri, 08 Jul 16 12:20:47 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=17444">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.465205907834648,64.80106919671303</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17445">
+<name>a Hitchhiking spot in BlÃ¶nduÃ³s, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not a bad spot but in April, there weren't many cars going clockwise, after about an hour I managed to get a ride all the way to Akureyri. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 25 Jun 16 21:45:57 +0000">Description written 25.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=17445">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-20.284379482283473,65.65613204360808</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17446">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-18.15543508531081,65.70547611398503</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17447">
+<name>a Hitchhiking spot in Selfoss, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-20.996742010129587,63.937148738022586</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17448">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-20.39850211144696,63.83295054847099</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18470">
+<name>a Hitchhiking spot in Akranes, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-22.05229854583786,64.32768886482145</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18667">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-16.944213867185944,64.00491690249268</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18688">
+<name>a Hitchhiking spot in HÃ¶fn, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-15.203417301178076,64.26067650353353</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19037">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-21.022634195634225,63.95059824976002</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19068">
+<name>a Hitchhiking spot in StykkishÃ³lmur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Enough cars pass through , thus someone will definetely take you :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 28 Jun 14 13:13:10 +0000">Description written 28.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19068">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.76033288240468,64.99925662292058</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19748">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Actually the best way to get out of VÃ­k. Just go to the city-limit sign, where also the weather-information table is. Good place for stopping.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 18 Aug 14 03:26:06 +0000">Description written 18.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19748">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.01421403884591,63.422607723430524</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19749">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good place to head over to Thingsvellir. Good reachable from Selfoss by walking a gravel road, starting at the gravel plant.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 18 Aug 14 03:28:29 +0000">Description written 18.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19749">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.01606464385681,63.954051992970804</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19750">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Right on the top of the mountain is a perfect place to be. Cars can see you from afar and have even to get slower at an obstacle for the sheep. Furthermore there is perfect space to stop by. ReykjavÃ­k is only 50km.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 18 Aug 14 03:31:36 +0000">Description written 18.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19750">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.098376274103952,64.27864620111687</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19751">
+<name>a Hitchhiking spot in HÃ¶fn, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place going westwards.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 18 Aug 14 03:32:49 +0000">Description written 18.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19751">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-15.182538986200518,64.29051245606061</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19903">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-22.733322143553902,64.84862052244232</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19904">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-23.612571716307418,65.67678157085057</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19905">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a good spot to pull over if you're going clockwise and most cars go to Dettifoss, maybe a bit further</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Sat, 25 Jun 16 21:48:04 +0000">Description written 25.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=19905">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.910739898679935,65.63993601095665</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19906">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-16.97511291503792,65.66061170517199</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20628">
+<name>a Hitchhiking spot in HafnarfjÃ¶rÃ°ur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitching west to Keflavik Airport. Lots of cars and shoulders are wide to pull over without problems.</p>
+
+<p>You can get close with bus 1 - gotta walk like 1 km from the bus stop. It goes right from the centre and costs 350 ISK, which is about 2 EUR.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><span title="Mon, 20 Oct 14 18:15:27 +0000">Description written 20.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20628">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.003375053405865,64.05030502563956</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20837">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very few cars, mostly tourists with rental 4X4s (you're not allowed to go on the F roads without one). Most of the cars are full. Absolutely no problem to stop, of course, since there are 5 cars an hour at most...</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Wed, 12 Nov 14 23:22:05 +0000">Description written 12.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20837">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.866491317749343,65.5244489279381</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20838">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tried to hitch from here to Landmannalaugar, because it looked like the best option on the map. There's a gas station and a store where you can get food, and there's no problems for cars to stop, but there's not many cars and many of them were going a short distance.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (2 experiences)<br /><span title="Wed, 12 Nov 14 23:29:32 +0000">Description written 12.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20838">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-20.50150966644189,63.87957440759609</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20883">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Wide space to pull over right after the gas station. You may see airplanes taking off if you are lucky.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (9 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:55.555555555556,44.444444444444,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 16min (8 experiences)<br /><span title="Tue, 17 Feb 15 23:36:53 +0000">Description written 17.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=20883">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-18.08012401533623,65.67039529652833</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20884">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-18.074848982155633,65.75008442009353</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21544">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>An adventurous option if you are heading north and don't want to go back to H1. Very few cars are going to drive this way, but the barren highland landscape is incredible and worth the effort. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 17 Feb 15 23:27:35 +0000">Description written 17.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21544">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.090894531136197,64.27981338493802</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21545">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From the spot you can get the slow traffic from the access road of Hofsos (pretty town, worth a visit).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 17 Feb 15 23:41:19 +0000">Description written 17.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21545">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.394205171389288,65.90002804790011</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21546">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It may be difficult to leave the Reykjahlid area. You may want to walk all the way here and try with the tourists visiting the mud pools.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 17 Feb 15 23:46:46 +0000">Description written 17.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21546">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.803599892678573,65.64431071820238</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21547">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Westward from Skaftafell. In the summer many cars will come out from the park's access road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Tue, 17 Feb 15 23:50:40 +0000">Description written 17.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21547">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.945263444009225,64.00542779609889</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22279">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-18.07119226455788,65.7682526666238</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23154">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great spot for getting to Akureyri. used it on a weekly basis for months, never took more then 30 minutes. Gasstation/busstop near by as back up.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Wed, 15 Jul 15 00:53:17 +0000">Description written 15.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23154">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.42892646789536,65.5541380143579</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23583">
+<name>a Hitchhiking spot in Reykjavik, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waiting here next to the gas station might be better than the spot a bit further down. There is a lot of space. I have hitched here many times.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:40,60,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Wed, 12 Aug 15 00:15:48 +0000">Description written 12.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23583">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.76528608798912,64.10281551602351</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23584">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>at the exit of the gas station for cars going south. This gas station is where most people driving between akureyri and reykjavik stop to rest.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Wed, 12 Aug 15 00:26:02 +0000">Description written 12.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23584">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.08618831634632,65.14268089129534</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24141">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-19.996682167052015,63.60943836748796</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24142">
+<name>a Hitchhiking spot in VopnafjÃ¶rÃ°ur, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>waited in the rain, traffic was tight but managed to catch a ride to EgilsstaÃ°ir in half an hour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 17 Sep 15 13:02:44 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24142">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.842549324036563,65.7589567889157</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24143">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gravel road, changes to tarmac after a while. Not much traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 17 Sep 15 13:04:22 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24143">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-15.31463956832998,66.19179893969591</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24144">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>lay-by.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 17 Sep 15 13:05:17 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24144">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.359258174895414,65.27134112645946</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24145">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-13.95759201049695,64.83397623859392</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24146">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>towards Hofn</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (2 experiences)<br /><span title="Thu, 17 Sep 15 13:07:40 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24146">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.014261722565552,64.79884141943744</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24147">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>very little traffic in the morning.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 17 Sep 15 13:08:16 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24147">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-14.359901905061614,64.65760444813108</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24148">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Parking area to go towards Akureyri. Not much traffic and many stop here to go to a cafe or tourist info.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 17 Sep 15 13:10:43 +0000">Description written 17.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24148">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-17.036746501921606,65.56761341848939</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24271">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-16.91475248337269,65.64441736504872</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24378">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-20.23234462738045,63.74630082529283</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24379">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-20.232870340347617,63.748891948286726</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25018">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a spot where the ring road meets the road to the Skogafoss waterfall. There are a lot of tourists heading here so it's good to go in the directions of Vik or Borganes. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 10 Feb 16 14:58:27 +0000">Description written 10.2.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25018">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.50852906703848,63.52004310668101</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25496">
+<name>a Hitchhiking spot in Reykjavik, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Decent spot, caught a ride in minutes. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,75,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (2 experiences)<br /><span title="Fri, 15 Apr 16 01:08:56 +0000">Description written 15.4.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25496">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.843322277069802,64.12403923028913</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25497">
+<name>a Hitchhiking spot in Reykjavik, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Excellent for hitchhiking toward Akranes</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 15 Apr 16 01:09:55 +0000">Description written 15.4.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25497">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.757148265839824,64.13905607040121</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26046">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.260331153870101,64.69530191774236</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26047">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-14.523144721986426,64.79609425648256</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26129">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A lot of space for cars. I spend 3 minutes here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 12min (3 experiences)<br /><span title="Sun, 19 Jun 16 13:41:16 +0000">Description written 19.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26129">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.618673801423256,64.00174731547926</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26217">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Straight after the bridge, there's a cool spot to pull over. Don't go all the way to the gas station though as the cars go quite fast there and it's hard to spot you from distance. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 25 Jun 16 22:02:27 +0000">Description written 25.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26217">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.005336761472908,63.94061789526746</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26366">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here a nice natural thermal spring, with han amazing view to the mountains, where you can warm up. But be aware, if you want to stay for thhe night. This fjord is pretty open to the cold and strong northern winds. During the night its better to sleep at the changing room.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 08 Jul 16 12:24:47 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26366">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.470436096192287,65.6230612115809</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26367">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great spot to IsafjÃ¶rdur.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 08 Jul 16 12:31:35 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26367">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.42145359516212,66.00808482656474</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26368">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Really here is like an orkan wind. I guess we were lucky with waiting only around 15 minutes. We went to ReykjavÃ­k. But hehre is a nice gas station if it is open you can go in... and wait.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 08 Jul 16 12:34:44 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26368">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-22.991205811503907,66.02575525803657</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26369">
+<name>a Hitchhiking spot in Akureyri, Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We hit the road here. you can get cheap food from the bonus and after you can start HH.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Fri, 08 Jul 16 12:36:34 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26369">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-18.111559510234294,65.69247763389137</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26370">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We HH here towards Selfoss. The cars are going very fast, but finally somebody stopped. You can even go to the Hekla from here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Fri, 08 Jul 16 13:07:17 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26370">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.523195385935498,64.15473129769578</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26371">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On our walking way to the bathh nearby thhe birds attachehd us, so we decided to hh..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 08 Jul 16 13:10:27 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26371">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.831767201425205,65.62621832388753</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26372">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a traffic hhere, but soemtimes cars just doesnt want to stop for you.
+After 8pm its just senseless.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 08 Jul 16 13:12:07 +0000">Description written 8.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26372">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-23.971370816232632,65.59000140688032</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26377">
+<name>a Hitchhiking spot in ReykjanesbÃ¦r, Iceland</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-22.588697433471115,63.996780592630465</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26534">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tourists will go viti and Lerhnjukur. I got lucky and before I could lift my thumb, some tourists offered me a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 21 Jul 16 19:57:49 +0000">Description written 21.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26534">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.79692840576185,65.64551131293796</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26535">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitching to ReykjahlÃ­Ã° is possible from here. Tourists mostly go first to Viti, and visit LeirhnÃºkur after that.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 21 Jul 16 20:00:27 +0000">Description written 21.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26535">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-16.77300310134848,65.71230388018246</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27252">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice spot when you wanna return to Reykjavik after enjoying a bath in a hot river (there is unpaved road heading close to Ring road). You should go a bit far from the turn to be visible for drivers who are going fast here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 28 Aug 16 23:09:51 +0000">Description written 28.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27252">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.215561985968563,64.00792391562517</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27253">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nice spot when you wanna return to Reykjavik after enjoying a bath in a hot river (there is unpaved road heading close to Ring road). You should go a bit far from the turn to be visible for drivers who are going fast here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 28 Aug 16 23:09:51 +0000">Description written 28.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27253">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-21.215561985968563,64.00792391562517</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27255">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We tried to hitchhike here to get to Hekla &quot;base camp&quot;. Actually there was plenty of cars, but those were usually full or just didn't stop. We went more than hour till the first car stopped. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 15min (1 experience)<br /><span title="Sun, 28 Aug 16 23:35:15 +0000">Description written 28.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27255">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.739848807453967,64.09232854458901</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27256">
+<name>a Hitchhiking spot in Iceland</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We were heading to the south and the first car stopped. But there is a few people driving these road, so we were probably very lucky.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 28 Aug 16 23:38:26 +0000">Description written 28.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27256">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-19.74887175858034,64.09111441236486</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

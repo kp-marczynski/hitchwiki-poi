@@ -1,0 +1,49 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Myanmar</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="21769">
+<name>a Hitchhiking spot in Myanmar</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>97.30083131789928,22.61539283602739</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21770">
+<name>a Hitchhiking spot in Myanmar</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>96.49284267425239,22.039170631161756</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22962">
+<name>a Hitchhiking spot in Bago, Myanmar</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you plan hitchin' towards Thai border, one of the easiest options of getting out of Yangon city is taking a train to Bago. After you arrive there and get on the main road, you can start asking cars for a 10km lift to the crossroad. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 27 Jun 15 21:55:14 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22962">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>96.47992515564039,17.33382795989267</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22964">
+<name>a Hitchhiking spot in Myawaddy, Myanmar</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>As soon as you cross and walk a bit further into the town, you can ask all kinds of vehicles for a lift. There are plenty of taxis, though people are friendly and finding a free lift is more than possible.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 27 Jun 15 22:14:39 +0000">Description written 27.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22964">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>98.50712800026612,16.68757896266235</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

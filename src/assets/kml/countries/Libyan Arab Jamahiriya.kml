@@ -1,0 +1,20 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Libyan Arab Jamahiriya</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="18031">
+<name>a Hitchhiking spot in Libyan Arab Jamahiriya</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>14.704598636860355,26.10208590227889</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

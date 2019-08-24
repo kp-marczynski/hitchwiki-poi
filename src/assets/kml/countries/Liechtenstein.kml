@@ -1,0 +1,47 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Liechtenstein</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7980">
+<name>a Hitchhiking spot in Schaan, Liechtenstein</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In front of the Hilti in the bus station. It took 5 minutes to get a car to Feldkirch.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 17 Jun 11 10:26:39 +0000">Description written 17.6.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7980">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>9.5232006367849,47.180025002725</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17424">
+<name>a Hitchhiking spot in Eschen, Liechtenstein</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's some space for cars to pull over at the gas station just behind the crossing. Direction Feldkirch.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3min (1 experience)<br /><span title="Mon, 10 Feb 14 21:09:58 +0000">Description written 10.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17424">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>9.545218467713436,47.2012309218454</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19126">
+<name>a Hitchhiking spot in Vaduz, Liechtenstein</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Feldkirch (Austria).
+We started hitch-hiking here late Thursday afternoon and in about 2 minutes were picked up by friendly police officers who took us to the Austrian border.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Wed, 02 Jul 14 23:36:48 +0000">Description written 2.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19126">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>9.520541667939138,47.141654058875574</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

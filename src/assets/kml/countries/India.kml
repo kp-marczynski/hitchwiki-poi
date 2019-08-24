@@ -1,0 +1,149 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>India</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="3152">
+<name>a Hitchhiking spot in Alandur, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Velachery Aquatic complex pa la comadre!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3152">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>80.2206659317017,13.0059167180244</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3200">
+<name>a Hitchhiking spot in Sirohi, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pukhraj's farm
+Hitesh</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=3200">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>72.8513181209564,24.9279390328881</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3620">
+<name>a Hitchhiking spot in Pondicherry, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitching in and around Auroville is common, acceptable, and safe.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=3620">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>79.8143005371094,12.004062263733701</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5885">
+<name>a Hitchhiking spot in Madras, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Singhara chennai.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5885">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>80.2824211120605,13.0804815230683</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5758">
+<name>a Hitchhiking spot in Gangtok, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>pretty senseless but GREAT FUN.. and you'll see a ride every few days! </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5758">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>88.8622283935547,29.2558513358141</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16587">
+<name>a Hitchhiking spot in Ongole, India</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>80.04789733886784,15.504577663794938</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19833">
+<name>a Hitchhiking spot in India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bhagsu village, near waterfall.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2min (1 experience)<br /><span title="Mon, 25 Aug 14 15:45:03 +0000">Description written 25.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19833">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>76.33284914493686,32.24344155528767</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19834">
+<name>a Hitchhiking spot in Shimla, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Chadwick falls from the bus terminus in Summerhill (down the hill, 4 kms)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 25 Aug 14 15:50:04 +0000">Description written 25.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19834">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>77.13969784974992,31.109253456630476</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19835">
+<name>a Hitchhiking spot in India</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>77.16861206293137,31.104687977417438</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23088">
+<name>a Hitchhiking spot in Sonamarg, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On the east end of the town there is a big parking with cars, just before the trucks parking. We got a ride here with an indian family that offered to take us all the way to Leh. We had to ask around, but it took less than 10 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 11 Jul 15 22:08:44 +0000">Description written 11.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23088">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>75.29957199096553,34.29986347278574</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23089">
+<name>a Hitchhiking spot in India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Many trucks passing in the direction of Leh. After 15 minutes one of them stopped and offered us a ride for 200INR.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 11 Jul 15 22:11:08 +0000">Description written 11.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23089">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>76.77440071105767,34.28142622766336</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23090">
+<name>a Hitchhiking spot in India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Lots of trucks passing here going to Manali. We found a ride all the way there. It was quite an adventure. Took us 2 days, with a night stop in a basecamp. The drivers were friendly and helpful, although they seemed to be drinking during the whole trip!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sat, 11 Jul 15 22:14:31 +0000">Description written 11.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23090">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>77.60414743423114,34.09477023866116</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24001">
+<name>a Hitchhiking spot in Keylang, India</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I hitched from here to Leh (and back) just after the road was opened, it was fantastic. I thought I must start early to make it to Leh in one day, but that's wrong, u better take your time for that trip, there are so many camps in stunning locations where you can sleep, eat and continue the next day. With private cars (many indian tourists) or a truck. Best road I ever hitched </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 10 Sep 15 20:56:45 +0000">Description written 10.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24001">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>77.03709089756397,32.572702446094404</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

@@ -1,0 +1,52 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Pakistan</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="2252">
+<name>a Hitchhiking spot in Quetta, Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>66.9996124505997,30.1699886260412</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5884">
+<name>a Hitchhiking spot in H?r?n?b?d, Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>73.125,29.5352295629485</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18428">
+<name>a Hitchhiking spot in Muzaffarabad, Pakistan</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Beautiful landscape with eye catching views and superb weather..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 14 May 14 11:42:50 +0000">Description written 14.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18428">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>73.4700908660891,34.37392619180272</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24457">
+<name>a Hitchhiking spot in Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>74.56842327117863,31.604184048082555</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24458">
+<name>a Hitchhiking spot in Pakistan</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>74.53670883178413,36.252134219769665</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark></Document>
+</kml>

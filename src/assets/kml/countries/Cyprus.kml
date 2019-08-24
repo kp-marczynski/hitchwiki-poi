@@ -1,0 +1,441 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Cyprus</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="5955">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Best place to get a ride to Larnaca, Lemessos or Nicosia. Waited 10 minutes at early Sunday moorning.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5955">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>32.443699836731,34.780747198394</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7083">
+<name>a Hitchhiking spot in Famagusta, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.950659274035,35.097602528434</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9268">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.371582794193,35.099496082127</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9269">
+<name>a Hitchhiking spot in Germasogeia, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.085938262945,34.708088709058</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10423">
+<name>a Hitchhiking spot in Limassol, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.01522278785946,34.69293742370366</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10424">
+<name>a Hitchhiking spot in Germasogeia, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.08152699470617,34.70373411474028</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11760">
+<name>a Hitchhiking spot in Kyrenia, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is a perfect spot in direction to Lefkosa/Nicosia. All cars passing this spot are going this direction. Easy to stop for the cars, there is also a bus stop. from the harbor you can walk to there in 15 min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (3 experiences)<br /><span title="Sat, 06 Oct 12 13:49:49 +0000">Description written 6.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11760">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.31975990478515,35.33160492376462</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18353">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The &quot;Balalan&quot; effect haha. we waited here 1 hour on the sun. But only because tehre wasnt any car coming :-D:-D but than the first car stopped for us, so its a success!!!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 08 May 14 13:41:30 +0000">Description written 8.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18353">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.14024853706815,35.47756494343032</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18354">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>try to hitchhike people who are on their way to the end of the island :-D We were lucky!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 08 May 14 13:42:13 +0000">Description written 8.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18354">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.38134694099885,35.59790482599932</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18355">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>after a nice night at the golden beach we hitchhiked a tractor here! amazing experience! :-D</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 08 May 14 13:42:56 +0000">Description written 8.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18355">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>34.53219437599585,35.64517414053996</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18356">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>just cross the border on foot and than the police at the tÃ¼rkish side will hitchhike for you the cars. :-D Even gave us water and food :-D amazing people!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 08 May 14 13:47:00 +0000">Description written 8.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18356">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.87342238426447,35.08072058579909</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20770">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is a Turkish military area, soldiers won't allow you to continue walking to St. Hilarion (because of &quot;security reasons&quot;) so they will force you to hitchhike, and they will probably help you by stopping cars that go to the castle to ask if they can take you to the top.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Tue, 04 Nov 14 00:48:18 +0000">Description written 4.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20770">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.29804563522542,35.31110268917966</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22077">
+<name>a Hitchhiking spot in Kato Polemidia, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.00238037109479,34.70620815802881</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22078">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>32.73094081878656,35.01079850443667</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22280">
+<name>a Hitchhiking spot in Strovolos, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is usually a lot of space for the cars to stop on the parking spaces on the roadside. It is a good place to be brought to the entrance of the highway to Limassol or Larnaca, or even further.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 29 Apr 15 18:58:51 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22280">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.361785650250866,35.145123976434974</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22281">
+<name>a Hitchhiking spot in Strovolos, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The entrance of the highway that will bring you to Limassol/Larnaca. You can stay on the footpath just before the exit and cars have space enough to stop on the exit.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 29 Apr 15 19:01:57 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22281">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.37513232230819,35.138745804326405</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22282">
+<name>a Hitchhiking spot in Aglantzia, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a petrol station around there with some people leaving to the highway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Wed, 29 Apr 15 19:07:25 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22282">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.37454223632648,35.145132749366915</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22283">
+<name>a Hitchhiking spot in Nicosia, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>An easy way to go out of the city to reach GÃ¼zelyurt or Girne/Kyrenia. This is a bus stop where people can stop and bring you to the roundabound a few kilometers further.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 29 Apr 15 19:09:18 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22283">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.35783207416347,35.18577636080046</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22284">
+<name>a Hitchhiking spot in Nicosia, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is place to stop at the start of the highway and cars don't go too fast.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 29 Apr 15 19:10:40 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22284">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.31468069553123,35.207852566665665</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22285">
+<name>a Hitchhiking spot in Larnaca, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Lots of space for the cars to stop, and you can be lucky for a first ride that will bring you close to the highway to Limassol.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 29 Apr 15 19:17:29 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22285">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.62871372699546,34.911130600866606</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22286">
+<name>a Hitchhiking spot in Larnaca, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The spot is about 30min walking from the castle, there is place to stop and a lot of cars going to the airport.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Wed, 29 Apr 15 19:19:41 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22286">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.63091313838774,34.89073851326238</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22287">
+<name>a Hitchhiking spot in Limassol, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a bus stop. From here you can quite easily find a ride to the main road (not far from the big mall), and from there again reach the highway to any direction.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 29 Apr 15 19:31:41 +0000">Description written 29.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22287">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.03084397316268,34.67017066725845</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22288">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After the roundabound, just when the highway starts, there is plenty of space for the cars to stop and they don't drive really fast. There is light for hitching at night.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 30 Apr 15 15:56:32 +0000">Description written 30.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22288">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>32.4466964006427,34.78326772660422</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22289">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The spot is walkable from the city center, but there is no space for the cars to stop. You might want to walk 15 more minutes until the first traffic lights. There is light at night in this spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Thu, 30 Apr 15 15:53:18 +0000">Description written 30.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22289">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>32.42931199818829,34.752418036646446</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22290">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From the city center, about 30-40min. There is a traffic light and it is quite easy to get a ride to the highway. There is light for hitching at night.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 30 Apr 15 15:55:03 +0000">Description written 30.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22290">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>32.43732643872487,34.76154111686084</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23760">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>32.44394445419146,34.783166391267436</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23761">
+<name>a Hitchhiking spot in Limassol, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.06293928623174,34.70756642484378</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23763">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.49951474353882,34.8722271361171</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23764">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.386776134224185,34.83441278395774</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23765">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.1675001828391,34.71398685060822</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23766">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.00899235889456,34.63884881580493</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23767">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.005494758338905,34.62105134753025</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23768">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>32.412651464194276,34.76432890460831</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23769">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>32.41428224727486,34.76535129741073</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23822">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.562683105468686,34.90710761825881</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23823">
+<name>a Hitchhiking spot in Larnaca, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.597165584562696,34.91220619850362</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23824">
+<name>a Hitchhiking spot in Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>33.56905603408742,34.90838779198817</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23825">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>32.49209547042724,34.71798200239484</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23826">
+<name>a Hitchhiking spot in Paphos, Cyprus</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>32.40883970260486,34.773909103482566</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23834">
+<name>a Hitchhiking spot in Aradhippou, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>That round about connect Larnaca at the coast, Nicosia at the interior ,Larnaca Airport and Limassol at the west and Agia Napa at the east.</p>
+
+<p>The highway goes under the roundabout, so is hard tog et that kind of cars, but all cars which go through the roundabout will go more slowly. </p>
+
+<p>I sued mostly to go Agia Napa, never more than 10 minutes waiting. Is the entrance of the highway so go careful when walking. On that side of the road, at left after some big plants which hide the cars view, there is some margin on the road enough for a car who wants to stop to do it. </p>
+
+<p>You can wait there having some space of visibility, or stay in the intersection of the cats who came from the roundabout or directly from Nicosia road, the cars from round about they are really slow but they can't really stop.  </p>
+
+<p>To get there you can hitchhike from the city asking to take you out, never tried in Larnaca but in Nicosia works well. Or manage to arrive the closest bus stop 'Acropoleos Avenue 1' numbers 417 ,454 409,415 </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 30 Aug 15 12:05:17 +0000">Description written 30.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23834">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.57523584366159,34.953919952368594</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23835">
+<name>a Hitchhiking spot in Aradhippou, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>That round about connect Larnaca at the coast, Nicosia at the interior ,Larnaca Airport and Limassol at the west and Agia Napa at the east.</p>
+
+<p>Just wait at the exit of the roundabout to get a lift probably direct to nicosia.</p>
+
+<p>To get there you can hitchhike from the city asking to take you out, never tried in Larnaca but in Nicosia works well. Or manage to arrive the closest bus stop 'Acropoleos Avenue 1' numbers 417 ,454 409,415 </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 30 Aug 15 12:07:44 +0000">Description written 30.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23835">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.57324028015381,34.95388477838343</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23836">
+<name>a Hitchhiking spot in Aradhippou, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>That round about connect Larnaca at the coast, Nicosia at the interior ,Larnaca Airport and Limassol at the west and Agia Napa at the east.</p>
+
+<p>Just wait at the exit of the roundabout to get a lift probably  Limassol, some village on the way, or just the next roundabout of the airport. Is worthy, from there you can hitchike again.</p>
+
+<p>To get there you can hitchhike from the city asking to take you out, never tried in Larnaca but in Nicosia works well. Or manage to arrive the closest bus stop 'Acropoleos Avenue 1' numbers 417 ,454 409,415 </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 30 Aug 15 12:10:24 +0000">Description written 30.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23836">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.57186698913773,34.95233710810519</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23837">
+<name>a Hitchhiking spot in Famagusta, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the entrance of the highway direction to Larnaca in that case (cross the bridge for another direction). Just before the entrance there is a oil station but facing agia napa, and a bus stop and a lot of space to stop, but my experience is better when I hit my feet into the exit road. Cars from highway they are too fast but there is small chance to them to stop.   If you are in Agia Napa you can walk here, but Iit will take some time, you can hitchike around the road in any bus stop, it work fine for me. Bus stop closer is from Nissi avenue, 101 or 102 is and example.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 30 Aug 15 12:18:49 +0000">Description written 30.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23837">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.959821701052576,34.99205725305972</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26194">
+<name>a Hitchhiking spot in Larnaca, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I just stuck out my thumb here, and it got me to central Larnaca in a few minutes. :) Love the locals!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 23 Jun 16 18:00:02 +0000">Description written 23.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26194">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.602259099484826,34.915553756725245</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26832">
+<name>a Hitchhiking spot in Limassol, Cyprus</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>position  to Pafos side.
+Better stay on the exit of town to highway after roundabout</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 06 Aug 16 13:31:44 +0000">Description written 6.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26832">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>33.007744789124615,34.688491317970374</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

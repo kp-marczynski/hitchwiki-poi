@@ -1,0 +1,1240 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>China</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7085">
+<name>a Hitchhiking spot in Naqi, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take the 301 bus to the airport from Nanning city centre. You\'ll need to walk about 1.5 km back along the Expy and then turn left. You should have no trouble getting a long distance ride from here, sometimes all the way to the border</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 17 Dec 10 08:04:17 +0000">Description written 17.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7085">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>108.17721032721,22.623622701262</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7172">
+<name>a Hitchhiking spot in Xiamen, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Worked really well for me in the direction of Hong Kong.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 08 Jan 11 01:22:33 +0000">Description written 8.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7172">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.00686263605,24.590002848193</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8877">
+<name>a Hitchhiking spot in Manzhouli, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Stand here with a sign for &quot;Ð Ð¾ÑÑÐ¸Ñ&quot;. It will work. Prepare to spend 12 hours getting over the border, but you'll get there eventually. Have fun!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Mon, 17 Oct 11 08:58:49 +0000">Description written 17.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8877">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>117.43353294826,49.594178116145</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8949">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Welcome to China! This will be the location of your first ride having entered from Laos. You should be able to get a ride to Mengla quite quickly. There is a decent amount of traffic here. Enjoy!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 05 Nov 11 17:57:50 +0000">Description written 5.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8949">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.69302748004,21.197893833707</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9444">
+<name>a Hitchhiking spot in SÄnyÃ , China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>109.58258056641,18.234676104974</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9445">
+<name>a Hitchhiking spot in SÄnyÃ , China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchhike to Vietnam,Combodia,Thailand,Laos,China,Nepal </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 05 Mar 12 16:11:41 +0000">Description written 5.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9445">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>109.49743652344,18.220327902491</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10059">
+<name>a Hitchhiking spot in å®é¸¡å¸‚, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The traffic to Tianshui or Lanzhou is always at a small entrance named Jiangcheng å§œåŸŽ of G30 Highway.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 16 May 12 04:15:29 +0000">Description written 16.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10059">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>107.10791015626,34.379805881334</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11598">
+<name>a Hitchhiking spot in DÃ lÇ, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The toll gate is located close to the bus station and is a good spot going to Kunming</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 17 Sep 12 13:39:27 +0000">Description written 17.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11598">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.22143882568086,25.57495293423486</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11708">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>On the T junction at Langmusi following the main G213 into either Sichuan or Gansu, it's not hard to find a ride. Chinese tourists are usually more willing to take you. Best in summer!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 30 Sep 12 13:54:51 +0000">Description written 30.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11708">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.6309814452968,34.11189815390894</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11709">
+<name>a Hitchhiking spot in åˆä½œå¸‚, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Getting into Xiahe from here is no problem! Just keep a smart distance to the toll gate, and flag down those tourists. Best in summer.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 30 Sep 12 13:59:00 +0000">Description written 30.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11709">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.8239288329998,35.22411878841884</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11710">
+<name>a Hitchhiking spot in Xiahe, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At this junction, many cars entering or leaving Xiahe come together. Shouldn't be too hard getting a lift to directions Lanzhou, Sichuan, or even Xining (which I had). </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 30 Sep 12 14:02:50 +0000">Description written 30.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11710">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.536138534534,35.20319544642048</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12532">
+<name>a Hitchhiking spot in ChÃ¡ngshÄ, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>112.95263671873586,28.18834328330004</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12688">
+<name>a Hitchhiking spot in Hangzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Destination: Chuzhou, Nanjing, Beijing</p>
+
+<p>Toll gates. Loads of cars going towards the north. Staff doesn't mind hitchers at all. </p>
+
+<p>In order to get here from the lakeside (Eastern bank):</p>
+
+<ol>
+<li><p>Take the bus no 12 going towards ä¸‰å¡˜ç«¹è‹‘.</p></li>
+<li><p>After around 30-40 minutes ride get off at é¦™ç§¯å¯ºè·¯å£. (bus stops are quite well signposted)</p></li>
+</ol>
+
+<p>For a while you will be going along the huge elevated road. Your bus stop is the first one after the bus turns right, leaving the elevated road behind.</p>
+
+<ol>
+<li>Go back to the street running along the elevated road. Turn right. After a very short walk you'll arrive at the stop ä¸Šå¡˜è·¯é¦™ç§¯å¯ºè·¯å£. Take the bus no K191. </li>
+</ol>
+
+<p>The bus stop is located in front of the quite big shopping centre, tons of people around. </p>
+
+<ol>
+<li>The bus will follow the elevated road for a longer time before taking the turn left. After a while it will rejoin the express way. </li>
+</ol>
+
+<p>After around 40-50 minutes ride (depending on the traffic conditions) the bus will take turn the right, leaving the small highway junction. You should be able to see the toll gates already from here.</p>
+
+<p>Get off at the first stop after the junction - éƒŽå®¶æ»¨.</p>
+
+<p>Go back to the junction. Turn right, walking along the highway (it's perfectly fine for the pedestrians to stroll around, just exercise enough caution for the speeding cars)</p>
+
+<p>After around 15 minutes walk you should arrive at the toll gates. Stand just in front of one the booths.</p>
+
+<p>It took me less than an hour to get a long-distance ride which took me far beyond Nanjing.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 18 Dec 12 07:58:16 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12688">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.11529922485262,30.380448930229228</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12689">
+<name>a Hitchhiking spot in Datong, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate. Destination: Taiyuan, Pingyao, Xi'an.</p>
+
+<p>From Datong railway station:</p>
+
+<ol>
+<li>Take the double-decker bus no 15. Get off at the final stop.</li>
+</ol>
+
+<p>You'll end up in a not particularly pleasant slum area. However, delicious street food is abundant here and the locals are exceptionally friendly and curious. Don't be worried to stroll around!</p>
+
+<p>Upon getting off the bus, proceed towards the street market. You should see the big factory in front of you, far in the distant background.</p>
+
+<p>Take a bit narrow, yet clearly visible street to the left.</p>
+
+<p>Follow that narrow non-paved street till you arrive at a bit lager, tarmacked thoroughfare.</p>
+
+<p>Use this image for reference:
+http://www.image-share.com/upload/1936/82.jpg</p>
+
+<p>Turn right and keep on going along the street before you arrive at the express way junction. Turn right, walk for a few minutes before you eventually arrive at the toll gates.</p>
+
+<p>Hitching to Taiyuan was a breeze. Around 15 mins waiting before I was given a lift by an incredibly friendly driver. </p>
+
+<p>Tip: look for the stretches of the Great Wall on your way to Taiyuan, they are clearly visible to the left side, far in the hills!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 18 Dec 12 08:15:23 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12689">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>113.30616831780291,40.02127391018025</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12690">
+<name>a Hitchhiking spot in Jiexiu, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate. Destination: Xi'an, Taiyuan.</p>
+
+<p>No advice for the buses here. From the walled old town it's around an hour walk. You might also want to take a cab to get here if you are short of time (and have someone to share the costs with).</p>
+
+<p>Tell the driver to take you to é«˜é€Ÿå…¬è·¯. æ”¶è´¹ç«™ (GÄosÃ¹ gÅnglÃ¹. ShÅufÃ¨i zhÃ n) - 'express way, toll gates'. </p>
+
+<p>I personally preferred to get there by foot, quite interesting walk through some modern developments in Pingyao, so radically different from the postcard look alike old town.</p>
+
+<p>One member of the staff was not particularly happy to see me standing directly in front of the booths. However it did not matter, as I got my lift within a few minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (3 experiences)<br /><span title="Tue, 18 Dec 12 08:22:12 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12690">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>112.1800804138505,37.17225403652199</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12691">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A small truckers' town of HuaShiXia.</p>
+
+<p>Direction: Tarlag, Baima.</p>
+
+<p>Plenty of space on the roadside available. Just like anywhere in the Tibetan areas in Qinghai - extremely easy to catch a ride. Just make it clear at the beginning that you 'haven't got money, is it ok?'</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 18 Dec 12 08:25:30 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12691">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>98.86530518536118,35.114399506226896</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12692">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Darlag (Tarlag). Destination: Baima, Beiyu, Aba.</p>
+
+<p>No big deal. Walk out of this small town so that the van drivers will not bother you. You can hitch literally everywhere. It shouldn't take more than 10 minutes to get a ride towards Baima. Loads of cars going to Aba. If going to Aba, make sure that the Aba County is not currently closed for foreigners due to the recent self-immolations performed by Tibetans. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 18 Dec 12 08:29:57 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12692">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>99.66774702076556,33.75968903663549</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12693">
+<name>a Hitchhiking spot in Leshan, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction: Emeishan. Might also work for the direct lifts to Chengdu. However, it will be way easier to catch a ride taking you to the express way junction where you can hitch on the toll gates (or the ramp).</p>
+
+<p>Stand just after the big road crossing. There is a large bit of wide roadside, as well as the bus stop.</p>
+
+<p>It's very easy to get there by simply walking from the main bus station. (where the buses from Emei and Chengdu stop)</p>
+
+<p>Used this spot once, after missing by last bus back to Emei. Took me less than an hour (well after the dusk, take this factor into account) to catch a ride to Emei.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 18 Dec 12 15:37:11 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12693">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.72175574308255,29.562541440544955</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12694">
+<name>a Hitchhiking spot in Chengdu, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gates. Just after the big express way junction. Direction: Dujiangyuan, Wenchuan, Songpan, Jiuzhaigou National Park.</p>
+
+<p>From Chengdu North Railway Station:</p>
+
+<ol>
+<li><p>Take the D-type train to Xipu. In November 2012 the cost of the single journey ticket was 5RMB. The ride takes approx. 15 mins.</p></li>
+<li><p>Leaving the Xipu train station behind, follow the street (full of yummy street food!) to the first crossing. Turn right onto ä¸‹è¡— street.</p></li>
+<li><p>Turn left on the first crossing. 
+You should be on Puxing street now. Follow that street for around 15-20mins.</p></li>
+<li><p>You will eventually arrive at the crossing with Xixing avenue. Turn right.
+Walk all the way till the express way junction. Go past it. Just beware of the speeding cars! The cops shouldn't bother you at all.</p></li>
+<li><p>Finally you will arrive at the toll gates which catch the traffic coming from the Northern stretches of G4201 express way.</p></li>
+</ol>
+
+<p>There are literally loads of cars stopping here. A lot of friendly and smiling drivers!</p>
+
+<p>Extremely easy to hitch a ride to Dujiangyuan, should take no more than 5-10 minutes.</p>
+
+<p>A bit harder for further destinations, yet still it took me only around 20 mins to catch a ride to Maoxian.</p>
+
+<p>However, hitching here, you miss a lot of traffic coming from the inner areas of Chengdu. That's why you might consider another toll gate, located a bit further to the North-West. </p>
+
+<p>(see the white spot I added.)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Dec 12 15:57:26 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12694">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.93628954892505,30.75782631508834</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12695">
+<name>a Hitchhiking spot in Chengdu, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Giant toll gates. Direction: Dujiangyuan, Barkam, Wenchuan, Songpan, Jiuzhaigou National Park.</p>
+
+<p>NOTE: I haven't personally tried it yet, therefore all guidelines are purely theoretical, I still need to try to implement them. As I'm planning to stay in Chengdu for a few months, I will update these information sooner or later!</p>
+
+<ol>
+<li><p>Hop on the D-type train from Chengdu North Station to XIPU. (In November 2012 the price for a single journey ticket was 5 RMB)</p></li>
+<li><p>Leaving the train station behind, walk along the street till the crossing with ä¸‹è¡—. Turn right. Walk till the bus stop.</p></li>
+<li><p>Catch a bus no 305. After a bit more than a 30 mins ride get off at å‡ºå£åŠ å·¥åŒºè¥¿åŒºåŒ—é—¨. </p></li>
+<li><p>Turn left on the crossing located immediately in front of you.  Walk along the street which eventually bring you to the close proximity of the express way. You should be able to see the toll gates already from here.</p></li>
+</ol>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Tue, 18 Dec 12 16:03:07 +0000">Description written 18.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12695">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.91875863082286,30.77124923484976</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12923">
+<name>a Hitchhiking spot in DÃ lÇ, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>100.21229000000008,25.584739999999822</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13062">
+<name>a Hitchhiking spot in Anning, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is Kumming East Toll Gate.All the vehicle go to Dali at least that direction.How to get the,From the Train Station.K10--Xibu keyun zhan--walk to Majie(400m)---C11--changbo cun weihui</p>
+
+<p>æ˜†æ˜Žç«™
+50ç±³
+æ­¥è¡Œè‡³ æ˜†æ˜Žç«™
+    18ç«™
+ä¹˜å k10è·¯, åœ¨ è¥¿éƒ¨å®¢è¿ç«™ ä¸‹è½¦
+400ç±³
+æ­¥è¡Œè‡³ é©¬è¡—(è¥¿éƒ¨å®¢è¿ç«™)ç«™
+    13ç«™
+ä¹˜å c11è·¯, åœ¨ é•¿å¡æ‘å§”ä¼šç«™ ä¸‹è½¦
+30ç±³
+æ­¥è¡Œè‡³ æ˜†æ˜Žè¥¿æ”¶è´¹ç«™
+That is best place.last time we tried a place on the east side of the point.takes one hour to get a little bit ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 16 Feb 13 14:32:39 +0000">Description written 16.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13062">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.58203649520829,24.964491899349515</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13063">
+<name>a Hitchhiking spot in DÃ lÇ, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From Dali to Lijiang--Best option is get on the G214 High way,Cuz the yellow road on the right side is old road.,Last time took us 2hours than we got a ride to the G214,Then everything went smoothly.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Feb 13 14:41:18 +0000">Description written 16.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13063">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.13493919371416,25.73854343715858</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13064">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Lijiang to Shangeri-La or Tiger Leap Groge(è™Žè·³å³¡)---No5 bus,Stopping at changshui leng dong chang.é•¿æ°´å†·å†»åŽ‚--Get on the S308--Only wey to those place..It takes us 3mins get a vehicle---So great----</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Feb 13 14:49:09 +0000">Description written 16.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13064">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.19997739790834,26.867688366799605</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13065">
+<name>a Hitchhiking spot in Qiaotou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Qiaotou--Shangeri-La.Taking 214 are always very good choose,But if it is hot season.When u finished ur hiking u can go another way to Shangeri-la From Daju.ï¼ˆThe last Part of the hiking routeï¼‰Hit the road see if there is anyone wanna give u a ride from that direction.if no,u can bcak to Woodlys guest house.Remember there is always risk of this road if it in rainning season the road may blocked by debris flowã€‚But u can c the one senery called ç™½æ°´å°ï¼ˆThe White Water Terraces)30yuan ,I dont think u need pay when u driving by,unless u wanna stop and get in.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Feb 13 15:03:29 +0000">Description written 16.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13065">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.0511040687527,27.186361832801936</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13066">
+<name>a Hitchhiking spot in Jiantang, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From Shangeri-la to De qin(å¾·é’¦ï¼‰
+Best place .Why donot take the crossing with 214,.cuz our experience is stay away from the 214,few cars went Dexin from 214.cuz most of  velihcle stay one night in Shangeri-la then go this awesome Spot ---up to the season.We went there a low season--Ages----But the bus sataion is near the spot.last bus leaving from Shangeri-la at 12am..If u cannot make a catr stop for u ,u can either back to the bus sation or stop the bus when u see it on that spot.BTW.No toilet around that area.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Feb 13 15:13:01 +0000">Description written 16.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13066">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>99.70125818249416,27.83980220664425</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13067">
+<name>a Hitchhiking spot in Deqin, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchiking to Tibet.This is random spot i put.cuz u will love G214 it takes u to whereever u wanna.most of people will spent a night at Feilai Templeï¼ˆé£žæ¥å¯ºï¼‰.Go down find ur best place do ur hitchhiking to Tibet..
+Awesome.man.u gotta the fu-cking visa .C what u can do..
+If u entered Tiebt the Security Stops always good place to get a ride.ALWAYS.Tks to the Chinese Gov .Tibet .Security station is ur best frd In Tibet.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 16 Feb 13 15:21:00 +0000">Description written 16.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13067">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>98.90071535106048,28.47131828044587</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15839">
+<name>a Hitchhiking spot in Chengdu, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchhiking Spot to Dujiang yan,Wolong,Wenchuan.
+I start from Dengba youth hostel.
+ç™»å§å®¢æ ˆé’å¹´æ—…ç¤¾ ï¼ˆåœ°å€ADDï¼š å››å·çœæˆéƒ½å¸‚é‡‘ç‰›åŒºæ°¸é™µè·¯15å· é‚®æ”¿ç¼–ç : 610000
+ç”µè¯Telï¼š028 8776 8009,They offer washing dishes to exchange a couch,I think the receptionist speaks English ï¼‰
+Yong ling dong lu stop(æ°¸é™µä¸œè·¯ç«™ï¼‰---No.30---gao jia cun stop(é«˜å®¶æ‘ç«™ï¼‰10stops----No.314 ---bai cao xi lu stop(ç™¾è‰è¥¿è·¯ç«™ï¼‰
+The big junction is on your left side.When you arrive the last stop you can see the big junction.</p>
+
+<p>Ready for a good ride.Lots of traffic, </p>
+
+<p>I got a ride immediately.Like 5mins.
+Hold the Sign éƒ½æ±Ÿå ° du jiang yan.
+There is big toll gate after that,If you cant get any luck just walk a little bit more.</p>
+
+<p>FYI.Hitchhiking in Chinese æ­è½¦da che.
+If it possible write it when you hitchhiking.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 07 Sep 13 10:14:34 +0000">Description written 7.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15839">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.94379973412403,30.757800960963934</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15840">
+<name>a Hitchhiking spot in Dujiangyan, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To ying xiu(æ˜ ç§€ï¼‰
+Du jian yan famous for the weirs which built in Qin dynasty.BC 201.</p>
+
+<p>There is big tourist sightseeing park near the river.ziping pu(ç´«åªé“ºï¼‰
+I did try to get in cuz cost 90rmb,</p>
+
+<p>In front of the Park,Hop on Bus 101.Ask the drive to drop you at yutang(çŽ‰å ‚ï¼‰then ask local whch road to æ˜ ç§€ï¼ˆying xiu)</p>
+
+<p>Go stragiht then turn left after 1st crossing,You should be at the Toll gate,I get ride before get the toll gate.
+Good luck.</p>
+
+<p>BB</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 07 Sep 13 10:31:17 +0000">Description written 7.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15840">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.60344449883434,30.978648652285003</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15841">
+<name>a Hitchhiking spot in Yingxiu, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To wo long å§é¾™</p>
+
+<p>go right at wait along the road,They may still built the road,traffic is light.</p>
+
+<p>This area u can see the tibetians 
+usually they are very helpful.And this road you are taking can take you all the all the the border of Tibet.Eventhough u dont hv visa for tibet but those tibetian area is defintelly worthing to see,Amazing landscape and nice people.Few travelers even during the summer which is hottest season for chinese to cycling or hitchhiking to tibet.
+The route is this.
+chengdu--dujiangyan--yingxiu--wolong--ri long--xiaojin--dan ba--ba mei--dao fu --lu huo--wen da--se la--gan zi--ma ni gan ge---de ge --jiang da(Border of Tibet)---changdu------------Lhasa </p>
+
+<p>Totally takes 13days for me to get lhsa/
+It may takes you from chengdu ..8days to the border of tibet.,,</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 07 Sep 13 10:47:51 +0000">Description written 7.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15841">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.48350048063311,31.066042209556162</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15905">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Destinaion Guangzhou (å¹¿å·žï¼‰
+.
+I havenot done it yet.Heard from my taiwan frd,
+Catch a bus from yangshuo local bus station ---3 rmb to gaotian (é«˜ç”°ï¼‰Ask the drive drop u at the é«˜ç”°é«˜é€Ÿå…¬è·¯å£ Entrance of Gaotian high way.
+Usually around weekend There is lots of tourist from guangzhou and  they will back on sunday.U can try on sunday.It should b very easy to get a ride</p>
+
+<p>Good luck.</p>
+
+<p>BB</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Tue, 10 Sep 13 07:12:16 +0000">Description written 10.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15905">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.45835399627636,24.719687988553186</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16449">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Od granicy Mongolsko-Chinskiej moÅ¼na spokojnie dostaÄ‡ siÄ™ tu na piechotÄ™, jest to dÅ‚uÅ¼szy spacer, ale pierwsze doÅ›wiadczenie Chin zapiera dech w piersiach. 
+Na drodze nie ma zbyt duÅ¼ego ruchu, kierowcy zazwyczaj bacznie siÄ™ przyglÄ…dajÄ… i machajÄ…. 
+Zaleta tego miejsca jest to, Å¼e nie ma tu ruchu lokalnego, a kaÅ¼dy wybiera siÄ™ w dÅ‚uÅ¼sza podrÃ³Å¼. DoÅ›Ä‡ Å‚atwo moÅ¼na dojechaÄ‡ stad do Pekinu.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 17 Oct 13 00:04:46 +0000">Description written 17.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16449">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>111.98661231994775,43.635100944809516</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17158">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>U can see to hitchhiking spot.This is the one i did which make sense to let people know at least u can get ride from here.try to pop on a but to äº‘å®‰ä¼šéƒ½while this place is a branch of high way entrance which you can try æ˜†æ˜Žè¥¿æ”¶è´¹ç«™west kunming toll gate ,get there you will easily get a ride passing those place å®‰å® æ¥šé›„ å¤§ç†å¸‚when you get dali usually it is the city downtown.most people trying to see the old town ,go with No.8 bus to get the old town.
+Good luck to all the hitchhikers in china .
+mail me if you like to 940161762@qq.com
+BB</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 01 Jan 14 17:57:10 +0000">Description written 1.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17158">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.64772415162773,25.02798637623094</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17224">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>My best experience is get äº‘å®‰ä¼šéƒ½ï¼ŒAs you can see the privious Hitchspot which help u to get there.The spot is good to get kunming west toll gateæ˜†æ˜Žè¥¿æ”¶è´¹ç«™.you can hold the sign å®‰å® an'ning which is the place will pass the toll gate.
+when you get toll gate.try to pass the gate and on ur right side road is good to go to DALiå¤§ç†ã€‚</p>
+
+<p>Good luck .</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Fri, 10 Jan 14 04:20:15 +0000">Description written 10.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17224">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.64788508414614,25.027208660827256</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17887">
+<name>a Hitchhiking spot in Guandu, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>102.77897500991783,24.972579164957935</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17888">
+<name>a Hitchhiking spot in Hexi, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>102.70696306227963,24.127412209783365</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19310">
+<name>a Hitchhiking spot in Xiamen, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll Gate - excellent spot for rides north towards Quanzhou. From train station (Take RTB 1 from city center) it's a 25 minute walk along Xueyuan Rd and Haixiang Ave to get here. Toll gate and highway is fenced off, but there's a hole in the fence under the bridge Haixiang Ave / toll gate road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Tue, 22 Jul 14 19:27:40 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19310">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.07484054565839,24.629468687476567</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19311">
+<name>a Hitchhiking spot in Quanzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate - staff was a bit nervous of having a foreigner around, but overall ok spot to get a ride north towards Fuzhou (waiting time 1 hour). Bus 13 goes along Chenghua Rd and bypasses the toll gate. Catch the bus from the city center (old tow) on West Street close to the clock tower (bus 13 goes along part of West St., then along East St. and Donghu St. and on to Chenghua Rd - get off when you see the highway and the toll gate - easy!).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Tue, 22 Jul 14 19:28:21 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19311">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.65340375900948,24.941593740174298</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19312">
+<name>a Hitchhiking spot in ä½™æ­åŒº, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll Gate - good spot for rides towards Shanghai (waiting time 15 minutes, staff didn't let me stand on the highway side of the gates though). To get here take the metro (Linping line) to Nanyuan station. Walk five minutes South along Yingbin Rd to the toll gates.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 22 Jul 14 19:29:18 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19312">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.29985094069735,30.389151443345703</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19313">
+<name>a Hitchhiking spot in å˜‰å®šåŒº, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll Gate - good spot for rides West towards Suzhou and Nanjing. Take Metro no. 11 to station &quot;Anping&quot;â€Ž (7 CNY). Walk 20 minutes south along Moyu S Road to a tollgate of expressway G2. It's not the busiest toll gate though - waiting time for a car going to Suzhou: 45 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 22 Jul 14 19:29:52 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19313">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>121.16000318526828,31.272357041153626</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19315">
+<name>a Hitchhiking spot in Nanjing City, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Rest Area - good spot to get rides North. Bus 167 goes over the bridge to the &quot;island&quot; where the rest area is situated (catch the bus on Qixia Ave, 200 meter west of Heyan Rd./Qixia Ave. intersection - bus 6 goes to Heyan Rd from Zhujiang Rd.). </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 22 Jul 14 19:32:39 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19315">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.83004331587966,32.176688917959346</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19316">
+<name>a Hitchhiking spot in Dandong, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Ok hitchhiking spot just along the main road towards the highway (basically anywhere along this road). Find a place with enough space fo cars to pull over. Waiting time for a ride to Shenyang: 20 minutes. You can walk there in 45 minutes from the city center.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Tue, 22 Jul 14 19:33:55 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19316">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>124.33663988112706,40.125017182493934</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19317">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate - excellent spot for rides west towards Beijing (waiting time 30 minutes). Staff and highway police didn't care. To get here take the metro (Line 1) to Yingbin Lu station. From here it's a 30 minutes walk to the toll gates. 800 meter along Shenda Rd. turn right onto Dongpinghu St. 400 meter later turn left on Honghui Rd. which passes under the highway a couple of hundred meters later. Here turn left (there's a small opening in the fence) and cross over the deserted rest area towards the toll gates.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 22 Jul 14 19:34:45 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19317">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>123.25710439683441,41.795756416546595</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19318">
+<name>a Hitchhiking spot in ä¸‰æ¡¥, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate - excellent spot for rides west towards Lanzhou (20 minutes waiting time for the first ride). To get here take the metro (Line 1) to Houweizhai station. From here it's a 20 minutes walk to the toll gates (from the metro station walk 100 meter back towards the ramp which leads to the highway. It's a 500 meter walk on the highway to the toll gates. Staff and police were indifferent).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 22 Jul 14 19:35:51 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19318">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>108.8029589653391,34.300856132719005</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19319">
+<name>a Hitchhiking spot in Lanzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate more or less right in the city, so you can easily walk there. Staff and police were indifferent. Getting a lift west/north towards Zhangye turned out to be a bit tricky though.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (2 experiences)<br /><span title="Tue, 22 Jul 14 19:39:01 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19319">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.8656344413509,36.076856811481306</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19320">
+<name>a Hitchhiking spot in Yining, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good spot for lifts towards the Kazakh border where the city ends and the highway starts. Minimal waiting time.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 22 Jul 14 19:43:08 +0000">Description written 22.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19320">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>81.22296237948795,43.971866632423335</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19335">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gate - excellent spot for rides south towards Xian. It's a popular hitchhiking spot I guess, so staff and highway police are used to these strange foreigners on the highway ;-). To get here take the metro (Line 14) to Yuanboyuan station (Garden Expo Park - Exit C). From here it's around 1.5 kilometer walk to Dujiakan Roundabout and the ramp-on to the highway, where there are the toll gates. Alternatively take any bus which goes along Yuanbo Ave. to
+Dujiakan Roundabout.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 23 Jul 14 07:15:56 +0000">Description written 23.7.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19335">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>116.20478296279028,39.83934127797906</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20726">
+<name>a Hitchhiking spot in Tai'an, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Qingdao. Right after a traffic light with enough space for cars to pull over. Use a sign. It's basically the beginning of the highway, toll station is around 3 kilometers further if you can't get a lift from here. Both spots are more or less walkable from the city center (alternatively: most buses from opposite Dai Temple pass this junction)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 29 Oct 14 19:17:17 +0000">Description written 29.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20726">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>117.17209482195928,36.19354705310714</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20727">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll Gate - excellent spot for rides north (Taian) as well as south towards Nanjing. Staff didn't bother me. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 29 Oct 14 19:22:25 +0000">Description written 29.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20727">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>117.30345869066572,34.27542438628834</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20756">
+<name>a Hitchhiking spot in æ¾æ±ŸåŒº, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>121.22553470445717,31.025313341304248</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20757">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>122.09675910785124,30.033473664458338</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20779">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place for going east on the G60 out of Quzhou. Can catch bus number 26 from the centre to the toll gate. However if you wish to head west on the G60 you might be better of trying the west toll booth.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 07 Nov 14 17:05:55 +0000">Description written 7.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20779">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.92851257325242,29.001464551787578</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20780">
+<name>a Hitchhiking spot in Quzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>West toll booth for Quzhou, great for going west on the G60</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 07 Nov 14 17:07:18 +0000">Description written 7.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20780">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.83063340187937,28.984788694557373</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21130">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easily accessible spot (from Zhuzilin station), highway heading to Guangzhou. Some drivers will ask for money, ignore them. A free ride will come. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 25 Dec 14 08:09:18 +0000">Description written 25.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=21130">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>114.01275525093057,22.538060788337397</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21131">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It's the main road out of town going south. Little traffic, but some may go far. Be sure to get a ride that's a least a bit far or you'll get stuck in Inner Mongolia where there is little traffic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 25 Dec 14 10:50:32 +0000">Description written 25.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=21131">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>111.97457456586142,43.62444643827894</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21132">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>VERY little traffic. Be prepared for a long wait if you have to hitch from here. The toll booth guys are nice, they will assist you in getting a ride. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 4h (1 experience)<br /><span title="Thu, 25 Dec 14 10:56:08 +0000">Description written 25.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=21132">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>112.64122152325851,42.697407370574254</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21133">
+<name>a Hitchhiking spot in å¤§å…´åŒº, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Decent spot for going in the south direction (inland towards Wuhan). Might look like there's not much space, but Chinese drivers will usually pull over regardless. They will have to slow down for the toll booth anyway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 25 Dec 14 11:08:35 +0000">Description written 25.12.2014</span><br /><a href="https://hitchwiki.org/maps/?place=21133">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>116.33789563177095,39.71698777409138</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21151">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>116.83081054688259,28.362501213908647</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21931">
+<name>a Hitchhiking spot in æ–°æ´² Xinzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The first petrol station on the highway to Guangzhou, there is a fence you can climb to get to the beginning (east) part of the station. Then if you can communicate with drivers it will be as easy as anywhere on chinese highways. (was there 01/2014)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 01 Apr 15 23:40:17 +0000">Description written 1.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21931">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>114.05582928657785,22.51542659781261</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22648">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>82.79571318626355,37.19758283272253</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23379">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get droped out here by car from border with Mongolia here. 
+Police remove me from that pocket:)</p>
+
+<p>But no worry - they will not make anything bad to you. </p>
+
+<p>Better look for some toll gates to go to Beijing. </p>
+
+<p>Cheers :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Fri, 31 Jul 15 16:46:51 +0000">Description written 31.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23379">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>113.09135788679103,40.964989325626085</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23380">
+<name>a Hitchhiking spot in é˜¿æ‹‰è¥é•‡, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I walked from City to here and stay after toll gates ~15 minutes to get ride to Huaihua. </p>
+
+<p>Fenghuang have a lot's of visitors so very easy to go anywhere ;)</p>
+
+<p>June 2015. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 31 Jul 15 17:19:10 +0000">Description written 31.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23380">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>109.59880026758557,27.982955493602134</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23404">
+<name>a Hitchhiking spot in é•¿å»¶å ¡, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Roads to chengdu and sichuan. Great spot to hitchhike! Unfortunatly i don't remember the bus who go there. I think it's 315 but i'm not sur, you can take from the west avenue. It's around 30mn to go there by bus. You have to exit 1 or 2 stop after the tv tower on your left. You can not miss it, so ifyou are not sur it's the tv tower you see,  It's not the tv tower. Then keep walking same direction as the bus (or go back on your feet if you past under the highway in the bus)Then you have to walk along the road who go to the toll gate. There is a sign &quot;forbidden to pedestrian&quot; but nobody care and chinese also walk along that road. It's not dangerous and only around 100m walking to the toll gate. I find a 300km drive in 10mn, a lot of place for car to stop, they drive slowly and can see you. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 02 Aug 15 07:34:43 +0000">Description written 2.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23404">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>108.94124025106406,34.19157105529571</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23615">
+<name>a Hitchhiking spot in Hekou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Best place to Kunming direction! 
+Don't try to go more forward by that road because on toll gates they have police station that check documents and will kick you away! ;)</p>
+
+<p>Cheers! //Yriy
+2015 year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 12:59:08 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23615">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.96122589111995,22.530566079411372</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23616">
+<name>a Hitchhiking spot in Kunming, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>That a better place to get out from Kunming by road G5 in direction of Panzhihua, Xi'an and Chengdu.
+I get awesome ride up there!</p>
+
+<p>Cheers! //Yriy
+2015 year </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:01:49 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23616">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.66769840718229,25.112449968876373</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23618">
+<name>a Hitchhiking spot in Xichang, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Workers will not allowed you to stay after gates. I stay before a long but get ride right to Xi'an. That spot better works to Panzhihua and Kunming ways!</p>
+
+<p>Cheers! //Yriy
+2015 year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:03:57 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23618">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.1975178956986,27.898502774276498</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23620">
+<name>a Hitchhiking spot in Dujiangyan, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>10 MInutes waits to get ride to 
+WENCHUAN æ±¶å·åŽ¿</p>
+
+<p>Cheers! //Yriy
+2015 year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:07:52 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23620">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.59625771045245,30.973668868638626</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23622">
+<name>a Hitchhiking spot in Weizhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>5 minutes wait to go to SONGPAN æ¾æ½˜åŽ¿. Just look for place where car can stop.</p>
+
+<p>Cheers! //Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:10:54 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23622">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.60418274316535,31.48266693688427</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23623">
+<name>a Hitchhiking spot in Chuanzhusi, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Split of road to Jiuzhaigou and Huang Long. Lot of local people ask money from tourist but i get ride for free to awesome family home and sleep over their camping cheap place in direction of Jiuzhaigou! </p>
+
+<p>Support them! 
+Will mark it on map! And say hello from Russian guy ;) They knows ;)</p>
+
+<p>Cheers! //Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:17:38 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23623">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.62415983589604,32.77807999204527</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23624">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Awesome spot to Lanzhou direction! Get ride till ZOIGE è‹¥å°”ç›–åŽ¿ after 10 minutes!</p>
+
+<p>Cheers! //Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:20:25 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23624">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.61536219031612,32.78155282605753</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23625">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Stay here very long time and don't find any ride and cars stops very rare. Better go forward by road untill end of small town ;)</p>
+
+<p>Cheers! //Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:23:46 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23625">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.97116944342193,33.57465115590205</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23626">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Best place in Lanzhou direction!
+I get straight ride!</p>
+
+<p>Cheers! //Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:25:30 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23626">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.93838331134839,33.598750069506025</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23627">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Best to CHUANZHUSIZHEN å·ä¸»å¯ºé•‡
+Look for place for car stop.</p>
+
+<p>Cheers! //Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:27:31 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23627">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.59816381366508,32.64848162163094</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23628">
+<name>a Hitchhiking spot in Jiuzhaigou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get ride to CHUANZHUSIZHEN å·ä¸»å¯ºé•‡ but most of drivers ask money.</p>
+
+<p>Cheers!//Yriy 2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 13:29:46 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23628">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.83042622640475,33.3104516455644</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23632">
+<name>a Hitchhiking spot in èƒœæµ¦é•‡, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get fast ride from here to Shanghai, but reccomend to walk through toll gates and stay over there!</p>
+
+<p>June 2015
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 09 Sep 15 13:25:03 +0000">Description written 9.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23632">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.80883765219885,31.33821157463398</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23633">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Stay before toll gates! Good to Huangshan!</p>
+
+<p>Cheers!//Yriy
+2015 Year</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 15 Aug 15 14:29:32 +0000">Description written 15.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23633">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>120.0289592382892,30.24203144663315</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23958">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I find a ride to Nanning after some time waiting, but if you going to Guilin it'll be 2 times easier ;)</p>
+
+<p>June 2015.
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sun, 06 Sep 15 22:53:10 +0000">Description written 6.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23958">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>109.47955504335525,24.302475861614088</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23959">
+<name>a Hitchhiking spot in Zhangjiajie, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I'd tryed that spot to Fenghuang, but without any luck :( Maybe you'll be more lucky! ;)</p>
+
+<p>June 2015
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 07 Sep 15 19:54:43 +0000">Description written 7.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>110.46853834391469,29.107334908143844</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24468">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>103.77561950684134,36.04363855313788</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24808">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good spot to hitch towards Mount Bogda, Mongolian border in Takeshiken or northern Xinjiang. Find your bus on http://map.baidu.com/ there are stop nearby.
+Ask the drivers if they're going to Fuyun as most traffic will be heading off to the industrial districts just north of Urumqi. In Fuyun get off at the toll booths and you'll get a ride to your destination.
+As many drivers in Xinjiang ask you to pay for the ride, use the magical phrase &quot;mien fei&quot; (lit. &quot;avoid fee&quot;) before you hop in the car.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 20 Dec 15 17:13:25 +0000">Description written 20.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24808">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>87.60376596450844,43.90127100540799</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24809">
+<name>a Hitchhiking spot in Kunming, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Another good spot to hitch towards Panjihua/the eastern route to Chengdu. Just stand on the entrance to the ramp and hold the sign that says Panjihua or something like this (must be in Chinese!) and you should easily catch a lift out of town.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 20 Dec 15 17:19:35 +0000">Description written 20.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24809">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.66395115851914,25.067305932820403</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24826">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>106.72579193115286,29.545035485588443</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24913">
+<name>a Hitchhiking spot in Guangzhou City, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Quite hard to find a ride since most of the drivers are heading North or South after some time, almost none of them heading West out of the maze, but we found a lucky ride. </p>
+
+<p>To access, bus number 3 leaves you quite close to the access, and if you follow people walking you will end up at the service station. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sat, 23 Jan 16 09:45:58 +0000">Description written 23.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24913">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>113.58246231079647,22.77161652254165</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24982">
+<name>a Hitchhiking spot in Guangzhou City, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>113.48092460632957,23.09617964647922</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24983">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>113.84965324402104,22.56810367163927</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25114">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good to start from here, than use highway in way down deep to China. Cheers
+2015</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 04 Mar 16 10:36:55 +0000">Description written 4.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25114">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>112.68321170803515,42.74543368787143</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25115">
+<name>a Hitchhiking spot in Tangkou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Super good spot to hitchhike right to Huangshan city. Cheers!
+2015!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 04 Mar 16 10:48:15 +0000">Description written 4.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25115">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>118.17242755891276,30.067280192197913</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25204">
+<name>a Hitchhiking spot in Tunxi District, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>118.26589965820372,29.718568479726493</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25824">
+<name>a Hitchhiking spot in Lanzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I waited here 2 hours and nobody stopped. When I showed to drivers plate with word &quot;hitchhiking&quot; in chinese, everyone reject me. I stopped car only after I walked 4 km further.
+police did not allow to cross toll gate. from the beginning they even did not allow to be here, they said &quot;go stop cars in the city&quot;.
+4 km further there is a small pocket, so car can pull over</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Fri, 20 May 16 17:17:43 +0000">Description written 20.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25824">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.86302733421296,36.074983778945885</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25825">
+<name>a Hitchhiking spot in Lanzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I walked here from toll gate (4 km) 
+and got a lift after 1 hour of waiting.
+There is a small pocket where car can pull over.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 20 May 16 17:22:48 +0000">Description written 20.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25825">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.85580682753991,36.101241183454334</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26060">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>110.0098028183009,27.60463010792327</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26061">
+<name>a Hitchhiking spot in Huaihua, China</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>109.92397212981822,27.546428575358643</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27420">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>get the bus 4 till its last stop, that is where G227 starts towards Xining. Next the road is quite dusty and there is just few trees for shade. G227 offers spectacular views and breathless landscapes, enjoy it!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 07 Sep 16 16:38:28 +0000">Description written 7.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27420">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.46978616715575,38.91663593245316</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27431">
+<name>a Hitchhiking spot in China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>in this cross road you can hitchhike to Lanzhou for both G109 and G6. Be aware that there is no barrier toll on G6 nearby as wrongly shown in most of online maps</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 09 Sep 16 15:42:16 +0000">Description written 9.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27431">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.85064637661232,36.57694280405184</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="27457">
+<name>a Hitchhiking spot in Lanzhou, China</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>by the barrier-toll. That's highway for 4 directions, we were in two, heading to Xi'an, that's quite far away... If you want to go to Xi'an and nobody drives theren, it might be a good idea to get a lift to Tianshui, which is on the way, as many driver heads there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 12 Sep 16 17:46:18 +0000">Description written 12.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27457">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.92124199867757,36.048531104000055</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

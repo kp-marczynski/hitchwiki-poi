@@ -1,0 +1,328 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Malaysia</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4459">
+<name>a Hitchhiking spot in Kampung Baru Subang, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Kuala Lumpur is very easy city to hitchhike in, there is not so many spots where people can pull over but you can use the bus stops in the city. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=4459">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.602935791016,3.18096656023646</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4460">
+<name>a Hitchhiking spot in George Town, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy to hitchhike in and out of Georgetown</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=4460">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.314617156982,5.36343420493376</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4461">
+<name>a Hitchhiking spot in Ipoh, Malaysia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>101.033020019531,4.68729820602766</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6574">
+<name>a Hitchhiking spot in Mersing, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just one road on this island, and everyone will try to be a taxi, offering a ride for an unfairly high price.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=6574">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>104.160432815552,2.82045826067482</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9477">
+<name>a Hitchhiking spot in Kota Kinabalu, Malaysia</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>116.05558776857,5.939743542898</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13707">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>HH from Bon Ton Resort. Very easy and fast. Working even after sunset.
+The whole Langkawi Island is very easy and nice place for HH.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:15:46 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13707">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>99.72443246843434,6.30811686067187</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13708">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going out of Tanah Rata town; on the left hand side, under high rocks. Very good spot for HH to Kuala Lumpur. I was waiting less than 3 min for direct lift.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:18:11 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13708">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.3741304874686,4.471284105584177</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13709">
+<name>a Hitchhiking spot in Seri Kembangan, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a big toll gate south of the city which is an excellent hitchhiking place, but not too easy to reach.</p>
+
+<p>You can easily find a direct lift to Singapore.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 19 Apr 13 18:23:04 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13709">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.7059626579529,3.0402460037188264</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13710">
+<name>a Hitchhiking spot in Jerantut, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You have to walk few minutes away the town. You can easily get a free lift to the junction roads 64 and 98 (going to KL, Melaka, Singapore)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:25:10 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13710">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.36750268938378,3.937111662113305</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13711">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>~200m after the mosque. It's good place for HH, with good visibility. Very easy to catch a direct lift to KL. Or step by step to Melaka and other destinations.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:26:32 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13711">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.38129997254838,3.9293194659030326</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13712">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Traffic is very poor, but it's still possible to HH back from Taman Negara to Jerantut.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:27:37 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13712">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.40167403221352,4.381548366962777</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13713">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very poor traffic. But HH is possible, even to the gates of Taman Negara National Park.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:28:31 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13713">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.43568444251588,3.961301256483237</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13714">
+<name>a Hitchhiking spot in Malacca City, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not the best spot for HH. Mostly local traffic. Most drivers stops b'cos of the shopping mall, those who want to help are offering lift to the bus station. It took me &gt;half an hour to stop a car which took me to the toll gates.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:34:44 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13714">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.24792981149872,2.213500471995943</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13715">
+<name>a Hitchhiking spot in Malacca City, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Mostly local traffic or drivers offering giving a lift to the bus station. Hard but not impossible to HH.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 19 Apr 13 18:35:36 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13715">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.24710369111892,2.2019433715618137</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13716">
+<name>a Hitchhiking spot in Malacca City, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Very good spot. Few meters after the junction. Good visibility. You can easily find a lift to Singapore or to Kuala Lumpur,</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 19 Apr 13 18:37:35 +0000">Description written 19.4.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13716">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>102.30944359304009,2.297586892153686</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13990">
+<name>a Hitchhiking spot in Pekan, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>surprisingly busy, ride back to Kuantan in half an hour</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 12 May 13 18:46:31 +0000">Description written 12.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13990">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.42000150680911,3.3730471210461035</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21949">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>From Border THai-Malay will go Malaysia part was so easy. Just walk bit from out border gate. All car go to next city for sure, Alor Setar. If lucky you can get ride until Kuala Lumpur, Penang. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 17min (3 experiences)<br /><span title="Sat, 04 Apr 15 06:09:49 +0000">Description written 4.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21949">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.42133331298517,6.503943424467435</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23232">
+<name>a Hitchhiking spot in Kota Kinabalu, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Place for heading south, plenty of room for people to stop and an easy walk out of KK.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Jul 15 14:29:38 +0000">Description written 19.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23232">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>116.05850601196856,5.947240061340841</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23233">
+<name>a Hitchhiking spot in Kota Kinabalu, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Was able to stop a car here as I walked out of KK head for Mount Kinabula</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 19 Jul 15 14:34:28 +0000">Description written 19.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23233">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>116.11462855342423,5.993278549556498</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23985">
+<name>a Hitchhiking spot in George Town, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take a bus from Georgetown and come up here! I get fast ride to Ipoh! :) </p>
+
+<p>July 2015
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 09 Sep 15 13:32:38 +0000">Description written 9.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23985">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.31439929606837,5.364247387533066</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23986">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waiting time: 0 minutes. First car stop to Kualal Lumpur! :) Awesome ride!</p>
+
+<p>July 2015
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 09 Sep 15 13:38:45 +0000">Description written 9.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23986">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.07931702732158,4.664048336793176</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24331">
+<name>a Hitchhiking spot in Bayan Lepas, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It is an industrial area near the airport so, this bridge is mainly used by trucks and cars that come from the airport.</p>
+
+<p>The road is relatively new so the traffic flow is not that much. But you can easily stop a car.</p>
+
+<p>If you come from the airport it is about 15 to 20 min walking. If you come from Georgetown you can take a local bus (about 1usd) and get out right before the river and then walk 10 to 15 min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 07 Oct 15 18:27:16 +0000">Description written 7.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24331">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.29318694573779,5.2952195728221625</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24410">
+<name>a Hitchhiking spot in Bandar Baru Salak Tinggi, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the airport of Kuala Lumpur to finde a ride to Tahiland borders</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Sat, 17 Oct 15 00:18:29 +0000">Description written 17.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24410">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.70468898840045,2.7951058214740825</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25812">
+<name>a Hitchhiking spot in Tambun, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Behind the caltex gas station is the art castle! A place for travellers and hitchhikers to stay, create art and meet other travellers and the lovely local people supporting the castle! Drop by if you have a chance, i definitely recommend it! ^^</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,0,0,66.666666666667&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 20 May 16 09:36:38 +0000">Description written 20.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25812">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.13020103584896,4.606369506638468</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25992">
+<name>a Hitchhiking spot in Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It is a good place to reach south toll gates. Cars drives quite slow and they have a lot of space to stop. There was a little renovation there so it can a bit change. From toll gates you can easily have a ride to Melaka or Singapore.</p>
+
+<p>Using bus 400 you can get off on leisure mall or one bus stop earlier (should be even better).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 07 Jun 16 16:54:22 +0000">Description written 7.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25992">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>101.73617506027799,3.098280737916933</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26549">
+<name>a Hitchhiking spot in Johor Bahru, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitch spot on the freeway entrance ramp.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Sat, 23 Jul 16 02:08:32 +0000">Description written 23.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26549">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>103.76847966390416,1.4676043569540864</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26808">
+<name>a Hitchhiking spot in George Town, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you want to go towards Butterworth/ over the bridge you ust wait back here as the cars will be merging into the far right lane. Nevertheless I found a ride within about 15 mins when standing by the bus stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 04 Aug 16 11:53:24 +0000">Description written 4.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26808">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.3141214847724,5.368739456784379</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26809">
+<name>a Hitchhiking spot in Bukit Tengah, Malaysia</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>R&amp;R's are perfect hitchspots. The first person I asked brought me to Ipoh</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 04 Aug 16 11:56:21 +0000">Description written 4.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26809">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>100.42104506493645,5.35260709983073</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>

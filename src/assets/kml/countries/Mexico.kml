@@ -1,0 +1,1275 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Mexico</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="2843">
+<name>a Hitchhiking spot in El Sauzal, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waited ages here - north Mexico is just not good hitching territory :</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=2843">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-116.693000793457,31.9116253518062</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4672">
+<name>a Hitchhiking spot in NealticÃ¡n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Nealtican</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=4672">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.4278869628906,19.046338482456</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7035">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-114.23364257315,28.95057459812</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7205">
+<name>a Hitchhiking spot in San CristÃ³bal de Las Casas, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This was my first hitch spot in Mexico.  I think I walked for maybe five minutes before I was picked up to get back to San CristÃ³bal.  Little buses (colectivos) came by constantly too, but putting my thumb down when they went by saved me 10 pesos in the end.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 16 Jan 11 09:23:15 +0000">Description written 16.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7205">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-92.581180036824,16.675642845085</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8869">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Thatâ€™s a good spot if you want to hitch from Mexico to the south of the republic (directions: Cuernavaca, Tepoztlan, Oaxtepec, Chilpancingo, Acapulco). Thereâ€™s a toll where you can ask for a raid but if itâ€™s not possible, you go walking 200 meters from the toll to a bar next to the road, in your right hand. In that place youâ€™re going to find a  painted white shadow (my own shadow with the thumb up) on the asphalt, this is an art project Iâ€™ve been working in Mexico City, painting different  shadows in all the right places to get out from the city. If you want to know more info about this, you can contact with me: aniol.macau@gmail.com THANKS! and good trip!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 16 Oct 11 03:06:21 +0000">Description written 16.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8869">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.148009092522,19.240889780178</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="8870">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Here is the place where I started a nomadic art project related with hitchhiking in Mexico. I painted in white on the asphalt my own shadow projected on the road with my thumb up.  I did this action in all the right places in Mexico City to get out from the city.
+I painted the first shadow in that place, near the art college of Mexico City, ENAP. It's an abandoned petrol station. I think it's not a really good spot for hitchhiking, but I just wanted to explain the project here.
+If you want to know more info about this, you can contact with me: aniol.macau@gmail.com THANKS! and good trip!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Sun, 16 Oct 11 03:54:16 +0000">Description written 16.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8870">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.120796965878,19.252965963723</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9326">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>We got a ride to Merida in 5 minutes. A good place to hitch, although no shade, very easy to arrive from the center of Campeche and good stream of cars</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 25 Oct 15 02:46:14 +0000">Description written 25.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=9326">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-90.418716430657,19.91310379128</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11501">
+<name>a Hitchhiking spot in Salamanca, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars coming from Morelia, going to Irapuato, and LeÃ³n, incorporate in a roundabout. It's a great place for stoping, and locals know stundents usually ask for rides there. It's therfore also quite safe. On normal school days you can find students from the nearby University (FIMEE) that go everyday to Irapuato.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:08:45 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11501">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.20608901975883,20.540729087506385</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11502">
+<name>a Hitchhiking spot in LeÃ³n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>People going from LeÃ³n to Guadalajara Slow down to take this curve, that's a great moment to ask for a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:15:33 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11502">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.57822942733308,21.055482042488585</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11503">
+<name>a Hitchhiking spot in LeÃ³n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>People going in the industrial corridor from Irapuato to Guadalajara slow down to take this exit, there is also good place to stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:16:30 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11503">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.57438850402296,21.053359376612725</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11504">
+<name>a Hitchhiking spot in Salamanca, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars from coming from the south slow down to exit right towards Celaya and Queretaro. Students usually ask for ride there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Sat, 08 Sep 12 08:19:53 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11504">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.20475864411694,20.540698947317544</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11505">
+<name>a Hitchhiking spot in Guadalajara, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Militar check point makes people feel safe about stoping, there is usually people asking ride to Puerto Vallarta, and Tepic. There is a Guadalajara Bus Route that can take you here, is signs &quot;Bosque&quot; It also leaves you in the entrance to the Bosque Primavera, great place for camping.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:24:31 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11505">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-103.57291316988866,20.73046396715001</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11506">
+<name>a Hitchhiking spot in San Francisco (San Pancho), Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars pass by fast, but they have a lot of space to stop, once they see you.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:26:42 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11506">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-105.40747976305322,20.89450433949497</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11507">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Bump where local pickups stop enough to see you.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:28:06 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11507">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-104.046033382441,20.53697156473265</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11508">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Only exit from the town, in front of a gas station, and next to a Tourist information site you will find a bump where cars do a full stop and can see you.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:30:59 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11508">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-104.79806041720454,20.53260106783545</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11509">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars go by really fast, but it's the most important route in between Mexico city and Guadalajara, the two biggest cities in MÃ©xico, so, although you might have to wait a little bit, the next ride might take you all the way.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:36:24 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11509">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.14568567276164,19.89805273170928</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11510">
+<name>a Hitchhiking spot in Cortazar, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Under the brige, cars that travel from Celaya to Salamanca or Irapuato stop inmediatelly once they see you're asking for a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 08 Sep 12 08:37:37 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11510">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.84956979751206,20.51866487967604</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11511">
+<name>a Hitchhiking spot in Celaya, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In the way to San Miguel de Ayende, from Celaya this is the best place to ask for a ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:39:07 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11511">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.82304811476476,20.55286505432428</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11512">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>When going to Guanajuato or Dolores Hidalgo, this is the place.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:40:27 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11512">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.75103616714452,20.934652280107105</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11513">
+<name>a Hitchhiking spot in Guanajuato, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A bump where cars stop, here they might take you either to LeÃ³n, or Guanajuato. It is also very common to find students hitchhiking here, therfore it's very safe.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:42:38 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11513">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.29018163680723,20.99582561692257</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11514">
+<name>a Hitchhiking spot in Guanajuato, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This whole area has several bumps where cars slow down. It's also common to find students hitchhiking</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:44:00 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11514">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.28101921081272,20.976442409468945</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11515">
+<name>a Hitchhiking spot in Guanajuato, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars that go under the bridge slow down and you can easily take a ride to either Guanajuato or Leon.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:45:53 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11515">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.41339159011524,20.945494187656813</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11516">
+<name>a Hitchhiking spot in Guanajuato, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars coming from Guanajuato slow down to take the exit towards Irapuato.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 08:46:40 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11516">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.41412115096244,20.945534267188723</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11517">
+<name>a Hitchhiking spot in MoroleÃ³n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Militar check point right before entering Michoacan from Guanajuato, where people feel safe to stop, and usually have to slow down.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 08 Sep 12 08:48:16 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11517">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.15594244003591,20.08564445819412</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11518">
+<name>a Hitchhiking spot in Puerto Vallarta, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A bump in the town of La Vigencia helps slow down trafic.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:11:31 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11518">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-104.87947082519942,20.683968348596657</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11519">
+<name>a Hitchhiking spot in Puerto Vallarta, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In the town La Estancia de Landeros cars slow down due to bumps.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:12:47 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11519">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-104.94126892090516,20.806453990725327</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11520">
+<name>a Hitchhiking spot in Irapuato, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cars go by fast, but the trafic is much, so eventually you get a lift.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:14:19 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11520">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.33826828005004,20.75052101941149</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11521">
+<name>a Hitchhiking spot in Irapuato, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Exit from the University's Agronomy Faculty, It takes a while, but you find ride there.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:15:45 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11521">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.34118652345674,20.737618188264506</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11522">
+<name>a Hitchhiking spot in LeÃ³n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>When going from LeÃ³n south, there is not much option, but under the &quot;Milenium&quot; Bridge, a tall metal structure made for pedestrians to cross the highway. Here, many buslines going to Guanajuato and Silao stop, and you might get a ride even though the trafic is so fast. There is also a place where small trucks stop to eat, so you can also ask for a ride in person.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:33:32 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11522">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.58246731757768,21.059351824774</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11523">
+<name>a Hitchhiking spot in LeÃ³n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>When Going to Jalisco from LeÃ³n, and if you cannot take the other entrance to the Highway, this is an option.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:35:02 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11523">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.68336129188108,21.07118582546412</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11524">
+<name>a Hitchhiking spot in LeÃ³n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A reasonable option when going from LeÃ³n to Guadalajara, or Aguascalientes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:35:55 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11524">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.7470691204154,21.08376968133345</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11525">
+<name>a Hitchhiking spot in El Pueblito, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can ask for a ride in the direcction of Celaya under the bridge, or just take the bus that comes every half hour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:38:58 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11525">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.48158144952566,20.571192756559</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11526">
+<name>a Hitchhiking spot in El Pueblito, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can ask for a ride towards San Luis PotosÃ­.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sat, 08 Sep 12 09:40:05 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11526">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.47971463204792,20.5717251261061</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11611">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There was and still might be a military checkpoint here. They will stop cars for you and ask drivers to take you with them. When coming from San Ignacio, it's quite a bit to walk, but if you didn't get a lift before, here you will.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Sep 12 19:52:05 +0000">Description written 18.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11611">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-112.90820217132249,27.299872444146303</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11612">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Wait here to get to San Francisco and the prehistoric cave paintings nearby. Very few cars pass by, but they will most likely pick you up.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 18 Sep 12 19:59:07 +0000">Description written 18.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11612">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-113.27053642272968,27.440512143555598</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12596">
+<name>a Hitchhiking spot in Cuernavaca, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Mexico city.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Mon, 03 Dec 12 02:38:49 +0000">Description written 3.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12596">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.1121408164085,18.98639923837501</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12610">
+<name>a Hitchhiking spot in Puebla, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Freight train towards Orizaba / Vera Cruz. If you have the time it's definitely worth the wait! Stand just to the east of this point next to the tracks and look for the &quot;Ferrosur&quot; locomotive heading away (east) from the yard - there are normally 2 a day, early and late. Chances are there will be other people there waiting for the train, feel free to talk to them. The ride takes about 8 hours and get's a bit cold at night (December).. no problems with police or rail employees - quite the opposite! Also, if you have to wait over night you can camp right next to the tracks and not have to worry about banditos or policia!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 06 Dec 12 19:04:28 +0000">Description written 6.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12610">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.18175888061836,19.07583274522277</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12611">
+<name>a Hitchhiking spot in Orizaba, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Freight train from Orizaba to Vera Cruz / Cordoba. More info soon!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 06 Dec 12 19:37:51 +0000">Description written 6.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12611">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-97.10530257226884,18.83959815923223</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12612">
+<name>a Hitchhiking spot in Orizaba, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Freight train towards Puebla. There's a little hut here next to the tracks where people wait for the trains heading towards Puebla. They or the rail employees will be able to tell you which train is heading that way and when.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 06 Dec 12 20:03:16 +0000">Description written 6.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12612">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-97.1145401000981,18.837024087139277</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12786">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-101.2902728319154,20.982523097233678</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12787">
+<name>a Hitchhiking spot in LeÃ³n, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-101.6229740381393,21.09178294993876</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12788">
+<name>a Hitchhiking spot in San Luis PotosÃ­, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-101.035935044308,22.131180291050327</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12789">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-100.59184706211732,25.702615526076936</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12790">
+<name>a Hitchhiking spot in Ramos Arizpe, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-100.88200843334096,25.593939450314576</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12791">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-101.10426700116348,19.73507803277837</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12792">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>this rating is for the Central de Abastos near Iztapalapa, SE of downtown.  It can be a good place to catch long rides with truckers if you speak good Spanish or maybe are a good looking gringa!  Check out the Pension (tractor trailer parking lot) to chat up drivers.  However, many of them stay here for days or weeks at a time.  So, while you might get lucky, it is much easier to catch rides out on the freeway.  take a bus to the Cuota if you're headed on 57 towards Queretaro.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 09 Oct 13 20:19:33 +0000">Description written 9.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12792">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.98974215985878,19.35372475327024</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12857">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Took a half dozen hitches to make it from Oaxaca to Puerto Escondido, but no troubles otherwise.  Extremely curvy roads in the mountains, drivers may dump you out before checkpoints.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 14 Jan 13 06:55:29 +0000">Description written 14.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12857">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.92030525206808,16.55042460003268</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13144">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Direction Coba, we got a lift very fast and the next time we've seen some people to Valladolid, 2 cars stopped to Coba within 15 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 27 Feb 13 22:16:57 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13144">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-87.45367920399269,20.214613377770977</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13146">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a bus stop next to the gas station. ery good, the cars stopped to Valladolid without us doing anything, we just sat around.</p>
+
+<p>On the other side of the roundabout we got lift to tulum in less than 1/2 hour</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Wed, 27 Feb 13 22:19:53 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13146">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-87.71892285346952,20.50894798340417</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13147">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's agas station right after the toll stop direction Villahermosa.</p>
+
+<p>High frequency of cars, many opportunities (but not for two people) In the evening we didn't get a lift but next morning very fast to Villahermosa</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 27 Feb 13 22:23:41 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13147">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-94.34473013875436,18.03664221070189</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13148">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gas station. We got many opportunities to Oaxaca City but we had to wait a long time to Tuxtepec. Most people just go around next corner.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Wed, 27 Feb 13 22:26:48 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13148">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.48950493333744,17.328773667324555</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13381">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easypeasy.  Hop in the pickup trucks and knock on the window when you want out!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 27 Mar 13 09:16:57 +0000">Description written 27.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13381">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-111.0527153015134,27.95185581349749</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13382">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good for any direction.  Gringos are too scared to pick you up, but the locals will!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 27 Mar 13 09:19:20 +0000">Description written 27.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13382">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-110.94053995609316,27.985617898979186</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13383">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This spot is mas o menos.  There are a lot of guys across the street waiting for jobs (for semi trucks), and something there re other local hitchhikers waiting here at the same time.  It's slightly sketchy.  A sign that says &quot;Guaymas&quot; or something funny in Spanish should do you well.  Around the corner is a little place that sells rotisserie chicken for 40 pesos (make sure you get all the fixins too! tortillas, beans, salsita, etc.)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Wed, 27 Mar 13 09:22:28 +0000">Description written 27.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13383">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-110.96071016788008,29.025355357388044</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13384">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Great place for north or south!  There is a bus line that takes you here (I forgot the number, just ask Hermosillo locals for the bus that goes to Durango University).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 27 Mar 13 09:25:45 +0000">Description written 27.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13384">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-110.9209920168078,29.18482738216962</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13444">
+<name>a Hitchhiking spot in Cuautitlan, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-99.18969130702506,19.611371366336304</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13445">
+<name>a Hitchhiking spot in TepotzotlÃ¡n, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-99.20747323660602,19.715258206029198</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14111">
+<name>a Hitchhiking spot in Guadalajara, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take a bus to the new bus station.
+There is a Soriana market out there.
+On that big road (the hwy to the East), go left, crossing Av.Patria, still walking and you will see a Pemex gas station, where there are many cars, pick ups and trucks going East (Mexico DF, Morelia, Guanajuato, etc)</p>
+
+<p>Tomas un bus hacia la nueva central camionera, a fuera hay un soriana, pues en esa carretera principal vas hacia la izquierda (como volviendo a Gdl), cruzarÃ¡s Av.Patria, y en seguida llegarÃ¡s a una gasolinera Pemex</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Mon, 05 Aug 13 23:42:57 +0000">Description written 5.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14111">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-103.25362300872584,20.61720572811117</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15520">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Small town with really nice people, where you can find a place to sleep and eat. Ask in the church.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:36:33 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15520">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.24905014038488,16.36464153839971</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15521">
+<name>a Hitchhiking spot in Santiago Pinotepa Nacional, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Right outside of the Coke and Corona distributors. There you can find some trees and shade until you get a ride. Usually people going to Huatulco and Puerto Escondido. You're also just 2 blocks away from the bus station</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:38:35 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15521">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.0512104034428,16.350630643226165</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15522">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Small bump makes all cars slow down, so they can see you easily. Don't forget to stop by the beach! just a block away.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:40:06 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15522">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-97.05879306792393,15.860849623598154</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15523">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Always go through the beach road! A small junction where cars slow down.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:41:50 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15523">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.58299064635399,15.715910030692378</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15524">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>All along this road you'll easily get a ride, but this place in particular is great to sleep near to the beach. Cheap and confortable, you can find many familiar hostels.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:43:53 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15524">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.51417589186241,15.662932090303793</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15525">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>National Turtle Center. From here up to Puerto Angel, you'll find lot's of rides, and many places to sleep close to the beach.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:45:10 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15525">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.55578231809235,15.668004272416239</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15526">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>You can get a safe ride right after the military zone, where a bump slows down all cars.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 10 Aug 13 09:46:26 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15526">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.4733204841326,15.729810714748917</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15527">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Way too fast. Cars don't see you. If you're not a girl, you won't get ride.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:48:01 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15527">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.15600442882909,15.782316979366025</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15528">
+<name>a Hitchhiking spot in San Pedro Tapanatepec, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Friendly people and bumps all along town. Good place to get a ride to San Cristobal. It gets cold.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:50:08 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15528">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-94.19380760186873,16.37043193422126</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15529">
+<name>a Hitchhiking spot in Tuxtla GutiÃ©rrez, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>New highway to Villahermosa. It's the fastest way, but it might be hard to get a ride if you're not on the toll stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:52:08 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15529">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-93.1784305572087,16.789710017007707</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15530">
+<name>a Hitchhiking spot in Progreso, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Better get a ride inside town; Roads are really spacey, and cars don't slow down.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sat, 10 Aug 13 09:53:47 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15530">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-89.66256952282431,21.27700830585074</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15590">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Police checkpoint. Take colectivo going to Mazatan to get here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 12 Aug 13 18:26:57 +0000">Description written 12.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15590">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-92.3382554054313,14.91404288990283</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15592">
+<name>a Hitchhiking spot in San CristÃ³bal de Las Casas, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a traffic light which can be used quite effectively too. Straight non-stop rides to Tuxtla, if going further probably good place to shop around for better ride (highway in Tuxtla can be trickier)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 12 Aug 13 18:32:17 +0000">Description written 12.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15592">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-92.65171980857576,16.722055147646614</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="15593">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>high speed, high temperature. dirrection Arriaga is somewhat better and with a shade.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Mon, 12 Aug 13 18:34:39 +0000">Description written 12.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15593">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-93.85739421844104,16.563876039571007</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16664">
+<name>a Hitchhiking spot in Aguascalientes, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-102.2907915073317,21.844866377342452</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16667">
+<name>a Hitchhiking spot in Guadalajara, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take a bus to the new bus station.
+There is a Soriana market out there.
+On that big road (the hwy to the East), go left, crossing Av.Patria, still walking and you will see a Pemex gas station, where there are many cars, pick ups and trucks going East (Mexico DF, Morelia, Guanajuato, etc)</p>
+
+<p>Tomas un bus hacia la nueva central camionera, a fuera hay un soriana, pues en esa carretera principal vas hacia la izquierda (como volviendo a Gdl), cruzarÃ¡s Av.Patria, y en seguida llegarÃ¡s a una gasolinera Pemex</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 11min (5 experiences)<br /><span title="Sun, 03 Nov 13 05:10:39 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16667">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-103.29111301898227,20.62783306598742</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17617">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Place where cars and trucks stops to eat.
+Donde paran autos y camions para comer.</p>
+
+<p>To Oaxaca or Tehuacan, forget about!
+To Veracruz you may have a chance.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Tue, 25 Feb 14 17:49:38 +0000">Description written 25.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17617">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-97.82375907897936,18.98043148653468</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18851">
+<name>a Hitchhiking spot in CancÃºn, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>In the side right, after roundabout you need to walk 100 mts. You will see a gas station PEMEX. Is the only route to Tulum/Chetumal. 
+I wait like 15 min.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 11 Jun 14 21:02:49 +0000">Description written 11.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=18851">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-86.8334383862357,21.125202776293673</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19101">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After the police filter you can get car to Bacalar, Chetumal and, even, Palenque.
+I wait 2 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Mon, 30 Jun 14 01:32:15 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19101">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-87.47357583045967,20.207772026439173</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19102">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After Pemex you can see two &quot;topes&quot;. Between both you can take cars to Chetumal or in direction to Tabasco or Chiapas.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 30 Jun 14 01:36:26 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19102">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-88.3979187011714,18.683290318437926</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19103">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Point ro go in direction to Escarcega or Palenque. 
+Sometimes the cars go very fast, but ypu can get pick up that stop in little towns.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 30 Jun 14 01:39:08 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19103">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-88.46747374534563,18.52672116013811</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20128">
+<name>a Hitchhiking spot in Tuxtla Gutierrez, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After the roundabout you will see &quot;Central de Abastos&quot;. There is a good place for go to San Cristobal de Las Casas. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 10 Sep 14 22:06:19 +0000">Description written 10.9.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20128">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-93.07305971047695,16.74300186647982</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20570">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a bump (tope) right here, and cars have space to stop right after. Perfect if you are heading towards San Miguel de Allende.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 16 Oct 14 00:31:37 +0000">Description written 16.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20570">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.26908874510792,20.956405444059023</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20710">
+<name>a Hitchhiking spot in Guadalupe, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a gas station with a Subway and an Oxxo, many cars stop here before heading to Aguascalientes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 26 Oct 14 00:52:17 +0000">Description written 26.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20710">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-102.46402359008975,22.751038411704286</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20845">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you're heading north, the cars and trucks turn here to continue their road, so they slow down a little.</p>
+
+<p>Both cars and trucks can easily stop on the side of the road.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 14 Nov 14 20:16:18 +0000">Description written 14.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20845">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.16121339798678,20.1019584772046</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20846">
+<name>a Hitchhiking spot in Morelia, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is a Pemex gas station, it's a relatively small one, so not many cars stop here.
+There are two or three bigger ones up north on this same road, so from here your best bet is to ask for rides to further gasolineras, or to MoroleÃ³n.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 14 Nov 14 20:21:01 +0000">Description written 14.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20846">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-101.17681312560741,19.740002379793978</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20847">
+<name>a Hitchhiking spot in Uruapan, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a big gas station here (be careful, there's a smaller one 400m west of this one on the same road, be sure to go to this bigger one).</p>
+
+<p>From here ask for a ride to the tollbooth (&quot;la caseta&quot;), and from there it's very easy to catch a ride to Patzcuaro or Morelia.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Fri, 14 Nov 14 20:48:24 +0000">Description written 14.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20847">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-102.00110960006018,19.41964601062976</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21476">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Get a Colectivo from Valladolid to Popola for 15$. From thee you can walk for about 20min through the town and along the highway to the big gas station. you can find rides to Cncun and Merida easily. Was waiting ten minutes till i had a ride to Merida</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 05 Feb 15 13:52:09 +0000">Description written 5.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21476">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-88.23037719727132,20.744059708098607</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21477">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pemex gas station right infront of the driveway to campeche. i needed 30min to find a ride. unfortunately there is not so much traffic going in direction Campeche in general </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 05 Feb 15 13:54:56 +0000">Description written 5.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21477">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-89.66806268692368,20.895125782418535</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21478">
+<name>a Hitchhiking spot in Villahermosa, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good gasstation about 10min walking from the Busterminal. Lot of traffic coming by, but most of the traffic is staying in town. found some people that were going to Chiapas. I got a short ride to a gas station right on the exit of the city were there was more far distance traffic</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 05 Feb 15 13:58:43 +0000">Description written 5.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21478">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-92.91613197326808,17.99896364487097</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21479">
+<name>a Hitchhiking spot in Villahermosa, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Big Pemex-gas station right on the exit of teh city. Found a ride to Puebla after 30min early in the morning at about 6. ou can get a far distance hitch quite easily</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Thu, 05 Feb 15 15:30:02 +0000">Description written 5.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21479">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-92.98108434676963,17.98950447844846</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21800">
+<name>a Hitchhiking spot in ComitÃ¡n de Dominguez, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Got my ride within 3 minutes!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 19 Mar 15 02:43:35 +0000">Description written 19.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21800">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-92.1525526046768,16.26324137756166</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21801">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-93.22964191437687,16.78226377853515</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21825">
+<name>a Hitchhiking spot in Playa del Carmen, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-87.09215497970263,20.619866754109342</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21941">
+<name>a Hitchhiking spot in Banderilla, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Buses from Xalapa center to Banderilla stop about a 5-minute walk away. There's a traffic light right before the division between the free (libre) and paid (cuota) highways towards Puebla and Mexico City. If you're going long distance, the paid one would be better, but those going there would be in the inner, further lanes, so it can be hard to get a ride from here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 03 Apr 15 16:14:18 +0000">Description written 3.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21941">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.9441339969668,19.594078975399935</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21942">
+<name>a Hitchhiking spot in Banderilla, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Buses from Xalapa center to Banderilla can let you off right here. It's the road to Puebla and Mexico City, but the free one, so you're not likely to get a long distance ride. The spot is a good one, cars have tons of room to stop and can see you long before they get to you. Try to get one at least to Las Vigas, where you can easily get on the paid (cuota) road and hitch from a tollbooth (caseta). 
+If you get stuck, an intercity bus from TRV company going further towards Las Vigas, Perote, and Teziutlan stops here.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Fri, 03 Apr 15 16:17:54 +0000">Description written 3.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21942">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.95331788063226,19.59073586791205</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21943">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Tollbooth (caseta) on the paid road towards Puebla/Mexico City. You can easily walk here from the small town of Las Vigas. Cars are coming out slow out of the tollbooth, and can stop with no problem. There's no restrooms or gas station here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 03 Apr 15 16:20:14 +0000">Description written 3.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21943">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-97.1259019374831,19.63073236254539</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21944">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>&quot;Cantona&quot; tollbooth (caseta) on the Mexico City/Puebla to Xalapa highway. There's an archaeological site called Cantona 4km away. There's a gas station and restrooms, so you can talk to stopped drivers. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Fri, 03 Apr 15 16:23:00 +0000">Description written 3.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21944">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-97.49595558645491,19.507861249505087</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22894">
+<name>a Hitchhiking spot in Nuevo Laredo, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hopped out one truck and into another to cross the border. First truck I thumbed about 20 seconds after hopping out. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 24 Jun 15 09:50:01 +0000">Description written 24.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22894">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.5865497589038,27.499388334214256</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24613">
+<name>a Hitchhiking spot in Guanajuato, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-101.25759145616007,21.031283609945188</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24614">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-100.90163549779962,21.166157813722666</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24767">
+<name>a Hitchhiking spot in Puerto Vallarta, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-105.23342290460353,20.602477821815818</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24768">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-105.30707318684715,20.014049992927998</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24812">
+<name>a Hitchhiking spot in Arriaga, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-93.88043975830182,16.244780456539544</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24863">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-92.00152015685899,15.672487522018681</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24864">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-91.1053190231316,16.80029448281941</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24865">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-92.01244211197668,17.711248839302623</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24866">
+<name>a Hitchhiking spot in Chetumal, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-88.38828420640048,18.69336201436273</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24941">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station Pemex. Direction QuÃ©retaro, Guadalajara, LeÃ³n.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 25 Jan 16 18:37:02 +0000">Description written 25.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24941">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.49401092527954,19.552172668647188</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24942">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station Pemex. Direction Puebla, Veracruz.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 25 Jan 16 18:45:09 +0000">Description written 25.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24942">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-98.49503016470659,19.551940134323036</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24943">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station Pemex. Direction QuerÃ©taro, Morelia, Guadalajara.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Mon, 25 Jan 16 18:56:48 +0000">Description written 25.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24943">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.30235362051008,20.094360225410615</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24944">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station Pemex. Direction Pachuca, Puebla, Veracruz.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Mon, 25 Jan 16 18:58:15 +0000">Description written 25.1.2016</span><br /><a href="https://hitchwiki.org/maps/?place=24944">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.30192446706475,20.09339295031297</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25045">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Petrol station Pemex. You can easily get a ride to Guadalajara or Colima.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 18 Feb 16 00:37:48 +0000">Description written 18.2.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25045">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-103.42114305495231,19.53041409316238</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25082">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toll gates. Direction Chilpancingo/Ciudad de MÃ©xico.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 24 Feb 16 22:27:46 +0000">Description written 24.2.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25082">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.80112648008809,16.928596250406493</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25749">
+<name>a Hitchhiking spot in TepotzotlÃ¡n, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>This is good sport if you go to north. On this spot you can find Cafeteria so if it be rain you will have shelter. I wait here 1 and half hour before got a ride. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 16 May 16 16:04:17 +0000">Description written 16.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25749">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-99.20622324944719,19.729806441591766</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25750">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot to going Leon or Guanajato. It is close for city and there enough place to stop a truck. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 16 May 16 16:22:31 +0000">Description written 16.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25750">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.43652570248662,20.576400858120948</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25868">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place to go North. Gaz Station and a lot of place to stop for car. I was picked up from here in 10 minutes.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 25 May 16 07:28:45 +0000">Description written 25.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25868">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-100.9144623890567,22.21318245340146</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25958">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Good place to hitch west from Hualtulco (La Crucecita). There is a tope (speedbump) here so traffic is going slow, and also a big parking place. Opposite is the entrance to &quot;Universidad del Mar&quot;</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 02 Jun 16 13:07:34 +0000">Description written 2.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25958">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.16049981116964,15.781522000535501</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25959">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy to hitch a ride from here to the beaches at Zipolite and Mazunte.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 02 Jun 16 13:16:26 +0000">Description written 2.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25959">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-96.4743933677684,15.729986274527004</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26288">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-99.16490650174322,19.273423027089848</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26526">
+<name>a Hitchhiking spot in Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-97.80298805237977,22.112703639476397</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26753">
+<name>a Hitchhiking spot in Tulum, Mexico</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-87.4441788196547,20.184693462989554</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26754">
+<name>a Hitchhiking spot in Tulum, Mexico</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Entrance of Sian Ka'an reserve</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Tue, 02 Aug 16 16:41:08 +0000">Description written 2.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26754">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-87.46580815315035,20.127667114728148</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

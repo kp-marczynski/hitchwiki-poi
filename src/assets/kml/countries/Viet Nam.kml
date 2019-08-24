@@ -1,0 +1,154 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Viet Nam</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4474">
+<name>a Hitchhiking spot in h. Báº¿n Cáº§u, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>after the border</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=4474">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.176681518555,11.079363066087</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4475">
+<name>a Hitchhiking spot in Ho Chi Minh City, Viet Nam</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>106.614074707031,10.8467938441379</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12449">
+<name>a Hitchhiking spot in HÃ  Giang, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There's a sign gate to give good definition to the end of town here. Wait just before it if heading toward Cao Bang. If going to ha Giang, there's another gate.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 12 Nov 12 04:32:42 +0000">Description written 12.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12449">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>105.46013259886882,22.7963852869729</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13651">
+<name>a Hitchhiking spot in Hanoi, Viet Nam</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>105.80580775633804,21.03431397150113</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17597">
+<name>a Hitchhiking spot in Van Dien, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It's quite easy, someone will pull over and invite you, but make sure you don't have money, maybe they will give you a free lift. I had a long lift even I didn't thumb up with 15mins</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 24 Feb 14 09:40:24 +0000">Description written 24.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17597">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>105.84954643249421,20.958599622669098</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17598">
+<name>a Hitchhiking spot in Hue, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Pass the station and stand next to the rail way, sometime it's quite hard because there are many buses, but it was possible to hitch there after 20mins standing.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Mon, 24 Feb 14 09:52:27 +0000">Description written 24.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17598">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>107.60637187955277,16.449776466363662</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21469">
+<name>a Hitchhiking spot in CÃ¡t BÃ , Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>you can hitch the whole island, but depending on what side you are on it might take a while. 99 percent of the time it would be motorbikes and mopeds giving you a lift a couple ks. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Mon, 02 Feb 15 21:39:38 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21469">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>107.05067802234238,20.724058992803997</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="23984">
+<name>a Hitchhiking spot in Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>That spot is perfect to go to Lao Cai but most people going not so far so you can be ready move &quot;step by step&quot; by that way. Even you not lucky at all you can always hike a bus and pay 10$ right to Chinese border ! </p>
+
+<p>August 2015
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 09 Sep 15 13:29:00 +0000">Description written 9.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23984">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>105.77383055690845,21.22401808494174</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24031">
+<name>a Hitchhiking spot in Ninh BÃ¬nh, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hitchhiked to Vinh, but it was hard over Vietnam because many Bikes, Buses, Taxi going in first line and people on cars have a small chances to stop. I'm pretty lucky!</p>
+
+<p>July 2015
+Cheers! //Yriy</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 13 Sep 15 14:04:39 +0000">Description written 13.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24031">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>105.96776747704851,20.22648812180268</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26627">
+<name>a Hitchhiking spot in Äá»“ng Há»›i, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Just follow the small dirty road from the NH1 till the last house to catch a ride to Phong Nha.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 27 Jul 16 18:46:43 +0000">Description written 27.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26627">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.43911743163771,17.700067473740113</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26630">
+<name>a Hitchhiking spot in Äiá»‡n BÃ n, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take a mototaxi from Hoi An to this spot. Even if a lot of people stopping busses here, it's a good spot to catch a ride to the south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 27 Jul 16 18:51:34 +0000">Description written 27.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26630">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>108.25666809081113,15.89640016492235</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26632">
+<name>a Hitchhiking spot in Ãáº¡i LÃ£nh, Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Walk some 1,5 km along NH1 south of town. After the beach resort there is a seafood restaurant an plenty enough of space on both sides for cars and trucks to break.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 27 Jul 16 18:56:59 +0000">Description written 27.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26632">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>109.35740375516669,12.828942660534397</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26634">
+<name>a Hitchhiking spot in Viet Nam</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To go back to the NH1. Not so many cars and no shadow at all. So be prepared to wait some while.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Wed, 27 Jul 16 18:59:38 +0000">Description written 27.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26634">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>106.31908321379643,17.611368686216593</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark></Document>
+</kml>

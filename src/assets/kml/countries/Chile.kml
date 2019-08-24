@@ -1,0 +1,983 @@
+<kml xmlns="https://earth.google.com/kml/2.2">
+  <Document>
+    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
+    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
+    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
+    <name>Chile</name><visibility>1</visibility>
+  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="1415">
+<name>a Hitchhiking spot in Iquique, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Panamericana road across Atacama desert is the best hitch hiking place for me. Not too many cars, but truck drivers pick you easily and drive veeery long distances :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=1415">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.0801026821136,-19.9615102964554</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="3209">
+<name>a Hitchhiking spot in Puerto Varas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The micros to Puerto Montt can take you here for 300 CLP. Just tell the driver to drop you at the entrance to Ruta 5.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=3209">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.991361618042,-41.3356726425492</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="4680">
+<name>a Hitchhiking spot in Santiago, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you are traveling South outside of Santiago on Rout 5 (Pan American Highway) this is a perfect place as this is the entrance of the city. And it is very easy to get there - you just have to take mentro to Vespucio Norte, cross the big road and take the bus 305 (or better ask also at the bus driver if he is going there), take off before the huge intersection (aprox 7 minutes of the ride) and walk some 5 minutes to the spot. There is also a troll station, so the cars go slowly. It is really easy!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=4680">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.7010555267334,-33.3638862410433</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5174">
+<name>a Hitchhiking spot in Calama, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A Petrolstation where you can hitch hike out of Calama in the direction on the A 24 to A 5</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5174">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.9159274101257,-22.4332343028519</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5384">
+<name>a Hitchhiking spot in Antofagasta, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>didn't even have to put my thumb up..someone stopped for me because it was obvious i was a traveler</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5384">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.371208190918,-23.6273827570824</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5385">
+<name>a Hitchhiking spot in Antofagasta, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>not exactly that spot but around here is great cuz everyone is driving to the mines so lots of people pass</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5385">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.4204213619232,-23.6973693883059</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5386">
+<name>a Hitchhiking spot in Antofagasta, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>going towards antofagasta ..lots of people who work in the mines. lots of hitchhikers around here too..i was in a queue of like 4..</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,40,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5386">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.3168344497681,-23.7754581477586</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5387">
+<name>a Hitchhiking spot in Antofagasta, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>should be a gas station here altho it doesn't show on the map. lotsa people passing</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5387">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-69.6336221694946,-23.181177814663</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5388">
+<name>a Hitchhiking spot in CopiapÃ³, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>took no more than 5 min to get a lift :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5388">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.8081293106079,-27.0639793305432</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5389">
+<name>a Hitchhiking spot in CopiapÃ³, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>hitched a bus going to caldera here..driver didn`t want any money..was great :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5389">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.352668762207,-27.351633529429</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5390">
+<name>a Hitchhiking spot in ChillÃ¡n, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>to get into chillan i hitched at the toll place at night and didn`t take more than 5 min</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5390">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.1022844314575,-36.5830552040411</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5391">
+<name>a Hitchhiking spot in ChillÃ¡n, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>used this to get out from chillan. this place was really bad..no one can stop here and also lots of construction around. but there is a gas station not too far south from here..if u can get a lift to there or walk there it's the best. or try another exit from chillan..this one isn`t the best</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><a href="https://hitchwiki.org/maps/?place=5391">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.1598714590073,-36.6256369436871</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5392">
+<name>a Hitchhiking spot in ChillÃ¡n, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-72.1439552307129,-36.6147009168525</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5393">
+<name>a Hitchhiking spot in Osorno, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>close to the university..but get past it and then all traffic will go east :)</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5393">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.0873203277588,-40.5864838910941</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="5578">
+<name>a Hitchhiking spot in Penco, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>walk a bit up the ramp since the cars are fast at the beginning.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=5578">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.000529,-36.755498</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6071">
+<name>a Hitchhiking spot in Punta Arenas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Border station Dorotea between Argentina and Chile - straightforward treatment and a good occasion to hitch a ride into Argentina, at least to Rio Turbio where you can hitch on.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6071">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.333078,-51.604656</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6072">
+<name>a Hitchhiking spot in Punta Arenas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good spot to get to the coast. If you're looking for adventure, go south. If you're looking to get to the coast within reasonable time, go north. Got a ride north after waiting around half an hour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6072">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.235619,-51.544369</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="6070">
+<name>a Hitchhiking spot in Punta Arenas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>not a whole lot of traffic, but I got a lift to the Argentine border from there after about half an hour</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,75,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6070">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.505944,-51.720308</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7018">
+<name>a Hitchhiking spot in Arica, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>tentei a noite inteira e eu tive que dormir num posto de gasolina. mas na manha seguinte, rapidamente peguei carona em um caminhÃ£o. estava acompanhado de um amigo.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 05 Dec 10 18:13:51 +0000">Description written 5.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7018">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.243526455593,-18.52654746766</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7662">
+<name>a Hitchhiking spot in Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going to Calama, Spot at the crossroad a bit outside of town. Short wait regarding the few amont of car passing by. We had a ride for Calama and were heading to antofogasta</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 40min (2 experiences)<br /><span title="Sun, 24 Apr 11 13:51:21 +0000">Description written 24.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7662">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.21272945097,-22.904299628125</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7663">
+<name>a Hitchhiking spot in Calama, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Going to Antofogasta from San pedro de atacama, we were droped at the crossroad (23 with 25) here by our driver. Bad spot on the highway. Car are driving too fast. We walked out a little further up to this place where there is an access ramp. Someone heading for the airport picked us up and drop us to a great spot out of town</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h 30min (2 experiences)<br /><span title="Sun, 24 Apr 11 13:55:41 +0000">Description written 24.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7663">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.901649472003,-22.474705290703</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7664">
+<name>a Hitchhiking spot in Calama, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Giratory crossing, lots of place to pull out and only exit for antofogasta.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Sun, 24 Apr 11 13:57:29 +0000">Description written 24.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7664">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.92563914946,-22.492549275385</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7665">
+<name>a Hitchhiking spot in Santiago, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>There is a Copec gas station here. We stayed here with a sign saying &quot;El sur&quot; and after one hour someone driving to Rancagua (70km south of Santiago) dropped us on another copec station on the highway number 5.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Sun, 24 Apr 11 14:01:38 +0000">Description written 24.4.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7665">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.656393524864,-33.471504049253</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9377">
+<name>a Hitchhiking spot in Natales, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Es lugar para ir al parque &quot;Torres del Paine&quot;.
+It is place to go to park &quot;Torres del Paine&quot;.
+ÐœÐµÑÑ‚Ð¾ Ð´Ð»Ñ Ð¾Ñ‚Ð¿Ñ€Ð°Ð²Ð»ÐµÐ½Ð¸Ñ Ð² Ð¿Ð°Ñ€Ðº &quot;Torres del Paine&quot;.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 3min (2 experiences)<br /><span title="Sat, 11 Feb 12 03:41:02 +0000">Description written 11.2.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9377">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.50632053215,-51.719086378264</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9961">
+<name>a Hitchhiking spot in Cholchol, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-72.826171875001,-38.633948144613</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="9968">
+<name>a Hitchhiking spot in Oâ€™Higgins, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>It took me 3 days hitching to get out of this villag!. Further up the carreterra austral there is a ferry connection; check the timing of the last ferry because no-one will leave that way after 30 mins or so before the last ferry departs (which was 3pm several years ago).Traffic is incredibly thin, but that one car that does appear may very well take you. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 70h (1 experience)<br /><span title="Fri, 04 May 12 01:18:54 +0000">Description written 4.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9968">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.560598134918,-48.462019261889</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="10123">
+<name>a Hitchhiking spot in Puerto Montt, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>If you're going to chiloe, here is a tool station. lots of trucks going suth is the only way.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Sat, 26 May 12 07:41:07 +0000">Description written 26.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10123">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.98373556137,-41.465767845162</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11141">
+<name>a Hitchhiking spot in Puerto Varas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>3 hours with nothing but cars passing at 120kph. Go back to the entrance for Puerto Varas a few km south.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 20 Aug 12 05:43:53 +0000">Description written 20.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11141">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.01063060760208,-41.3127257422225</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11142">
+<name>a Hitchhiking spot in Coihaique, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hardly had time to set my pack down before a car pulled over.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 20 Aug 12 05:46:28 +0000">Description written 20.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11142">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.06680417060338,-45.56208838757469</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11201">
+<name>a Hitchhiking spot in EstaciÃ³n Central, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Ð’Ñ‹ÐµÐ·Ð´</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (3 experiences)<br /><span title="Fri, 24 Aug 12 04:53:38 +0000">Description written 24.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11201">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.72315268516505,-33.45632959397168</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11202">
+<name>a Hitchhiking spot in ConcÃ³n, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Exit to Qillota (to north).</p>
+
+<p>Salida a Qillota. Ruta 5 (Norte).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 24 Aug 12 05:33:35 +0000">Description written 24.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11202">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.505633521078,-32.92175225767883</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11203">
+<name>a Hitchhiking spot in Hijuelas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>HH-place to the north.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:40,40,20,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 12min (3 experiences)<br /><span title="Fri, 24 Aug 12 05:43:32 +0000">Description written 24.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11203">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.19116036510405,-32.76899650409876</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11204">
+<name>a Hitchhiking spot in La Serena, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>To Valle Elqui</p>
+
+<p>A Valle Elqui</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Unknown <b style="font-size: 15px; color: #ffffff;">&bull;</b> (0 votes)<br /><span title="Fri, 24 Aug 12 06:01:45 +0000">Description written 24.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11204">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.24141877834337,-29.907112717971582</coordinates>
+</Point>
+<styleUrl>#placemark-purple</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11552">
+<name>a Hitchhiking spot in VicuÃ±a, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy way to go La Serena.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 11 Sep 12 03:30:38 +0000">Description written 11.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11552">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.72328573409563,-30.042418867748044</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12504">
+<name>a Hitchhiking spot in AisÃ©n, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>HH-place to go to the north with bus-stop with the roof.</p>
+
+<p>Un lugar con refugio para ir al norte.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h 45min (2 experiences)<br /><span title="Tue, 20 Nov 12 07:25:23 +0000">Description written 20.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12504">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.49173110909636,-45.39787767227924</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12887">
+<name>a Hitchhiking spot in Arica, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot, just out of town, take any micro to AGRO. I waited for about two hours to get a ride to Calama.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Wed, 16 Jan 13 17:33:08 +0000">Description written 16.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12887">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.28240031190505,-18.505795825646228</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="12888">
+<name>a Hitchhiking spot in ChaÃ±aral, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A good spot for going south. there is a posada, truck rest stop, good camping spots if you have to stay the night. In about 90 minutes I refused two rides to Chanaral and Caldera and finally got a ride all the way to Santiago in a truck.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 16 Jan 13 17:37:52 +0000">Description written 16.1.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12888">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.50701357489432,-26.3639040722339</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="13273">
+<name>a Hitchhiking spot in Torres del Paine, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good place, a few steps away from chilean border control (eat all your veggies, fruit, honey, meat, cheese, beans etc beforehand, they are very strict and confiscate everything they find). There is a really overpriced shop and restaurant with good toilets. Not so much traffic towards Torres del Paine, mostly buses.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 12 Mar 13 20:31:40 +0000">Description written 12.3.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13273">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.34722528137468,-51.25886134791749</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="14159">
+<name>a Hitchhiking spot in Huechuraba, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Toma el metro linea 2 hasta Vespucio Norte, luego bus B18 que te deja justo en la entrada a la autopista. Desde alla ya sigues hacia Los Andes y Argentina. Suerte!</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,20,20,40,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 16min (4 experiences)<br /><span title="Thu, 23 May 13 04:24:20 +0000">Description written 23.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14159">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.68876028060903,-33.365767960695</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16538">
+<name>a Hitchhiking spot in Pudahuel, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>West towards Valparaiso, ViÃ±a del Mar. Petrobras service station. You can get here by bus J12 from Pajaritos metro station. Get off at Pasarela Pedro Jorquera. Walk a few hundred metres west along the motorway.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (4 experiences)<br /><span title="Mon, 21 Oct 13 02:46:50 +0000">Description written 21.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16538">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.79178810119701,-33.442322514632934</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16574">
+<name>a Hitchhiking spot in La Serena, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>South towards Santiago, Valparaiso. Emergency lane after a junction with traffic lights. The spot is in a walking distance from the centre of the city just near the bus station. There is also a Copec petrol station a few hundred metres from the spot.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:60,0,0,40,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 40min (2 experiences)<br /><span title="Fri, 25 Oct 13 09:20:08 +0000">Description written 25.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16574">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.25909662246708,-29.910081827527492</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16575">
+<name>a Hitchhiking spot in ValparaÃ­so, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>South or southeast towards Santiago or Rancagua. Copec petrol station at the entrance to the motorway. The spot is in a walking distance from the bus terminal and you can get there by many micros (mini buses) from the historic part of Valparaiso.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (5 experiences)<br /><span title="Fri, 25 Oct 13 09:47:46 +0000">Description written 25.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16575">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.60122311115116,-33.05307503221796</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="16576">
+<name>a Hitchhiking spot in ViÃ±a del Mar, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>All directions, either south to Santiago, north to La Serena or east towards Mendoza in Argentina. Emergency lane at the entrance to the motorway. You can get nearby by micros (mini buses) from Valparaiso or ViÃ±a del Mar. Ask for the ones going to Quilpue as they all pass near Jumbo Hipermarket in ViÃ±a. Get off near Puente Lusitania, cross the bridge and turn east. Another option is metro to the station Chorillos (electronic card needed, no single tickets).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,25,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (4 experiences)<br /><span title="Fri, 25 Oct 13 09:54:01 +0000">Description written 25.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16576">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.52672207355518,-33.03590659565799</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17144">
+<name>a Hitchhiking spot in Puerto Montt, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>good spot on the way to chiloe</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 31 Dec 13 21:23:08 +0000">Description written 31.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=17144">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.98062419891424,-41.46479503789518</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17193">
+<name>a Hitchhiking spot in San Pedro de Atacama, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I didn't tried HH here, but I saw many trucks from Paraguay here stoping to check everything before starting to climb over pass. I'm sure You can catch realy long ride here. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 45min (2 experiences)<br /><span title="Thu, 30 Jan 14 09:58:25 +0000">Description written 30.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17193">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.19192624092541,-22.913836327019713</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17349">
+<name>a Hitchhiking spot in Puerto Montt, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>After rotonda, you need to find the best place to hh. Here is a lot of space. Direction North.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 30 Jan 14 09:21:37 +0000">Description written 30.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17349">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.95448144914629,-41.45369963598924</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17350">
+<name>a Hitchhiking spot in Puerto Varas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Northern exit of Puerto Varas is better than Southern.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 30 Jan 14 09:25:08 +0000">Description written 30.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17350">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.00958475114795,-41.31665436004685</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17351">
+<name>a Hitchhiking spot in Calama, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>For those who will decide to take this road heading to Bolivia. Amazing landscapes !! But be ready for a long waiting hours. Almost no cars, but it's worth it, believe me :) </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 30 Jan 14 10:18:26 +0000">Description written 30.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17351">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.88329586030805,-22.439715062599458</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17352">
+<name>a Hitchhiking spot in OllagÃ¼e, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Hard to find a ride. Here is one bus per day going both directions.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 30 Jan 14 10:20:36 +0000">Description written 30.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17352">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-68.22847208024677,-21.211864852496294</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17355">
+<name>a Hitchhiking spot in Llay-Llay, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A toll station</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 31 Jan 14 09:29:54 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17355">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.98944520949914,-32.843558275659234</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17604">
+<name>a Hitchhiking spot in Porvenir, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-70.3650627136229,-53.29921912093637</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="17605">
+<name>a Hitchhiking spot in Porvenir, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-69.25741767883252,-53.35176466619968</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19105">
+<name>a Hitchhiking spot in Antofagasta, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Spot for hitching north towards Tocopilla, Iquique. Take bus 102, 103, 112, 114, 129 that go to La Chimba. If someone offers you a lift to Mejillones go for it and get off at peaje a few miles before the exit.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 30 Jun 14 06:54:51 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19105">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.39227843284631,-23.541205180774465</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="19114">
+<name>a Hitchhiking spot in Quinta Normal, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>I hitched from here simply because it was close to my host.  There is not a lot of space to pull over safely so this spot would not be good during heavy traffic.  </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 30 Jun 14 23:48:24 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19114">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.69205713271673,-33.430108383230944</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20721">
+<name>a Hitchhiking spot in Quilicura, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Al peaje, es muy fÃ¡cil tomar un auto hasta Colina o Los Andes, Esperamos 5 minutos. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Wed, 29 Oct 14 03:25:29 +0000">Description written 29.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20721">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.70225930214066,-33.31086294503988</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20729">
+<name>a Hitchhiking spot in Colina, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the entrance of the highway, towards Los Andes and Argentina, we waited for about an hour before we got picked up. 
+A la entrada de la autopista, direcciÃ³n Los Andes y Argentina, esperamos una hora.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 29 Oct 14 23:03:47 +0000">Description written 29.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20729">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.69682514667629,-33.23855034954967</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20730">
+<name>a Hitchhiking spot in Los Andes, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>The red light at the railroad forces all cars and trucks to stop, which makes it easy to talk to them. Unfortunately, we waited for 1h and we only got a ride to Rio Blanco instead of Mendoza.
+El semÃ¡foro de la vÃ­a ferrea para a todos los autos, y es facil hablar con los conductores. Lamentablemente, esperamos 1h antes de que un van nos tomÃ³ hasta Rio Blanco.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,50,25,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 29min (5 experiences)<br /><span title="Wed, 29 Oct 14 23:18:07 +0000">Description written 29.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20730">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.54621374607198,-32.83552493286346</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20731">
+<name>a Hitchhiking spot in Los Andes, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Gas station: many people stop here on their way to Mendoza, although as it is the only gas station in the area, some jeeps will only filll there gas up before heading back to Rio Blanco. Unfortunately, we waited 3h before being picked up.</p>
+
+<p>Gasolinera: muchas personas que van a Mendoza se paran aquÃ­, y se puede hablar con ellos. Lamentablemente, esperamos 3h. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Wed, 29 Oct 14 23:26:41 +0000">Description written 29.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20731">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.29385542869448,-32.90734354174645</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="20909">
+<name>a Hitchhiking spot in Puerto Natales, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-72.5048217773452,-51.71930181691903</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21330">
+<name>a Hitchhiking spot in Los Andes, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-70.54866260290196,-32.83757349889687</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21452">
+<name>a Hitchhiking spot in Coyhaique, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>lived outside of town. hit and miss with hitching. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Mon, 02 Feb 15 21:16:30 +0000">Description written 2.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21452">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.93276023864732,-45.785934345004414</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21636">
+<name>a Hitchhiking spot in Puyehue, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Waited 5 minutes to get a ride to the main road again, and then on to the border.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 01 Mar 15 01:11:22 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21636">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.30860745906375,-40.73488856923101</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21637">
+<name>a Hitchhiking spot in Puyehue, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>1 hour to get a ride to the next camping site, about 15 km further on. 
+Generally a road, where compared to the rest of Chile, it was more difficult to get a ride.
+Chileans were most of the times on vacation here and full, argentinians didn't stop once...</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Sun, 01 Mar 15 01:13:47 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21637">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.32742583751178,-40.70735795611659</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21638">
+<name>a Hitchhiking spot in Osorno, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Major point of traffic confluence going east to the border. Waited here because on the bridge there was a speed limit.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 01 Mar 15 01:16:41 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21638">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.09415674208972,-40.583285524057125</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21639">
+<name>a Hitchhiking spot in ChillÃ¡n, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A place at the beginning of the road going to Termas de Chillan. All cars that way pass by here. There is a bridge 100 m down the road so cars have to slow down here. There is also a bus station, and a supermarket, empanaderia across the street.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 01 Mar 15 01:27:32 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21639">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.08316779136263,-36.63149687948351</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21640">
+<name>a Hitchhiking spot in Freire, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Peaje station, easily reached from the city center by a bus going to Freire.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Sun, 01 Mar 15 01:32:39 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21640">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.62435173987855,-38.915895498183666</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21641">
+<name>a Hitchhiking spot in Talca, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy to get to from the city center as opposed to the south exit. The northern exit is also easy to get to, just ask around for busses.
+There is a steep roadside where you can put your backpack and it is in the shade during the afternoon. A panaderia is on this side of the road.
+The acceleration lane could be a place where cars can stop to pick you up, trucks probably not.
+Worth to try in order to get outside of the city.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Sun, 01 Mar 15 01:40:06 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21641">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.63812762498424,-35.43429820403625</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="21642">
+<name>a Hitchhiking spot in Marchihue, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Easy going to Pichilemu or Santa Cruz.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sun, 01 Mar 15 01:42:43 +0000">Description written 1.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21642">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.61621934175224,-34.40446177757363</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22270">
+<name>a Hitchhiking spot in Iquique, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-70.13179636001519,-20.2212724685867</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22271">
+<name>a Hitchhiking spot in Arica, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-70.29778218269368,-18.39689658724528</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22527">
+<name>a Hitchhiking spot in San Fernando, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Un poco lejos del terminal de trenes , pero al llegar ahi caminando ( 20 minutos ) hay naquina para que frenen los autos</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 21 May 15 23:33:45 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22527">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.98598337173283,-34.60883496733105</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22528">
+<name>a Hitchhiking spot in ChillÃ¡n Viejo, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cerca de este lugar hay un control de Carabineros , los autos van mas despacio y tienen lugar para frenar</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 21 May 15 23:40:09 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22528">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.16982460021973,-36.627354388087355</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22529">
+<name>a Hitchhiking spot in Puerto Varas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Camino hacia los saltos del petrohue y el volcan osorno , una ruta sin banquina pero el trafico es poco , permitiendo parar autos</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 21 May 15 23:43:37 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22529">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.96234226226613,-41.32777317428515</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22530">
+<name>a Hitchhiking spot in Puerto Varas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Cruce de caminos , para un lado Saltos del Petrohue , para el otro Volcan de Osorno , se puede ir en ambas direcciones y para volver a Puerto Varas </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 21 May 15 23:44:55 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22530">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.53820991515855,-41.207988226658</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22531">
+<name>a Hitchhiking spot in Ancud, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Un lugar dificil para hacer dedo pero todos los autos pasan por aca</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 21 May 15 23:48:46 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22531">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.53054141997937,-41.83514491336033</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22532">
+<name>a Hitchhiking spot in Ancud, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>No es buen lugar , pero todos los autos deben pasar por aca</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><span title="Thu, 21 May 15 23:50:34 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22532">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.79608011245334,-41.880125642830556</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22533">
+<name>a Hitchhiking spot in Castro, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>En las afueras de la ciudad hay lugares con banquinas para los autos estacionar</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Thu, 21 May 15 23:51:43 +0000">Description written 21.5.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22533">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-73.76850700377979,-42.46217606212134</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22559">
+<name>a Hitchhiking spot in HualaihuÃ©, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-72.64751529693567,-41.73937277551425</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22795">
+<name>a Hitchhiking spot in Arica, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-70.30034637451045,-18.385046056109303</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22986">
+<name>a Hitchhiking spot in Penco, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-73.01128690939603,-36.75786577861483</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="24992">
+<name>a Hitchhiking spot in Coquimbo, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-71.37837982177679,-30.012713173225254</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25019">
+<name>a Hitchhiking spot in San Gregorio, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>supposedly good place to hitchhike toward Rio Gallego or El Turbio/Punta Arenas/ Tierra del Fuego. At the time, ferries were not running due to bad sea conditions, so there was few slow speed cars.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (3 experiences)<br /><span title="Wed, 10 Feb 16 15:29:58 +0000">Description written 10.2.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25019">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-69.7572448754056,-52.398622609654446</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25074">
+<name>a Hitchhiking spot in Cisnes, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>from 7am to 4pm, we were the first ones, then tens of HHers joint, no one was lifted. Nobody stopped.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Mon, 22 Feb 16 20:56:14 +0000">Description written 22.2.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25074">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.39748513698495,-43.969136506509585</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25291">
+<name>a Hitchhiking spot in Natales, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Not so bad - but probably better than the big crossing into the city. 1 hour.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 24 Mar 16 04:16:12 +0000">Description written 24.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25291">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.48125052452176,-51.71363185127778</coordinates>
+</Point>
+<styleUrl>#placemark-yellow</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25292">
+<name>a Hitchhiking spot in Punta Arenas, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Take a Collectivo 15 to Tres Puentes (any cab with Tres Puentes or Zona Franca), the port (it costs 450 Pesos, less than a USD or Euro).</p>
+
+<p>Then walk on the Ruta 9. It's by far not the best spot, but after a while you will manage to get a car to the police post or even to the bigger West/East road split. </p>
+
+<p>You might pay the Collectivo Taxi driver a bit more (like 1000 Pesos) to get you further. Tres Puentes is the last stop of the taxi, so it shouldn't be a big deal.</p>
+
+<p>There's plenty of place to stop, but cars are quick, why I wouldn't necessarily walk further (unlikely to reach a calmer spot on foot).</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 10min (2 experiences)<br /><span title="Thu, 24 Mar 16 04:21:40 +0000">Description written 24.3.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25292">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.8798537254341,-53.1139239506351</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25411">
+<name>a Hitchhiking spot in Quilicura, Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-70.70407724380375,-33.31446218723473</coordinates>
+</Point>
+<styleUrl>#placemark-blue</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25706">
+<name>a Hitchhiking spot in PucÃ³n, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the exit of the roundabout, a bus stop allows the car to stop. There is just one road who go to Villarrica and the road 5.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Sat, 07 May 16 21:32:17 +0000">Description written 7.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25706">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-71.97788572311461,-39.28114684557076</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25707">
+<name>a Hitchhiking spot in Villarrica, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>At the exit of the town of Villarrica and before the bridge, cars are not going fat and it's easy for them to stop at the bus stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 07 May 16 21:34:54 +0000">Description written 7.5.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25707">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.22945547103868,-39.27558251556713</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="25708">
+<name>a Hitchhiking spot in Chile</name>
+<visibility>1</visibility>
+<Point>
+	<coordinates>-72.50692462921296,-38.672305350721786</coordinates>
+</Point>
+<styleUrl>#placemark-red</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26057">
+<name>a Hitchhiking spot in Buin, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>Buin is reached by the micro from La Cisterna Metro station for 1500CLP with blue micro, ask around for right direction, metro station has few exits. </p>
+
+<p>However Shell in Buin is inside the town so you get mostly local cars.  Yellow line you see is a shoulder road separated from autopista by fence and is a bit senseless. Driver point that they entering the town and very few leaves it to further south. </p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (1 vote)<br /><span title="Sun, 12 Jun 16 12:17:52 +0000">Description written 12.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26057">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-70.73477496852226,-33.73354714982865</coordinates>
+</Point>
+<styleUrl>#placemark-orange</styleUrl>
+</Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="26620">
+<name>a Hitchhiking spot in Villarrica, Chile</name>
+<visibility>1</visibility>
+<description><![CDATA[<p>A hh spot to Temuco or wherever north.  TThere is a bus stop.</p>
+ 
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><span title="Wed, 27 Jul 16 05:58:24 +0000">Description written 27.7.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26620">Place in Hitchwiki Maps</a><br /></small></div>
+]]></description>
+<Point>
+	<coordinates>-72.230581766295,-39.27210130120324</coordinates>
+</Point>
+<styleUrl>#placemark-green</styleUrl>
+</Placemark></Document>
+</kml>
