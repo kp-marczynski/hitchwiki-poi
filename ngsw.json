@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1566656694200,
+  "timestamp": 1566676284963,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -159,8 +159,8 @@
         "./assets/kml/countries/Zimbabwe.kml",
         "./favicon.ico",
         "./index.html",
-        "./main-es2015.41f874e42d4a0fcb9dd6.js",
-        "./main-es5.0bdbbdf6c19cef3b1c45.js",
+        "./main-es2015.606e1ae857a1e7f3ba6d.js",
+        "./main-es5.b487918ed83129dced11.js",
         "./polyfills-es2015.60da8dfaba73178a4fc1.js",
         "./polyfills-es5.9da4338e5c5eea023a22.js",
         "./runtime-es2015.b2aca5be9e7b8cc1a1b4.js",
@@ -356,9 +356,9 @@
     "./assets/kml/world.kml": "e50a91973c23a1bc223b06b9dcb2d658251c196f",
     "./assets/kmlTemplate.kml": "a390469602429782f27c7f8ca2c5d35c15b411a4",
     "./favicon.ico": "0ee3580530696f8b29be1b5cf5a7f728a01931a2",
-    "./index.html": "120a7601f475f74bf33368d52e052e44c87f96b8",
-    "./main-es2015.41f874e42d4a0fcb9dd6.js": "4d6f44564289bded1b3623b931303b0c7ee26c7f",
-    "./main-es5.0bdbbdf6c19cef3b1c45.js": "58dfe40b6f79e22886bbe87a96c8997c65da58a6",
+    "./index.html": "a1422b14a66b05de083179fed3d9ffed91e070a6",
+    "./main-es2015.606e1ae857a1e7f3ba6d.js": "25c409a1b08ddca7808a376d403ce620c0b5edd9",
+    "./main-es5.b487918ed83129dced11.js": "1f8e102a9c4af21fb08fec14eef769c610643225",
     "./polyfills-es2015.60da8dfaba73178a4fc1.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
     "./polyfills-es5.9da4338e5c5eea023a22.js": "7e1b38fcb73a9607657630e25f278302170f96dc",
     "./runtime-es2015.b2aca5be9e7b8cc1a1b4.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
