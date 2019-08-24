@@ -4,7 +4,7 @@ import {Country, ICountry} from "../model/country.model";
 import {IPlaceInfo, PlaceInfo} from "../model/place-info.model";
 import {filter, map} from 'rxjs/operators';
 import {FormBuilder} from "@angular/forms";
-import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
+import {faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -12,6 +12,8 @@ import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
+  static readonly NUMBER_OF_RETRIES = 5;
+  static readonly NUMBER_OF_CONCURRENT_QUERIES = 100;
   faMapMarkerAlt = faMapMarkerAlt;
   countries: ICountry[];
   parser = new DOMParser();
@@ -34,7 +36,7 @@ export class AppComponent implements OnInit {
         this.saveToFile(country.name, kmlString);
       });
     } else {
-      this.getPlacesInCountry(country).then().catch(() => this.downloadKmlFromAssets(country));
+      this.getPlacesInCountry(country).catch(() => this.downloadKmlFromAssets(country));
     }
   }
 
@@ -42,7 +44,10 @@ export class AppComponent implements OnInit {
     if (index < this.countries.length) {
       this.getPlacesInCountry(this.countries[index])
         .then(() => this.downloadAll(index + 1))
-        .catch(() => this.downloadKmlFromAssets(this.countries[index]).then(() => this.downloadAll(index + 1)));
+        .catch(() => {
+          this.downloadKmlFromAssets(this.countries[index])
+            .then(() => this.downloadAll(index + 1));
+        });
     }
   }
 
@@ -84,7 +89,7 @@ export class AppComponent implements OnInit {
                   resolve();
                 });
               }
-            });
+            }).catch(() => reject());
           }
         }, () => reject());
     });
@@ -92,17 +97,28 @@ export class AppComponent implements OnInit {
 
   private getPlaceKml(country: ICountry, placeIndex: number, tryNumber: number): Promise<any> {
     return new Promise((resolve, reject) => {
-      if (placeIndex > country.numberOfDownloadedPlaces + 100) {
-        setTimeout(() => this.getPlaceKml(country, placeIndex, tryNumber).then(() => resolve()), 100);
+      if (placeIndex > country.numberOfDownloadedPlaces + AppComponent.NUMBER_OF_CONCURRENT_QUERIES) {
+        setTimeout(() => {
+          this.getPlaceKml(country, placeIndex, tryNumber)
+            .then(() => resolve())
+            .catch(() => reject());
+        }, 100);
       } else {
         const place = country.placesInfo[placeIndex];
         if (tryNumber > 1) {
-          console.log(tryNumber + ': ' + place.id);
+          console.log('Retry ' + tryNumber + ': ' + place.id);
         }
-        if (tryNumber > 10) {
+        if (tryNumber > AppComponent.NUMBER_OF_RETRIES) {
           reject();
         } else {
-          this.getPlaceKmlLoop(place).then(() => resolve()).catch(() => this.getPlaceKml(country, placeIndex, tryNumber + 1).then(() => resolve()));
+          this.getPlaceKmlLoop(place)
+            .then(() => resolve())
+            .catch(() => {
+              this.getPlaceKml(country, placeIndex, tryNumber + 1)
+                .then(() => resolve())
+                .catch(() => reject());
+            })
+          ;
         }
       }
     });
@@ -121,7 +137,7 @@ export class AppComponent implements OnInit {
         } catch (e) {
           reject();
         }
-      });
+      }, () => reject());
     })
   }
 
@@ -156,6 +172,8 @@ export class AppComponent implements OnInit {
 
   private downloadKmlFromAssets(country: ICountry): Promise<any> {
     return new Promise((resolve, reject) => {
+      country.numberOfDownloadedPlaces = 0;
+      country.placesInfo = undefined;
       this.getKmlFromAssets(country).then(kmlString => {
         this.saveToFile(country.name, kmlString);
         resolve();
