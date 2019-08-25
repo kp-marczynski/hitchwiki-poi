@@ -5,6 +5,8 @@ import {IPlaceInfo, PlaceInfo} from "../model/place-info.model";
 import {filter, map} from 'rxjs/operators';
 import {FormBuilder} from "@angular/forms";
 import {faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
+import {saveAs} from 'file-saver';
+import { version } from '../../package.json';
 
 @Component({
   selector: 'app-root',
@@ -14,6 +16,7 @@ import {faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
 export class AppComponent implements OnInit {
   static readonly NUMBER_OF_RETRIES = 5;
   static readonly NUMBER_OF_CONCURRENT_QUERIES = 100;
+  public readonly VERSION: string = version;
   faMapMarkerAlt = faMapMarkerAlt;
   countries: ICountry[];
   parser = new DOMParser();
@@ -161,13 +164,7 @@ export class AppComponent implements OnInit {
   private saveToFile(filename: string, kmlString: string) {
     // console.log('saving to file');
     const kmlBlob = new Blob([kmlString], {type: 'application/vnd.google-earth.kml+xml'});
-    const a = document.createElement('a');
-    a.download = filename + '.kml';
-    a.href = window.URL.createObjectURL(kmlBlob);
-    a.dataset.downloadurl = ['application/vnd.google-earth.kml+xml', a.download, a.href].join(':');
-    document.body.appendChild(a);
-    a.click();
-    a.remove();
+    saveAs(kmlBlob, filename + '.kml');
   }
 
   private downloadKmlFromAssets(country: ICountry): Promise<any> {
