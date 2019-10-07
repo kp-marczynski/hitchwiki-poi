@@ -1,0 +1,205 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>
+      Hitchwiki POI Generator
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+<!--  <div class="ion-padding">-->
+<!--    The world is your oyster.-->
+<!--    <p>If you get lost, the <a target="_blank" rel="noopener" href="https://ionicframework.com/docs/">docs</a> will be your guide.</p>-->
+<!--  </div>-->
+  <!--The content below is only a placeholder and can be replaced.-->
+  <div class="container">
+    <header class="text-center">
+      <h1>
+        Welcome to hitchwiki-poi generator!
+      </h1>
+      <img width="300" alt="Logo"
+           src="assets/images/undraw_directions_x53j.svg">
+      <p>
+        Have you ever found yourself on the side of a highway with <strong>no way</strong> to catch a ride?
+        <br>
+        Well, fear no more, <strong>we've got you covered!</strong>
+      </p>
+      <hr>
+    </header>
+    <section>
+      <h3 hidden>Introduction</h3>
+      <p class="text-center">
+        We have gathered all places defined by <strong>Hitchwiki&nbsp;community</strong>
+        <br>
+        and provided you with coordinates, comments and ease of hitchhiking rating in form of <a
+              href="https://en.wikipedia.org/wiki/Point_of_interest">POI</a> points.
+        <br>
+        Below you can find ready to download <strong>kml&nbsp;files </strong><a href="#legend">compatible</a> with Maps.me
+        offline maps
+      </p>
+      <hr>
+      <p class="text-center">
+        You can use the generator <strong>offline</strong> and even install it on mobile devices!
+      </p>
+      <hr>
+    </section>
+    <section>
+      <h3 hidden>Important links</h3>
+      <p>Bur first check out some important links:</p>
+      <ul>
+        <li>
+          <a href="https://maps.me/download">
+            Download Maps.me mobile app
+          </a>
+        </li>
+        <li>
+          <a href="https://support.maps.me/hc/en-us/articles/207895029-How-can-I-import-bookmarks-">
+            How to import kml file to Maps.me
+          </a>
+        </li>
+        <li>
+          <a href="http://hitchwiki.org/maps/">Hitchwiki maps website</a>
+          <span> - content used under license </span>
+          <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>
+          <span> with changed placemark styles to comply with Maps.me</span>
+        </li>
+      </ul>
+
+      <hr>
+    </section>
+    <section>
+      <h3>Countries</h3>
+      <label for="countrySearch" hidden>Search country</label>
+      <input id="countrySearch" name="countrySearch" class="form-control" placeholder="Search country..."
+             [(ngModel)]="searchCountry"
+             (keydown)="searchMatchingCountries()" (keyup)="searchMatchingCountries()">
+      <div class="table-responsive">
+        <table class="table table-striped">
+          <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Country</th>
+            <th scope="col">Number of Places</th>
+            <th scope="col"></th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr *ngFor="let country of searchCountries; index as i">
+            <th scope="row">{{ i + 1 }}</th>
+            <td>
+              <a>{{country.name}}</a>
+            </td>
+            <td>
+              {{country.numberOfPlaces}}
+            </td>
+            <td>
+              <button
+                      *ngIf="!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0 || country.numberOfDownloadedPlaces == country.numberOfPlaces"
+                      class="btn"
+                      [ngClass]="{'btn-primary':!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0, 'btn-success':country.numberOfDownloadedPlaces == country.numberOfPlaces}"
+                      (click)="downloadCountryKmlFile(country)">Download
+              </button>
+              <ngb-progressbar *ngIf="country.placesInfo && country.numberOfDownloadedPlaces < country.numberOfPlaces"
+                               type="warning" [value]="country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces"
+                               [striped]="true"
+                               [animated]="true">
+                <i>{{country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces | number : '1.2-2'}}%</i>
+              </ngb-progressbar>
+            </td>
+          </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+    <section>
+      <h3 id="legend">Legend</h3>
+      <table class="table table-striped">
+        <thead>
+        <tr>
+          <th scope="col">Rating</th>
+          <th scope="col">Icon</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td>Very good</td>
+          <td>
+            <fa-icon class="rating-very-good" [icon]="faMapMarkerAlt"></fa-icon>
+          </td>
+        </tr>
+        <tr>
+          <td>Good</td>
+          <td>
+            <fa-icon class="rating-good" [icon]="faMapMarkerAlt"></fa-icon>
+          </td>
+        </tr>
+        <tr>
+          <td>Average</td>
+          <td>
+            <fa-icon class="rating-average" [icon]="faMapMarkerAlt"></fa-icon>
+          </td>
+        </tr>
+        <tr>
+          <td>Bad</td>
+          <td>
+            <fa-icon class="rating-bad" [icon]="faMapMarkerAlt"></fa-icon>
+          </td>
+        </tr>
+        <tr>
+          <td>Senseless</td>
+          <td>
+            <fa-icon class="rating-senseless" [icon]="faMapMarkerAlt"></fa-icon>
+          </td>
+        </tr>
+        <tr>
+          <td>Unknown</td>
+          <td>
+            <fa-icon class="rating-na" [icon]="faMapMarkerAlt"></fa-icon>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+      <hr>
+    </section>
+    <section>
+      <h3 hidden>Advanced options</h3>
+      <ngb-accordion #acc="ngbAccordion">
+        <ngb-panel title="Advanced Options">
+          <ng-template ngbPanelContent>
+            <p>To acquire the most recent version of POI points from hitchwiki you would have to enable Cross Origin
+              Resource Sharing (CORS)</p>
+            <p>You may want to do this by using some browser extension to temporarily disable CORS</p>
+            <p>Or you may try with some <a href="https://gist.github.com/jimmywarting/ac1be6ea0297c16c477e17f8fbe51347">CORS
+              proxy</a>. If you decide to go along with latter, provide url to proxy:</p>
+            <form name="editForm" role="form" novalidate [formGroup]="corsForm">
+              <label for="corsUrl" hidden>Cors Proxy URL</label>
+              <input name="corsUrl" id="corsUrl" class="form-control" type="text" formControlName="url"
+                     placeholder="CORS proxy url">
+            </form>
+            <p>Note that when above url is provided then all request (well, except for downloading preprocessed files)
+              will
+              be handled by provided server. Unfortunately most free proxies limit number of request so you probably
+              <strong>won't be able</strong> to download kml files for countries with lot of places</p>
+            <hr>
+            <p>There are also some <em>fancy</em> download options you might want to give a try:</p>
+            <a class="btn-block btn btn-primary" target="_blank" rel="noopener" href="assets/kml/world.kml"
+               type="application/vnd.google-earth.kml+xml">Download preprocessed world.kml</a>
+
+            <button class="btn-block btn btn-primary" (click)="downloadAll(0)">
+              Generate kml file for every country
+            </button>
+          </ng-template>
+        </ngb-panel>
+      </ngb-accordion>
+    </section>
+  </div>
+  <footer class="text-center">
+    <hr>
+    <p>
+      HitchwikiPOI v{{VERSION}}
+      <br>
+      More info about project on <a href="https://github.com/kp-marczynski/hitchwiki-poi">Github</a>
+    </p>
+  </footer>
+
+</ion-content>

@@ -21,6 +21,10 @@ If you wish, you can install app on mobile as it utilize PWA functionality
     Angular CLI
 
 ### How to run on localhost
-    npm install && npm start
+    npm install && ionic serve
 
-Then the app will be available on [localhost:4200](localhost:4200)
+Then the app will be available on [localhost:8100](localhost:8100)
+
+## Changelog
+* 1.4.2 Users can download or generate kml files for each country. App can be used as PWA with locally cached kml files
+* 2.0.0 Introduced ionic. App can be installed on mobile. PWA is teporarily not available
