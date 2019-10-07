@@ -7,6 +7,10 @@ import {FormBuilder} from '@angular/forms';
 import {faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
 import {saveAs} from 'file-saver';
 import {version} from '../../../package.json';
+import OlMap from 'ol/Map';
+import OlXYZ from 'ol/source/XYZ';
+import OlTileLayer from 'ol/layer/Tile';
+import OlView from 'ol/View';
 
 @Component({
     selector: 'app-home',
@@ -23,6 +27,11 @@ export class HomePage implements OnInit {
     searchCountry = '';
     searchCountries: ICountry[];
 
+    map: OlMap;
+    source: OlXYZ;
+    layer: OlTileLayer;
+    view: OlView;
+
     corsForm = this.fb.group({
         url: [''],
     });
@@ -32,6 +41,25 @@ export class HomePage implements OnInit {
 
     ngOnInit(): void {
         this.getAllCountries();
+
+        this.source = new OlXYZ({
+            url: 'http://tile.osm.org/{z}/{x}/{y}.png'
+        });
+
+        this.layer = new OlTileLayer({
+            source: this.source
+        });
+
+        this.view = new OlView({
+            center: fromLonLat([6.661594, 50.433237]),
+            zoom: 3
+        });
+
+        this.map = new OlMap({
+            target: 'map',
+            layers: [this.layer],
+            view: this.view
+        });
     }
 
     public downloadCountryKmlFile(country: ICountry) {
