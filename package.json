@@ -1,6 +1,6 @@
 {
   "name": "hitchwiki-poi",
-  "version": "2.0.5",
+  "version": "2.0.4",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
@@ -38,7 +38,8 @@
     "@fortawesome/free-solid-svg-icons": "^5.10.2",
     "@ng-bootstrap/ng-bootstrap": "^5.1.0",
     "@types/file-saver": "^2.0.1",
-    "file-saver": "^2.0.2"
+    "file-saver": "^2.0.2",
+    "ol": "^5.3.0"
   },
   "devDependencies": {
     "@angular-devkit/architect": "~0.801.2",

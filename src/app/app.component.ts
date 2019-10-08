@@ -24,6 +24,7 @@ export class AppComponent {
         this.platform.ready().then(() => {
             this.statusBar.styleDefault();
             this.splashScreen.hide();
+            this.getPosition();
         });
     }
 
@@ -36,7 +37,6 @@ export class AppComponent {
     }
 
     displayPosition(geolocationPosition) {
-        this.position = 'Latitude: ' + geolocationPosition.coords.latitude +
-            '<br>Longitude: ' + geolocationPosition.coords.longitude;
+        console.log('Current location: ' + geolocationPosition.coords.latitude + ', ' + geolocationPosition.coords.longitude);
     }
 }

@@ -1,5 +1,7 @@
 {
   "name": "hitchwiki-poi",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

@@ -192,10 +192,11 @@ export class HomePage implements OnInit {
     private prepareKmlString(country: ICountry): Promise<any> {
         return new Promise((resolve, reject) => {
                 this.getKmlTemplate().then(result => {
+                    result = result.replace(/https/g, 'http');
                     const kmlTemplate = this.parseXml(result);
                     kmlTemplate.getElementsByTagName('name')[0].childNodes[0].nodeValue = country.name;
                     for (const placeInfo of country.placesInfo) {
-                        kmlTemplate.getElementsByTagName('Document')[0].appendChild(placeInfo.kml);
+                        kmlTemplate.getElementById('placemark-root').appendChild(placeInfo.kml);
                     }
                     resolve(new XMLSerializer().serializeToString(kmlTemplate));
                 });

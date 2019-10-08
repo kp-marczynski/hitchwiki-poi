@@ -9,6 +9,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {HttpClientJsonpModule, HttpClientModule} from '@angular/common/http';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
+import {MapComponent} from '../map/map.component';
 
 @NgModule({
   imports: [
@@ -30,6 +31,6 @@ import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
   exports: [
     HomePage
   ],
-  declarations: [HomePage]
+  declarations: [HomePage, MapComponent]
 })
 export class HomePageModule {}
