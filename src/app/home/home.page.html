@@ -81,6 +81,7 @@
             <th scope="col">Country</th>
             <th scope="col">Number of Places</th>
             <th scope="col"></th>
+            <th scope="col"></th>
           </tr>
           </thead>
           <tbody>
@@ -93,11 +94,17 @@
               {{country.numberOfPlaces}}
             </td>
             <td>
+              <button class="btn btn-primary" disabled>
+                <fa-icon [icon]="faDownload"></fa-icon> Short
+              </button>
+            </td>
+            <td>
               <button
                       *ngIf="!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0 || country.numberOfDownloadedPlaces == country.numberOfPlaces"
                       class="btn"
                       [ngClass]="{'btn-primary':!country.numberOfDownloadedPlaces  || country.numberOfDownloadedPlaces== 0, 'btn-success':country.numberOfDownloadedPlaces == country.numberOfPlaces}"
-                      (click)="downloadCountryKmlFile(country)">Download
+                      (click)="downloadCountryKmlFile(country)">
+                <fa-icon [icon]="faDownload"></fa-icon> Full
               </button>
               <ngb-progressbar *ngIf="country.placesInfo && country.numberOfDownloadedPlaces < country.numberOfPlaces"
                                type="warning" [value]="country.numberOfDownloadedPlaces * 100 / country.numberOfPlaces"

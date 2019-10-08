@@ -4,7 +4,7 @@ import {Country, ICountry} from '../../model/country.model';
 import {IPlaceInfo, PlaceInfo} from '../../model/place-info.model';
 import {filter, map} from 'rxjs/operators';
 import {FormBuilder} from '@angular/forms';
-import {faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
+import {faMapMarkerAlt, faDownload} from '@fortawesome/free-solid-svg-icons';
 import {saveAs} from 'file-saver';
 import {version} from '../../../package.json';
 
@@ -18,6 +18,7 @@ export class HomePage implements OnInit {
     static readonly NUMBER_OF_CONCURRENT_QUERIES = 100;
     public readonly VERSION: string = version;
     faMapMarkerAlt = faMapMarkerAlt;
+    faDownload = faDownload;
     countries: ICountry[];
     parser = new DOMParser();
     searchCountry = '';

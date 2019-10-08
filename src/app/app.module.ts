@@ -7,7 +7,6 @@ import {SplashScreen} from '@ionic-native/splash-screen/ngx';
 import {StatusBar} from '@ionic-native/status-bar/ngx';
 
 import {AppComponent} from './app.component';
-import {AppRoutingModule} from './app-routing.module';
 
 import {ServiceWorkerModule} from '@angular/service-worker';
 import {environment} from '../environments/environment';
@@ -15,6 +14,7 @@ import {NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import {HttpClientJsonpModule, HttpClientModule} from '@angular/common/http';
 import {FormsModule, ReactiveFormsModule} from '@angular/forms';
 import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
+import {HomePageModule} from './home/home.module';
 
 @NgModule({
     declarations: [AppComponent],
@@ -22,17 +22,18 @@ import {FontAwesomeModule} from '@fortawesome/angular-fontawesome';
     imports: [
         BrowserModule,
         IonicModule.forRoot(),
-        AppRoutingModule,
         NgbModule,
         HttpClientModule,
         HttpClientJsonpModule,
         FormsModule,
         ReactiveFormsModule,
-        FontAwesomeModule],
+        FontAwesomeModule,
+        ServiceWorkerModule.register('ngsw-worker.js', {enabled: environment.production}),
+        HomePageModule
+    ],
     providers: [
         StatusBar,
-        SplashScreen,
-        {provide: RouteReuseStrategy, useClass: IonicRouteStrategy}
+        SplashScreen
     ],
     bootstrap: [AppComponent]
 })
