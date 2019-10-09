@@ -45,7 +45,7 @@ export class MapComponent implements AfterViewInit {
 
     drawMap() {
         const viewFromLonLat = new View({
-            center: fromLonLat([this.lat ? this.lat : 17, this.lon ? this.lon : 51]),
+            center: fromLonLat([this.lon ? this.lon : 17, this.lat ? this.lat : 51]),
             zoom: 12
         });
         const geolocation = new Geolocation({
