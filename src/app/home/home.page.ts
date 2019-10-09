@@ -236,6 +236,7 @@ export class HomePage implements OnInit {
     }
 
     private downloadKmlFromAssets(country: ICountry): Promise<any> {
+        this.addCountryToNearbyCountries(country);
         return new Promise((resolve, reject) => {
             country.numberOfDownloadedPlaces = 0;
             country.placesInfo = undefined;
@@ -254,10 +255,14 @@ export class HomePage implements OnInit {
         });
     }
 
-    private prepareKmlString(country: ICountry): Promise<any> {
+    private addCountryToNearbyCountries(country: ICountry) {
         if (!this.nearbyCountries.find(elem => elem.iso === country.iso)) {
             this.nearbyCountries.push(country);
         }
+    }
+
+    private prepareKmlString(country: ICountry): Promise<any> {
+        this.addCountryToNearbyCountries(country);
         return new Promise((resolve, reject) => {
                 this.getKmlTemplate().then(result => {
                     result = result.replace(/https/g, 'http');
