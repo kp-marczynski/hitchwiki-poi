@@ -52,6 +52,7 @@ export class MapComponent implements AfterViewInit {
             },
             projection: viewFromLonLat.getProjection()
         });
+        geolocation.setTracking(true);
 
         const accuracyFeature = new Feature();
         geolocation.on('change:accuracyGeometry', () => {
@@ -71,15 +72,19 @@ export class MapComponent implements AfterViewInit {
                 })
             })
         }));
-
+        let positionChanged = false;
         geolocation.on('change:position', () => {
             const coordinates = geolocation.getPosition();
             positionFeature.setGeometry(coordinates ?
                 new Point(coordinates) : null);
+            if (!positionChanged) {
+                positionChanged = true;
+                viewFromLonLat.setCenter(coordinates);
+            }
         });
 
         const osmFrAttribution = `&copy; <a href='http://www.openstreetmap.org/copyright' rel='noreferrer'>OpenStreetMap</a>`;
-        const map = new Map({
+        const mapObj = new Map({
             layers: [
                 new TileLayer({
                     source: new OSM({

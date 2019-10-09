@@ -24,19 +24,6 @@ export class AppComponent {
         this.platform.ready().then(() => {
             this.statusBar.styleDefault();
             this.splashScreen.hide();
-            this.getPosition();
         });
-    }
-
-    getPosition() {
-        if (navigator.geolocation) {
-            navigator.geolocation.getCurrentPosition(this.displayPosition);
-        } else {
-            this.position = 'Geolocation is not supported by this browser.';
-        }
-    }
-
-    displayPosition(geolocationPosition) {
-        console.log('Current location: ' + geolocationPosition.coords.latitude + ', ' + geolocationPosition.coords.longitude);
     }
 }
