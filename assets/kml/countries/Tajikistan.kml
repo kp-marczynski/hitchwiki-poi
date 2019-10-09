@@ -1,22 +1,49 @@
-<kml xmlns="https://earth.google.com/kml/2.2">
-  <Document>
-    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
-    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
-    <name>Tajikistan</name><visibility>1</visibility>
-  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="6803">
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Tajikistan</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+		<LabelStyle><scale>-1</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  		<LabelStyle><scale>-1</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="6803">
 <name>a Hitchhiking spot in Dushanbe, Tajikistan</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>Look for a transport to Zarafshon district (there is direct trolleybus from President House). Walk approximately 2 km from Zarafshon roundabout to another smaller roundabout. </p>
 
 <p>siberian_explorer</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6803">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6803">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>68.7052828073502,38.5833061317952</coordinates>
@@ -29,7 +56,7 @@
 
 <p>siberian_explorer</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6802">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6802">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>68.7680947780609,38.6508087160867</coordinates>
@@ -69,7 +96,7 @@ waiting time from minutes to hours</p>
 
 <p>siberian_explorer</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 39min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6778">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 39min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6778">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>83.8304042816162,53.3152750411247</coordinates>
@@ -80,7 +107,7 @@ waiting time from minutes to hours</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Follow the road towards China for about 2km from town. Walk past an empty customs terminal to the new one. There will be alot of Chinese trucks in the morning, they stay there for an indefinite time for 'processing'. Some of them will sleep in Murgab, some go to Khorog, some go all the way to Dushanbe. They all leave around a similar time.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 26 Jun 13 07:29:06 +0000">Description written 26.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13125">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 26 Jun 13 07:29:06 +0000">Description written 26.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13125">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>73.99490475654629,38.18240633377116</coordinates>
@@ -98,7 +125,7 @@ waiting time from minutes to hours</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Here is police checkpoint located. Nice place to spend some time. Police guys will invite you to chat, share some food and let you sleep if you do not want to sleep outside on the wind. Then police guys will ask every passing car to drive you to Khorog. So cool.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Fri, 11 Oct 13 17:42:43 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16346">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Fri, 11 Oct 13 17:42:43 +0000">Description written 11.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16346">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>73.95196818843765,38.13176149370919</coordinates>
@@ -137,5 +164,7 @@ waiting time from minutes to hours</p>
 	<coordinates>68.7209724149936,38.58156717404484</coordinates>
 </Point>
 <styleUrl>#placemark-yellow</styleUrl>
-</Placemark></Document>
+</Placemark></Folder>
+	</Folder>
+</Document>
 </kml>

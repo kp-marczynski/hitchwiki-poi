@@ -1,15 +1,42 @@
-<kml xmlns="https://earth.google.com/kml/2.2">
-  <Document>
-    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
-    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
-    <name>Peru</name><visibility>1</visibility>
-  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="7138">
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Peru</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+		<LabelStyle><scale>-1</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  		<LabelStyle><scale>-1</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="7138">
 <name>a Hitchhiking spot in Peru</name>
 <visibility>1</visibility>
 <Point>
@@ -138,7 +165,7 @@ Toma un micro &quot;Nueva California &quot;A&quot; hasta la ultima parada. Alli 
 <description><![CDATA[<p>Two guys, obvious foreigners, with our backpacks:
 This is basically the place which is in the description of Arequipa. Once you found the right bus to go to Uchumayo you have to hop off at the final stop. From the main square just go straight down to where the highway is, maybe not quite obvious from the first sight but you won't miss it. We put ourselves about a 100 metres after the toll collect, at the very end of all the little shops. It took as more than one hour until a veeeeery slow truck stopped for us. It works but you need patience. </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 23 Dec 13 18:45:25 +0000">Description written 23.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=17105">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Mon, 23 Dec 13 18:45:25 +0000">Description written 23.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=17105">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-71.6747746467573,-16.424960540582536</coordinates>
@@ -149,7 +176,7 @@ This is basically the place which is in the description of Arequipa. Once you fo
 <visibility>1</visibility>
 <description><![CDATA[<p>Out of Cuzco, low speed and many trucks goes direction to Lima.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 31 Jan 14 09:36:32 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17356">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 31 Jan 14 09:36:32 +0000">Description written 31.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17356">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-72.1515498161277,-13.46509106982855</coordinates>
@@ -168,7 +195,7 @@ This is basically the place which is in the description of Arequipa. Once you fo
 <description><![CDATA[<p>Good spot to start a way to Ecuador in the morning. There is a shadow from the road sign that helps to hide from the intensive sun. I walked there from the center of Mancora, but you can also take a taxi for few soles. The spot is in about 50 meters before the gas station and bridge.
 There is a sleeping policeman before, so cars and trucks are passing by slowly. I get a ride to Tumbes after one hour (not bad as for the low morning traffic).</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (2 experiences)<br /><span title="Fri, 24 Oct 14 04:20:22 +0000">Description written 24.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20692">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (2 experiences)<br /><span title="Fri, 24 Oct 14 04:20:22 +0000">Description written 24.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20692">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-81.03333985805153,-4.103223338340189</coordinates>
@@ -364,5 +391,7 @@ Though - all in all - it's difficult taking this road, because there are two Pan
 	<coordinates>-80.2463314533249,-3.482182935794212</coordinates>
 </Point>
 <styleUrl>#placemark-red</styleUrl>
-</Placemark></Document>
+</Placemark></Folder>
+	</Folder>
+</Document>
 </kml>

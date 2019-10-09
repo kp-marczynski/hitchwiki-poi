@@ -1,20 +1,47 @@
-<kml xmlns="https://earth.google.com/kml/2.2">
-  <Document>
-    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
-    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
-    <name>Russian Federation</name><visibility>1</visibility>
-  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="1334">
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Russian Federation</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+		<LabelStyle><scale>-1</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  		<LabelStyle><scale>-1</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="1334">
 <name>a Hitchhiking spot in Odintsovo, Russian Federation</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>Take train from Belorusskaya to Trekhgorka. Not all stop there. The spot is 2 min wa</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 4min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1334">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 4min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1334">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.3390102386475,55.6955410920328</coordinates>
@@ -25,7 +52,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>From Moscow to Voronezh, Rostov, Black Sea. Better to stand on the left side of the ramp, as it has larger shoulder.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,25,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1339">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,25,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1339">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.6869678497314,55.5740990940082</coordinates>
@@ -36,7 +63,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>you get traffic from MKAD going to krasnogorsk mostly. not very easy to get here too.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 13 Jan 12 13:24:36 +0000">Description written 13.1.2012</span><br /><a href="https://hitchwiki.org/maps/?place=1338">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 13 Jan 12 13:24:36 +0000">Description written 13.1.2012</span><br /><a href="https://hitchwiki.org/maps/?place=1338">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.3613584041595,55.7921922454655</coordinates>
@@ -49,7 +76,7 @@
 Take bus 851 from Rechoy Vokzal metro station, leave it on Cherkizovo stop. The spot is behind the ramp, 5 min wa from the bus stop.
 It has never taken me more that 15 min to lift.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (10 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:10,50,30,10,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|3|5|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 24min (6 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1402">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (11 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:9.0909090909091,45.454545454545,36.363636363636,9.0909090909091,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|4|5|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 27min (7 experiences)<br /><a href="https://hitchwiki.org/maps/?place=1402">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.342357635498,55.9566001994252</coordinates>
@@ -92,7 +119,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Take train from Belorusskaya to Kubinka. Exellent position behind traffic police station and wide roadside.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=3496">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=3496">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>36.6929626464844,55.5713574196203</coordinates>
@@ -103,7 +130,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>the best point to go to Saint-Petersburg, this place is a post of traffic police and it is full of lights</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,25,0,0,25&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 5min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=3643">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,25,0,0,25&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 5min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=3643">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.4521865844727,57.8323237818309</coordinates>
@@ -184,7 +211,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>It is a bit hard to take a car cuz of a small 'parkin pocket' , however, it's possible and drivers going to Vyborg are ready to take on the board</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 09 May 14 12:03:17 +0000">Description written 9.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=3796">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 09 May 14 12:03:17 +0000">Description written 9.5.2014</span><br /><a href="https://hitchwiki.org/maps/?place=3796">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>30.2462410926819,60.1068738940408</coordinates>
@@ -622,7 +649,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Get here with minibus #1122 from the central train station. Get out at stop Puteprovod, good for hitching towards Omsk, Tyomen</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4403">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|6|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4403">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>82.6778376102448,54.9978751148722</coordinates>
@@ -633,7 +660,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Hitchhiking Spot for the M18 direction Olonets, St. Petersburg</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4405">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4405">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>34.2152774333954,61.8235231392582</coordinates>
@@ -644,7 +671,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Worst hitchhiking spot in Russia? 2 hitchhikers waited here 7 hours on a Tuesday morning in July 2009.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,0,33.333333333333,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=4448">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,0,33.333333333333,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=4448">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>56.0619342327118,54.6495919332024</coordinates>
@@ -655,7 +682,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Hitchhiking spot just behind a DPS police post. Best chances are if you hitch a ride some 200-300m behind the police officers</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,50,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h 10min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4450">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,50,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h 10min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4450">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>55.7806992530823,54.6731888739361</coordinates>
@@ -677,7 +704,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Very good spot towards Kazan, all traffic slow behind the DPS station.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,20,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4529">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,20,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4529">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>47.0477914810181,56.1070630831032</coordinates>
@@ -695,7 +722,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>take a bus to shelehov from irkutsk. get off from a bus where it leaves the main road and turns to a town.walk a bit. really good place to hh towards ulan ude</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:75,25,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4773">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:75,25,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4773">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>104.056663513184,52.1977699021426</coordinates>
@@ -706,7 +733,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Starting position from Moscow to Saint-Petersburg. In 200 meters uphill - cafe, parking spot for trucks.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,50,0,16.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5094">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,50,0,16.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5094">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.3904120922089,55.9225178999249</coordinates>
@@ -717,7 +744,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Another start point from Moscow to Saint-Petersburg. You need a bus #581 from Rechnoy Vokzal metro station. Ask locals for &quot;Monument&quot;[m-o-n-u-'m-e-n-t] stop</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 21min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5095">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 21min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5095">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.4041342735291,55.9128141053515</coordinates>
@@ -728,7 +755,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>HH spot. No lights, but enough space for truck for comfort stop. If you are going to Moscow, but your driver goes to V. Novgorod - it's your choice.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 48min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5099">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 48min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5099">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>31.3825750350952,58.681979390563</coordinates>
@@ -746,7 +773,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Just behind the border are thre petrol stations and a restaurant, at it's end you can hitch all passing traffic. </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,14.285714285714,42.857142857143,42.857142857143,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|3|3|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h 24min (5 experiences)<br /><span title="Sat, 16 Oct 10 11:32:04 +0000">Description written 16.10.2010</span><br /><a href="https://hitchwiki.org/maps/?place=5771">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,14.285714285714,42.857142857143,42.857142857143,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|3|3|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h 24min (5 experiences)<br /><span title="Sat, 16 Oct 10 11:32:04 +0000">Description written 16.10.2010</span><br /><a href="https://hitchwiki.org/maps/?place=5771">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.198597668846,56.3564036715</coordinates>
@@ -759,7 +786,7 @@ It has never taken me more that 15 min to lift.</p>
 
 <p>siberian_explorer</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6761">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><a href="https://hitchwiki.org/maps/?place=6761">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>81.1888360977173,51.4905090284712</coordinates>
@@ -772,7 +799,7 @@ It has never taken me more that 15 min to lift.</p>
 
 <p>siberian_explorer</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6762">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=6762">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>81.2445616722107,51.553553649643</coordinates>
@@ -785,7 +812,7 @@ It has never taken me more that 15 min to lift.</p>
 
 <p>siberian_explorer</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 41min (5 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6763">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 41min (5 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6763">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>81.203727722168,51.5673605371079</coordinates>
@@ -796,12 +823,12 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Coming from Moscow, the furthest Marshrutka (70 RUB) will take you here (1h ride) before it goes off the road eastwards towards Voronovo and back. Get out here and hitch some 20m further. Enough space &amp; visibility, good for rides towards Chekov or M3 (Obninsk)</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 14 Dec 10 11:48:55 +0000">Description written 14.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7056">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 14 Dec 10 11:48:55 +0000">Description written 14.12.2010</span><br /><a href="https://hitchwiki.org/maps/?place=7056">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.153482580456,55.316213586614</coordinates>
 </Point>
-<styleUrl>#placemark-green</styleUrl>
+<styleUrl>#placemark-blue</styleUrl>
 </Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="7067">
 <name>a Hitchhiking spot in Ð˜Ð²Ð°Ð½Ð¾Ð²ÑÐºÐ¾Ðµ ÑÐ¿, Russian Federation</name>
 <visibility>1</visibility>
@@ -828,7 +855,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>I stood here for a pretty long time, when I finally stoped a car. It\'s about 1km from a Mego shopping centre. I think it will be better to stop from Kstovo.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Mon, 03 Jan 11 15:16:47 +0000">Description written 3.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7133">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Mon, 03 Jan 11 15:16:47 +0000">Description written 3.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7133">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>44.086993337555,56.207667650936</coordinates>
@@ -933,7 +960,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>In the direction of Kharkiv, Crimea, Black Sea. Cars are slowing down here, traffic is huge, and it's easy to get a ride in 5 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (4 experiences)<br /><span title="Fri, 29 Jul 11 19:17:16 +0000">Description written 29.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8296">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 7min (4 experiences)<br /><span title="Fri, 29 Jul 11 19:17:16 +0000">Description written 29.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8296">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.602497576513,55.564736195922</coordinates>
@@ -944,7 +971,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>There is gas station and crossing there, a very convenient spot. You need to walk 300m from Moskovskaya Slavyanka (ÐœÐ¾ÑÐºÐ¾Ð²ÑÐºÐ°Ñ ÑÐ»Ð°Ð²ÑÐ½ÐºÐ°) which is described in Wiki on St. Petersburg.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (13 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:69.230769230769,23.076923076923,7.6923076923077,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|9|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (10 experiences)<br /><span title="Fri, 29 Jul 11 19:25:59 +0000">Description written 29.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8297">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (13 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:69.230769230769,23.076923076923,7.6923076923077,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|9|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (10 experiences)<br /><span title="Fri, 29 Jul 11 19:25:59 +0000">Description written 29.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8297">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>30.501982211222,59.745669539415</coordinates>
@@ -955,7 +982,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>High traffic and, in spite of it, almost no chance to get a ride. The only hope is truckers' parking.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,33.333333333333,66.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 30min (3 experiences)<br /><span title="Fri, 29 Jul 11 19:36:47 +0000">Description written 29.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8298">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,33.333333333333,66.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 30min (3 experiences)<br /><span title="Fri, 29 Jul 11 19:36:47 +0000">Description written 29.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8298">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>33.953813551886,57.760621189923</coordinates>
@@ -1043,7 +1070,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Vorov: one of the towns which should be avoided on SPb-Moscow route. Better get a ride further down the road.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,33.333333333333,66.666666666667&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 31 Aug 11 22:23:37 +0000">Description written 31.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8534">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,33.333333333333,66.666666666667&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|2|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Wed, 31 Aug 11 22:23:37 +0000">Description written 31.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8534">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>30.855789184451,59.558331412758</coordinates>
@@ -1054,7 +1081,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Vorov: avoid on your route SPb-Moscow. Speed too high, better get a ride further past this town.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,33.333333333333,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Wed, 31 Aug 11 22:27:41 +0000">Description written 31.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8535">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,0,33.333333333333,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (2 experiences)<br /><span title="Wed, 31 Aug 11 22:27:41 +0000">Description written 31.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8535">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>31.234130859194,59.348070513831</coordinates>
@@ -1065,7 +1092,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Vorov: near the railroad crossing is THE best spot on the SPb-Moscow route. Even Recommended to get out here and try to get a ride straight to Moscow esp if your ride is taking you to Vyshnyj Volochek - it's a 15km long town ahead!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 31 Aug 11 22:35:56 +0000">Description written 31.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8536">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 31 Aug 11 22:35:56 +0000">Description written 31.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8536">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>33.601856231433,57.924329539636</coordinates>
@@ -1098,7 +1125,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>good spot past the border toward SPb. traffic slows down due to busy intersection of two roads.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 10 Oct 11 12:00:43 +0000">Description written 10.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8845">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 10 Oct 11 12:00:43 +0000">Description written 10.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8845">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.573726654057,59.378669227851</coordinates>
@@ -1127,7 +1154,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>To Baltijsk.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 16 Nov 11 18:06:12 +0000">Description written 16.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8996">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 16 Nov 11 18:06:12 +0000">Description written 16.11.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8996">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>20.206146523337,54.701184721285</coordinates>
@@ -1267,7 +1294,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Ring road of Vladimir. Trucks have to go here in eastern direction</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 6min (3 experiences)<br /><span title="Tue, 18 Jun 13 00:00:29 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=10607">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 6min (3 experiences)<br /><span title="Tue, 18 Jun 13 00:00:29 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=10607">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>40.2035751342793,56.07868512802978</coordinates>
@@ -1307,7 +1334,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>great spot to get car directly to Barnaul after some time of cancelling local cars</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (3 experiences)<br /><span title="Sun, 15 Jul 12 16:45:03 +0000">Description written 15.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10633">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (3 experiences)<br /><span title="Sun, 15 Jul 12 16:45:03 +0000">Description written 15.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10633">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>81.80701388939279,52.0431969333819</coordinates>
@@ -1420,7 +1447,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Easyest way to leave city in northern direction. Use trolley 4 to get to roundabount.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Sat, 21 Jul 12 16:12:33 +0000">Description written 21.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10694">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Sat, 21 Jul 12 16:12:33 +0000">Description written 21.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10694">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>91.40679097930496,53.75165588754648</coordinates>
@@ -1464,7 +1491,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>If you were lucky enough to get transit car but you need to go to Krasnoyarsk this place is not the best way to get to the city. better to try police checkpoint couple km before this spot</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 21 Jul 12 16:27:25 +0000">Description written 21.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10698">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 21 Jul 12 16:27:25 +0000">Description written 21.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10698">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>92.7360875807366,56.13114862094163</coordinates>
@@ -1499,7 +1526,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>A transit point between Barnaul and Rubtsovsk. Landmarks are gas station, cafes, and straight side road to Aleysk.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 27 Jul 12 11:41:47 +0000">Description written 27.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10793">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Fri, 27 Jul 12 11:41:47 +0000">Description written 27.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10793">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>82.73139381408647,52.49528775880107</coordinates>
@@ -1510,7 +1537,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>place right after police checkpoint accessible by 701 bus from bus station. get ticket to Emelyanovo</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Tue, 31 Jul 12 15:38:37 +0000">Description written 31.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10841">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Tue, 31 Jul 12 15:38:37 +0000">Description written 31.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10841">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>92.72792606856429,56.15660137638032</coordinates>
@@ -1521,7 +1548,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>at first time it looks like this is bad spot but in next 5 minutes I got a lift</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 31 Jul 12 15:40:14 +0000">Description written 31.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10842">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 31 Jul 12 15:40:14 +0000">Description written 31.7.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10842">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>92.7267512610163,56.15756933942182</coordinates>
@@ -1824,7 +1851,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>this place is horrorible - lots of homeless people around trying to get a lift, then smell from huge local DUMP. walking further is a better solution</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 29 Aug 12 21:05:40 +0000">Description written 29.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11290">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Wed, 29 Aug 12 21:05:40 +0000">Description written 29.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11290">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>55.85970616852414,52.78318162874272</coordinates>
@@ -1868,12 +1895,12 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>cars are too fast here be ready to WAIT</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 29 Aug 12 21:22:24 +0000">Description written 29.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11294">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Wed, 29 Aug 12 21:22:24 +0000">Description written 29.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11294">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>50.356739981564296,53.42460672295339</coordinates>
 </Point>
-<styleUrl>#placemark-yellow</styleUrl>
+<styleUrl>#placemark-blue</styleUrl>
 </Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="11295">
 <name>a Hitchhiking spot in Russian Federation</name>
 <visibility>1</visibility>
@@ -1940,7 +1967,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>ÑÑŽÐ´Ð° Ð½ÐµÐ¿Ð»Ð¾Ñ…Ð¾ Ð¿Ð¾Ð¿Ð°ÑÑ‚ÑŒ, Ñ‡Ñ‚Ð¾Ð± Ð¾Ñ‚Ð¾Ñ€Ð²Ð°Ñ‚ÑŒÑÑ Ð¾Ñ‚ Ð§ÐµÐ»ÑÐ±Ð¸Ð½ÑÐºÐ°. ÐŸÑ€Ð¸Ð±Ð°Ð²Ð»ÑÐµÑ‚ÑÑ ÑÐµÑ€ÑŒÐµÐ·Ð½Ñ‹Ð¹ Ð¿Ð¾Ñ‚Ð¾Ðº Ñ Ð¾Ð±ÑŠÐµÐ·Ð´Ð½Ð¾Ð¹, Ð½Ð° Ð½ÐµÐ³Ð¾ Ð¸ Ð½ÑƒÐ¶Ð½Ð¾ Ð¾Ñ€Ð¸ÐµÐ½Ñ‚Ð¸Ñ€Ð¾Ð²Ð°Ñ‚ÑŒÑÑ. </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 01 Sep 12 06:57:37 +0000">Description written 1.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11365">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 01 Sep 12 06:57:37 +0000">Description written 1.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11365">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>61.1536445617686,55.00277988674695</coordinates>
@@ -2257,7 +2284,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Police checkpoint, weight control, position illuminated at night, parking of trucks</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 25 Sep 12 07:42:56 +0000">Description written 25.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11684">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 25 Sep 12 07:42:56 +0000">Description written 25.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11684">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>84.81883659362609,55.62351741367425</coordinates>
@@ -2293,7 +2320,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Good spot. You can meet other hitchhakers there.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 28 Oct 12 11:41:45 +0000">Description written 28.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12171">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 28 Oct 12 11:41:45 +0000">Description written 28.10.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12171">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>45.74439668655349,43.29258759052949</coordinates>
@@ -2304,7 +2331,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>This place is good to hichhiking. I did not wait more than 10 minutes and first car stopped in this spot. </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 13 Nov 12 19:18:38 +0000">Description written 13.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12457">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 13 Nov 12 19:18:38 +0000">Description written 13.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12457">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>41.96936988830668,45.19581772398601</coordinates>
@@ -2315,7 +2342,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>I wait more than 30 Minutes. One of truck driver take me up to Taganrog! But here is not very good for hitchhiking. The cars are so fast to stop. But if you have chance, you can meet the traffic jam like me. It's better to stop a car. </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 13 Nov 12 19:23:53 +0000">Description written 13.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12458">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 13 Nov 12 19:23:53 +0000">Description written 13.11.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12458">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.43367385864474,47.283439844443016</coordinates>
@@ -2359,7 +2386,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>point for hiking to east from Perm. You may take bus number 19 from city center for the end of route and after cross under railroad bridge for this point</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 14 Dec 12 18:29:52 +0000">Description written 14.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12663">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Fri, 14 Dec 12 18:29:52 +0000">Description written 14.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12663">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>56.26851582527012,57.940173650292834</coordinates>
@@ -2370,7 +2397,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Good point for a hiking to northern part of Leningrad oblast, south of Karelia and to central and northern parts of Finland cross Vyartsilya border point. For a coming to this point you can take free bus to &quot;Mega&quot;-shopping mall from &quot;prospect prosveshcheniya&quot; subway station</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 14 Dec 12 18:44:16 +0000">Description written 14.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12664">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 14 Dec 12 18:44:16 +0000">Description written 14.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12664">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>30.38206601142535,60.09773734294256</coordinates>
@@ -2388,7 +2415,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>From here you can go towards of Chelyabinsk. Very nice place. Can be reached on 221 bus.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Thu, 20 Dec 12 20:39:14 +0000">Description written 20.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12721">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Thu, 20 Dec 12 20:39:14 +0000">Description written 20.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12721">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>56.23174810409476,54.77724273279381</coordinates>
@@ -2399,7 +2426,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>In the direction of Moscow.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (3 experiences)<br /><span title="Thu, 20 Dec 12 20:43:23 +0000">Description written 20.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12722">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (3 experiences)<br /><span title="Thu, 20 Dec 12 20:43:23 +0000">Description written 20.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12722">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>55.854603438638016,54.80434739248952</coordinates>
@@ -2560,7 +2587,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Hitched here towards Ufa. Got a ride in 20 minutes. There is plenty space for cars to stop and canteen with cheep food if you are hungry.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 09 Jan 17 11:18:50 +0000">Description written 9.1.2017</span><br /><a href="https://hitchwiki.org/maps/?place=13333">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 09 Jan 17 11:18:50 +0000">Description written 9.1.2017</span><br /><a href="https://hitchwiki.org/maps/?place=13333">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>49.33883571624654,55.79360084697202</coordinates>
@@ -2589,7 +2616,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>to Moscow</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 17:29:18 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13387">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 17:29:18 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13387">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.90273857116698,59.172357642728336</coordinates>
@@ -2768,7 +2795,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>dir: Vologda. bus number 93 takes you til the town zoo, from there walk through the huge intersection.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 10 Dec 13 15:32:54 +0000">Description written 10.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13526">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 10 Dec 13 15:32:54 +0000">Description written 10.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13526">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.902663469313374,57.69508637737885</coordinates>
@@ -2779,7 +2806,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>Get to Zaymishe (Ð—Ð°Ð¹Ð¼Ð¸Ñ‰Ðµ) station by train and walk up a staircase leading onto the viaduct. Be aware you'll be hitchhiking on a motorway. There's a gas station a few hundred metres to the north, this might be a much better stop.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:75,25,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 04 Oct 15 11:27:45 +0000">Description written 4.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=13527">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:75,25,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 04 Oct 15 11:27:45 +0000">Description written 4.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=13527">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>48.84785199165237,55.82773015565166</coordinates>
@@ -2846,7 +2873,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>ÐšÐ¾ÑÑ‚Ñ€Ð¾Ð¼Ð° Ð³Ð¾Ñ€Ð¾Ð´ &quot;Ð½Ð° Ð—Ð¾Ð»Ð¾Ñ‚Ð¾Ð¼ ÐºÐ¾Ð»ÑŒÑ†Ðµ&quot;, Ð² ÐµÐ²Ñ€Ð¾Ð¿ÐµÐ¹ÑÐºÐ¾Ð¹ Ñ‡Ð°ÑÑ‚Ð¸Ð Ð¾ÑÑÐ¸Ð¸. ÐšÑ€ÑƒÐ¿Ð½Ñ‹Ð¹ Ð¿Ð¾Ñ€Ñ‚ Ð½Ð° Ð’Ð¾Ð»Ð³Ðµ. ÐÐ´Ð¼Ð¸Ð½Ð¸ÑÑ‚Ñ€Ð°Ñ‚Ð¸Ð²Ð½Ñ‹Ð¹ Ñ†ÐµÐ½Ñ‚Ñ€ ÐšÐ¾ÑÑ‚Ñ€Ð¾Ð¼ÑÐºÐ¾Ð¹ ÐžÐ±Ð»Ð°ÑÑ‚Ð¸.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 04 Dec 15 16:29:29 +0000">Description written 4.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=13536">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 04 Dec 15 16:29:29 +0000">Description written 4.12.2015</span><br /><a href="https://hitchwiki.org/maps/?place=13536">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>40.837638616562046,57.73847637222365</coordinates>
@@ -2997,7 +3024,7 @@ It has never taken me more that 15 min to lift.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>to Perm</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 20 Jun 13 20:02:16 +0000">Description written 20.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13557">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 20 Jun 13 20:02:16 +0000">Description written 20.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13557">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>53.464169740676645,56.91813633396178</coordinates>
@@ -3139,7 +3166,7 @@ It has never taken me more that 15 min to lift.</p>
 <description><![CDATA[<p>weird to see that this spot is marked as good :D
 I waited for more than 3 hours for a lift...as well as two other hitchhikers a few hundred metres in front of me. Worst point in russia so far. It doesn't make sense to walk on as well, because there won't come a better spot.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,0,0,0,20&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Mon, 03 Aug 15 11:45:01 +0000">Description written 3.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=13692">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,0,0,0,20&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (1 experience)<br /><span title="Mon, 03 Aug 15 11:45:01 +0000">Description written 3.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=13692">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>73.43412780761902,54.89272371794854</coordinates>
@@ -3152,7 +3179,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 
 <p>Ð”Ð°Ð³ÐµÑÑ‚Ð°Ð½ Ð½Ðµ Ð½Ð°ÑÑ‚Ð¾Ð»ÑŒÐºÐ¾ Ð¿Ð»Ð¾Ñ…, ÐºÐ°Ðº Ð½Ð°Ð¼ ÑÐ¾Ð¾Ð±Ñ‰Ð°ÑŽÑ‚ Ð¼Ð°ÑÑ-Ð¼ÐµÐ´Ð¸Ð°. ÐÐ¾ Ð°Ð²Ñ‚Ð¾ÑÑ‚Ð¾Ð¿Ð¸Ñ‚ÑŒ Ñ‚Ð°Ð¼ Ð½Ðµ Ð¿Ñ€Ð¸Ð½ÑÑ‚Ð¾. Ð›ÑƒÑ‡ÑˆÐµ Ð¿Ð¾Ð·Ð½Ð°ÐºÐ¾Ð¼Ð¸Ñ‚ÑŒÑÑ Ñ ÐºÐµÐ¼-Ð½Ð¸Ð±ÑƒÐ´ÑŒ Ð¸Ð· Ð¼ÐµÑÑ‚Ð½Ñ‹Ñ…, Ð¿Ñ€Ð¸Ð¼ÑƒÑ‚ Ð² Ð»ÑƒÑ‡ÑˆÐ¸Ñ… Ñ‚Ñ€Ð°Ð´Ð¸Ñ†Ð¸ÑÑ… Ð²Ð¾ÑÑ‚Ð¾Ñ‡Ð½Ð¾Ð³Ð¾ Ð³Ð¾ÑÑ‚ÐµÐ¿Ñ€Ð¸Ð¸Ð¼ÑÑ‚Ð²Ð° (Ð½Ðµ Ð´Ð»Ñ ÐºÑ€Ð°ÑÐ½Ð¾Ð³Ð¾ ÑÐ»Ð¾Ð²Ñ†Ð°), Ð¿Ñ€Ð¸Ð³Ð»Ð°ÑÑÑ‚ Ð½Ð° ÑƒÐ¶Ð¸Ð½, Ð²Ð¾Ð·Ð¼Ð¾Ð¶Ð½Ð¾ Ð¿Ñ€Ð¾ÐºÐ°Ñ‚ÑÑ‚ Ð²Ð´Ð¾Ð»ÑŒ Ð±ÐµÑ€ÐµÐ³Ð°, Ð·Ð°Ð±ÐµÑÐ¿Ð»Ð°Ñ‚Ð½Ð¾. Ð•ÑÐ»Ð¸ ÑƒÐ²Ð°Ð¶Ð°Ñ‚ÑŒ Ð¸ÑÐ»Ð°Ð¼ÑÐºÐ¸Ðµ Ñ‚Ñ€Ð°Ð´Ð¸Ñ†Ð¸Ð¸ Ñ€ÐµÐ³Ð¸Ð¾Ð½Ð° Ð¸ Ð¿Ð¾Ð´Ñ€ÑƒÐ¶Ð¸Ñ‚ÑŒÑÑ Ñ Ð»ÑŽÐ´ÑŒÐ¼Ð¸, Ñ‚Ð¾ ÑÑ‚Ð¾ Ñ…Ð¾Ñ€Ð¾ÑˆÐ¸Ð¹ Ñ€ÐµÐ³Ð¸Ð¾Ð½ Ð´Ð»Ñ Ð¿ÑƒÑ‚ÐµÑˆÐµÑÑ‚Ð²Ð¸Ð¹. ÐÐ¾ Ð²ÑÑ‘ Ð¶Ðµ, Ñ Ð±Ñ‹ Ð¸Ð·Ð±ÐµÐ³Ð°Ð» Ð¸Ð·Ð»Ð¸ÑˆÐ½ÐµÐ³Ð¾ Ð¾Ð±Ñ‰ÐµÐ½Ð¸Ñ Ñ Ð¿Ð¾Ð»Ð¸Ñ†Ð¸ÐµÐ¹, Ð½Ð° Ñ‚Ñ€Ð°ÑÑÐµ ÐµÑÑ‚ÑŒ Ð½ÐµÑÐºÐ¾Ð»ÑŒÐºÐ¾ ÑÑ‚Ð°Ñ†Ð¸Ð¾Ð½Ð°Ñ€Ð½Ñ‹Ñ… Ð¿Ð¾ÑÑ‚Ð¾Ð², Ð¸ Ð¼Ð½Ð¾Ð³Ð¾ Ð¿Ð°Ñ‚Ñ€ÑƒÐ»ÐµÐ¹ Ð² Ð³Ð¾Ñ€Ð¾Ð´ÑÐºÐ¾Ð¹ Ñ‡ÐµÑ€Ñ‚Ðµ.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 13 May 13 17:42:16 +0000">Description written 13.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14009">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 13 May 13 17:42:16 +0000">Description written 13.5.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14009">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>47.60733032226591,42.80858229635419</coordinates>
@@ -3433,7 +3460,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>Border, a lot of taxis</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Jun 13 00:03:30 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14436">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Jun 13 00:03:30 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14436">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>48.409332275388586,41.643241711499776</coordinates>
@@ -3455,7 +3482,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>Direction: Volgograd, Moscow</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:06:58 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14438">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:06:58 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14438">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>44.25993347167695,46.33847327153488</coordinates>
@@ -3534,7 +3561,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>The best point for hiking to Saint-Petersburg from Moscow, IMHO, take free bus from Rechnoy vokzal metro station to &quot;Kapitoliy&quot; shopping mall, go under the Moscow ring road, it's from the right side of &quot;Kapitoliy&quot; and you'll on the bus stop Butakovo (Ð‘ÑƒÑ‚Ð°ÐºÐ¾Ð²Ð¾ on Russian). Or another way: take suburban train (16,5 roubles) from Petrovsko-Razumovskaya station in Moscow to Khimki and just go to the left side from the station. Try to hike, but only with sigh with place where you would like to go.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 18 Jun 13 00:21:26 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14447">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 18 Jun 13 00:21:26 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14447">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.44126462936289,55.88501521090237</coordinates>
@@ -3567,7 +3594,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>to Moscow, Yakutsk</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:29:15 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14450">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:29:15 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14450">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>150.83175802230508,59.58807719985083</coordinates>
@@ -3578,7 +3605,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>to Magadan</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:31:06 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14451">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:31:06 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14451">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>129.9403753280514,61.98066814015352</coordinates>
@@ -3589,7 +3616,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>to Moscow, Vladivostok</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:31:44 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14452">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 18 Jun 13 00:31:44 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14452">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>129.90363979338062,61.93579861507942</coordinates>
@@ -3810,7 +3837,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>to Arkhangelsk</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 18 Jun 13 17:30:46 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14480">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Tue, 18 Jun 13 17:30:46 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14480">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.91943264007544,59.28347953115512</coordinates>
@@ -3843,7 +3870,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>to Spb</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Jun 13 17:34:46 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14483">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Jun 13 17:34:46 +0000">Description written 18.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14483">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>36.396876811981606,61.00475610039067</coordinates>
@@ -4094,7 +4121,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>Close to a hotel where the truck drivers sleep, , with space for the cars to stop.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:34:34 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14843">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:34:34 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14843">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>128.65331196785317,50.87601885235628</coordinates>
@@ -4105,7 +4132,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>Very good place to hitchhike, the only problem is the fluency of the traffic in this area, that's why we were so much time.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:37:21 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14844">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:37:21 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14844">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>127.73508644104,52.03047152436411</coordinates>
@@ -4116,7 +4143,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>Very good place to hitchhike, in the entrance to this town. The fluenty f the traffic in this area is what makes you been waiting more than expected.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:39:56 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14845">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:39:56 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14845">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>125.83016014096992,53.49655648270375</coordinates>
@@ -4149,7 +4176,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>It' s very good place to hitchhike in Chita direction. Because the most of the people who pass over it goes straight to Chita, so we get direct lift to that city in just 30 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:43:22 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14848">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 09 Jul 13 07:43:22 +0000">Description written 9.7.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14848">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>124.81720781327644,53.709582739874975</coordinates>
@@ -4185,7 +4212,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 <visibility>1</visibility>
 <description><![CDATA[<p>There is a gas station nearby if you want to wait or ask the drivers. Also the woods between the road and the railway is good for camping at night.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (2 experiences)<br /><span title="Wed, 09 Apr 14 17:10:23 +0000">Description written 9.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=15032">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (2 experiences)<br /><span title="Wed, 09 Apr 14 17:10:23 +0000">Description written 9.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=15032">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>97.91527175904847,55.9717481581632</coordinates>
@@ -4297,7 +4324,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 
 <p>you can get there from pskov with the bus number 4 or 4a, it will let you on leningradskoe shosse with krestovskoe shosse, then you have to walk by the leningradskoe shosse to the north like 10 or 15 min</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 16 Sep 13 15:24:10 +0000">Description written 16.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16026">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 16 Sep 13 15:24:10 +0000">Description written 16.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16026">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.43039417266528,57.80965442862641</coordinates>
@@ -4310,7 +4337,7 @@ I waited for more than 3 hours for a lift...as well as two other hitchhikers a f
 the first driver which i asked droped me in moscow
 Ð¼Ð½Ðµ Ð¿Ð¾Ð²ÐµÐ·Ð»Ð¾!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 16 Sep 13 15:59:37 +0000">Description written 16.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16031">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Mon, 16 Sep 13 15:59:37 +0000">Description written 16.9.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16031">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>30.417535543440927,59.79087037218469</coordinates>
@@ -4441,7 +4468,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>dir: Yaroslavl, Vologda. not the best place, but i went just by the map, however it worked. get here with elektrichka from yaroslavsky vokzal. from the station zelenogradskaya it's a 20 mins walk + need to cross the highway!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 10 Dec 13 15:29:53 +0000">Description written 10.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16974">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Tue, 10 Dec 13 15:29:53 +0000">Description written 10.12.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16974">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.909749984741566,56.075092599627766</coordinates>
@@ -4463,7 +4490,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>Too many locals, but good starting point to Estonia. Huge traffic, nice position after traffic lights. Got 3 cars in 5 minutes</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Sat, 18 Jan 14 20:32:34 +0000">Description written 18.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17291">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (2 experiences)<br /><span title="Sat, 18 Jan 14 20:32:34 +0000">Description written 18.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17291">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.256737232210078,57.80431565160668</coordinates>
@@ -4474,7 +4501,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>Very slow, and too many locals. Worth trying to catch someone to at least Pskov on the nearest gasoline station</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (2 experiences)<br /><span title="Sat, 18 Jan 14 20:38:42 +0000">Description written 18.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17292">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 3h (2 experiences)<br /><span title="Sat, 18 Jan 14 20:38:42 +0000">Description written 18.1.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17292">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>29.388844013216467,56.31971127282641</coordinates>
@@ -4503,7 +4530,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>You can get to Mamonovo by bus from Kaliningrad. But be careful!!! It is some kind of a restricted border zone so you need some official permit for entering it (you would be informed by military men who stop you in the street. And they don't care that it is the first time you here about this rubbish). Still they allow hitchhiking just before the border crossing. A lot of Poles going across the border. But it can take some hours to cross. And be carefull!!! Russians can demand money at the border crossing </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Sun, 09 Feb 14 15:10:47 +0000">Description written 9.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17422">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Sun, 09 Feb 14 15:10:47 +0000">Description written 9.2.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17422">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.905539989470967,54.44095136382873</coordinates>
@@ -4514,12 +4541,12 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>Take a bus or walk to &quot;Berezovka&quot;. Most vehicles here are going to Kansk.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Wed, 09 Apr 14 17:06:51 +0000">Description written 9.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17982">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Wed, 09 Apr 14 17:06:51 +0000">Description written 9.4.2014</span><br /><a href="https://hitchwiki.org/maps/?place=17982">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>93.13141250609806,56.02339499500298</coordinates>
 </Point>
-<styleUrl>#placemark-blue</styleUrl>
+<styleUrl>#placemark-yellow</styleUrl>
 </Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="18034">
 <name>a Hitchhiking spot in Ivolginsk, Russian Federation</name>
 <visibility>1</visibility>
@@ -4631,7 +4658,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>From subway station &quot;Shosse Entusiasov&quot; walk 5-10 min.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 04 Aug 14 09:05:09 +0000">Description written 4.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19563">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Mon, 04 Aug 14 09:05:09 +0000">Description written 4.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19563">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>37.76233329772977,55.760184845323685</coordinates>
@@ -4729,7 +4756,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>Bad place for HH to south. You should better try to get to Bataisk by train or bus, and try HH from there</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 28 Nov 14 19:06:03 +0000">Description written 28.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20945">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,100,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 28 Nov 14 19:06:03 +0000">Description written 28.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20945">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.71574974060313,47.20242670108615</coordinates>
@@ -4740,7 +4767,7 @@ the first driver which i asked droped me in moscow
 <visibility>1</visibility>
 <description><![CDATA[<p>A horrible place! Dont even try! We was waiting near 2 hours in the snow winter, and no one from hundreds cars stoped! </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 28 Nov 14 19:09:13 +0000">Description written 28.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20946">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Fri, 28 Nov 14 19:09:13 +0000">Description written 28.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20946">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.728152275087915,47.20167589983591</coordinates>
@@ -4828,7 +4855,7 @@ the first driver which i asked droped me in moscow
 <description><![CDATA[<p>Best hitchhiking spot in Moscow direction. Cars are moving slowly after the traffic lights.
 From railway station take a trolleybus #10 till the last stop. Or take bus#22 till stop named &quot;Avtorynok moskovkiy&quot;. Walk a bit to pass a gas station and you're on the spot!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,25,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (2 experiences)<br /><span title="Tue, 17 Mar 15 11:03:19 +0000">Description written 17.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21767">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,25,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 35min (2 experiences)<br /><span title="Tue, 17 Mar 15 11:03:19 +0000">Description written 17.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21767">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>43.79632973670907,56.31085104673007</coordinates>
@@ -4912,7 +4939,7 @@ Although it's still in the city, but the place is good.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>from Moscow to Piter</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 20 Jun 15 14:08:37 +0000">Description written 20.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22864">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 20 Jun 15 14:08:37 +0000">Description written 20.6.2015</span><br /><a href="https://hitchwiki.org/maps/?place=22864">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>36.960256040096255,56.19863846429798</coordinates>
@@ -4935,7 +4962,7 @@ Although it's still in the city, but the place is good.</p>
 <Point>
 	<coordinates>31.83651262521835,58.418712768231764</coordinates>
 </Point>
-<styleUrl>#placemark-green</styleUrl>
+<styleUrl>#placemark-yellow</styleUrl>
 </Placemark><Placemark xmlns="http://www.opengis.net/kml/2.2" id="22867">
 <name>a Hitchhiking spot in Rostov-on-Don, Russian Federation</name>
 <visibility>1</visibility>
@@ -4990,7 +5017,7 @@ Although it's still in the city, but the place is good.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>I stayed somewhere here in front of a cementary to hitchhike on to St. Petersburg. Like most controlled border areas it wasn't too good. I guess it took me about 45 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Thu, 09 Jul 15 13:54:13 +0000">Description written 9.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23054">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 33min (2 experiences)<br /><span title="Thu, 09 Jul 15 13:54:13 +0000">Description written 9.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23054">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.231091471578644,59.37686859414647</coordinates>
@@ -5046,7 +5073,7 @@ I didn't have to wait for more than 10 minutes.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>got dropped of at the wrong side of vladimir while hitchhiking to Nizhny Novgorod. Tried to make my way through the city. At this point I gave it a try for approximately an hour but didn't manage to get a ride. Continued walking and somewhere further up a girl drove me to the exit of vladimir just to be nice :)</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 09 Jul 15 15:30:45 +0000">Description written 9.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23060">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 09 Jul 15 15:30:45 +0000">Description written 9.7.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23060">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>40.34227922977343,56.12258781470155</coordinates>
@@ -5220,7 +5247,7 @@ On google maps It seems like the stop is 100 meter further west which is wrong a
 <visibility>1</visibility>
 <description><![CDATA[<p>Good place if you go to south,early morning will be better time</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 04 Sep 15 19:09:27 +0000">Description written 4.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23940">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,0,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Fri, 04 Sep 15 19:09:27 +0000">Description written 4.9.2015</span><br /><a href="https://hitchwiki.org/maps/?place=23940">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.73786854744276,47.183764744744224</coordinates>
@@ -5260,7 +5287,7 @@ On google maps It seems like the stop is 100 meter further west which is wrong a
 <visibility>1</visibility>
 <description><![CDATA[<p>Got here by bus (don't remember the number) from the city centre. Great spot, a lot of slow traffic, gas station, room to pull over.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Sun, 04 Oct 15 11:36:42 +0000">Description written 4.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24298">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Sun, 04 Oct 15 11:36:42 +0000">Description written 4.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=24298">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>53.158945083617915,56.79187373577383</coordinates>
@@ -5377,7 +5404,7 @@ On google maps It seems like the stop is 100 meter further west which is wrong a
 <visibility>1</visibility>
 <description><![CDATA[<p>Well as mention on the previous point at the border , ive been walking from the border to her than i stand their for about 15/20 min and a trucker stoped and took me all the way to moscow ! So i guess not bad after all ! </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 02 Apr 16 17:17:22 +0000">Description written 2.4.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25381">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 02 Apr 16 17:17:22 +0000">Description written 2.4.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25381">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>28.4719737768196,56.37477228895379</coordinates>
@@ -5532,7 +5559,7 @@ Cars go slowly after the traffic lights.</p>
 <visibility>1</visibility>
 <description><![CDATA[<p>ÐžÑ‡ÐµÐ½ÑŒ Ð¿Ð»Ð¾Ñ…Ð¾Ðµ  Ð¼ÐµÑÑ‚Ð¾</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Fri, 10 Jun 16 13:42:36 +0000">Description written 10.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25520">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 30min (1 experience)<br /><span title="Fri, 10 Jun 16 13:42:36 +0000">Description written 10.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=25520">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>39.129278004169954,45.03373509820432</coordinates>
@@ -5937,7 +5964,7 @@ eastern part of bypass road is terrible, cars never stop, because almost all of 
 
 <p>ÐÐµÐ¿Ð»Ð¾Ñ…Ð¾Ðµ Ð¼ÐµÑÑ‚Ð¾ Ð´Ð»Ñ ÑÑ‚Ð¾Ð¿Ð° Ð² ÑÑ‚Ð¾Ñ€Ð¾Ð½Ñƒ ÐŸÐµÑ‚ÐµÑ€Ð±ÑƒÑ€Ð³Ð°: Ð¼Ð½Ð¾Ð³Ð¾ Ð´Ð°Ð»ÑŒÐ½Ð¸Ñ… Ð¼Ð°ÑˆÐ¸Ð½, 500Ð¼ Ð¾Ñ‚ Ð¿Ð». ÐŸÑƒÑ‚ÐµÐ¿Ñ€Ð¾Ð²Ð¾Ð´Ð½Ð°Ñ, Ð²ÑÐµÐ³Ð´Ð° ÑƒÐµÐ·Ð¶Ð°Ð» Ð¼ÐµÐ½ÐµÐµ Ñ‡ÐµÐ¼ Ð·Ð° 15 Ð¼Ð¸Ð½ÑƒÑ‚</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (1 vote)<br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 04 Sep 16 22:45:40 +0000">Description written 4.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27377">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Sun, 04 Sep 16 22:45:40 +0000">Description written 4.9.2016</span><br /><a href="https://hitchwiki.org/maps/?place=27377">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>36.55276904106162,56.49907489338071</coordinates>
@@ -5956,5 +5983,7 @@ eastern part of bypass road is terrible, cars never stop, because almost all of 
 	<coordinates>43.92979645729135,56.21472647895523</coordinates>
 </Point>
 <styleUrl>#placemark-green</styleUrl>
-</Placemark></Document>
+</Placemark></Folder>
+	</Folder>
+</Document>
 </kml>

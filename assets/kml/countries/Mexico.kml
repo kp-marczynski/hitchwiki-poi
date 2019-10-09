@@ -1,15 +1,42 @@
-<kml xmlns="https://earth.google.com/kml/2.2">
-  <Document>
-    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
-    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
-    <name>Mexico</name><visibility>1</visibility>
-  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="2843">
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Mexico</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+		<LabelStyle><scale>-1</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  		<LabelStyle><scale>-1</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="2843">
 <name>a Hitchhiking spot in El Sauzal, Mexico</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>Waited ages here - north Mexico is just not good hitching territory :</p>
@@ -43,7 +70,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>This was my first hitch spot in Mexico.  I think I walked for maybe five minutes before I was picked up to get back to San CristÃ³bal.  Little buses (colectivos) came by constantly too, but putting my thumb down when they went by saved me 10 pesos in the end.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 16 Jan 11 09:23:15 +0000">Description written 16.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7205">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 16 Jan 11 09:23:15 +0000">Description written 16.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7205">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-92.581180036824,16.675642845085</coordinates>
@@ -54,7 +81,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>Thatâ€™s a good spot if you want to hitch from Mexico to the south of the republic (directions: Cuernavaca, Tepoztlan, Oaxtepec, Chilpancingo, Acapulco). Thereâ€™s a toll where you can ask for a raid but if itâ€™s not possible, you go walking 200 meters from the toll to a bar next to the road, in your right hand. In that place youâ€™re going to find a  painted white shadow (my own shadow with the thumb up) on the asphalt, this is an art project Iâ€™ve been working in Mexico City, painting different  shadows in all the right places to get out from the city. If you want to know more info about this, you can contact with me: aniol.macau@gmail.com THANKS! and good trip!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 16 Oct 11 03:06:21 +0000">Description written 16.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8869">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 16 Oct 11 03:06:21 +0000">Description written 16.10.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8869">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-99.148009092522,19.240889780178</coordinates>
@@ -78,7 +105,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>We got a ride to Merida in 5 minutes. A good place to hitch, although no shade, very easy to arrive from the center of Campeche and good stream of cars</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 25 Oct 15 02:46:14 +0000">Description written 25.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=9326">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sun, 25 Oct 15 02:46:14 +0000">Description written 25.10.2015</span><br /><a href="https://hitchwiki.org/maps/?place=9326">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-90.418716430657,19.91310379128</coordinates>
@@ -133,7 +160,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>Militar check point makes people feel safe about stoping, there is usually people asking ride to Puerto Vallarta, and Tepic. There is a Guadalajara Bus Route that can take you here, is signs &quot;Bosque&quot; It also leaves you in the entrance to the Bosque Primavera, great place for camping.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:24:31 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11505">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:24:31 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11505">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-103.57291316988866,20.73046396715001</coordinates>
@@ -177,7 +204,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>Cars go by really fast, but it's the most important route in between Mexico city and Guadalajara, the two biggest cities in MÃ©xico, so, although you might have to wait a little bit, the next ride might take you all the way.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:36:24 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11509">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:36:24 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11509">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-101.14568567276164,19.89805273170928</coordinates>
@@ -210,7 +237,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>When going to Guanajuato or Dolores Hidalgo, this is the place.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:40:27 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11512">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:40:27 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11512">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-100.75103616714452,20.934652280107105</coordinates>
@@ -232,7 +259,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>This whole area has several bumps where cars slow down. It's also common to find students hitchhiking</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:44:00 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11514">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 08 Sep 12 08:44:00 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11514">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-101.28101921081272,20.976442409468945</coordinates>
@@ -265,7 +292,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>Militar check point right before entering Michoacan from Guanajuato, where people feel safe to stop, and usually have to slow down.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 08 Sep 12 08:48:16 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11517">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 08 Sep 12 08:48:16 +0000">Description written 8.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11517">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-101.15594244003591,20.08564445819412</coordinates>
@@ -375,7 +402,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>There was and still might be a military checkpoint here. They will stop cars for you and ask drivers to take you with them. When coming from San Ignacio, it's quite a bit to walk, but if you didn't get a lift before, here you will.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Sep 12 19:52:05 +0000">Description written 18.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11611">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Tue, 18 Sep 12 19:52:05 +0000">Description written 18.9.2012</span><br /><a href="https://hitchwiki.org/maps/?place=11611">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-112.90820217132249,27.299872444146303</coordinates>
@@ -408,7 +435,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>Freight train towards Orizaba / Vera Cruz. If you have the time it's definitely worth the wait! Stand just to the east of this point next to the tracks and look for the &quot;Ferrosur&quot; locomotive heading away (east) from the yard - there are normally 2 a day, early and late. Chances are there will be other people there waiting for the train, feel free to talk to them. The ride takes about 8 hours and get's a bit cold at night (December).. no problems with police or rail employees - quite the opposite! Also, if you have to wait over night you can camp right next to the tracks and not have to worry about banditos or policia!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 06 Dec 12 19:04:28 +0000">Description written 6.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12610">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 06 Dec 12 19:04:28 +0000">Description written 6.12.2012</span><br /><a href="https://hitchwiki.org/maps/?place=12610">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-98.18175888061836,19.07583274522277</coordinates>
@@ -483,7 +510,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>this rating is for the Central de Abastos near Iztapalapa, SE of downtown.  It can be a good place to catch long rides with truckers if you speak good Spanish or maybe are a good looking gringa!  Check out the Pension (tractor trailer parking lot) to chat up drivers.  However, many of them stay here for days or weeks at a time.  So, while you might get lucky, it is much easier to catch rides out on the freeway.  take a bus to the Cuota if you're headed on 57 towards Queretaro.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 09 Oct 13 20:19:33 +0000">Description written 9.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12792">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Wed, 09 Oct 13 20:19:33 +0000">Description written 9.10.2013</span><br /><a href="https://hitchwiki.org/maps/?place=12792">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-98.98974215985878,19.35372475327024</coordinates>
@@ -505,7 +532,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 <visibility>1</visibility>
 <description><![CDATA[<p>Direction Coba, we got a lift very fast and the next time we've seen some people to Valladolid, 2 cars stopped to Coba within 15 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 27 Feb 13 22:16:57 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13144">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,33.333333333333,33.333333333333,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Wed, 27 Feb 13 22:16:57 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13144">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-87.45367920399269,20.214613377770977</coordinates>
@@ -518,7 +545,7 @@ If you want to know more info about this, you can contact with me: aniol.macau@g
 
 <p>On the other side of the roundabout we got lift to tulum in less than 1/2 hour</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Wed, 27 Feb 13 22:19:53 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13146">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (2 experiences)<br /><span title="Wed, 27 Feb 13 22:19:53 +0000">Description written 27.2.2013</span><br /><a href="https://hitchwiki.org/maps/?place=13146">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-87.71892285346952,20.50894798340417</coordinates>
@@ -615,7 +642,7 @@ On that big road (the hwy to the East), go left, crossing Av.Patria, still walki
 
 <p>Tomas un bus hacia la nueva central camionera, a fuera hay un soriana, pues en esa carretera principal vas hacia la izquierda (como volviendo a Gdl), cruzarÃ¡s Av.Patria, y en seguida llegarÃ¡s a una gasolinera Pemex</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Mon, 05 Aug 13 23:42:57 +0000">Description written 5.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14111">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 45min (1 experience)<br /><span title="Mon, 05 Aug 13 23:42:57 +0000">Description written 5.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14111">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-103.25362300872584,20.61720572811117</coordinates>
@@ -747,7 +774,7 @@ On that big road (the hwy to the East), go left, crossing Av.Patria, still walki
 <visibility>1</visibility>
 <description><![CDATA[<p>Police checkpoint. Take colectivo going to Mazatan to get here.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 12 Aug 13 18:26:57 +0000">Description written 12.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15590">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Mon, 12 Aug 13 18:26:57 +0000">Description written 12.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15590">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-92.3382554054313,14.91404288990283</coordinates>
@@ -791,7 +818,7 @@ On that big road (the hwy to the East), go left, crossing Av.Patria, still walki
 
 <p>Tomas un bus hacia la nueva central camionera, a fuera hay un soriana, pues en esa carretera principal vas hacia la izquierda (como volviendo a Gdl), cruzarÃ¡s Av.Patria, y en seguida llegarÃ¡s a una gasolinera Pemex</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 11min (5 experiences)<br /><span title="Sun, 03 Nov 13 05:10:39 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16667">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 11min (5 experiences)<br /><span title="Sun, 03 Nov 13 05:10:39 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16667">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-103.29111301898227,20.62783306598742</coordinates>
@@ -830,7 +857,7 @@ I wait like 15 min.</p>
 <description><![CDATA[<p>After the police filter you can get car to Bacalar, Chetumal and, even, Palenque.
 I wait 2 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Mon, 30 Jun 14 01:32:15 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19101">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Mon, 30 Jun 14 01:32:15 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19101">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-87.47357583045967,20.207772026439173</coordinates>
@@ -853,7 +880,7 @@ I wait 2 minutes.</p>
 <description><![CDATA[<p>Point ro go in direction to Escarcega or Palenque. 
 Sometimes the cars go very fast, but ypu can get pick up that stop in little towns.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 30 Jun 14 01:39:08 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19103">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Mon, 30 Jun 14 01:39:08 +0000">Description written 30.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19103">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-88.46747374534563,18.52672116013811</coordinates>
@@ -886,7 +913,7 @@ Sometimes the cars go very fast, but ypu can get pick up that stop in little tow
 <visibility>1</visibility>
 <description><![CDATA[<p>There's a gas station with a Subway and an Oxxo, many cars stop here before heading to Aguascalientes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 26 Oct 14 00:52:17 +0000">Description written 26.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20710">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 26 Oct 14 00:52:17 +0000">Description written 26.10.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20710">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-102.46402359008975,22.751038411704286</coordinates>
@@ -899,7 +926,7 @@ Sometimes the cars go very fast, but ypu can get pick up that stop in little tow
 
 <p>Both cars and trucks can easily stop on the side of the road.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 14 Nov 14 20:16:18 +0000">Description written 14.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20845">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Fri, 14 Nov 14 20:16:18 +0000">Description written 14.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20845">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-101.16121339798678,20.1019584772046</coordinates>
@@ -979,7 +1006,7 @@ There are two or three bigger ones up north on this same road, so from here your
 <visibility>1</visibility>
 <description><![CDATA[<p>Got my ride within 3 minutes!</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 19 Mar 15 02:43:35 +0000">Description written 19.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21800">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Thu, 19 Mar 15 02:43:35 +0000">Description written 19.3.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21800">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>-92.1525526046768,16.26324137756166</coordinates>
@@ -1271,5 +1298,7 @@ If you get stuck, an intercity bus from TRV company going further towards Las Vi
 	<coordinates>-87.46580815315035,20.127667114728148</coordinates>
 </Point>
 <styleUrl>#placemark-blue</styleUrl>
-</Placemark></Document>
+</Placemark></Folder>
+	</Folder>
+</Document>
 </kml>

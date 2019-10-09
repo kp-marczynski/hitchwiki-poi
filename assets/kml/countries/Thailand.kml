@@ -1,15 +1,42 @@
-<kml xmlns="https://earth.google.com/kml/2.2">
-  <Document>
-    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
-    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
-    <name>Thailand</name><visibility>1</visibility>
-  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4463">
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Thailand</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+		<LabelStyle><scale>-1</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  		<LabelStyle><scale>-1</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="4463">
 <name>a Hitchhiking spot in Kathu, Thailand</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>Phuket is easy place to hh</p>
@@ -36,7 +63,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>Bangkok is pretty hard</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4465">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4465">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>100.558891296387,13.8404134306702</coordinates>
@@ -83,7 +110,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>no cars on the road</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4470">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4470">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>105.641784667969,15.8292509533014</coordinates>
@@ -114,7 +141,7 @@
 
 <p>You can hitchhike earlier in Pai too, but just after the crossroad is good since you get traffic from both roads.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,20,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 07 Jul 11 07:43:07 +0000">Description written 7.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8098">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:80,20,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Thu, 07 Jul 11 07:43:07 +0000">Description written 7.7.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8098">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>98.433067622677,19.345627167931</coordinates>
@@ -147,7 +174,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>Getting out of Bangkok is something of a nightmare, but if you can get anywhere along this road, you're in for a treat.  Super fast pick-ups from lovely people.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,33.333333333333,16.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|2|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 15 Nov 16 07:42:23 +0000">Description written 15.11.2016</span><br /><a href="https://hitchwiki.org/maps/?place=10133">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,33.333333333333,16.666666666667,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|2|0|3|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Tue, 15 Nov 16 07:42:23 +0000">Description written 15.11.2016</span><br /><a href="https://hitchwiki.org/maps/?place=10133">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>100.45735144616,13.672441645573</coordinates>
@@ -171,7 +198,7 @@
 
 <p>This road leads to Pai and Mae Hong Son. If you are there in the morning, a ride will be no problem in a pick up truck.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 05 Apr 15 13:31:27 +0000">Description written 5.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21952">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 05 Apr 15 13:31:27 +0000">Description written 5.4.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21952">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>98.93404448029091,19.074215458073162</coordinates>
@@ -234,5 +261,7 @@
 	<coordinates>102.54127914903916,13.666494727286683</coordinates>
 </Point>
 <styleUrl>#placemark-green</styleUrl>
-</Placemark></Document>
+</Placemark></Folder>
+	</Folder>
+</Document>
 </kml>

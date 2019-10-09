@@ -1,20 +1,47 @@
-<kml xmlns="https://earth.google.com/kml/2.2">
-  <Document>
-    <Style id="placemark-blue"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-blue.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-brown"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-brown.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-green"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-green.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-orange"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-orange.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-pink"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-pink.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-purple"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-purple.png</href></Icon></IconStyle>
-    </Style><Style id="placemark-red"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-red.png</href></Icon></IconStyle></Style>
-    <Style id="placemark-yellow"><IconStyle><Icon><href>https://mapswith.me/placemarks/placemark-yellow.png</href></Icon></IconStyle></Style>
-    <name>Montenegro</name><visibility>1</visibility>
-  <Placemark xmlns="http://www.opengis.net/kml/2.2" id="4606">
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+	<name>Montenegro</name>
+	<visibility>1</visibility>
+	<Style id="placemark-blue">
+		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle>
+		<LabelStyle><scale>-1</scale></LabelStyle>
+	</Style>
+	<Style id="placemark-green">
+  		<IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle>
+  		<LabelStyle><scale>-1</scale></LabelStyle>
+  	</Style>
+  	<Style id="placemark-yellow">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/ylw-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-red">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/red-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-brown">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-purple">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/purple-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-orange">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/orange-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+    <Style id="placemark-pink">
+        <IconStyle><Icon><href>http://maps.google.com/mapfiles/kml/paddle/pink-circle.png</href></Icon></IconStyle>
+        <LabelStyle><scale>-1</scale></LabelStyle>
+    </Style>
+	<Folder>
+		<Folder id="placemark-root">
+		<Placemark xmlns="http://www.opengis.net/kml/2.2" id="4606">
 <name>a Hitchhiking spot in Tivat, Montenegro</name>
 <visibility>1</visibility>
 <description><![CDATA[<p>The whole coast line of Montenegro is a nice place for hitch-hiking. Not a problem at all...Even if nobody stops for a long time, there are buses passing by and you can try to negotiate for the price :)</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4606">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=4606">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.6994171142578,42.4872892856591</coordinates>
@@ -25,7 +52,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>direction to Albania. Great HH point. You can get there by bus pendling form the town to Great beach. Just tell him to stop by tankstation and then walk a bit to the north-east</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,40,20,40,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 38min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4691">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,40,20,40,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 38min (2 experiences)<br /><a href="https://hitchwiki.org/maps/?place=4691">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.2317819595337,41.9278568539732</coordinates>
@@ -36,7 +63,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>Best place to go to Budva. A lot of local hitchhicker use this place too.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,75,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 17min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6406">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:25,75,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 17min (3 experiences)<br /><a href="https://hitchwiki.org/maps/?place=6406">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.9302587509155,42.3865472941271</coordinates>
@@ -47,7 +74,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>Perfect for going around the bay. Try to get to Kamenari at least, there is a ferry which is free for pedestrians.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5788">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><a href="https://hitchwiki.org/maps/?place=5788">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.5591053962708,42.4551277296007</coordinates>
@@ -58,7 +85,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>Best place when going to Cetinje or Podgorica. All the local hitchhikers use that place too.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (9 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:55.555555555556,33.333333333333,0,11.111111111111,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 9min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5786">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (9 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:55.555555555556,33.333333333333,0,11.111111111111,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|5|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 9min (4 experiences)<br /><a href="https://hitchwiki.org/maps/?place=5786">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.8583755493164,42.2828891097019</coordinates>
@@ -69,7 +96,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>this is a marker for a ferry between Lepetane and Kamenari. The ferry charges cars but it\'s free for passengers. You can load on the ferry while it\'s waiting for the cars to load (usually 15minutes). Ferry ride is very short, few minutes. Ferry works both ways between this places. It is extremely easy once you are on the ferry, to ask any driver who\'s in a car to give you a ride either towards the border with Croatia or backwards to Kotor/Budva. Recently, a new road up to Zabljak/Durmitor rises from Risan, and you can ask drivers around and find those too. Very good spot (the ferry board).</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|6|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (4 experiences)<br /><span title="Mon, 10 Jan 11 14:13:12 +0000">Description written 10.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7184">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|6|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (4 experiences)<br /><span title="Mon, 10 Jan 11 14:13:12 +0000">Description written 10.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7184">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.681015014317,42.46616563521</coordinates>
@@ -80,7 +107,7 @@
 <visibility>1</visibility>
 <description><![CDATA[<p>nice spot just at the exit of Sutomore, under Haj Nehaj fortress. The road here goes two ways, up the coast or north to Podgorica via the tunnel. Visibility is a bit less than excellent, but cars slow down as they approach crossroad near tunnel tolls.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 50min (1 experience)<br /><span title="Mon, 10 Jan 11 14:17:54 +0000">Description written 10.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7185">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 50min (1 experience)<br /><span title="Mon, 10 Jan 11 14:17:54 +0000">Description written 10.1.2011</span><br /><a href="https://hitchwiki.org/maps/?place=7185">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.036160945563,42.15252764076</coordinates>
@@ -104,7 +131,7 @@
 I hitch hiked to albania for a day trip.
 ended up having to walk 5km from the border to near Vladimir before getting a ride.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,20,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 31min (4 experiences)<br /><span title="Sat, 06 Aug 11 14:13:52 +0000">Description written 6.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8348">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,20,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 31min (4 experiences)<br /><span title="Sat, 06 Aug 11 14:13:52 +0000">Description written 6.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8348">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.358841418765,42.011984943205</coordinates>
@@ -117,7 +144,7 @@ ended up having to walk 5km from the border to near Vladimir before getting a ri
 Waited two hours until I got a ride. However locals were help in advising me.
 In the opposite direction i got a ride from a trucker in 10minutes, who offered to take me to Bijelo Polje</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 06 Aug 11 14:18:56 +0000">Description written 6.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8349">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 06 Aug 11 14:18:56 +0000">Description written 6.8.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8349">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.098624228957,42.094341716238</coordinates>
@@ -163,7 +190,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>This place is very good, lot of space to stop, it is still in the city and the cars go still slow and there is a big tree where you can hide in its shadow. BUT I was wondering about to give it SENSELESS because almost noone ride this way. But this way is most beautiful way to Kotor. If you hava a  lot of time I will recommend you.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 03 Sep 11 19:46:45 +0000">Description written 3.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8556">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 03 Sep 11 19:46:45 +0000">Description written 3.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8556">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.90927765075,42.397982994199</coordinates>
@@ -174,7 +201,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Very good place, lots of cars, place to stop. Two boys have been wating about 15 minuts.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 03 Sep 11 19:49:53 +0000">Description written 3.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8557">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (1 experience)<br /><span title="Sat, 03 Sep 11 19:49:53 +0000">Description written 3.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8557">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.575967523473,42.955607606862</coordinates>
@@ -185,7 +212,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>This road is the only one to Mojkovac. There is not many cars. Two boys have been waiting for a 1  hour. Lot's of tourists with full cars because of the bridge Tara.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 03 Sep 11 19:52:54 +0000">Description written 3.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8558">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 03 Sep 11 19:52:54 +0000">Description written 3.9.2011</span><br /><a href="https://hitchwiki.org/maps/?place=8558">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.128317567704,43.159114104864</coordinates>
@@ -196,7 +223,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>From this place you can easily hitchhike to Skadarsko Jezero and south seaside of Montenegro (Sutomore, Bar, Ulcinj, Petrovac).</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (3 experiences)<br /><span title="Wed, 21 Mar 12 10:43:11 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=8836">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (3 experiences)<br /><span title="Wed, 21 Mar 12 10:43:11 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=8836">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.253934860228,42.4187245491</coordinates>
@@ -207,7 +234,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>From this place you can get to north seaside of Montenegro (Budva, Kotor, Tivat, Herceg Novi).</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 40min (6 experiences)<br /><span title="Wed, 21 Mar 12 10:51:36 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9574">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:33.333333333333,66.666666666667,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|4|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 40min (6 experiences)<br /><span title="Wed, 21 Mar 12 10:51:36 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9574">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.226597785953,42.434563351402</coordinates>
@@ -218,7 +245,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>From here you can get to Niksic or Ostrog.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 32min (3 experiences)<br /><span title="Wed, 21 Mar 12 10:53:28 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9575">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 32min (3 experiences)<br /><span title="Wed, 21 Mar 12 10:53:28 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9575">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.227799415592,42.435608571577</coordinates>
@@ -229,7 +256,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>You can get from here to Ulcinj.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:16.666666666667,83.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 21min (5 experiences)<br /><span title="Wed, 21 Mar 12 11:00:34 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9576">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:16.666666666667,83.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 21min (5 experiences)<br /><span title="Wed, 21 Mar 12 11:00:34 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9576">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.111895799647,42.09138802427</coordinates>
@@ -240,7 +267,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Good place to go somewhere close to the seaside (like Budva, Petrovac or Bar) but also Podgorica.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:28.571428571429,71.428571428571,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (5 experiences)<br /><span title="Wed, 21 Mar 12 11:08:43 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9577">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:28.571428571429,71.428571428571,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 23min (5 experiences)<br /><span title="Wed, 21 Mar 12 11:08:43 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9577">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.7653758526,42.4156275956</coordinates>
@@ -251,7 +278,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Good place towards Podgorica.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Wed, 21 Mar 12 11:11:46 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9578">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Wed, 21 Mar 12 11:11:46 +0000">Description written 21.3.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9578">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.045527219792,42.142767404119</coordinates>
@@ -284,7 +311,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Took us a while to get a lift to Herceg Novi (it was a taxi and the driver was nice enough to offer us a free ride).</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Sun, 08 Apr 12 21:30:13 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9707">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,0,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Sun, 08 Apr 12 21:30:13 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9707">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.446461200691,42.482949840488</coordinates>
@@ -306,7 +333,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Stay between the circle and the shops if heading to Budva.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (4 experiences)<br /><span title="Sun, 08 Apr 12 21:35:32 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9709">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (4 experiences)<br /><span title="Sun, 08 Apr 12 21:35:32 +0000">Description written 8.4.2012</span><br /><a href="https://hitchwiki.org/maps/?place=9709">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.738913178423,42.390319518679</coordinates>
@@ -328,7 +355,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>There is a petrol station there with cars going in both directions. I got an easy ride to Kotor.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Tue, 15 May 12 21:26:23 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10056">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 25min (2 experiences)<br /><span title="Tue, 15 May 12 21:26:23 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10056">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.807135070213,42.29318038814</coordinates>
@@ -339,7 +366,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>There is a traffic light and an extra lane for those who are turning right. I waited there and got a ride almost to the border.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 15 May 12 21:29:45 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10057">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Tue, 15 May 12 21:29:45 +0000">Description written 15.5.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10057">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.76912004407,42.428345405818</coordinates>
@@ -361,7 +388,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Just after the brige. Got a car to Zabljak. Posible to Niksic, Podgorica.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 09 Aug 12 22:46:12 +0000">Description written 9.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10973">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 09 Aug 12 22:46:12 +0000">Description written 9.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10973">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.292816162110302,43.14842503280647</coordinates>
@@ -372,7 +399,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>After road junction. Traffic goes to seashore (Kotor, Herceg-Novi) and Bosnia.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,0,20,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 29min (4 experiences)<br /><span title="Thu, 09 Aug 12 22:49:07 +0000">Description written 9.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10974">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,60,0,20,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|3|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 29min (4 experiences)<br /><span title="Thu, 09 Aug 12 22:49:07 +0000">Description written 9.8.2012</span><br /><a href="https://hitchwiki.org/maps/?place=10974">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.93962287902848,42.76307132862632</coordinates>
@@ -383,7 +410,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>There is traffic light and right lane for driver to stop. After 15 minutes we got a hike all the way to Sarajevo. We are lucky.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 01:40:40 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14685">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 01:40:40 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14685">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.76929187774721,42.42833521982591</coordinates>
@@ -394,7 +421,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>we want to go to Kotor, but waited for half an hour and still not successful, there is another guy rushing for work in Kotor so we share a taxi (1.5 euro each x 3) to go to Kotor</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,25,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Sun, 30 Jun 13 01:42:37 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14686">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,25,0,25,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (2 experiences)<br /><span title="Sun, 30 Jun 13 01:42:37 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14686">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.73845720291159,42.39192410583976</coordinates>
@@ -405,7 +432,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>it is the only spot (maybe more if we are near Budva town) for Kotor because further on the hill side and narrow road give no space for driver to go aside or stop for you.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,33.333333333333,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 30 Jun 13 01:45:19 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14687">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,33.333333333333,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 30min (1 experience)<br /><span title="Sun, 30 Jun 13 01:45:19 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14687">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.83306407928532,42.278868912259256</coordinates>
@@ -416,7 +443,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>we want to go north but drivers can speed through too easily. We walked to M18 to try better luck</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:14.285714285714,14.285714285714,14.285714285714,42.857142857143,14.285714285714&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|3|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 01:48:41 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14688">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (7 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:14.285714285714,14.285714285714,14.285714285714,42.857142857143,14.285714285714&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|3|1|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 01:48:41 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14688">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.26728153228816,42.42066501746768</coordinates>
@@ -427,7 +454,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>After the round about the cars are slowed down but speed up again, kind of a way to buy time and get attention. We got a car going all the way to Budva, but at that time we wanted to go north.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:40,0,20,20,20&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|1|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 01:51:31 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14689">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:40,0,20,20,20&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|1|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 30 Jun 13 01:51:31 +0000">Description written 30.6.2013</span><br /><a href="https://hitchwiki.org/maps/?place=14689">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.2484416961674,42.42243118749027</coordinates>
@@ -467,7 +494,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>I dont remember the place exactly. it was at a bus station, just in front of the ferry leaving to the other side. we (two guys) started on the 9.July (saturday), at 13:00 and Ive got a lift to Kotor. It took 15 min. A couple from Belgium with VW T4 picked us up.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 10 Aug 13 11:18:35 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15535">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,0,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 10 Aug 13 11:18:35 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15535">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.69601392745741,42.43844720658377</coordinates>
@@ -478,7 +505,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>we (two guys) started on the 9.July (saturday), at 18h in the and Ive got a lift to Risan. It took us 20 min. A couple from Bosnia picked us up.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 10 Aug 13 11:21:28 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15536">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sat, 10 Aug 13 11:21:28 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15536">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.768519401547408,42.425987136734456</coordinates>
@@ -489,7 +516,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>the place exactly was at a bus station, just in front of the ferry leaving to the other side. we (two guys) started on the 9.July (saturday), at 13:00 and Ive got a lift to Kotor. It took 15 min. A couple from Belgium with VW T4 picked us up.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 10 Aug 13 11:33:29 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15537">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 10 Aug 13 11:33:29 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15537">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.686506709313438,42.46614022844353</coordinates>
@@ -500,7 +527,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>I dont remember the place exactly. it was at a bus station, just in front of the ferry leaving to the other side. we (two guys) started on the 9.July (saturday), at 19:00 and Ive got a lift to Kotor. It took 30 min. A guy from slovenia picked us up.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 10 Aug 13 11:42:01 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15538">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sat, 10 Aug 13 11:42:01 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15538">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.69326587603117,42.51589811738648</coordinates>
@@ -511,7 +538,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>we (two guys) started on the 22th of July (saturday), at 13:00 and Ive got a lift to dubrovnik. It took 40 min.  A guy from Serbia picked us up.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 15min (1 experience)<br /><span title="Sat, 10 Aug 13 11:49:06 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15539">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,0,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|0|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 15min (1 experience)<br /><span title="Sat, 10 Aug 13 11:49:06 +0000">Description written 10.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15539">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.49105950281721,42.458458822547406</coordinates>
@@ -522,7 +549,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>There is a bus station, and crossroad so the car not so fast. BUT many cars tuorist, so use sign. We went from here to Bar and Petrovac too.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Sat, 17 Aug 13 16:04:16 +0000">Description written 17.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15686">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 20min (2 experiences)<br /><span title="Sat, 17 Aug 13 16:04:16 +0000">Description written 17.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15686">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.86331939697199,42.283544246270075</coordinates>
@@ -544,7 +571,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Direction Kotor.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 18 Aug 13 13:50:47 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15738">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Senseless <b style="font-size: 15px; color: #ff0000;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,0,50,50&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|1|0|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 18 Aug 13 13:50:47 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15738">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.81510841847934,42.285262722951664</coordinates>
@@ -555,7 +582,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Bus stop. Should be a good place. Traffic jam is normal, you can walk and ask directly in the middle of the road.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Sun, 18 Aug 13 13:54:14 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15739">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h (1 experience)<br /><span title="Sun, 18 Aug 13 13:54:14 +0000">Description written 18.8.2013</span><br /><a href="https://hitchwiki.org/maps/?place=15739">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.838990807548182,42.28719937919401</coordinates>
@@ -577,7 +604,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Hitchhiking to Shkodra (male and female). An ethnic serb from Vraka (Shkoder Albania) who lived in Podgoirica took us in Shkoder with his Mercedez. :))) </p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 14min (4 experiences)<br /><span title="Fri, 07 Aug 15 16:07:31 +0000">Description written 7.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=16226">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:66.666666666667,33.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|4|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 14min (4 experiences)<br /><span title="Fri, 07 Aug 15 16:07:31 +0000">Description written 7.8.2015</span><br /><a href="https://hitchwiki.org/maps/?place=16226">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.419470071794866,42.32987399393985</coordinates>
@@ -595,7 +622,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>A big spot to pull over, but people don't seem to stop. I had a 'PG' sign for Podgorica, and in that time a taxi (who wanted me to pay) and a motorcycle (who didn't have a spare helmet) stopped. After 2 hours, a nice man walked by and took me to the bus stop further up the road, where I got a ride in 5 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Sun, 03 Nov 13 22:20:30 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16682">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,0,33.333333333333&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|1|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Sun, 03 Nov 13 22:20:30 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16682">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.854237437249246,42.285857971699166</coordinates>
@@ -608,7 +635,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 
 <p>Took me 30 mins to get a ride, but there were 2 people at the store corner, 2 girls on the stretch of road and then later a guy that went in front of me. My ride even picked up those same girls later.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 03 Nov 13 22:27:42 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16684">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,0,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Sun, 03 Nov 13 22:27:42 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16684">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.93511140346754,42.79432238103437</coordinates>
@@ -632,7 +659,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>First car I asked with BiH plates took me to Foca. He even spoke a bit of English :)</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 03 Nov 13 22:37:57 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16687">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Sun, 03 Nov 13 22:37:57 +0000">Description written 3.11.2013</span><br /><a href="https://hitchwiki.org/maps/?place=16687">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.84611570835269,43.15773524528144</coordinates>
@@ -687,7 +714,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Around Podgorica its hiking its not very comfortable, because a lot of turists and taxi drivers. IDirection to Kolasin</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,40,40,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 10min (3 experiences)<br /><span title="Thu, 26 Jun 14 13:02:43 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19041">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (5 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:20,40,40,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|2|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h 10min (3 experiences)<br /><span title="Thu, 26 Jun 14 13:02:43 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19041">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.30152797698858,42.4705817179094</coordinates>
@@ -709,7 +736,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Good place to get Zabljak. A lot of serbian  cars - so you have chanse to get straight Serbia, especially Belgrad</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 26 Jun 14 13:07:49 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19043">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,100,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Thu, 26 Jun 14 13:07:49 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19043">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.09390354156389,42.95959105673915</coordinates>
@@ -720,7 +747,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>If you already visited Durmitor and want to get see coast its good place to do that. Here not so many cars, but a lot of then go straight to see with serbian cars numbers. Girl and boy wait here 40 minutes - then we get car to Podgorica</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 26 Jun 14 13:11:38 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19044">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,100,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|3|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 1h (1 experience)<br /><span title="Thu, 26 Jun 14 13:11:38 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19044">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.12248516082634,43.14703170540703</coordinates>
@@ -731,7 +758,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Here we catch straight car to zabljak. Good direction to Niksic. But here isn enaught place for stop the car - little bit dangerous</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 26 Jun 14 13:29:42 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19045">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,50,50,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Thu, 26 Jun 14 13:29:42 +0000">Description written 26.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19045">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.650330543518365,42.49433458154813</coordinates>
@@ -753,7 +780,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Lot of space to pull over and cars riding slowly make this a good spot. Locals use it too, there is a gas station before the roundabout.  Just the distances covered are not that long (most of the cars heading to Bielo Polje or Prijepolje).</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 29 Jun 14 00:03:16 +0000">Description written 29.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19081">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:50,50,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|1|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 15min (1 experience)<br /><span title="Sun, 29 Jun 14 00:03:16 +0000">Description written 29.6.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19081">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.745020508765908,42.99473714508294</coordinates>
@@ -764,7 +791,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Gas station in the center of the city. The minus is that there is a lot of local traffic but it's still a good spot. Got a 40km ride in 40 minutes.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 05 Aug 14 02:03:34 +0000">Description written 5.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19590">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,66.666666666667,0,33.333333333333,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|0|2|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><span title="Tue, 05 Aug 14 02:03:34 +0000">Description written 5.8.2014</span><br /><a href="https://hitchwiki.org/maps/?place=19590">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.844136238096755,42.28839384416053</coordinates>
@@ -826,7 +853,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Somewhere here you can find a shoulder, but not to big.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Wed, 26 Nov 14 09:33:58 +0000">Description written 26.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20916">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (3 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,33.333333333333,66.666666666667,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|2|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 13min (2 experiences)<br /><span title="Wed, 26 Nov 14 09:33:58 +0000">Description written 26.11.2014</span><br /><a href="https://hitchwiki.org/maps/?place=20916">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.081957676583656,42.114384580786925</coordinates>
@@ -848,7 +875,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Well, it's a spot. Cars stop, no problem, the road is too crappy to speed. Just remember &quot;ska lek&quot;, and welcome to Albania.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:16.666666666667,83.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (5 experiences)<br /><span title="Sun, 22 Feb 15 11:01:46 +0000">Description written 22.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21583">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Good <b style="font-size: 15px; color: #96ad00;">&bull;</b> (6 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:16.666666666667,83.333333333333,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|5|1|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 18min (5 experiences)<br /><span title="Sun, 22 Feb 15 11:01:46 +0000">Description written 22.2.2015</span><br /><a href="https://hitchwiki.org/maps/?place=21583">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.330481270925524,42.35652062790324</coordinates>
@@ -936,7 +963,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Ulcinj-Podgorica: Wait time 20 minutes. Got a ride with a Swiss guy in a smart car to Bar, found another spot to continue the way. Good spot to hh</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 18 Jun 16 20:08:56 +0000">Description written 18.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26099">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 5min (1 experience)<br /><span title="Sat, 18 Jun 16 20:08:56 +0000">Description written 18.6.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26099">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.22194051742783,41.93462429208329</coordinates>
@@ -980,7 +1007,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>We were trying to get from there to Mostar via Trebinje but there is not so much cars to this direction</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,25,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h 15min (2 experiences)<br /><span title="Mon, 01 Aug 16 23:33:02 +0000">Description written 1.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26734">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Average <b style="font-size: 15px; color: #ffff00;">&bull;</b> (4 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,25,25,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|2|1|1|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 2h 15min (2 experiences)<br /><span title="Mon, 01 Aug 16 23:33:02 +0000">Description written 1.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26734">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>18.558427333831368,42.45538528501989</coordinates>
@@ -1013,7 +1040,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>Asking people in the rain for direction albania... Albanians dont stop here, better stand on the road.. On the end iI slept on toilet... Guys from servis station are very nice.. made me few coffees and talked all day and nite with me.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 03 Aug 16 15:53:31 +0000">Description written 3.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26781">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Bad <b style="font-size: 15px; color: #ff8d00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:0,0,50,50,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|1|1|0|0|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 10min (1 experience)<br /><span title="Wed, 03 Aug 16 15:53:31 +0000">Description written 3.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26781">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.27462005615395,42.41869286748248</coordinates>
@@ -1046,7 +1073,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 <visibility>1</visibility>
 <description><![CDATA[<p>really good spot! the cars are slow because of the roundabout, there is place to pull down, and you can find some trees too to wait in the shadow.</p>
  
-<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="http://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Tue, 09 Aug 16 14:07:05 +0000">Description written 9.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26920">Place in Hitchwiki Maps</a><br /></small></div>
+<div style="border-top: 1px solid #ccc; margin: 5px 0 0 0; padding: 5px 0 0 0;"><small><b>Hitchability:</b> Very good <b style="font-size: 15px; color: #00ad00;">&bull;</b> (2 votes)<br />Vote distribution:<br /><img src="https://chart.apis.google.com/chart?cht=bhs&chf=bg,s,faf9f3&chs=220x55&chd=t:100,0,0,0,0&chxt=y,r&chxl=1:|Senseless|Bad|Average|Good|Very good|0:|0|0|0|0|2|&chxs=1,ad8c55,10,-1,t,ad8c55|0,ad8c55,10&chco=00ad00|96ad00|ffff00|ff8d00|ff0000&chbh=6,3" alt="Vote distribution" /><br /><b title="Average">Waiting time:</b> 8min (2 experiences)<br /><span title="Tue, 09 Aug 16 14:07:05 +0000">Description written 9.8.2016</span><br /><a href="https://hitchwiki.org/maps/?place=26920">Place in Hitchwiki Maps</a><br /></small></div>
 ]]></description>
 <Point>
 	<coordinates>19.232090950013397,41.9278611398639</coordinates>
@@ -1070,5 +1097,7 @@ In the opposite direction i got a ride from a trucker in 10minutes, who offered 
 	<coordinates>19.231264829637194,41.92786113986657</coordinates>
 </Point>
 <styleUrl>#placemark-yellow</styleUrl>
-</Placemark></Document>
+</Placemark></Folder>
+	</Folder>
+</Document>
 </kml>
