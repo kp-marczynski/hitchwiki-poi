@@ -148,12 +148,14 @@ export class MapComponent implements AfterViewInit {
         });
         if (this.nearbyCountries) {
             this.nearbyCountries.forEach(country => {
-                const vector = new Vector({
-                    map: mapObj,
-                    source: new VectorSource({
-                        url: 'assets/kml/countries/' + country.name + '.kml',
-                        format: new KML()
-                    })
+                setTimeout(() => {
+                    const vector = new Vector({
+                        map: mapObj,
+                        source: new VectorSource({
+                            url: 'assets/kml/countries/' + country.name + '.kml',
+                            format: new KML()
+                        })
+                    });
                 });
             });
         }
