@@ -34,6 +34,8 @@ import {ICountry} from '../../model/country.model';
 })
 export class MapComponent implements AfterViewInit {
     @Input() nearbyCountries: ICountry[];
+    @Input() lat: number;
+    @Input() lon: number;
 
     ngAfterViewInit() {
         setTimeout(() => {
@@ -43,7 +45,7 @@ export class MapComponent implements AfterViewInit {
 
     drawMap() {
         const viewFromLonLat = new View({
-            center: fromLonLat([17, 51]),
+            center: fromLonLat([this.lat ? this.lat : 17, this.lon ? this.lon : 51]),
             zoom: 12
         });
         const geolocation = new Geolocation({

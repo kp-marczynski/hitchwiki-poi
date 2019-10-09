@@ -179,7 +179,7 @@
       <ngb-accordion #acc="ngbAccordion">
         <ngb-panel title="Advanced Options">
           <ng-template ngbPanelContent>
-            <app-map [nearbyCountries]="nearbyCountries"></app-map>
+            <app-map [nearbyCountries]="nearbyCountries" [lat]="currentLatitude" [lon]="currentLongitude"></app-map>
             <p>To acquire the most recent version of POI points from hitchwiki you would have to enable Cross Origin
               Resource Sharing (CORS)</p>
             <p>You may want to do this by using some browser extension to temporarily disable CORS</p>
