@@ -69,10 +69,16 @@
     </section>
     <section>
       <h3>Countries</h3>
+      <div>
       <label for="countrySearch" hidden>Search country</label>
       <input id="countrySearch" name="countrySearch" class="form-control" placeholder="Search country..."
              [(ngModel)]="searchCountry"
              (keydown)="searchMatchingCountries()" (keyup)="searchMatchingCountries()">
+      </div>
+      <div >
+        <input type="checkbox" id="searchNearby" [(ngModel)]="searchNearby" (change)="searchMatchingCountries()">
+        <label for="searchNearby">Search nearby <span *ngIf="currentLatitude && currentLongitude">current location: {{currentLongitude}}, {{currentLatitude}}</span></label>
+      </div>
       <div class="table-responsive">
         <table class="table table-striped">
           <thead>
@@ -173,7 +179,7 @@
       <ngb-accordion #acc="ngbAccordion">
         <ngb-panel title="Advanced Options">
           <ng-template ngbPanelContent>
-            <app-map></app-map>
+            <app-map [nearbyCountries]="nearbyCountries"></app-map>
             <p>To acquire the most recent version of POI points from hitchwiki you would have to enable Cross Origin
               Resource Sharing (CORS)</p>
             <p>You may want to do this by using some browser extension to temporarily disable CORS</p>

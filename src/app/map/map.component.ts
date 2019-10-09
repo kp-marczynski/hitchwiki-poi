@@ -1,4 +1,4 @@
-import {AfterViewInit, Component, ChangeDetectorRef} from '@angular/core';
+import {AfterViewInit, Component, ChangeDetectorRef, Input} from '@angular/core';
 import 'ol/ol.css';
 import Map from 'ol/Map.js';
 import View from 'ol/View.js';
@@ -25,6 +25,7 @@ import 'ol/ol.css';
 import Feature from 'ol/Feature';
 import Point from 'ol/geom/Point';
 import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
+import {ICountry} from '../../model/country.model';
 
 @Component({
     selector: 'app-map',
@@ -32,7 +33,7 @@ import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
     styleUrls: ['./map.component.scss'],
 })
 export class MapComponent implements AfterViewInit {
-    title = 'my-app';
+    @Input() nearbyCountries: ICountry[];
 
     ngAfterViewInit() {
         setTimeout(() => {
@@ -42,7 +43,7 @@ export class MapComponent implements AfterViewInit {
 
     drawMap() {
         const viewFromLonLat = new View({
-            center: fromLonLat([17.0559607, 51.1213698]),
+            center: fromLonLat([17, 51]),
             zoom: 12
         });
         const geolocation = new Geolocation({
@@ -107,12 +108,6 @@ export class MapComponent implements AfterViewInit {
                 // }),
                 new Vector({
                     source: new VectorSource({
-                        url: 'assets/kml/countries/Poland.kml',
-                        format: new KML()
-                    })
-                }),
-                new Vector({
-                    source: new VectorSource({
                         features: [accuracyFeature, positionFeature]
                     })
                 })
@@ -151,5 +146,16 @@ export class MapComponent implements AfterViewInit {
                 }
             }
         });
+        if (this.nearbyCountries) {
+            this.nearbyCountries.forEach(country => {
+                const vector = new Vector({
+                    map: mapObj,
+                    source: new VectorSource({
+                        url: 'assets/kml/countries/' + country.name + '.kml',
+                        format: new KML()
+                    })
+                });
+            });
+        }
     }
 }

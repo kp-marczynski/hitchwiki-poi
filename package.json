@@ -1,8 +1,8 @@
 {
   "name": "hitchwiki-poi",
-  "version": "2.1.2",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "version": "2.1.3",
+  "author": "Kp-Marczynski",
+  "homepage": "https://github.com/kp-marczynski",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

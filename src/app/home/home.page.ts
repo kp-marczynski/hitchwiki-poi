@@ -4,7 +4,7 @@ import {Country, ICountry} from '../../model/country.model';
 import {IPlaceInfo, PlaceInfo} from '../../model/place-info.model';
 import {filter, map} from 'rxjs/operators';
 import {FormBuilder} from '@angular/forms';
-import {faMapMarkerAlt, faDownload} from '@fortawesome/free-solid-svg-icons';
+import {faDownload, faMapMarkerAlt} from '@fortawesome/free-solid-svg-icons';
 import {saveAs} from 'file-saver';
 import {version} from '../../../package.json';
 
@@ -23,6 +23,11 @@ export class HomePage implements OnInit {
     parser = new DOMParser();
     searchCountry = '';
     searchCountries: ICountry[];
+    nearbyCountries: ICountry[];
+    searchNearby = true;
+
+    currentLongitude: number;
+    currentLatitude: number;
 
     corsForm = this.fb.group({
         url: [''],
@@ -53,6 +58,8 @@ export class HomePage implements OnInit {
                     this.downloadKmlFromAssets(this.countries[index])
                         .then(() => this.downloadAll(index + 1));
                 });
+        } else {
+            this.saveCountriesJsonFile();
         }
     }
 
@@ -73,12 +80,33 @@ export class HomePage implements OnInit {
                 this.countries.push(
                     new Country(receivedCountries[country].iso,
                         receivedCountries[country].name,
-                        parseInt(receivedCountries[country].places, 10)));
+                        parseInt(receivedCountries[country].places, 10),
+                        parseFloat(receivedCountries[country].north),
+                        parseFloat(receivedCountries[country].east),
+                        parseFloat(receivedCountries[country].south),
+                        parseFloat(receivedCountries[country].west)));
             }
         }
         this.searchCountries = this.countries;
+        this.populateNearbyCountriesArray();
     }
 
+    private populateNearbyCountriesArray() {
+        new Promise((resolve, reject) => {
+            navigator.geolocation.getCurrentPosition(resolve, reject);
+        }).then((position: any) => {
+            this.currentLongitude = position.coords.longitude;
+            this.currentLatitude = position.coords.latitude;
+            this.nearbyCountries = this.countries.filter(country =>
+                country.north + 4 >= this.currentLongitude
+                && country.south - 4 <= this.currentLongitude
+                && country.east + 2 >= this.currentLatitude
+                && country.west - 2 <= this.currentLatitude);
+            if (this.nearbyCountries && this.nearbyCountries.length > 0 && this.searchNearby) {
+                this.searchCountries = this.nearbyCountries;
+            }
+        });
+    }
 
     private getPlacesInCountry(country: ICountry): Promise<any> {
         return new Promise((resolve, reject) => {
@@ -89,6 +117,8 @@ export class HomePage implements OnInit {
                 .subscribe((res: IPlaceInfo[]) => {
                     country.placesInfo = res;
                     country.numberOfDownloadedPlaces = 0;
+                    // this.calculateCountryExtremePoints(country);
+                    // resolve();
                     // console.log(country);
                     for (let placeIndex = 0; placeIndex < country.placesInfo.length; ++placeIndex) {
                         this.getPlaceKml(country, placeIndex, 1).then(() => {
@@ -103,6 +133,41 @@ export class HomePage implements OnInit {
                     }
                 }, () => reject());
         });
+    }
+
+    private calculateCountryExtremePoints(country: ICountry) {
+        if (this.hasExtremes(country)) {
+            const lonArray = country.placesInfo.map(elem => elem.lon);
+            const latArray = country.placesInfo.map(elem => elem.lat);
+
+            country.north = Math.max(...lonArray);
+            country.east = Math.max(...latArray);
+            country.south = Math.min(...lonArray);
+            country.west = Math.min(...latArray);
+        }
+    }
+
+    private hasExtremes(country: ICountry): boolean {
+        return !country.north || !country.south || !country.east || !country.west;
+    }
+
+    private saveCountriesJsonFile() {
+        // console.log('saving to file');
+        this.countries.forEach(elem => {
+            elem.numberOfDownloadedPlaces = undefined;
+            elem.placesInfo = undefined;
+        });
+        const countriesString = JSON.stringify(this.countries);
+        const contentBlob = new Blob([countriesString], {type: 'application/json'});
+        saveAs(contentBlob, 'countries.json');
+    }
+
+    private countryJsonReplacer(key, value) {
+        if (key === 'numberOfDownloadedPlaces') {
+            return undefined;
+        } else if (key === 'placesInfo') {
+            return undefined;
+        }
     }
 
     private getPlaceKml(country: ICountry, placeIndex: number, tryNumber: number): Promise<any> {
@@ -236,9 +301,10 @@ export class HomePage implements OnInit {
 
     searchMatchingCountries() {
         const searchTemp = this.searchCountry.trim().toLocaleLowerCase();
-        this.searchCountries = searchTemp === ''
-            ? this.countries
-            : this.countries.filter(country => country.name.toLocaleLowerCase().includes(searchTemp));
-    }
+        const countries = this.searchNearby && this.nearbyCountries ? this.nearbyCountries : this.countries;
 
+        this.searchCountries = searchTemp === ''
+            ? countries
+            : countries.filter(country => country.name.toLocaleLowerCase().includes(searchTemp));
+    }
 }

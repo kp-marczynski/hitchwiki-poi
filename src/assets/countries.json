@@ -2,746 +2,1342 @@
   "Afghanistan": {
     "iso": "AF",
     "name": "Afghanistan",
-    "places": "1"
+    "places": 1,
+    "north": 71.7495954036713,
+    "east": 37.6060126995808,
+    "south": 71.7495954036713,
+    "west": 37.6060126995808
   },
   "Albania": {
     "iso": "AL",
     "name": "Albania",
-    "places": "85"
+    "places": 85,
+    "north": 20.776483654977334,
+    "east": 42.58427620274383,
+    "south": 19.2695581912994,
+    "west": 39.87304318789708
   },
   "Algeria": {
     "iso": "DZ",
     "name": "Algeria",
-    "places": "12"
+    "places": 12,
+    "north": 5.529157161709,
+    "east": 36.224425683008,
+    "south": -2.2047672271727174,
+    "west": 22.765047693351
   },
   "Andorra": {
     "iso": "AD",
     "name": "Andorra",
-    "places": "15"
+    "places": 15,
+    "north": 1.73377990722656,
+    "east": 42.57953953561307,
+    "south": 1.476596832275335,
+    "west": 42.43923503367173
   },
   "Antarctica": {
     "iso": "AQ",
     "name": "Antarctica",
-    "places": "1"
+    "places": 1,
+    "north": -100.09973144531702,
+    "east": -73.15518323644677,
+    "south": -100.09973144531702,
+    "west": -73.15518323644677
   },
   "Argentina": {
     "iso": "AR",
     "name": "Argentina",
-    "places": "195"
+    "places": 195,
+    "north": -53.661584615707554,
+    "east": -22.12171790549629,
+    "south": -72.88290938379248,
+    "west": -54.85520212445764
   },
   "Armenia": {
     "iso": "AM",
     "name": "Armenia",
-    "places": "40"
+    "places": 40,
+    "north": 46.42650604248093,
+    "east": 41.22838245243723,
+    "south": 43.796447752558,
+    "west": 38.85289779497723
   },
   "Australia": {
     "iso": "AU",
     "name": "Australia",
-    "places": "271"
+    "places": 271,
+    "north": 153.612438440323,
+    "east": -11.974734163922642,
+    "south": 113.65117205464,
+    "west": -42.977949303548
   },
   "Austria": {
     "iso": "AT",
     "name": "Austria",
-    "places": "416"
+    "places": 416,
+    "north": 83.9942014217377,
+    "east": 53.3877628549327,
+    "south": 9.572367310525097,
+    "west": 46.44518381221535
   },
   "Azerbaijan": {
     "iso": "AZ",
     "name": "Azerbaijan",
-    "places": "25"
+    "places": 25,
+    "north": 84.9260544776917,
+    "east": 56.4423553679896,
+    "south": 45.08223438263093,
+    "west": 38.45436618917307
   },
   "Belarus": {
     "iso": "BY",
     "name": "Belarus",
-    "places": "134"
+    "places": 134,
+    "north": 31.0303344726552,
+    "east": 55.856265815588,
+    "south": 23.6645025014877,
+    "west": 51.825071460958
   },
   "Belgium": {
     "iso": "BE",
     "name": "Belgium",
-    "places": "568"
+    "places": 568,
+    "north": 6.12123012542725,
+    "east": 51.46091285466196,
+    "south": 2.60473608970642,
+    "west": 49.649094492328
   },
   "Belize": {
     "iso": "BZ",
     "name": "Belize",
-    "places": "3"
+    "places": 3,
+    "north": -88.28811979294699,
+    "east": 18.378189621117016,
+    "south": -88.41468787193438,
+    "west": 17.53580333575459
   },
   "Bhutan": {
     "iso": "BT",
     "name": "Bhutan",
-    "places": "2"
+    "places": 2,
+    "north": 89.751914978024,
+    "east": 27.488881454864,
+    "south": 89.641021728511,
+    "west": 27.477745352537
   },
   "Bolivia": {
     "iso": "BO",
     "name": "Bolivia",
-    "places": "13"
+    "places": 13,
+    "north": -57.75678133964554,
+    "east": -16.189782174672885,
+    "south": -68.60239481926105,
+    "west": -21.902417141328304
   },
   "Bosnia and Herzegovina": {
     "iso": "BA",
     "name": "Bosnia and Herzegovina",
-    "places": "108"
+    "places": 108,
+    "north": 19.534418151855203,
+    "east": 45.172258234058,
+    "south": 15.882162749773707,
+    "west": 42.659324501765596
   },
   "Botswana": {
     "iso": "BW",
     "name": "Botswana",
-    "places": "7"
+    "places": 7,
+    "north": 27.494431972503126,
+    "east": -17.81456248462198,
+    "south": 21.64968074663259,
+    "west": -24.606673719768132
   },
   "Brazil": {
     "iso": "BR",
     "name": "Brazil",
-    "places": "394"
+    "places": 394,
+    "north": -34.9216893502637,
+    "east": 2.858901092362385,
+    "south": -60.69848871231142,
+    "west": -33.67839399829628
   },
   "Bulgaria": {
     "iso": "BG",
     "name": "Bulgaria",
-    "places": "287"
+    "places": 287,
+    "north": 28.5561275482178,
+    "east": 44.111539315598435,
+    "south": 21.8020677566528,
+    "west": 41.381691423656
   },
   "Cambodia": {
     "iso": "KH",
     "name": "Cambodia",
-    "places": "21"
+    "places": 21,
+    "north": 107.2282447815046,
+    "east": 13.941091112218125,
+    "south": 103.1638183593859,
+    "west": 10.481614321820805
   },
   "Canada": {
     "iso": "CA",
     "name": "Canada",
-    "places": "585"
+    "places": 585,
+    "north": -52.62471771240026,
+    "east": 64.0692722052485,
+    "south": -140.87214088438404,
+    "west": 40.195745445748
   },
   "Cape Verde": {
     "iso": "CV",
     "name": "Cape Verde",
-    "places": "3"
+    "places": 3,
+    "north": -24.981184959409,
+    "east": 17.104437695376,
+    "south": -25.063990116122,
+    "west": 16.881376218743
   },
   "Chile": {
     "iso": "CL",
     "name": "Chile",
-    "places": "91"
+    "places": 91,
+    "north": -68.19192624092541,
+    "east": -18.385046056109303,
+    "south": -73.79608011245334,
+    "west": -53.35176466619968
   },
   "China": {
     "iso": "CN",
     "name": "China",
-    "places": "95"
+    "places": 95,
+    "north": 124.33663988112706,
+    "east": 49.594178116145,
+    "south": 81.22296237948795,
+    "west": 18.220327902491
   },
   "Colombia": {
     "iso": "CO",
     "name": "Colombia",
-    "places": "44"
+    "places": 44,
+    "north": -72.12854003906166,
+    "east": 11.359659218967812,
+    "south": -77.6636494187167,
+    "west": 0.7954726496275152
   },
   "Costa Rica": {
     "iso": "CR",
     "name": "Costa Rica",
-    "places": "13"
+    "places": 13,
+    "north": -82.84134453535265,
+    "east": 11.209097649682498,
+    "south": -85.6119189262388,
+    "west": 8.535332342319672
   },
   "Croatia": {
     "iso": "HR",
     "name": "Croatia",
-    "places": "331"
+    "places": 331,
+    "north": 19.000498294829907,
+    "east": 46.4197393683149,
+    "south": 13.53001713752869,
+    "west": 42.490477967064
   },
   "Cuba": {
     "iso": "CU",
     "name": "Cuba",
-    "places": "3"
+    "places": 3,
+    "north": -74.70162606239155,
+    "east": 23.07104368868349,
+    "south": -82.2676602602001,
+    "west": 20.529611977940117
   },
   "Cyprus": {
     "iso": "CY",
     "name": "Cyprus",
-    "places": "45"
+    "places": 45,
+    "north": 34.53219437599585,
+    "east": 35.64517414053996,
+    "south": 32.40883970260486,
+    "west": 34.62105134753025
   },
   "Czech Republic": {
     "iso": "CZ",
     "name": "Czech Republic",
-    "places": "754"
+    "places": 754,
+    "north": 18.755253195761867,
+    "east": 51.021812726483,
+    "south": 12.204503710275786,
+    "west": 48.591671485563
   },
   "Denmark": {
     "iso": "DK",
     "name": "Denmark",
-    "places": "384"
+    "places": 384,
+    "north": 15.11356973648551,
+    "east": 57.72655675569558,
+    "south": 8.1219065190141,
+    "west": 54.49053640995559
   },
   "Djibouti": {
     "iso": "DJ",
     "name": "Djibouti",
-    "places": "2"
+    "places": 2,
+    "north": 43.1093537807465,
+    "east": 11.5488842147477,
+    "south": 42.8815054893494,
+    "west": 11.5164960364446
   },
   "Dominican Republic": {
     "iso": "DO",
     "name": "Dominican Republic",
-    "places": "3"
+    "places": 3,
+    "north": -68.38668680191363,
+    "east": 18.768194933641915,
+    "south": -69.28469038010152,
+    "west": 18.45930278003794
   },
   "Ecuador": {
     "iso": "EC",
     "name": "Ecuador",
-    "places": "77"
+    "places": 77,
+    "north": -77.66650772094819,
+    "east": 1.059932844673261,
+    "south": -80.86761689186291,
+    "west": -4.268680718073052
   },
   "Egypt": {
     "iso": "EG",
     "name": "Egypt",
-    "places": "7"
+    "places": 7,
+    "north": 34.7239723205565,
+    "east": 29.88741154654017,
+    "south": 28.04457520963807,
+    "west": 23.97823753010213
   },
   "Eritrea": {
     "iso": "ER",
     "name": "Eritrea",
-    "places": "1"
+    "places": 1,
+    "north": 39.5575618743896,
+    "east": 14.5125968549678,
+    "south": 39.5575618743896,
+    "west": 14.5125968549678
   },
   "Estonia": {
     "iso": "EE",
     "name": "Estonia",
-    "places": "100"
+    "places": 100,
+    "north": 28.20426845551,
+    "east": 59.49381778009777,
+    "south": 22.233375549317326,
+    "west": 57.63290209655292
   },
   "Ethiopia": {
     "iso": "ET",
     "name": "Ethiopia",
-    "places": "1"
+    "places": 1,
+    "north": 39.31146621704083,
+    "east": 8.54992571681807,
+    "south": 39.31146621704083,
+    "west": 8.54992571681807
   },
   "Falkland Islands (Malvinas)": {
     "iso": "FK",
     "name": "Falkland Islands (Malvinas)",
-    "places": "1"
+    "places": 1,
+    "north": -57.77666187286429,
+    "east": -51.6906322888158,
+    "south": -57.77666187286429,
+    "west": -51.6906322888158
   },
   "Faroe Islands": {
     "iso": "FO",
     "name": "Faroe Islands",
-    "places": "7"
+    "places": 7,
+    "north": -6.794155597686772,
+    "east": 62.30333148332857,
+    "south": -7.436491012573204,
+    "west": 61.5589333362448
   },
   "Finland": {
     "iso": "FI",
     "name": "Finland",
-    "places": "353"
+    "places": 353,
+    "north": 30.31862951031705,
+    "east": 69.89251553595163,
+    "south": 19.56018948555028,
+    "west": 60.108424509976
   },
   "France": {
     "iso": "FR",
     "name": "France",
-    "places": "2694"
+    "places": 2694,
+    "north": 83.9375638961792,
+    "east": 54.9321105301098,
+    "south": -61.770473778246725,
+    "west": 16.349994930347794
   },
   "French Guiana": {
     "iso": "GF",
     "name": "French Guiana",
-    "places": "3"
+    "places": 3,
+    "north": -52.672546861103,
+    "east": 5.500100346104337,
+    "south": -54.027784347533306,
+    "west": 5.1516464265735
   },
   "Georgia": {
     "iso": "GE",
     "name": "Georgia",
-    "places": "103"
+    "places": 103,
+    "north": 46.30981504917293,
+    "east": 43.07921737513711,
+    "south": 40.84227883815748,
+    "west": 41.188925079466294
   },
   "Germany": {
     "iso": "DE",
     "name": "Germany",
-    "places": "2905"
+    "places": 2905,
+    "north": 14.9890422821045,
+    "east": 54.905581519508345,
+    "south": 6.0031142234801935,
+    "west": 47.3877015652753
   },
   "Gibraltar": {
     "iso": "GI",
     "name": "Gibraltar",
-    "places": "3"
+    "places": 3,
+    "north": -5.34469842910767,
+    "east": 36.154530983609,
+    "south": -5.3482410907859,
+    "west": 35.8697862512909
   },
   "Greece": {
     "iso": "GR",
     "name": "Greece",
-    "places": "272"
+    "places": 272,
+    "north": 28.225516319276352,
+    "east": 41.7473103920484,
+    "south": 19.71093940735238,
+    "west": 34.93297996851515
   },
   "Greenland": {
     "iso": "GL",
     "name": "Greenland",
-    "places": "2"
+    "places": 2,
+    "north": -40.230736534538806,
+    "east": 73.12568949113404,
+    "south": -51.06690949201701,
+    "west": 69.240110071147
   },
   "Guadeloupe": {
     "iso": "GP",
     "name": "Guadeloupe",
-    "places": "2"
+    "places": 2,
+    "north": -61.52962299730646,
+    "east": 16.24111858889574,
+    "south": -61.587797428629784,
+    "west": 16.220897309676737
   },
   "Guatemala": {
     "iso": "GT",
     "name": "Guatemala",
-    "places": "5"
+    "places": 5,
+    "north": -89.43177616596745,
+    "east": 16.362788575443286,
+    "south": -91.44141054152246,
+    "west": 14.608849826411854
   },
   "Guernsey": {
     "iso": "GG",
     "name": "Guernsey",
-    "places": "1"
+    "places": 1,
+    "north": -2.35982894897461,
+    "east": 49.4319660220255,
+    "south": -2.35982894897461,
+    "west": 49.4319660220255
   },
   "Haiti": {
     "iso": "HT",
     "name": "Haiti",
-    "places": "2"
+    "places": 2,
+    "north": -71.91604471206973,
+    "east": 19.723307602721402,
+    "south": -72.24595642090168,
+    "west": 18.49390049404413
   },
   "Holy See (Vatican City State)": {
     "iso": "VA",
     "name": "Holy See (Vatican City State)",
-    "places": "1"
+    "places": 1,
+    "north": 12.455929756164483,
+    "east": 41.902680592887634,
+    "south": 12.455929756164483,
+    "west": 41.902680592887634
   },
   "Honduras": {
     "iso": "HN",
     "name": "Honduras",
-    "places": "1"
+    "places": 1,
+    "north": -87.256505191234,
+    "east": 13.808414393823,
+    "south": -87.256505191234,
+    "west": 13.808414393823
   },
   "Hungary": {
     "iso": "HU",
     "name": "Hungary",
-    "places": "534"
+    "places": 534,
+    "north": 22.20242538098537,
+    "east": 48.581490599956,
+    "south": 16.285866737375,
+    "west": 45.901212554725355
   },
   "Iceland": {
     "iso": "IS",
     "name": "Iceland",
-    "places": "125"
+    "places": 125,
+    "north": -13.820410934754475,
+    "east": 66.27339682137342,
+    "south": -24.489522341644697,
+    "west": 63.417817659855096
   },
   "India": {
     "iso": "IN",
     "name": "India",
-    "places": "13"
+    "places": 13,
+    "north": 88.8622283935547,
+    "east": 34.29986347278574,
+    "south": 72.8513181209564,
+    "west": 12.004062263733701
   },
   "Indonesia": {
     "iso": "ID",
     "name": "Indonesia",
-    "places": "18"
+    "places": 18,
+    "north": 140.98960616089258,
+    "east": 1.6478350541207392,
+    "south": 100.40384674073805,
+    "west": -8.681989111980126
   },
   "Iran": {
     "iso": "IR",
     "name": "Iran",
-    "places": "65"
+    "places": 65,
+    "north": 60.340484619141826,
+    "east": 38.949693415925,
+    "south": 45.1256006868879,
+    "west": 26.546329253108965
   },
   "Iraq": {
     "iso": "IQ",
     "name": "Iraq",
-    "places": "10"
+    "places": 10,
+    "north": 44.5265782264401,
+    "east": 37.138377809700216,
+    "south": 42.57537746427887,
+    "west": 36.07874714167845
   },
   "Ireland": {
     "iso": "IE",
     "name": "Ireland",
-    "places": "322"
+    "places": 322,
+    "north": -6.0516455769869,
+    "east": 55.1500695870517,
+    "south": -10.414215087890314,
+    "west": 51.484373054332494
   },
   "Isle of Man": {
     "iso": "IM",
     "name": "Isle of Man",
-    "places": "1"
+    "places": 1,
+    "north": -4.4919914010626,
+    "east": 54.155987539769,
+    "south": -4.4919914010626,
+    "west": 54.155987539769
   },
   "Israel": {
     "iso": "IL",
     "name": "Israel",
-    "places": "83"
+    "places": 83,
+    "north": 35.80114747765969,
+    "east": 33.27605996308565,
+    "south": 34.763445854187,
+    "west": 29.570161889904
   },
   "Italy": {
     "iso": "IT",
     "name": "Italy",
-    "places": "632"
+    "places": 632,
+    "north": 18.42298650741223,
+    "east": 46.995215765284165,
+    "south": 6.758445739745764,
+    "west": 36.834510886825
   },
   "Japan": {
     "iso": "JP",
     "name": "Japan",
-    "places": "56"
+    "places": 56,
+    "north": 141.70843515590423,
+    "east": 45.383128761006745,
+    "south": 129.87187490448923,
+    "west": 32.79156644345905
   },
   "Jordan": {
     "iso": "JO",
     "name": "Jordan",
-    "places": "10"
+    "places": 10,
+    "north": 36.82493591308569,
+    "east": 32.528470280219,
+    "south": 35.06912500511827,
+    "west": 29.572120986262505
   },
   "Kazakhstan": {
     "iso": "KZ",
     "name": "Kazakhstan",
-    "places": "45"
+    "places": 45,
+    "north": 83.1290817260742,
+    "east": 55.1240666637134,
+    "south": 50.108642578125,
+    "west": 41.473269016461856
   },
   "Kenya": {
     "iso": "KE",
     "name": "Kenya",
-    "places": "4"
+    "places": 4,
+    "north": 38.671875,
+    "east": 1.2156039133517644,
+    "south": 34.733643531797924,
+    "west": -3.61576082414216
   },
   "Kyrgyzstan": {
     "iso": "KG",
     "name": "Kyrgyzstan",
-    "places": "25"
+    "places": 25,
+    "north": 77.71323823928829,
+    "east": 42.941651019911944,
+    "south": 71.55729323784387,
+    "west": 39.67666140987689
   },
   "Lao People's Democratic Republic": {
     "iso": "LA",
     "name": "Lao People's Democratic Republic",
-    "places": "10"
+    "places": 10,
+    "north": 106.95660914344403,
+    "east": 20.963198142208,
+    "south": 100.41615189379,
+    "west": 14.090653673469388
   },
   "Latvia": {
     "iso": "LV",
     "name": "Latvia",
-    "places": "241"
+    "places": 241,
+    "north": 27.69630306959483,
+    "east": 57.878658341870164,
+    "south": 21.0078012943268,
+    "west": 55.783342023512
   },
   "Lesotho": {
     "iso": "LS",
     "name": "Lesotho",
-    "places": "1"
+    "places": 1,
+    "north": 28.04057264327985,
+    "east": -29.828130413538187,
+    "south": 28.04057264327985,
+    "west": -29.828130413538187
   },
   "Libyan Arab Jamahiriya": {
     "iso": "LY",
     "name": "Libyan Arab Jamahiriya",
-    "places": "1"
+    "places": 1,
+    "north": 14.704598636860355,
+    "east": 26.10208590227889,
+    "south": 14.704598636860355,
+    "west": 26.10208590227889
   },
   "Liechtenstein": {
     "iso": "LI",
     "name": "Liechtenstein",
-    "places": "3"
+    "places": 3,
+    "north": 9.545218467713436,
+    "east": 47.2012309218454,
+    "south": 9.520541667939138,
+    "west": 47.141654058875574
   },
   "Lithuania": {
     "iso": "LT",
     "name": "Lithuania",
-    "places": "290"
+    "places": 290,
+    "north": 26.307653725152637,
+    "east": 56.29869390018485,
+    "south": 20.96398258209214,
+    "west": 54.004616105204
   },
   "Luxembourg": {
     "iso": "LU",
     "name": "Luxembourg",
-    "places": "30"
+    "places": 30,
+    "north": 6.49154663085938,
+    "east": 50.15550430483649,
+    "south": 5.819490194320418,
+    "west": 49.48023511488135
   },
   "Macedonia": {
     "iso": "MK",
     "name": "Macedonia",
-    "places": "103"
+    "places": 103,
+    "north": 22.87491703033492,
+    "east": 42.234646443639384,
+    "south": 20.534850597380117,
+    "west": 40.87514287014249
   },
   "Malawi": {
     "iso": "MW",
     "name": "Malawi",
-    "places": "3"
+    "places": 3,
+    "north": 34.453125,
+    "east": -9.597856291234038,
+    "south": 33.772260189058414,
+    "west": -15.4536802243458
   },
   "Malaysia": {
     "iso": "MY",
     "name": "Malaysia",
-    "places": "28"
+    "places": 28,
+    "north": 116.11462855342423,
+    "east": 6.503943424467435,
+    "south": 99.72443246843434,
+    "west": 1.4676043569540864
   },
   "Malta": {
     "iso": "MT",
     "name": "Malta",
-    "places": "2"
+    "places": 2,
+    "north": 14.34175872802686,
+    "east": 36.0307547962204,
+    "south": 14.2178910970688,
+    "west": 35.98573764935053
   },
   "Martinique": {
     "iso": "MQ",
     "name": "Martinique",
-    "places": "3"
+    "places": 3,
+    "north": -60.86395772841096,
+    "east": 14.598426067150204,
+    "south": -61.00061359550856,
+    "west": 14.469671872652693
   },
   "Mauritania": {
     "iso": "MR",
     "name": "Mauritania",
-    "places": "6"
+    "places": 6,
+    "north": -13.057113647462517,
+    "east": 21.2983311127934,
+    "south": -17.059248447416,
+    "west": 18.143359886565
   },
   "Mexico": {
     "iso": "MX",
     "name": "Mexico",
-    "places": "121"
+    "places": 121,
+    "north": -86.8334383862357,
+    "east": 31.9116253518062,
+    "south": -116.693000793457,
+    "west": 14.91404288990283
   },
   "Moldova": {
     "iso": "MD",
     "name": "Moldova",
-    "places": "42"
+    "places": 42,
+    "north": 30.0119018554688,
+    "east": 48.26504494203808,
+    "south": 26.6256742477525,
+    "west": 45.47439328789446
   },
   "Monaco": {
     "iso": "MC",
     "name": "Monaco",
-    "places": "3"
+    "places": 3,
+    "north": 7.42133036255836,
+    "east": 43.7529621714962,
+    "south": 7.41959095001221,
+    "west": 43.7350353052239
   },
   "Mongolia": {
     "iso": "MN",
     "name": "Mongolia",
-    "places": "19"
+    "places": 19,
+    "north": 115.73904418943837,
+    "east": 50.32022050583853,
+    "south": 100.15909441430681,
+    "west": 43.7108006509207
   },
   "Montenegro": {
     "iso": "ME",
     "name": "Montenegro",
-    "places": "97"
+    "places": 97,
+    "north": 20.144137620925477,
+    "east": 43.164661217093055,
+    "south": 18.446461200691,
+    "west": 41.902041769182
   },
   "Montserrat": {
     "iso": "MS",
     "name": "Montserrat",
-    "places": "1"
+    "places": 1,
+    "north": -62.08737945556538,
+    "east": 16.763890896071665,
+    "south": -62.08737945556538,
+    "west": 16.763890896071665
   },
   "Morocco": {
     "iso": "MA",
     "name": "Morocco",
-    "places": "119"
+    "places": 119,
+    "north": -1.9293150901791916,
+    "east": 35.8657172985584,
+    "south": -15.672718048095694,
+    "west": 23.892376231927482
   },
   "Mozambique": {
     "iso": "MZ",
     "name": "Mozambique",
-    "places": "1"
+    "places": 1,
+    "north": 35.3897395133974,
+    "east": -23.871842680110344,
+    "south": 35.3897395133974,
+    "west": -23.871842680110344
   },
   "Myanmar": {
     "iso": "MM",
     "name": "Myanmar",
-    "places": "4"
+    "places": 4,
+    "north": 98.50712800026612,
+    "east": 22.61539283602739,
+    "south": 96.47992515564039,
+    "west": 16.68757896266235
   },
   "Namibia": {
     "iso": "NA",
     "name": "Namibia",
-    "places": "3"
+    "places": 3,
+    "north": 17.261283820472563,
+    "east": -17.497281582267128,
+    "south": 16.278678894042773,
+    "west": -26.663702563186394
   },
   "Nepal": {
     "iso": "NP",
     "name": "Nepal",
-    "places": "4"
+    "places": 4,
+    "north": 87.6612854003906,
+    "east": 29.0837764503686,
+    "south": 85.28150412142512,
+    "west": 27.69332097555849
   },
   "Netherlands": {
     "iso": "NL",
     "name": "Netherlands",
-    "places": "1061"
+    "places": 1061,
+    "north": 7.215150833129904,
+    "east": 53.41009008132621,
+    "south": -68.96949863433849,
+    "west": 12.169050666037059
   },
   "New Caledonia": {
     "iso": "NC",
     "name": "New Caledonia",
-    "places": "1"
+    "places": 1,
+    "north": 166.219024658203,
+    "east": -22.0048115993567,
+    "south": 166.219024658203,
+    "west": -22.0048115993567
   },
   "New Zealand": {
     "iso": "NZ",
     "name": "New Zealand",
-    "places": "229"
+    "places": 229,
+    "north": 178.5453232526974,
+    "east": -34.71264143665985,
+    "south": 167.6690219141838,
+    "west": -46.59417446718566
   },
   "Nicaragua": {
     "iso": "NI",
     "name": "Nicaragua",
-    "places": "12"
+    "places": 12,
+    "north": -84.76161575317222,
+    "east": 13.060630468836544,
+    "south": -86.34318029880475,
+    "west": 11.087075751622763
   },
   "Norway": {
     "iso": "NO",
     "name": "Norway",
-    "places": "539"
+    "places": 539,
+    "north": 30.04343175888145,
+    "east": 71.16786273235607,
+    "south": 5.2211447975624,
+    "west": 58.02998941914493
   },
   "Oman": {
     "iso": "OM",
     "name": "Oman",
-    "places": "1"
+    "places": 1,
+    "north": 58.425086975097216,
+    "east": 23.571643195861487,
+    "south": 58.425086975097216,
+    "west": 23.571643195861487
   },
   "Pakistan": {
     "iso": "PK",
     "name": "Pakistan",
-    "places": "5"
+    "places": 5,
+    "north": 74.56842327117863,
+    "east": 36.252134219769665,
+    "south": 66.9996124505997,
+    "west": 29.5352295629485
   },
   "Palestinian Territory, Occupied": {
     "iso": "PS",
     "name": "Palestinian Territory, Occupied",
-    "places": "9"
+    "places": 9,
+    "north": 35.49079537391474,
+    "east": 32.10162543381758,
+    "south": 34.97817063331638,
+    "west": 31.468407281584412
   },
   "Panama": {
     "iso": "PA",
     "name": "Panama",
-    "places": "4"
+    "places": 4,
+    "north": -79.56324255466477,
+    "east": 9.288566831264733,
+    "south": -82.40436172485356,
+    "west": 8.423582054510891
   },
   "Papua New Guinea": {
     "iso": "PG",
     "name": "Papua New Guinea",
-    "places": "1"
+    "places": 1,
+    "north": 147.20122058745653,
+    "east": -9.45833749679586,
+    "south": 147.20122058745653,
+    "west": -9.45833749679586
   },
   "Paraguay": {
     "iso": "PY",
     "name": "Paraguay",
-    "places": "4"
+    "places": 4,
+    "north": -54.85456926386777,
+    "east": -22.040313550036736,
+    "south": -60.578722715376394,
+    "west": -25.486654178197426
   },
   "Peru": {
     "iso": "PE",
     "name": "Peru",
-    "places": "28"
+    "places": 28,
+    "north": -70.03109550475995,
+    "east": -3.482182935794212,
+    "south": -81.03828553056542,
+    "west": -18.00342189068387
   },
   "Philippines": {
     "iso": "PH",
     "name": "Philippines",
-    "places": "1"
+    "places": 1,
+    "north": 121.00049757959276,
+    "east": 14.663088946141675,
+    "south": 121.00049757959276,
+    "west": 14.663088946141675
   },
   "Poland": {
     "iso": "PL",
     "name": "Poland",
-    "places": "1534"
+    "places": 1534,
+    "north": 24.036184787748216,
+    "east": 54.78999713819512,
+    "south": 14.271645784379098,
+    "west": 49.16092920011069
   },
   "Portugal": {
     "iso": "PT",
     "name": "Portugal",
-    "places": "253"
+    "places": 253,
+    "north": -6.7708740234374485,
+    "east": 41.996613885285974,
+    "south": -31.1310449838619,
+    "west": 32.6613671371554
   },
   "Qatar": {
     "iso": "QA",
     "name": "Qatar",
-    "places": "1"
+    "places": 1,
+    "north": 51.539867162704724,
+    "east": 25.29099216528501,
+    "south": 51.539867162704724,
+    "west": 25.29099216528501
   },
   "Romania": {
     "iso": "RO",
     "name": "Romania",
-    "places": "624"
+    "places": 624,
+    "north": 28.789553642128,
+    "east": 47.96123281563435,
+    "south": 20.473353862942,
+    "west": 43.6076179698638
   },
   "Russian Federation": {
     "iso": "RU",
     "name": "Russian Federation",
-    "places": "687"
+    "places": 687,
+    "north": 150.83175802230508,
+    "east": 71.933934433077,
+    "south": -169.73780608181644,
+    "west": 41.643241711499776
   },
   "San Marino": {
     "iso": "SM",
     "name": "San Marino",
-    "places": "1"
+    "places": 1,
+    "north": 12.421331405609,
+    "east": 43.925068201398,
+    "south": 12.421331405609,
+    "west": 43.925068201398
   },
   "Saudi Arabia": {
     "iso": "SA",
     "name": "Saudi Arabia",
-    "places": "1"
+    "places": 1,
+    "north": 41.597122192381,
+    "east": 27.513852686548,
+    "south": 41.597122192381,
+    "west": 27.513852686548
   },
   "Senegal": {
     "iso": "SN",
     "name": "Senegal",
-    "places": "2"
+    "places": 2,
+    "north": -15.810256361958128,
+    "east": 16.50312886643049,
+    "south": -16.41763722896077,
+    "west": 16.06063255415808
   },
   "Serbia": {
     "iso": "RS",
     "name": "Serbia",
-    "places": "259"
+    "places": 259,
+    "north": 22.8118443489075,
+    "east": 46.17048840368129,
+    "south": 19.087637756728494,
+    "west": 41.9935041430443
   },
   "Seychelles": {
     "iso": "SC",
     "name": "Seychelles",
-    "places": "1"
+    "places": 1,
+    "north": 55.5194091796875,
+    "east": -4.71159217393518,
+    "south": 55.5194091796875,
+    "west": -4.71159217393518
   },
   "Singapore": {
     "iso": "SG",
     "name": "Singapore",
-    "places": "2"
+    "places": 2,
+    "north": 103.76928177633,
+    "east": 1.4480083614693,
+    "south": 103.741836547852,
+    "west": 1.3333452139746
   },
   "Slovakia": {
     "iso": "SK",
     "name": "Slovakia",
-    "places": "316"
+    "places": 316,
+    "north": 22.26460182666474,
+    "east": 49.50743613328182,
+    "south": 16.9871807098389,
+    "west": 47.76571371975932
   },
   "Slovenia": {
     "iso": "SI",
     "name": "Slovenia",
-    "places": "252"
+    "places": 252,
+    "north": 16.520185321228,
+    "east": 46.685917305925,
+    "south": 13.539196193217505,
+    "west": 45.4626289701051
   },
   "Somalia": {
     "iso": "SO",
     "name": "Somalia",
-    "places": "1"
+    "places": 1,
+    "north": 44.0629371693333,
+    "east": 9.581577847518783,
+    "south": 44.0629371693333,
+    "west": 9.581577847518783
   },
   "South Africa": {
     "iso": "ZA",
     "name": "South Africa",
-    "places": "16"
+    "places": 16,
+    "north": 31.642524540425466,
+    "east": -23.509508745479476,
+    "south": 17.952312469480326,
+    "west": -34.14204538613048
   },
   "South Korea": {
     "iso": "KR",
     "name": "South Korea",
-    "places": "74"
+    "places": 74,
+    "north": 129.33840179446085,
+    "east": 38.2045872386887,
+    "south": 126.2709846496623,
+    "west": 33.40560190982425
   },
   "Spain": {
     "iso": "ES",
     "name": "Spain",
-    "places": "862"
+    "places": 862,
+    "north": 4.25445556640625,
+    "east": 43.66415826246442,
+    "south": -17.992115378380124,
+    "west": 23.9686856334233
   },
   "Sudan": {
     "iso": "SD",
     "name": "Sudan",
-    "places": "2"
+    "places": 2,
+    "north": 32.38926315307455,
+    "east": 16.708654036908417,
+    "south": 31.81539916992064,
+    "west": 15.679509893945474
   },
   "Suriname": {
     "iso": "SR",
     "name": "Suriname",
-    "places": "1"
+    "places": 1,
+    "north": -55.204241037367034,
+    "east": 5.457251491937371,
+    "south": -55.204241037367034,
+    "west": 5.457251491937371
   },
   "Svalbard and Jan Mayen": {
     "iso": "SJ",
     "name": "Svalbard and Jan Mayen",
-    "places": "1"
+    "places": 1,
+    "north": 11.03986823558692,
+    "east": 59.997347398232975,
+    "south": 11.03986823558692,
+    "west": 59.997347398232975
   },
   "Sweden": {
     "iso": "SE",
     "name": "Sweden",
-    "places": "560"
+    "places": 560,
+    "north": 24.112402439118338,
+    "east": 68.43356805565033,
+    "south": 11.216351983433187,
+    "west": 55.369726266292986
   },
   "Switzerland": {
     "iso": "CH",
     "name": "Switzerland",
-    "places": "383"
+    "places": 383,
+    "north": 10.289268136025738,
+    "east": 47.74040138616536,
+    "south": 6.0956351813131775,
+    "west": 45.83457288081328
   },
   "Syria": {
     "iso": "SY",
     "name": "Syria",
-    "places": "9"
+    "places": 9,
+    "north": 37.14283883571623,
+    "east": 36.2361563939714,
+    "south": 35.975851964943,
+    "west": 33.581787502341
   },
   "Taiwan, Province of China": {
     "iso": "TW",
     "name": "Taiwan, Province of China",
-    "places": "24"
+    "places": 24,
+    "north": 121.64179229736605,
+    "east": 25.08063870722816,
+    "south": 120.23132050037015,
+    "west": 22.530644171351735
   },
   "Tajikistan": {
     "iso": "TJ",
     "name": "Tajikistan",
-    "places": "11"
+    "places": 11,
+    "north": 83.8304042816162,
+    "east": 53.3152750411247,
+    "south": 68.52948546409519,
+    "west": 37.51124321040358
   },
   "Tanzania, United Republic of": {
     "iso": "TZ",
     "name": "Tanzania, United Republic of",
-    "places": "2"
+    "places": 2,
+    "north": 39.34590339660405,
+    "east": -7.723964866175624,
+    "south": 35.905804038043684,
+    "west": -8.79705645267013
   },
   "Thailand": {
     "iso": "TH",
     "name": "Thailand",
-    "places": "23"
+    "places": 23,
+    "north": 105.641784667969,
+    "east": 20.403737841313,
+    "south": 98.3046340942383,
+    "west": 6.56366040783811
   },
   "Trinidad and Tobago": {
     "iso": "TT",
     "name": "Trinidad and Tobago",
-    "places": "1"
+    "places": 1,
+    "north": -61.437182486059946,
+    "east": 10.2894061409194,
+    "south": -61.437182486059946,
+    "west": 10.2894061409194
   },
   "Tunisia": {
     "iso": "TN",
     "name": "Tunisia",
-    "places": "2"
+    "places": 2,
+    "north": 9.6924819945618,
+    "east": 33.7080131340043,
+    "south": 8.950475692748851,
+    "west": 33.57553459304
   },
   "Turkey": {
     "iso": "TR",
     "name": "Turkey",
-    "places": "511"
+    "places": 511,
+    "north": 83.0770897865295,
+    "east": 55.0504676803016,
+    "south": 26.008552551268657,
+    "west": 35.904555847759
   },
   "Turkmenistan": {
     "iso": "TM",
     "name": "Turkmenistan",
-    "places": "4"
+    "places": 4,
+    "north": 58.40586090087745,
+    "east": 40.21092117668123,
+    "south": 58.376077651978854,
+    "west": 37.62698296435746
   },
   "Uganda": {
     "iso": "UG",
     "name": "Uganda",
-    "places": "10"
+    "places": 10,
+    "north": 33.71471476555044,
+    "east": 1.1668786035090037,
+    "south": 30.221496343801,
+    "west": -0.54646781157034
   },
   "Ukraine": {
     "iso": "UA",
     "name": "Ukraine",
-    "places": "453"
+    "places": 453,
+    "north": 39.71777343749957,
+    "east": 52.10868324507352,
+    "south": 22.1717834472656,
+    "west": 44.48070368945157
   },
   "United Arab Emirates": {
     "iso": "AE",
     "name": "United Arab Emirates",
-    "places": "1"
+    "places": 1,
+    "north": 55.194507420068476,
+    "east": 25.147006477339563,
+    "south": 55.194507420068476,
+    "west": 25.147006477339563
   },
   "United Kingdom": {
     "iso": "GB",
     "name": "United Kingdom",
-    "places": "1004"
+    "places": 1004,
+    "north": 1.5404119494558,
+    "east": 60.15377997375878,
+    "south": -7.66513323783993,
+    "west": 50.0663680268797
   },
   "United States": {
     "iso": "US",
     "name": "United States",
-    "places": "1054"
+    "places": 1054,
+    "north": 37.852149655144,
+    "east": 70.18952668966699,
+    "south": -162.086899280548,
+    "west": 5.87458607773355
   },
   "Uruguay": {
     "iso": "UY",
     "name": "Uruguay",
-    "places": "56"
+    "places": 56,
+    "north": -53.403202056883984,
+    "east": -30.942636892217227,
+    "south": -58.2828378977096,
+    "west": -34.94529899920167
   },
   "Uzbekistan": {
     "iso": "UZ",
     "name": "Uzbekistan",
-    "places": "20"
+    "places": 20,
+    "north": 70.9374963007196,
+    "east": 42.08200058184742,
+    "south": 60.89941406250144,
+    "west": 37.24144582237003
   },
   "Venezuela": {
     "iso": "VE",
     "name": "Venezuela",
-    "places": "9"
+    "places": 9,
+    "north": -61.148026943206645,
+    "east": 10.65068659864894,
+    "south": -67.565281745768,
+    "west": 4.484782564294054
   },
   "Viet Nam": {
     "iso": "VN",
     "name": "Viet Nam",
-    "places": "13"
+    "places": 13,
+    "north": 109.35740375516669,
+    "east": 22.7963852869729,
+    "south": 105.46013259886882,
+    "west": 10.8467938441379
   },
   "Western Sahara": {
     "iso": "EH",
     "name": "Western Sahara",
-    "places": "3"
+    "places": 3,
+    "north": -13.211900762031677,
+    "east": 27.157269008582947,
+    "south": -14.481688499457,
+    "west": 26.127984156206
   },
   "Zambia": {
     "iso": "ZM",
     "name": "Zambia",
-    "places": "4"
+    "places": 4,
+    "north": 31.111358642571,
+    "east": -8.7652018262478,
+    "south": 25.872253417969,
+    "west": -17.858411074089
   },
   "Zimbabwe": {
     "iso": "ZW",
     "name": "Zimbabwe",
-    "places": "5"
+    "places": 5,
+    "north": 30.978213787075685,
+    "east": -17.76212777658997,
+    "south": 25.818931102750373,
+    "west": -20.155044035085705
   }
 }
