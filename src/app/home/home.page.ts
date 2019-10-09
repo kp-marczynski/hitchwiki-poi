@@ -23,7 +23,7 @@ export class HomePage implements OnInit {
     parser = new DOMParser();
     searchCountry = '';
     searchCountries: ICountry[];
-    nearbyCountries: ICountry[];
+    nearbyCountries: ICountry[] = [];
     searchNearby = true;
 
     currentLongitude: number;
@@ -255,6 +255,9 @@ export class HomePage implements OnInit {
     }
 
     private prepareKmlString(country: ICountry): Promise<any> {
+        if (!this.nearbyCountries.find(elem => elem.iso === country.iso)) {
+            this.nearbyCountries.push(country);
+        }
         return new Promise((resolve, reject) => {
                 this.getKmlTemplate().then(result => {
                     result = result.replace(/https/g, 'http');
